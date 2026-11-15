@@ -1,0 +1,110 @@
+# Nattkörningen för Region Halland: upptäckt och steg 2 med kommunhandlingar
+# i en fast version, datakontrollerna, och incheckning på en egen gren som
+# får en PR. Samma kommandon och tidsbudget som kommunhandlingars
+# nattkörning (där K11, K53 och ADR-0052).
+name: Nattkörning
+
+on:
+  schedule:
+    - cron: "41 1 * * *"
+    # Tills poolen är ikapp: tas bort när steg 2 inte längre har kandidater
+    # som väntar på nästa körning.
+    - cron: "41 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nattkorning
+  cancel-in-progress: false
+
+# `shell: bash` ger `-eo pipefail`, så att ett fel före `| tee` stoppar
+# körningen.
+defaults:
+  run:
+    shell: bash
+
+env:
+  # Versionen av kommunhandlingar som körs: en commit på dess main.
+  KOMMUNHANDLINGAR: git+https://github.com/moggleif/kommunhandlingar@56aeae627653ee16fc42182ffc1b72532d384b25
+
+jobs:
+  moten:
+    name: Mötena
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    outputs:
+      gren: ${{ steps.incheckning.outputs.gren }}
+    steps:
+      - name: Jobbets start, som tidsbudgeten räknas från
+        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Tesseract med svensk modell
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
+      - run: pip install "$KOMMUNHANDLINGAR"
+      - name: Upptäckt och steg 2
+        run: |
+          for kommunfil in kommuner/*.toml; do
+            python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
+              | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+            python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
+              --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+          done
+      - name: Datakontrollerna
+        run: python -m kommunhandlingar.datakontroll data
+      - name: Bara textfiler under data/ och versioner/
+        run: |
+          git add -A
+          if git -c core.quotePath=false diff --cached --name-only | grep -Ev '^(data|versioner)/'; then exit 1; fi
+          if git diff --cached --numstat | grep '^-'; then exit 1; fi
+      - name: Checka in på en egen gren
+        id: incheckning
+        run: |
+          if git diff --cached --quiet; then
+            echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          gren="nattkorning/$(date -u +%F)-${{ github.run_id }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Nattkörning $(date -u +%F)"
+          git push origin "HEAD:refs/heads/$gren"
+          echo "gren=$gren" >> "$GITHUB_OUTPUT"
+      - name: Sammanfattning
+        if: always()
+        run: |
+          {
+            echo '```'
+            tail -n 200 "$RUNNER_TEMP/sammanfattning.txt" 2>/dev/null || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  # En egen runner utan utcheckning, så att inget som hämtats kan nå token.
+  pr:
+    name: PR med automatisk merge
+    needs: moten
+    if: needs.moten.outputs.gren != ''
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.NATTKORNING_TOKEN }}
+          GREN: ${{ needs.moten.outputs.gren }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Datat ligger på grenen \`$GREN\`; öppna en PR därifrån." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$GREN" \
+            --title "Nattkörning ${GREN:12:10}" \
+            --body "Datat från nattkörningen; mergas när kontrollen gått igenom."
+          gh pr merge "$GREN" --repo "$GITHUB_REPOSITORY" --auto --merge
+          echo "PR från \`$GREN\` mergas när kontrollen gått igenom." >> "$GITHUB_STEP_SUMMARY"
