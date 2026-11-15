@@ -1,0 +1,32 @@
+# Datakontrollerna på varje PR och på main, med samma version av
+# kommunhandlingar som nattkörningen.
+name: Kontroll
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  kontroll:
+    name: Datakontrollerna
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Samma version som nattkörningen
+        run: |
+          pip install "$(grep -oP 'KOMMUNHANDLINGAR: \K\S+' .github/workflows/nattkorning.yml)"
+      - name: Kommunfilen går att läsa
+        run: |
+          for kommunfil in kommuner/*.toml; do
+            python -c "import sys; from pathlib import Path; from kommunhandlingar.konfiguration import las; las(Path(sys.argv[1]))" "$kommunfil"
+          done
+      - name: Datakontrollerna
+        run: |
+          if [ -d data ]; then python -m kommunhandlingar.datakontroll data; fi

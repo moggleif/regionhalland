@@ -1,0 +1,125 @@
+# Region Halland. Schemat står i kommunhandlingars docs/03-ARKITEKTUR.md
+# (kommunkonfigurationen och adaptern Meetings Plus, ADR-0080), och hur
+# regionen publicerar i README.md.
+#
+# Organen står i den ordning de hämtas, och adressen till varje organs sida
+# under [kalla.sidor]. Sidan listar alla organets möten.
+
+namn = "Region Halland"
+
+[[organ]]
+id = "rf"
+namn = ["Regionfullmäktige"]
+
+[[organ]]
+id = "rs"
+namn = ["Regionstyrelsen"]
+
+[[organ]]
+id = "ambulans"
+namn = ["Driftnämnden Ambulans, diagnostik och hälsa"]
+
+[[organ]]
+id = "sjukhus"
+namn = ["Driftnämnden Hallands sjukhus"]
+
+[[organ]]
+id = "kollektivtrafik"
+namn = ["Driftnämnden Kollektivtrafik"]
+
+[[organ]]
+id = "kultur"
+namn = ["Driftnämnden Kultur och skola"]
+
+[[organ]]
+id = "narsjukvard"
+namn = ["Driftnämnden Närsjukvård"]
+
+[[organ]]
+id = "psykiatri"
+namn = ["Driftnämnden Psykiatri"]
+
+[[organ]]
+id = "regionservice"
+namn = ["Driftnämnden Regionservice"]
+
+[[organ]]
+id = "hemsjukvard"
+namn = ["Gemensam nämnd för hemsjukvård och hjälpmedel"]
+
+[[organ]]
+id = "patientnamnden"
+namn = ["Patientnämnden Halland"]
+
+[[organ]]
+id = "skogsegendomsdelegationen"
+namn = ["Skogsegendomsdelegationen"]
+
+[[organ]]
+id = "funktionshinderradet"
+namn = ["Regionala funktionshinderrådet"]
+
+[[organ]]
+id = "pensionarsradet"
+namn = ["Regionpensionärsrådet"]
+
+[[organ]]
+id = "samverkansgrupp"
+namn = ["Central samverkansgrupp"]
+
+[[organ]]
+id = "ledningsforum"
+namn = ["Kommun- och regionledningsforum"]
+
+[[organ]]
+id = "revisionen"
+namn = ["Revisionsrapporter"]
+
+[[kalla]]
+adapter = "meetingsplus"
+# Möten som rymmer flera sammanträdens filer, oftast ett helt års
+# protokoll. Typ och datum läses ur filnamnet med mönstren nedan; en fil
+# utan datum i filnamnet blir ingen kandidat.
+samlingsmoten = [
+  "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2014-01-01",
+  "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2015-01-01",
+  "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2016-01-01",
+  "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2017-01-01",
+  "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2013-01-01",
+  "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2014-01-01",
+  "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2015-01-01",
+  "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2016-01-01",
+  "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2017-01-01",
+  "https://politik.regionhalland.se/committees/driftnamnden-kultur-och-skola-1/mote-2020-01-01",
+  "https://politik.regionhalland.se/committees/driftnamnden-regionservice/mote-2024-01-01",
+  "https://politik.regionhalland.se/committees/revisionsrapporter/mote-2022-01-01",
+]
+
+# Samlingsmötenas filer är protokoll: "Protokoll 2014-04-16.pdf",
+# "2013-02-06.pdf" och "Protokoll RS 161109.pdf".
+[[kalla.monster]]
+typ = "protokoll"
+regex = '(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})'
+
+[[kalla.monster]]
+typ = "protokoll"
+regex = '(?<!\d)(?P<ar>\d{2})(?P<manad>\d{2})(?P<dag>\d{2})(?!\d)'
+
+[kalla.sidor]
+rf = "https://politik.regionhalland.se/committees/regionfullmaktige"
+rs = "https://politik.regionhalland.se/committees/regionstyrelsen"
+ambulans = "https://politik.regionhalland.se/committees/driftnamnden-ambulans-diagnostik-och-halsa"
+sjukhus = "https://politik.regionhalland.se/committees/driftnamnden-hallands-sjukhus"
+kollektivtrafik = "https://politik.regionhalland.se/committees/driftnamnden-kollektivtrafik"
+kultur = "https://politik.regionhalland.se/committees/driftnamnden-kultur-och-skola-1"
+narsjukvard = "https://politik.regionhalland.se/committees/driftnamnden-narsjukvard"
+psykiatri = "https://politik.regionhalland.se/committees/driftnamnden-psykiatri"
+regionservice = "https://politik.regionhalland.se/committees/driftnamnden-regionservice"
+hemsjukvard = "https://politik.regionhalland.se/committees/gemensam-namnd-for-hemsjukvard-och-hjalpmedel"
+patientnamnden = "https://politik.regionhalland.se/committees/patientnamnden-halland"
+skogsegendomsdelegationen = "https://politik.regionhalland.se/committees/skogsegendomsdelegationen"
+funktionshinderradet = "https://politik.regionhalland.se/committees/regionala-funktionshinderradet"
+pensionarsradet = "https://politik.regionhalland.se/committees/regionpensionarsradet"
+samverkansgrupp = "https://politik.regionhalland.se/committees/central-samverkansgrupp"
+ledningsforum = "https://politik.regionhalland.se/committees/kommun-och-regionledningsforum-87389"
+revisionen = "https://politik.regionhalland.se/committees/revisionsrapporter"
