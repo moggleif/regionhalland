@@ -4,15 +4,15 @@ Region Hallands politiska handlingar – kallelser, protokoll och bilagor från
 regionfullmäktige, regionstyrelsen, driftnämnderna och övriga organ –
 konverterade till Markdown och CSV, med källa och kvalitet i varje dokument.
 
-Koden finns i [moggleif/kommunhandlingar](https://github.com/moggleif/kommunhandlingar).
+Koden finns i [moggleif/kungsbackakommun](https://github.com/moggleif/kungsbackakommun).
 Det här repot har bara regionens inställningar, datat och arbetsflödet som kör
 koden. Format, regler och beslut står där:
 
-- [Arkitekturen](https://github.com/moggleif/kommunhandlingar/blob/main/docs/03-ARKITEKTUR.md),
+- [Arkitekturen](https://github.com/moggleif/kungsbackakommun/blob/main/docs/03-ARKITEKTUR.md),
   med kommunfilen, adaptern för Meetings Plus och front matter.
-- [Kraven](https://github.com/moggleif/kommunhandlingar/blob/main/docs/02-KRAV.md),
+- [Kraven](https://github.com/moggleif/kungsbackakommun/blob/main/docs/02-KRAV.md),
   för Meetings Plus K57.
-- [ADR-0080](https://github.com/moggleif/kommunhandlingar/blob/main/docs/decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md),
+- [ADR-0080](https://github.com/moggleif/kungsbackakommun/blob/main/docs/decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md),
   hur plattformen läses.
 
 ## Innehåll
