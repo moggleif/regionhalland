@@ -66,4 +66,6 @@ En ny version av kommunhandlingar tas in genom att byta commit i
 Webbplatsen har samma sidor som Kungsbackas och byggs av samma version av
 kommunhandlingar som nattkörningen, efter varje merge till main. Den
 publiceras på <https://moggleif.github.io/regionhalland/>. Menyn delar in
-organen i grupperna i inställningsfilen.
+organen i grupperna i inställningsfilen. Kallelser och protokoll visar
+texten på sin sida; bilagornas sidor visar härkomsten och länkar till
+Markdown-filen här, så att webbplatsen ryms under GitHub Pages gräns på 1 GB.

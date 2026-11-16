@@ -8,6 +8,10 @@
 namn = "Region Halland"
 
 # Menyn och regionens sida delar in organen i grupperna (K39).
+# Bilagorna visar bara härkomsten på webbplatsen, så att den ryms under
+# GitHub Pages gräns (K18, ADR-0080 i kommunhandlingar).
+sidor_med_text = ["kallelse", "protokoll"]
+
 grupper = ["Regionfullmäktige och regionstyrelsen", "Driftnämnderna och nämnderna", "Råd och övriga"]
 
 [[organ]]
