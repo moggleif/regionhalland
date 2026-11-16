@@ -7,73 +7,93 @@
 
 namn = "Region Halland"
 
+# Menyn och regionens sida delar in organen i grupperna (K39).
+grupper = ["Regionfullmäktige och regionstyrelsen", "Driftnämnderna och nämnderna", "Råd och övriga"]
+
 [[organ]]
 id = "rf"
 namn = ["Regionfullmäktige"]
+grupp = "Regionfullmäktige och regionstyrelsen"
 
 [[organ]]
 id = "rs"
 namn = ["Regionstyrelsen"]
+grupp = "Regionfullmäktige och regionstyrelsen"
 
 [[organ]]
 id = "ambulans"
 namn = ["Driftnämnden Ambulans, diagnostik och hälsa"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "sjukhus"
 namn = ["Driftnämnden Hallands sjukhus"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "kollektivtrafik"
 namn = ["Driftnämnden Kollektivtrafik"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "kultur"
 namn = ["Driftnämnden Kultur och skola"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "narsjukvard"
 namn = ["Driftnämnden Närsjukvård"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "psykiatri"
 namn = ["Driftnämnden Psykiatri"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "regionservice"
 namn = ["Driftnämnden Regionservice"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "hemsjukvard"
 namn = ["Gemensam nämnd för hemsjukvård och hjälpmedel"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "patientnamnden"
 namn = ["Patientnämnden Halland"]
+grupp = "Driftnämnderna och nämnderna"
 
 [[organ]]
 id = "skogsegendomsdelegationen"
 namn = ["Skogsegendomsdelegationen"]
+grupp = "Råd och övriga"
 
 [[organ]]
 id = "funktionshinderradet"
 namn = ["Regionala funktionshinderrådet"]
+grupp = "Råd och övriga"
 
 [[organ]]
 id = "pensionarsradet"
 namn = ["Regionpensionärsrådet"]
+grupp = "Råd och övriga"
 
 [[organ]]
 id = "samverkansgrupp"
 namn = ["Central samverkansgrupp"]
+grupp = "Råd och övriga"
 
 [[organ]]
 id = "ledningsforum"
 namn = ["Kommun- och regionledningsforum"]
+grupp = "Råd och övriga"
 
 [[organ]]
 id = "revisionen"
 namn = ["Revisionsrapporter"]
+grupp = "Regionfullmäktige och regionstyrelsen"
 
 [[kalla]]
 adapter = "meetingsplus"

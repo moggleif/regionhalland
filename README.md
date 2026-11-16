@@ -25,6 +25,7 @@ koden. Format, regler och beslut står där:
 | `versioner/regionhalland.csv`       | Varje ny version av ett dokument, skriven av nattkörningen. |
 | `.github/workflows/nattkorning.yml` | Nattkörningen, och versionen av kommunhandlingar den kör.   |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
+| `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
 
 Saknas något i inställningsfilen görs koden i kommunhandlingar mer generell;
 här skrivs ingen egen kod.
@@ -59,3 +60,10 @@ när kontrollen gått igenom. Det nyaste mötet hämtas först över alla organ.
 
 En ny version av kommunhandlingar tas in genom att byta commit i
 `nattkorning.yml` i en PR.
+
+## Webbplatsen
+
+Webbplatsen har samma sidor som Kungsbackas och byggs av samma version av
+kommunhandlingar som nattkörningen, efter varje merge till main. Den
+publiceras på <https://moggleif.github.io/regionhalland/>. Menyn delar in
+organen i grupperna i inställningsfilen.
