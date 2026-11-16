@@ -27,7 +27,7 @@ defaults:
 
 env:
   # Versionen av kommunhandlingar som körs: en commit på dess main.
-  KOMMUNHANDLINGAR: git+https://github.com/moggleif/kommunhandlingar@d020642ccf4729b763a45bb9f2993a792b02681f
+  KOMMUNHANDLINGAR: git+https://github.com/moggleif/kommunhandlingar@df7864d57590c8aa6575193558ec29f67b4088be
 
 jobs:
   moten:
