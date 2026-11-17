@@ -100,5 +100,13 @@ för 2020–2022 och 2025. Årsredovisningarna 2023 och 2024 har tabeller som
 inte går att läsa mål för mål, och 2018–2019 följs bara upp med indikatorer.
 Motionerna har fullmäktiges beslut där beslutet finns bland nämndens
 handlingar; resten kommer när regionfullmäktige är hämtat.
+Gemensam nämnd för hemsjukvård och hjälpmedel har sidorna för 2017–2021,
+de år poolen har hämtat: överenskommelserna med kommunerna (hemsjukvården,
+hjälpmedelsavtalet, trygg och effektiv utskrivning och betalningsmodellen),
+redovisningarna (hjälpmedelsuppdraget och indikatorrapporterna) och
+granskningarna. Nämnden har inga egna mål i handlingarna, bara medel i
+regionens budget, och därför ingen sida för mål och uppföljningar.
+Stegen tar med beslut i andra organ när de gäller nämndens överenskommelser.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
