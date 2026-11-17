@@ -1,0 +1,44 @@
+Indikator,Mått
+"Vårdtillfällen med
+inskrivningsmeddelanden",Andel/antal
+"Vårdtillfällen som leder till
+samordnad individuell
+planering (rött spår)",Andel/antal
+"Vårdtid som
+utskrivningsklar","Antal dagar som
+utskrivningsklar"
+"Vårdplatser belagda med
+utskrivningsklara
+patienter",Antal
+"Oplanerad återinskrivning
+inom
+1-30 dagar",Antal dagar
+"Vårdtillfällen som utfallit
+med oförändrat behov av
+insatser och som sedan
+tidigare har insatser från
+kommunen (blå spår)",Andel/antal
+"Vårdtillfällen som utfallit
+med nya behov av insatser
+från socialtjänsten (grönt
+spår)",Andel/antal
+"Beräknat utskriv. datum i
+förhållande till slutligt
+datum","Tidigare, samma dag eller
+senare
+antal dagar"
+Fast vårdkontakt utsedd,"Antal per
+vårdcentral/mottagning"
+"Tid mellan kallelse för SIP
+möte och datum för mötet",Genomsnittligt antal dagar
+"Var sker den samordnade
+individuella planen","Videomöten, fysiskt på
+sjukhus, telefon - andel"
+"Uppföljning genomförd
+enligt plan",Ja/nej
+Inskrivna i hemsjukvård,Andel/antal
+Inskrivna äldre (80+),"Åldersfördelning &
+könsfördelning"
+Flöde hemsjukvård,Andel nyinskrivna/mån
+Enstaka hembesök,Antal invånare
+Kvalitet i palliativ vård,4 kvalitetsindikatorer över tid

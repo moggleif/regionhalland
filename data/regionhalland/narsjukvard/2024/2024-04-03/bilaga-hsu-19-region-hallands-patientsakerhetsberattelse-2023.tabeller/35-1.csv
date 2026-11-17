@@ -1,0 +1,30 @@
+Förvaltning,Område,Klinik,Typ av verksamhet
+ADH,"Medicinsk
+diagnostik",Röntgen Halland,"Datortomografi
+Konventionell röntgen
+Genomlysning
+Interventionell radiologi
+Mammografi
+Osteometri
+Nuklearmedicin"
+HS,Område 1,Akutkliniken HS,Genomlysning
+,,Medicinkliniken HSH,"Genomlysning
+Interventionell radiologi
+Nuklearmedicinsk terapi"
+,,Medicinkliniken HSK och HSV,"Genomlysning
+Interventionell radiologi"
+,Område 2,Specialisttandvården,"Odontologisk röntgen inkl.
+specialistundersökningar"
+,Område 3,Kirurgikliniken HS,"Genomlysning
+Interventionell radiologi
+Nuklearmedicinsk
+diagnostik"
+,,"Onkologi- och
+palliativmedicinkliniken HS",Nuklearmedicinsk terapi
+,,"Operations- och
+intensivvårdskliniken HSK och HSV",Genomlysning
+,,"Operations- och
+intensivvårdskliniken HSH",
+,,Ortopedikliniken HS,
+,,Urologikliniken HS,
+NSVH,Folktandvården,Folktandvårdsmott.,Odontologisk radiologi

@@ -1,0 +1,16 @@
+Modalitet,Antal,"Levererar stråldosdata
+till DoseTrack",Kommentar
+Datortomograf,8,8,"Varav två finns på nuklearmedicins
+gammakameror; s k SPECT/CT"
+Konventionell röntgen,10,10,
+Mobil röntgen,4,4,
+Mammograf,7,7,
+Radiofarmaka (IBC),1,1,
+Fast genomlysningslab,6,5,"ERCP/ESWL HSH är i byte och
+kommer kunna skicka under 2024."
+Avancerad c-båge,3,3,
+Standard c-båge,12,8,
+Mini-c-båge,3,0,
+G-båge (biplan),2,1,
+Dental CBCT,1,1,
+Totalt,57,48,

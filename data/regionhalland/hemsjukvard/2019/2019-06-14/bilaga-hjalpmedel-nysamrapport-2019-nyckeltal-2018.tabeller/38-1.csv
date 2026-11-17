@@ -1,0 +1,36 @@
+Nyckeltal,Gotland,Halland,Jämtland,Norrbotten
+AKTIVITETSDATA,,,,
+"Antal brukare som erhållit förskrivna huvudhjälpmedel
+(exkl. beh hjm, ort o prot, syn, lmn) / 10 000 inv.",234,,372,376
+Ant brukare som erh H-hjm för personlig vård / 10 000 inv.,444,157,137,189
+Ant brukare som erh gånghjm som hant med båda armarna / 10 000 inv.,228,187,205,220
+Ant brukare som erh manuellt drivna rullstolar / 10 000 inv.,123,112,113,156
+Ant brukare som erh motordrivna rullstolar / 10 000 inv.,"7,1",11,12,11
+Ant brukare som erh H-hjm sängar / 10 000 inv,20,17,2,26
+Ant brukare som erh H-hjm för komm och info / 10 000 inv.,65,34,21,56
+"Ant brukare som erh H-hjm för komm och info (exkl. synhjälpmedel)
+/ 10 000 inv.",53,34,21,42
+Ant brukare som har manuellt drivna rullstolar / 10 000 inv.,194,166,197,299
+Ant brukare som har motordrivna rullstolar / 10 000 inv.,29,38,42,55
+RESURSDATA,,,,
+Antal årsarbetande personal / 10 000 inv.,-,"2,1","1,8","1,9"
+"Totalkostnad (exkl. med beh hjm, ort o prot, syn, inkontinens) / inv.",-,372,363,127
+Totalkostnad / inv.,-,176,246,111
+"Personalkostnad (exkl. med beh hjm, ort o prot, syn, inkontinens) / inv.",-,111,96,91
+"Inköpskostnad hjälpmedel (exkl. med beh hjm, ort o prot, syn, inkontinens)
+/ inv.",210,140,197,177
+Inköpskostnad motordrivna rullstolar / inv.,28,21,33,24
+Andel utlev beg man driv rst av tot ant utlev man driv rst,85%,85%,73%,73%
+Andel utlev beg motordriv rst av tot ant utlev motordriv rst,45%,58%,55%,44%
+PRODUKTIVITETSDATA,,,,
+Antal inkomna ärenden för utprovning / 10 000 inv.,-,16,-,-
+Antal utförda ärenden / årsarb hjälpmedelskonsulent,,66,"0,60",-
+VERKSAMHETSPRAXIS,,,,
+Nyttjandegrad HMC:s id.märkta hjälpmedel,85%,93%,82%,
+LEDTIDER,,,,
+"Beställda lagervaror, inkl samleverans, levererade inom 5 arbetsdagar
+(7 kalenderdagar)",83%,96%,86%,79%
+"Beställda lagervaror, exkl samleverans, levererade inom 5 arbetsdagar
+(7 kalenderdagar)",89%,96%,86%,82%
+"Beställningsvaror, inkl samleverans, levererade inom 15 arbetsdagar
+(21 kalenderdagar)",71%,93%,79%,96%

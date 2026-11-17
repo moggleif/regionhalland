@@ -1,0 +1,44 @@
+AB10,"Frisktandvård 10, per år",,11 080
+Kostnader och behandlingar som inte ersätts av det statliga tandvårdsstödet,,,
+KF,"Kostnadsförslag till annan betalare. Skriftligt intyg till försäkringsbolag, rättsintyg osv.",,975
+003,Idrottsskydd exkl. teknikerkostnad/material,,1 410
+004,Sömnapnéskena Mono-block,,11 475
+004.1,Sömnapnéskena Bi-block,,12 785
+005,Lingualskena,,2 655
+005.1,Essixskena,,1 780
+005.2,Retainer inkl. labkostnad,,3 410
+005.3,Rebonding av retainer,,995
+006,Material utöver grundpris enl faktura eller inköpspris,,-
+007,Tandtekniskt faktura,,-
+008,Timtaxa tandläkare,,2 715
+009,Timtaxa tandhygienist,,1 375
+011,"Psykodonti, hypnos - timpris",,2 715
+012,"Tandblekning, en käke inkl material. Priset inkluderar moms.",,3 180
+013,"Tandblekning, två käkar inkl material. Priset inkluderar moms.",,4 965
+014,"Tandblekning på klinik,en eller två käkar inkl material. Priset inkluderar moms.",,6 165
+015,Fastsättning av tandsmycke. Smyckepris tillkommer. Priset inkluderar moms.,,730
+016,Guld- eller kristallsmycke. Priset inkluderar moms.,,350
+017,Guldsmycke med diamant. Priset inkluderar moms.,,520
+B4ASYLR,Asylarvode,,50
+008-S,"Timtaxa tandläkare, specialisttandvård",,Pris tas fram av HS
+Nark,Narkosbehandling,,Pris tas fram av HS
+EB,Estetiska Brackets/käke,,2 445
+Estest 1,"Krona eller skalfasad av estetiskt skäl, en per käke inkl moms",,8 685
+Estest 2,"Krona eller skalfasad av estetiskt skäl, flera per käke, per st inkl moms",,8 250
+Deb-tapp,"Förstörd eller borttappad tandregleringsapparatur eller hård bettskena inom barntandvården, vid andra och efterföljande tillfällen.",,895
+SED,"Sedering med bensodiazepiner, per tillfälle",,905
+D008,"Timtaxa tandläkare, digitala vårdmöten",,2 035
+D009,"Timtaxa tandhygienist, digitala vårdmöten",,1 030
+D010,"Timtaxa tandsköterska, digitala vårdmöten",,505
+DRÅD,Digital rådgivning,,325
+Uteblivande,,,
+UBA,"Uteblivande eller sent återbud från behandling, barn. Allmäntandvård",,300
+UBS,"Uteblivande eller sent återbud från behandling, barn. Tandregleringen, specialisttandvård",,300
+,,,-
+UB1,"Uteblivande eller sent återbud från behandling, vuxentandvård upp till 30 minuter",,500
+UB2,"Uteblivande eller sent återbud från behandling, vuxentandvård mer än 30 minuter",,1 000
+UBN,Uteblivande eller sent återbud från narkos,,Pris tas fram av HS
+Särskilda tandvårdsstödet,,,
+S1,Sjukvårdstaxa tandläkare,,200
+S2,Sjukvårdstaxa hygienist,,100
+S3,Sjukvårdstaxa specialist,,300

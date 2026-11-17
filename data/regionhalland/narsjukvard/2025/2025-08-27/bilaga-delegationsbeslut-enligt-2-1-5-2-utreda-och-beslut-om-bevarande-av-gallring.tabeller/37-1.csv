@@ -1,0 +1,45 @@
+3.13.0 Ledning,,,,,,,
+3.13.0.2 Styra - Kunskapsstyrning inom hälso – och sjukvård – ordnat införande,,,,,,,
+3.13.2 Nära vård,,,,,,,
+"3.13.2.0 Leda, styra, organisera",,,,,,,
+3.13.2.1 Bedriva allmän primärvård,,,,,,,
+3.13.2.3 Bedriva barnhälsovård,,,,,,,
+3.13.2.9 Bedriva patientsäkerhetsarbete,,,,,,,
+"Process-
+beteckning
+Kod","Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs/
+Systematisk
+förvaring","Bevaras
+/
+Gallras","Förvaringsplats
+/System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning(Hanterin
+g, lagrum,
+personuppgifter,
+m m)",
+3.13.0,Ledning,,,,,,
+3.13.0.2,Styra - Kunskapsstyrning inom hälso – och sjukvård – ordnat införande,,,,,,
+,Synpunktsrundor,"Systematisk
+förvaring","Gallras vid
+inaktualitet",Platina Diarium,,,"Utskickade och mottagna svar kan
+förvaras som arbetsdokument i ett
+samlingsärende i Platina"
+,"Rutiner/Riktlinjer/Styrande
+dokument","Systematisk
+förvaring","Gallras vid
+inaktualitet",Omnia,,,"Rutiner/Riktlinjer/Styrande
+dokument förvaras i omnia. För
+lokala rutiner kan de förvaras i pärm."
+3.13.2,Nära vård,,,,,,
+3.13.2.0,"Leda, styra och organisera",,,,,,
+,Avtal och överenskommelser,Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",1,,

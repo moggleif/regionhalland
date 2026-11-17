@@ -1,0 +1,74 @@
+"Process-
+beteckning
+Kod","Handlingssla
+g/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Bevaras/
+Gallras","Förvaringsplats/
+System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning
+(Hantering, lagrum, personuppgifter, m m)"
+2.3.5.1,Bedriva friskvård,,,,,
+,Gratifikation – erhållen gåva,"Systematisk
+förvaring",Bevaras,Winlas,,Hanteras av GAS.
+,Friskvårdsbidrag- kvitton,"Systematisk
+förvaring",,Ernst,,"Hanteras av Löneservice,
+GAS"
+2.3.5.2,Hantera tillbud,,,,,
+,Anmälan,"Systematisk
+förvaring",Bevaras,Stella,,"Anmälan sker direkt i
+regiongemensamt datorstöd."
+,Handlingsplan,"Systematisk
+förvaring",Bevaras,Stella,,
+,Sammanställning,"Systematisk
+förvaring",Bevaras,Stella,,"Till exempel sammanställning över
+arbetsskador och tillbud – för rapport till
+samverkansgrupper."
+2.3.5.3,Hantera arbetsskada,,,,,
+,"Arbetsskadeanmälan som
+föranleder åtgärd","Systematisk
+förvaring",Bevaras,Stella,,"Förvaras tillsammans med
+utredningsdokumentation,
+läkarintyg, beslut om
+skadeersättning, ansökan om
+ersättning m m."
+,"Tillbud som inte föranleder
+åtgärd","Systematisk
+förvaring",Bevaras,Stella,,"Förvaras tillsammans med
+utredningsdokumentation,
+läkarintyg, beslut om
+skadeersättning, ansökan om
+ersättning m m."
+2.3.5.4,Rehabilitera,,,,,
+,Rehabiliteringsutredningar,"Systematisk
+förvaring",Bevaras,Adato,,
+,Rehabjournal,"Systematisk
+förvaring",Bevaras,Adato,,
+,Anteckningar,"Systematisk
+förvaring",Bevaras,Adato,,
+,Arbetsförmågebedömning,"Systematisk
+förvaring",Bevaras,Adato,,"Utförs av extern leverantör av
+företagshälsovård."
+,Handlingsplan,"Systematisk
+förvaring",Bevaras,Adato,,
+,Kompletterande läkarintyg,"Systematisk
+förvaring",Bevaras,Adato,,
+,"Mötesanteckningar om
+rehabilitering","Systematisk
+förvaring",Bevaras,Adato,,
+,"Utlåtande, företagshälsovård","Systematisk
+förvaring",Bevaras,Adato,,"Utförs av extern leverantör av
+företagshälsovård. Undertecknat
+original förvaras där."
+,"Utredning –
+Anpassningsåtgärder","Systematisk
+förvaring",Bevaras,Adato,,

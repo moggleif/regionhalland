@@ -1,0 +1,10 @@
+Undersökning,Utbudspunkt,Lab,DRN (mGy/exp),DSN (mGy/exp),Under DRN?
+Screening,Fbg,Screening,"1,3","1,10",Ja
+,HSH,Screening Rosa,,"0,93",Ja
+,,Screening Grön,,"1,17",Ja
+,,Klinisk,,"0,92",Ja
+,HSK,Screening,,"1,01",Ja
+,HSV,Screening,,"0,97",Ja
+,,Klinisk,,"0,99",Ja
+Tomosyntes,HSH,Klinisk,-,"1,70",-
+,HSV,Klinisk,,"1,88",-

@@ -1,0 +1,70 @@
+"Process-
+beteckning
+/ Kod","Handlingsslag/
+Handlingstyp","Registrerin
+g
+Diarieförs
+Systematisk
+förvaring",Bevaras/ Gallras,"Förvaringsplats/
+System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning (Hantering,
+lagrum, personuppgifter,
+m m)"
+1.4.1.1,Tillhandahålla och lämna ut allmänna handlingar,,,,,
+,Begäran om allmän handling,"Systematisk
+förvaring","Gallras efter
+utlämnande",,,
+,"Utlämnande av allmän
+handling, svar","Systematisk
+förvaring","Gallras efter
+utlämnande",,,
+,"Begäran om allmän handling
+som omfattas av sekretess",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,Se rutin för journalutlämnande
+,"Utlämnande av allmän
+handling som omfattas av
+sekretess",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,Se rutin för journalutlämnande
+,"Beslut att avslå begäran om
+utlämnande av allmän
+handling",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,"Beslut fattas av förvaltningschef genom
+delegation från nämnden."
+,"Överklagande av beslut
+rörande utlämnande av
+allmän handling eller
+maskning av
+uppgifter",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+,"Yttrande och beslut i övre
+instans i överklagat beslut
+om avslag på utlämnande",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+1.4.1.2,Behandla personuppgifter och skydda personlig integritet,,,,,
+,"Begäran om registerutdrag
+från registrerad",Diarieförs,"Gallras efter 10 år
+/bevaras","Ärendeakt/Platina
+Diarium",,
+,Svar om registerutdrag,Diarieförs,"Gallras
+efter 10 år/
+Bevaras","Ärendeakt/Platina
+Diarium/Dataskyddsen
+heten",,"Gäller även begäran om ändring, radering och"
+,Avslag på begäran,Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+,"Samtycke till behandling och
+publicering av
+personuppgifter enligt GDPR","Systematisk
+förvaring","Gallras vid
+inaktualitet",Server,,"Gallras 2 år efter att tiden för samtycket
+har löpt ut eller att samtycket återkallats
+och behandlingen i fråga har avslutats.
+Avser även fysiskt emottaget
+samtycke, t ex blankett."

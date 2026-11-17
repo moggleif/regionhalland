@@ -1,0 +1,47 @@
+Indikator,Källa,Definition
+"Personer inskrivna i
+hemsjukvård","Inrapportering från
+kommunerna","Antal inskrivna patienter i
+hemsjukvården (ordinärt
+boende)."
+Antal utskrivningar från HS,"Region Hallands journalsystem
+VAS",
+"Inskrivningsmeddelanden,
+Fast vårdkontakt, Utfall från
+Planeringsunderlag,
+Tid mellan kallelse och mötet,",IT systemet Lifecare,
+Enstaka hembesök,"Inrapportering från
+kommunerna","Hembesök hos patienter som inte
+är inskrivna i hemsjukvården,
+avser unika individer med
+beställning från vårdcentral."
+"Utskrivningsklara patienter på
+sjukhus","Väntetid i vården – Sveriges
+kommuner och regioner, SKR
+www.vantetider.se","Utskrivningsklar är en patient
+när hälsotillståndet är sådant att
+behandlande läkare bedömer att
+patienten inte längre behöver
+vård vid en enhet inom den
+slutna vården."
+"Oplanerad återinskrivning inom
+30 dagar","Vården i siffror
+www.vardenisiffror.se","Andel vårdtillfällen för patienter
+65 år och äldre där oplanerad
+återinskrivning skett inom 30
+dagar."
+Palliativvård,"Palliativregistret
+palliativregistret.se","Rapporten bygger på
+registreringar i
+kvalitetsregistret och
+statistiken är hämtad ur
+palliativ.se Det visar
+måluppfyllnad för fyra
+indikatorer som är framtagna
+av Socialstyrelsen. I urvalet har
+följande dödsplatser
+exkluderats: särskilt boende,
+korttidsplats, sjukhusavdelning,
+hospice/slutenvård. Endast de
+som avlider hemma i ordinärt
+boende räknas."

@@ -1,0 +1,39 @@
+"Process-
+beteckning
+Kod","Handlingsslag
+/ Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Bevaras
+/ Gallras","Förvaringsplats
+/System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning
+(Hantering, lagrum, personuppgifter,
+m m)"
+2.1.1.1,Bedriva informationssäkerhet,,,,,
+,"Anmälan om
+dataskyddsombud",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,"Ingår i ärende anmälan om
+delegationsbeslut"
+,"Anmälan, ändringsanmälan och
+avslut om personuppgiftsregister",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+,"Anmälan om
+personuppgiftsincident",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,Ingår i ärende anmälan delegationsbeslut
+,"Fullmakt för att öppna
+inkommande post","Systematisk
+förvaring",Se anmärkning,,,"Gallras 1 år efter att personen slutat sin
+anställning. Kan förvaras på papper eller
+skannas och förvaras digitalt."
+2.1.1.2,Tecknande av personuppgiftsbiträdesavtal,,,,,
+,"Tecknande/ändring av
+personuppgiftsbiträdesavtal",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,Ingår i ärende anmälan av delegationsbeslut

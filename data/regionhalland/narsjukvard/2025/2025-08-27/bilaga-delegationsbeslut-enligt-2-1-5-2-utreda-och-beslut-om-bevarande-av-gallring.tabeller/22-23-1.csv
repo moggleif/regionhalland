@@ -1,0 +1,83 @@
+Processer,,,,,,
+2.3.5 Personalhälsa,,,,,,
+2.3.5.1 Bedriva friskvård,,,,,,
+2.3.5.4 Hantera tillbud,,,,,,
+2.3.5.5 Hantera arbetsskada,,,,,,
+2.3.5.6 Hantera arbetsanpassning och rehabilitering,,,,,,
+"Process-
+beteckning
+Kod","Handlingssla
+g/
+Handlingstyp","RegistreringDi
+arieförs
+Systematisk
+förvaring","Bevaras/
+Gallras","Förvaringsplats/
+System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning
+(Hantering, lagrum, personuppgifter,
+m m)"
+2.3.5.1,Bedriva friskvård,,,,,
+,Gratifikation – erhållen gåva,"Systematisk
+förvaring",Bevaras,Winlas,,Hanteras av GAS.
+2.3.5.4,Hantera tillbud,,,,,
+,Anmälan,"Systematisk
+förvaring",Bevaras,Stella,1–3,"Anmälan sker direkt i
+regiongemensamt systemstöd."
+,Handlingsplan,"Systematisk
+förvaring",Bevaras,Stella,2,
+,Sammanställning,"Systematisk
+förvaring",Bevaras,Stella,1,"Till exempel sammanställning över
+arbetsskador och tillbud – för rapport
+till samverkansgrupper."
+2.3.5.5,Hantera arbetsskada,,,,,
+,"Arbetsskadeanmälan som
+föranleder åtgärd","Systematisk
+förvaring",Bevaras,Stella,2,"Förvaras tillsammans med
+utredningsdokumentation,
+läkarintyg, beslut om
+skadeersättning, ansökan om
+ersättning m m."
+,"Tillbud som inte föranleder
+åtgärd","Systematisk
+förvaring",Bevaras,Stella,1-3,"Förvaras tillsammans med
+utredningsdokumentation,
+läkarintyg, beslut om
+skadeersättning, ansökan om
+ersättning m m."
+2.3.5.6,Hantera arbetsanpassning och rehabilitering,,,,,
+,Rehabiliteringsutredningar,"Systematisk
+förvaring",Bevaras,Adato,2,
+,Rehabjournal,"Systematisk
+förvaring",Bevaras,Adato,2,
+,Anteckningar,"Systematisk
+förvaring",Bevaras,Adato,2,
+,Arbetsförmågebedömning,"Systematisk
+förvaring",Bevaras,Adato,2,"Utförs av extern leverantör av
+företagshälsovård."
+,Handlingsplan,"Systematisk
+förvaring",Bevaras,Adato,2,
+,Kompletterande läkarintyg,"Systematisk
+förvaring",Bevaras,Adato,2,
+,"Mötesanteckningar om
+rehabilitering","Systematisk
+förvaring",Bevaras,Adato,2,
+,"Utlåtande, företagshälsovård","Systematisk
+förvaring",Bevaras,Adato,2,"Utförs av extern leverantör av
+företagshälsovård. Undertecknat
+original förvaras där."
+,"Utredning –
+Anpassningsåtgärder","Systematisk
+förvaring",Bevaras,Adato,2,
+Process,,,,,,
+2.3 Personal,,,,,,
+Processer,,,,,,
+2.3.6 PA,,,,,,
+2.3.6.1 Beräkna och betala ut lön,,,,,,

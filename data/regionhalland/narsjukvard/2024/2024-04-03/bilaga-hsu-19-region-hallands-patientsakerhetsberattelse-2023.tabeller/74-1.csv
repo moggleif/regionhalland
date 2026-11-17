@@ -1,0 +1,40 @@
+"Klinik /
+verksamhet",Avd / Sektion,Yrke,Sjukhus,Stråldos (mSv/år),,
+,,,,Helkropp,Extremiteter,Ögonlins
+Röntgen,CT,"Röntgensjuk-
+sköterska",HSH,0,0,0
+,,,HSK,"0,25",,
+,,,HSV,0,,
+,,Läkare,HSH,0,"5,52",0
+,Genomlysning,"Röntgensjuk-
+sköterska",HSH,0,0,0
+,,,HSV,0,,0
+,,Läkare,HSH,0,8,0
+,,,HSK,"0,06",,
+,,,HSV,0,,0
+,"Konventionell
+röntgen","Röntgensjuk-
+sköterska","Falken-
+berg","0,05",,
+,,,HSV,0,,
+,"Roterande
+personal","Röntgensjuk-
+sköterska",HSK,"0,23",,
+,,,HSH,0,,
+,,,HSV,0,,
+"Operation
+HS",Operation,Sjuksköterska,HSK,0,,
+,,,HSV,0,,
+,,Läkare,HSK,"0,06",,
+Kirurgi,ERCP,Sjuksköterska,HSH,0,0,0
+,,Läkare,HSH,"0,5",8,5
+,,,HSV,"0,5",,
+,,Undersköterska,HSV,0,,
+Ortopedi,Ortopedi HSH,Läkare,HSH,0,56,0
+,Ortopedi HSV,Läkare,HSV,"0,6",41,
+Medicin,Hjärtmott,Kardiolog,HSV,"0,1",,
+Avd 72,"Radiojod-
+behandling",Sjuksköterska,HSH,0,,
+"Medicinsk
+teknik",Sjukhusfysik,Sjukhusfysiker,HSH,0,,
+Högsta tillåtna stråldos,,Radiologisk personal,,20,500,20

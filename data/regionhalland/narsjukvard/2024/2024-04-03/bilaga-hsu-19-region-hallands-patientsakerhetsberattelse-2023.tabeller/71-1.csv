@@ -1,0 +1,34 @@
+Klinik,Ort,"Status
+a: teoretisk, b: praktisk, c: handhavande,
+d: handhavande strålkälla (nuklear)"
+Röntgen,Kungsbacka,"a och b samtliga, c fåtal"
+,Halmstad,"a och d samtliga, b fåtal, c samtlig ny personal från
+2022, d samtlig ny personal från 2023"
+,Varberg/Falkenberg,"a och b samtliga, c samtlig ny personal från 2022"
+Operation,Kungsbacka,"Teoretisk och praktisk utbildning genomförd 2022.
+Handhavande 2021."
+,Halmstad,"Ssk a, b och c 70%, usk a, b och c 89%"
+,Varberg,"Ssk a och b 70%, c 80%, usk a och b 80%, c 90%"
+Kirurgi,Angio Halmstad,"Ssk: a, b och c 100%, Läk: a, b och c 50%"
+,ERCP Halmstad,"Ssk: a, b och c 100 %, Läk: a, b och c 100%"
+,ERCP Varberg,"Ssk: a och b 100%, c 0%, Läk: a, b och c 100%"
+,Op Halmstad,"Läk: a och b 100%, c ?"
+,Op Varberg,"Läk: a 75%, b 71%, c ?"
+,Op Kungsbacka,"Läk: a, b och c 25%"
+Ortopedi,Halmstad,"Läk: a 100%, b 52% och c ?"
+,Varberg,"Läk: a och b 77%, c ?, ssk och usk a och c 100%"
+Urologi,Halmstad/Varberg,Teoretisk och praktisk utbildning genomförd 2022.
+Akutmott.,Halmstad,"a 100%, b 100%, c 100%"
+,Varberg,"a 100%, b 100%, c 100%"
+Medicin,Halmstad,"Kranskärlsröntgen hade teori och praktik 2021.
+Pacemaker 2 ssk 2022, oklart läge för läkare."
+,Varberg,"a, b och c 100%"
+"Specialist-
+tandvården",Halmstad/Varberg,"a, b, och c 100%. Teori med sjukhusfysiker var 3:e år
+genomförd 2021. Däremellan utbildning för nyanställda
+och repetitionsutbildning av odontologisk radiolog."
+FTV,Halland,"En utbildningssatsning för alla behandlare med fokus
+på radiologisk diagnostik och handhavande startades
+upp 2022 och fortgår.
+Önskemål om revidering av strålskyddsutbildning
+(digital utbildning) lyfts och diskuteras."
