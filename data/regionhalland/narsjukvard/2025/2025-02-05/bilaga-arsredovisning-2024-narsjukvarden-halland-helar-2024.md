@@ -12,12 +12,12 @@ kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftna
 sha256: d5d177a924cc7191903aae898094b1fb08a8c858b7951d676f53cb267ddb7fff
 bytes: 717846
 sidor: 30
-hamtad: 2026-11-17T11:39:48+00:00
-konverterad: 2026-11-17T11:39:54+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T18:19:05+00:00
+konverterad: 2026-11-17T18:19:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
 tal_obekraftade: []
 figurer: [1, 4, 29]
 tolkade: []
@@ -432,50 +432,11 @@ hindrar verksamheten att effektivisera undersökningsprocessen.
 <!-- sida 10 -->
 
 2.5.2 Tillgänglighet
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Vårdgaranti
-primärvård –
-97 %            95 %           93 %
-telefontillgänglighet,
-kontakt inom 0 dagar
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Vårdgaranti
-primärvård – Medicinsk
-88 %            90 %           89 %
-bedömning inom tre
-dagar
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Svarstid digital
-14 min         15 min         13 min
-plattform
 
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Korta väntetiden på
-13 mån         16 mån         13 mån
-Tandregleringen
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Andel
-undersökningar på barn
-99 %            95 %           99 %
-i Folktandvården som
-genomförs i tid
-Andel
-undersökningar på
-73 %            95 %           75 %
-vuxna i Folktandvården
-som genomförs i tid
 2.5.3 Produktion och kvalitet, summering
+
 För Vårdcentralen Halland följs följande indikatorer:
+
 •  Antal besök i öppenvård
 •  Andel besök på distans
 •  Antal startade chattar
@@ -483,6 +444,37 @@ För Vårdcentralen Halland följs följande indikatorer:
 •  Utskriftstid per vecka
 
 10
+
+[Tabell 10-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/10-1.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Vårdgaranti<br>primärvård –<br>telefontillgänglighet,<br>kontakt inom 0 dagar | 97 % | 95 % | 93 % |
+
+[Tabell 10-2](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/10-2.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Vårdgaranti<br>primärvård – Medicinsk<br>bedömning inom tre<br>dagar | 88 % | 90 % | 89 % |
+
+[Tabell 10-3](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/10-3.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Svarstid digital<br>plattform | 14 min | 15 min | 13 min |
+
+[Tabell 10-4](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/10-4.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Korta väntetiden på<br>Tandregleringen | 13 mån | 16 mån | 13 mån |
+
+[Tabell 10-5](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/10-5.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Andel<br>undersökningar på barn<br>i Folktandvården som<br>genomförs i tid | 99 % | 95 % | 99 % |
+| Andel<br>undersökningar på<br>vuxna i Folktandvården<br>som genomförs i tid | 73 % | 95 % | 75 % |
 
 <!-- sida 11 -->
 
@@ -538,70 +530,54 @@ patienter som är i behov av behandlingsplan inte tackar ja till denna.
 <!-- sida 12 -->
 
 2.5.4 Produktion och kvalitet
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Antal besök inkl.
-52 663         64 786        748 699
-distans
-
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Andel besök på
-8 %            10 %           8 %
-distans
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Antal startade
-6 892          5 385          79 726
-chattar
-Årets ackumulerade
-Indikator             Utfall månad    Målvärde
-utfall
-Öka andel vuxna
-revisionspatienter med     33 %          35 %           32 %
-Frisktandvårdsabonnemang
-
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Andel remisser som
-är korrekt märkta, SVF,
-81 %            85 %           88 %
-när de kommer till
-slutenvården
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Andel barn som
-tillhör röd riskgrupp och
-57 %            76 %           58 %
-har fått en
-behandlingsplan, R12
-Andel vuxna som
-tillhör röd riskgrupp och
-19 %            40 %           21 %
-har fått en
-behandlingsplan, R12
 
 12
 
+[Tabell 12-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/12-1.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Antal besök inkl.<br>distans | 52 663 | 64 786 | 748 699 |
+
+[Tabell 12-2](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/12-2.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Andel besök på<br>distans | 8 % | 10 % | 8 % |
+
+[Tabell 12-3](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/12-3.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Antal startade<br>chattar | 6 892 | 5 385 | 79 726 |
+
+[Tabell 12-4](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/12-4.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Öka andel vuxna<br>revisionspatienter med<br>Frisktandvårdsabonnemang | 33 % | 35 % | 32 % |
+
+[Tabell 12-5](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/12-5.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Andel remisser som<br>är korrekt märkta, SVF,<br>när de kommer till<br>slutenvården | 81 % | 85 % | 88 % |
+
+[Tabell 12-13-6](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/12-13-6.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Andel barn som<br>tillhör röd riskgrupp och<br>har fått en<br>behandlingsplan, R12 | 57 % | 76 % | 58 % |
+| Andel vuxna som<br>tillhör röd riskgrupp och<br>har fått en<br>behandlingsplan, R12 | 19 % | 40 % | 21 % |
+| Antal vaccinationer<br>Covid-19 | 3 428 |  | 81 704 |
+| Antal vaccinationer<br>säsongsinfluensa | 4 042 |  | 69 369 |
+
 <!-- sida 13 -->
 
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Antal vaccinationer
-3 428                         81 704
-Covid-19
-Antal vaccinationer
-4 042                         69 369
-säsongsinfluensa
 2.5.5 Systematiskt patientsäkerhetsarbete
 Det stärkta systematiska patientsäkerhetsarbetet utifrån Närsjukvården Hallands handlingsplan
 fortlöper enligt föregående års planering. Handlingsplanen utgörs av områdena
+
 •  Ökad användning av simulering och färdighetsträning
 •  Kompetensutveckling för befintliga medarbetare
 
@@ -654,16 +630,6 @@ medarbetare som är insatta i rutiner och lokala arbetssätt och vikten av att a
 differentialdiagnoser vid möte med patienter. Detta har under året diskuterats i flera olika
 forum. Inom Folktandvården har inga allvarliga vårdskador inträffat under året.
 
-Årets ackumulerade
-Indikator            Utfall månad     Målvärde
-utfall
-Följsamhet
-strukturerad            1 421 st       2 374 st        116 %
-journalgranskning
-Hållbart
-säkerhetsengagemang,       78             77
-HSE
-
 Följsamheten till strukturerad journalgranskning var 116%, en kraftig förbättring jämfört
 med 2023. Vårdcentralen Halland uppnår en följsamhet till journalgranskningen på 91%, vilket
 är en ökning från föregående år. För att öka följsamheten framåt kommer även identifierade
@@ -698,6 +664,13 @@ biverkningar, effekter och följdsjukdomar efter cancer och cancerbehandling ök
 av rehabiliteringspersonal ökar kunskapen på området, kvaliteten höjs och därmed tryggheten i
 
 14
+
+[Tabell 14-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/14-1.csv)
+
+| Indikator | Utfall månad | Målvärde | Årets ackumulerade<br>utfall |
+| --- | --- | --- | --- |
+| Följsamhet<br>strukturerad<br>journalgranskning | 1 421 st | 2 374 st | 116 % |
+| Hållbart<br>säkerhetsengagemang,<br>HSE | 78 | 77 |  |
 
 <!-- sida 15 -->
 
@@ -782,11 +755,6 @@ kopplat till bemötande, affärsförståelse och affärsmässighet för att beh�
 
 2.7 Målgrupp
 
-Indikator            Utfall månad     Målvärde Förändring Dec 2024
-Antal listade
-169 927        171 669           -82
-patienter
-
 2.8 Uppföljning av arbetsmiljöplanen
 Närsjukvården Hallands övergripande mål för arbetsmiljöarbetet är en säker och
 hälsofrämjande arbetsmiljö. I arbetsmiljöplanen var följande områden prioriterade:
@@ -810,6 +778,12 @@ medarbetarundersökningen har arbete påbörjats för att skapa tydliga rutiner 
 
 16
 
+[Tabell 16-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/16-1.csv)
+
+| Indikator | Utfall månad | Målvärde | Förändring Dec 2024 |
+| --- | --- | --- | --- |
+| Antal listade<br>patienter | 169 927 | 171 669 | -82 |
+
 <!-- sida 17 -->
 
 och våld. På folktandvårdsklinikerna görs löpande pulsmätningar på organisatorisk och social
@@ -829,10 +803,6 @@ chefer.
 
 3.1 Personalomsättning
 
-Indikator                          Utfall            Målvärde
-
-Personalomsättning              14,37 %              15,2 %
-
 Personalomsättningen (R12) uppgick till 14,4% vilket är under målvärdet på 15,2%.
 Personalomsättningen skiljer sig markant mellan verksamhetsområdena. Vårdcentralens
 omsättning uppgår till 10,7% och Folktandvårdens uppgår till 23%. Den grupp med högst
@@ -842,9 +812,6 @@ begränsad tillgång till medarbetare, det är allt svårare att rekrytera och k
 privata aktörer ökar. Insatser kring kompetensförsörjning pågår.
 
 3.2 Sjukfrånvaro
-Indikator                          Utfall            Målvärde
-
-Sjukfrånvaro                     6,27 %              5,43 %
 
 Den totala sjukfrånvaron (R12) ligger på 6,3%, vilket är högre än målvärdet. Det skiljer sig
 mellan områdena, Folktandvården har en sjukfrånvaro på 7,1% och Vårdcentralerna på 5,9%.
@@ -860,10 +827,6 @@ psykologer.
 
 3.4 Hållbart medarbetarengagemang
 
-Indikator                          Utfall            Målvärde
-
-HME-Index                          79                  80
-
 Årets medarbetarundersökning, HME- totalt, visar ett högt resultat för Närsjukvården Halland
 med värdet 79, vilket är samma som föregående år.
 
@@ -876,6 +839,24 @@ Dialog och analys kring resultatet av medarbetarundersökningen sker inom respek
 
 18
 
+[Tabell 18-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/18-1.csv)
+
+| Indikator | Utfall | Målvärde |
+| --- | --- | --- |
+| Personalomsättning | 14,37 % | 15,2 % |
+
+[Tabell 18-2](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/18-2.csv)
+
+| Indikator | Utfall | Målvärde |
+| --- | --- | --- |
+| Sjukfrånvaro | 6,27 % | 5,43 % |
+
+[Tabell 18-3](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/18-3.csv)
+
+| Indikator | Utfall | Målvärde |
+| --- | --- | --- |
+| HME-Index | 79 | 80 |
+
 <!-- sida 19 -->
 
 verksamhet där chefer och medarbetare tillsammans tar fram aktiviteter för 2025 kopplat till
@@ -883,9 +864,6 @@ hållbart medarbetarengagemang och arbetsmiljö. På förvaltnings- och områdes
 och analys inom ledningsgrupper och samverkansgrupper.
 
 3.5 Organisatorisk och social arbetsmiljö
-
-Indikator                          Utfall            Målvärde
-OSA-index                          64                  66
 
 Resultatet för organisatorisk och social arbetsmiljö, så kallat OSA-index, i
 medarbetarundersökningen ligger kvar på samma värde (64) som förgående år.
@@ -907,6 +885,12 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 19
 
+[Tabell 19-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/19-1.csv)
+
+| Indikator | Utfall | Målvärde |
+| --- | --- | --- |
+| OSA-index | 64 | 66 |
+
 <!-- sida 20 -->
 
 4 Målstyrning
@@ -917,13 +901,13 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 [Tabell 20-21-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/20-21-1.csv)
 
-| Mål | Uppdrag Kommentar |
-| --- | --- |
-| Smartare och<br>enklare digital<br>vardag | Stärka digital Uppfylls<br>utveckling för<br>Närsjukvårdens digitala utveckling utifrån den strategiska digitala<br>smart och enkel<br>planens inriktning med "digitalt först - fysiskt när det behövs",<br>vardag. Digitalt<br>fortsätter. I Vårdcentralen Halland har utvecklingen av antalet<br>först - fysiskt när<br>besök på distans avstannat något även om den är högre än<br>det behövs<br>2023. Målet om 10% av de totala besöken på distans nås inte.<br>Antal startade chattar ökar och målet på en 10%-ig ökning<br>jämfört med samma period fg år uppfylls. En ökning av antalet<br>professioner som arbetar i plattformen har skett. Ett arbete för<br>att flytta patientflödet från telefonen till chatt och video pågår på<br>några vårdcentraler, där en ny rutin stödjer omhändertagande av<br>vanliga sökorsaker digitalt. Chatten är en säkrare<br>kommunikationskanal än telefon och brev. En nyttokalkyl för<br>Vårdcentralen Halland har tagits fram för att kunna arbeta mer<br>med tidsvinsterna av digitaliseringen. Sedan maj erbjuder även<br>Folktandvården chatt och videobesök och antal chattar ökar<br>stadigt. Fler digitala formulär har lagts in i den digitala<br>plattformen vilket möjliggör ännu mer digital vård.<br>För ökad kunskap och analys av verksamheternas behov av<br>egenmonitorering har en arbetsgrupp bildats inom Region<br>Halland, där Närsjukvården ingår. Inom Vårdcentralen Halland<br>används idag ett egenvårdsystem för astma på ett antal<br>vårdcentraler.<br>Taligenkänning är infört i både Vårdcentralen och<br>Folktandvården. I Vårdcentralen har användningen har ökat<br>kraftigt under året. I Folktandvården visar utvärdering att<br>förväntade nyttoeffekter inte uppnåtts fullt ut. Tidsbesparingen<br>inom folktandvården blir inte märkbar då varje medarbetare av<br>tradition skriver sina egna journalanteckningar. I Folktandvården<br>har en ny funktion med sms-utskick införts, nu nås fler patienter<br>med erbjudande av att ta någon annans sent avbokade tid. Ett<br>systemstöd har införts för att kvalitetssäkra att patienter får rätt<br>revisionsintervall.<br>Införande av automatiserat schemasystem har införts enligt plan<br>och innan årets slut var samtliga vårdcentraler anslutna. I slutet<br>av 2024 tecknades ett nyttjanderättsavtal via annan region för att<br>kunna erbjuda patienterna skräddarsydda psykosociala stöd-<br>och behandlingsprogram på nätet som ett komplement till<br>befintliga IKBT-program. Under sommaren har det pågått en<br>pilot för kliniskt beslutsstöd och förberedelser pågår för<br>breddinförande under 2025, se vidare under mål Etablera<br>struktur och systematik för arbete med informationsdriven vård<br>och utveckling.<br>För att följa utveckling av uppdraget har uppföljning skett av<br>digital plan samt följande indikatorer, se uppföljning avsnitt 2.5.3<br>• Andel besök på distans<br>• Antal startade chattar |
-| Stärkt<br>innovationskraft<br>och digital<br>samverkan med<br>externa aktörer | Bidra med expert- Uppfylls<br>och användar-<br>Närsjukvården samarbetar med Leap for life för att bidra med<br>kompetens till<br>expert- och användarkompetens kopplat mot näringslivet.<br>näringslivet för<br>Närsjukvården har deltagit på Vitalis som är Nordens ledande<br>framtidens vård.<br>eHälsomöte och hållit föredrag om Vårdcentralen Hallands |
-|  | införande av digital plattform. Detta för att sprida goda exempel<br>till näringslivet, andra regioner och vårdgrannar. Uppdraget<br>uppföljt genom planerade aktiviteter. |
-|  | Främja Uppfylls<br>förhållningssätt för<br>Det finns öppna kommunikationskanaler där medarbetare kan<br>ständiga<br>känna sig trygga att komma med idéer och förslag som sedan<br>förbättringar,<br>omhändertas av en beredning i förvaltningen. I Folktandvården<br>förändringsvilja<br>hålls regelbundna och systematiska förbättringsmöte på<br>och innovations-<br>samtliga enheter och det finns ett nätverk som utbyter<br>kraft<br>erfarenheter. I Vårdcentralen har arbetet med "analysverkstad"<br>fortsatt. Syftet är att från ett utifrånperspektiv hjälpa en annan<br>verksamhet att ta fram förbättringsförslag. Genom att analysera<br>andras verksamheter får besökande vårdcentral med sig egna<br>idéer och förslag tillbaka till den egna verksamheten.<br>Vårdcentralen har under året gjort en kartläggning av befintliga<br>metoder för förbättringsarbete samt lagt en plan för ett ordnat<br>införande av en gemensam metod kopplat till förbättringsarbete<br>utifrån avvikelser.<br>Uppdraget uppföljt genom planerade aktiviteter. |
-| Informationsdrivna<br>verksamheter | Etablera struktur Uppfylls<br>och systematik för<br>Planeringen av införandet kliniskt beslutstöd har pågått under<br>arbete med<br>året. En pilot har genomförts på en vårdcentral, och ett<br>informationsdriven<br>breddinförande var planerat till hösten men sköts till 2025. Det<br>vård och<br>kliniska beslutsstödet är en digital kollega som analyserar<br>utveckling<br>journaldata och hjälper vårdpersonalen att presentera data inför<br>beslut vilket ökar patientsäkerhet och kvalitet i vården, samtidigt<br>som vårdpersonalen lägger mindre tid på administration.<br>Beslutsstödet kan ta vara på all existerande journaldata och<br>hjälper vårdpersonalen inför behandling vid varje patientmöte. I<br>beslutsstödet Power BI har det skapats en rapport för chefer och<br>medarbetare där de kan följa utvecklingen av alla kontakter i den<br>digitala plattformen.<br>Hypertoni och diabetes är de vanligaste av de långvariga<br>sjukdomarna, tillsammans svarar de för ca 80% av de patienter<br>som har ett återkommande behov av uppföljning och<br>medicinering. Även en liten effektivisering av vården för dessa<br>stora patientgrupper ger stor tidsvinst. Som ett led i att både<br>förbättra kvaliteten i vården, och möjlighet att styra behandling<br>och uppföljning till där den gör mest nytta, har en rapport<br>skapats där verksamheterna kan identifiera vilka patienter som<br>bör följas upp, kombinerat med förslag på alternativa arbetssätt<br>kring patientgrupperna.<br>Under året har det även skapats andra rapporter i olika<br>beslutsstöd för att ta fram data som cheferna kan ha användning<br>av i sin vardag.<br>Beslut och planering av Vårdcentralsakuterna i Halmstad och<br>Varberg baserades på fakta och data i linje med<br>informationsdriven vård.<br>Tre vårdcentraler har under 2024 haft ett samarbete med FoU<br>där det övergripande målet var att analysera data i en plattform<br>för att förebygga försämrad sjukdom hos listade patienter.<br>Arbetet har fokuserats kring att identifiera befintliga och ännu ej<br>diagnossatta patienter med viss sjukdom och beskriva de<br>åtgärder som genomförts i relation till medicinska riktlinjer.<br>Forskningsprojektet är avslutat och flertalet lärdomar drogs.<br>Uppdraget uppföljt genom aktiviteter |
+| Mål | Uppdrag | Kommentar |
+| --- | --- | --- |
+| Smartare och<br>enklare digital<br>vardag | Stärka digital<br>utveckling för<br>smart och enkel<br>vardag. Digitalt<br>först - fysiskt när<br>det behövs | Uppfylls<br>Närsjukvårdens digitala utveckling utifrån den strategiska digitala<br>planens inriktning med "digitalt först - fysiskt när det behövs",<br>fortsätter. I Vårdcentralen Halland har utvecklingen av antalet<br>besök på distans avstannat något även om den är högre än<br>2023. Målet om 10% av de totala besöken på distans nås inte.<br>Antal startade chattar ökar och målet på en 10%-ig ökning<br>jämfört med samma period fg år uppfylls. En ökning av antalet<br>professioner som arbetar i plattformen har skett. Ett arbete för<br>att flytta patientflödet från telefonen till chatt och video pågår på<br>några vårdcentraler, där en ny rutin stödjer omhändertagande av<br>vanliga sökorsaker digitalt. Chatten är en säkrare<br>kommunikationskanal än telefon och brev. En nyttokalkyl för<br>Vårdcentralen Halland har tagits fram för att kunna arbeta mer<br>med tidsvinsterna av digitaliseringen. Sedan maj erbjuder även<br>Folktandvården chatt och videobesök och antal chattar ökar<br>stadigt. Fler digitala formulär har lagts in i den digitala<br>plattformen vilket möjliggör ännu mer digital vård.<br>För ökad kunskap och analys av verksamheternas behov av<br>egenmonitorering har en arbetsgrupp bildats inom Region<br>Halland, där Närsjukvården ingår. Inom Vårdcentralen Halland<br>används idag ett egenvårdsystem för astma på ett antal<br>vårdcentraler.<br>Taligenkänning är infört i både Vårdcentralen och<br>Folktandvården. I Vårdcentralen har användningen har ökat<br>kraftigt under året. I Folktandvården visar utvärdering att<br>förväntade nyttoeffekter inte uppnåtts fullt ut. Tidsbesparingen<br>inom folktandvården blir inte märkbar då varje medarbetare av<br>tradition skriver sina egna journalanteckningar. I Folktandvården<br>har en ny funktion med sms-utskick införts, nu nås fler patienter<br>med erbjudande av att ta någon annans sent avbokade tid. Ett<br>systemstöd har införts för att kvalitetssäkra att patienter får rätt<br>revisionsintervall.<br>Införande av automatiserat schemasystem har införts enligt plan<br>och innan årets slut var samtliga vårdcentraler anslutna. I slutet<br>av 2024 tecknades ett nyttjanderättsavtal via annan region för att<br>kunna erbjuda patienterna skräddarsydda psykosociala stöd-<br>och behandlingsprogram på nätet som ett komplement till<br>befintliga IKBT-program. Under sommaren har det pågått en<br>pilot för kliniskt beslutsstöd och förberedelser pågår för<br>breddinförande under 2025, se vidare under mål Etablera<br>struktur och systematik för arbete med informationsdriven vård<br>och utveckling.<br>För att följa utveckling av uppdraget har uppföljning skett av<br>digital plan samt följande indikatorer, se uppföljning avsnitt 2.5.3<br>• Andel besök på distans<br>• Antal startade chattar |
+| Stärkt<br>innovationskraft<br>och digital<br>samverkan med<br>externa aktörer | Bidra med expert-<br>och användar-<br>kompetens till<br>näringslivet för<br>framtidens vård. | Uppfylls<br>Närsjukvården samarbetar med Leap for life för att bidra med<br>expert- och användarkompetens kopplat mot näringslivet.<br>Närsjukvården har deltagit på Vitalis som är Nordens ledande<br>eHälsomöte och hållit föredrag om Vårdcentralen Hallands |
+|  |  | införande av digital plattform. Detta för att sprida goda exempel<br>till näringslivet, andra regioner och vårdgrannar. Uppdraget<br>uppföljt genom planerade aktiviteter. |
+|  | Främja<br>förhållningssätt för<br>ständiga<br>förbättringar,<br>förändringsvilja<br>och innovations-<br>kraft | Uppfylls<br>Det finns öppna kommunikationskanaler där medarbetare kan<br>känna sig trygga att komma med idéer och förslag som sedan<br>omhändertas av en beredning i förvaltningen. I Folktandvården<br>hålls regelbundna och systematiska förbättringsmöte på<br>samtliga enheter och det finns ett nätverk som utbyter<br>erfarenheter. I Vårdcentralen har arbetet med "analysverkstad"<br>fortsatt. Syftet är att från ett utifrånperspektiv hjälpa en annan<br>verksamhet att ta fram förbättringsförslag. Genom att analysera<br>andras verksamheter får besökande vårdcentral med sig egna<br>idéer och förslag tillbaka till den egna verksamheten.<br>Vårdcentralen har under året gjort en kartläggning av befintliga<br>metoder för förbättringsarbete samt lagt en plan för ett ordnat<br>införande av en gemensam metod kopplat till förbättringsarbete<br>utifrån avvikelser.<br>Uppdraget uppföljt genom planerade aktiviteter. |
+| Informationsdrivna<br>verksamheter | Etablera struktur<br>och systematik för<br>arbete med<br>informationsdriven<br>vård och<br>utveckling | Uppfylls<br>Planeringen av införandet kliniskt beslutstöd har pågått under<br>året. En pilot har genomförts på en vårdcentral, och ett<br>breddinförande var planerat till hösten men sköts till 2025. Det<br>kliniska beslutsstödet är en digital kollega som analyserar<br>journaldata och hjälper vårdpersonalen att presentera data inför<br>beslut vilket ökar patientsäkerhet och kvalitet i vården, samtidigt<br>som vårdpersonalen lägger mindre tid på administration.<br>Beslutsstödet kan ta vara på all existerande journaldata och<br>hjälper vårdpersonalen inför behandling vid varje patientmöte. I<br>beslutsstödet Power BI har det skapats en rapport för chefer och<br>medarbetare där de kan följa utvecklingen av alla kontakter i den<br>digitala plattformen.<br>Hypertoni och diabetes är de vanligaste av de långvariga<br>sjukdomarna, tillsammans svarar de för ca 80% av de patienter<br>som har ett återkommande behov av uppföljning och<br>medicinering. Även en liten effektivisering av vården för dessa<br>stora patientgrupper ger stor tidsvinst. Som ett led i att både<br>förbättra kvaliteten i vården, och möjlighet att styra behandling<br>och uppföljning till där den gör mest nytta, har en rapport<br>skapats där verksamheterna kan identifiera vilka patienter som<br>bör följas upp, kombinerat med förslag på alternativa arbetssätt<br>kring patientgrupperna.<br>Under året har det även skapats andra rapporter i olika<br>beslutsstöd för att ta fram data som cheferna kan ha användning<br>av i sin vardag.<br>Beslut och planering av Vårdcentralsakuterna i Halmstad och<br>Varberg baserades på fakta och data i linje med<br>informationsdriven vård.<br>Tre vårdcentraler har under 2024 haft ett samarbete med FoU<br>där det övergripande målet var att analysera data i en plattform<br>för att förebygga försämrad sjukdom hos listade patienter.<br>Arbetet har fokuserats kring att identifiera befintliga och ännu ej<br>diagnossatta patienter med viss sjukdom och beskriva de<br>åtgärder som genomförts i relation till medicinska riktlinjer.<br>Forskningsprojektet är avslutat och flertalet lärdomar drogs.<br>Uppdraget uppföljt genom aktiviteter |
 
 <!-- sida 21 -->
 
@@ -939,19 +923,19 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 [Tabell 22-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/22-1.csv)
 
-| Mål | Uppdrag Kommentar |
-| --- | --- |
-| Bidra till en hållbar<br>resursanvändning | Minskad Uppfylls inte<br>plastanvändning<br>Plastanvändningen har ökat gällande engångsprodukter.<br>Beställningar av plastpåsar har ökat med 16% och beställningar<br>av handskar/engångsartiklar har ökat med 7 %. En ny regional<br>rutin för avfall har tagits fram och implementerats under hösten.<br>Ökat fokus på avfallshantering kommer att ske under våren<br>2025. Uppdraget uppföljt genom statistik och aktiviteter. |
-| Bidra till en<br>minskad<br>klimatpåverkan | Minska utsläpp Uppfylls<br>från transporter<br>De interna transporterna med bil har minskat med 2,7 %, jämfört<br>med tidigare år. Informationsinsatser om resepolicy har skett<br>under året. Andelen tankningar av miljöbränsle har ökat; E85<br>med 4%, HVO med 1%. Uppdraget uppföljt genom statistik och<br>aktiviteter. |
+| Mål | Uppdrag | Kommentar |
+| --- | --- | --- |
+| Bidra till en hållbar<br>resursanvändning | Minskad<br>plastanvändning | Uppfylls inte<br>Plastanvändningen har ökat gällande engångsprodukter.<br>Beställningar av plastpåsar har ökat med 16% och beställningar<br>av handskar/engångsartiklar har ökat med 7 %. En ny regional<br>rutin för avfall har tagits fram och implementerats under hösten.<br>Ökat fokus på avfallshantering kommer att ske under våren<br>2025. Uppdraget uppföljt genom statistik och aktiviteter. |
+| Bidra till en<br>minskad<br>klimatpåverkan | Minska utsläpp<br>från transporter | Uppfylls<br>De interna transporterna med bil har minskat med 2,7 %, jämfört<br>med tidigare år. Informationsinsatser om resepolicy har skett<br>under året. Andelen tankningar av miljöbränsle har ökat; E85<br>med 4%, HVO med 1%. Uppdraget uppföljt genom statistik och<br>aktiviteter. |
 
 [Tabell 22-23-2](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/22-23-2.csv)
 
-| Mål | Uppdrag Kommentar |
-| --- | --- |
-| Bidra till en god<br>kompetens-<br>försörjning i<br>regionen | Färdigställa och Uppfylls<br>börja arbeta<br>Under det gångna året har det skapats en ny<br>utifrån<br>komptensförsörjningsplan för Närsjukvården utifrån Region<br>Närsjukvårdens<br>Hallands Regionprioriterad kompetensförsörjningsplan. Full<br>kompetens-<br>implementering av planen sker under 2025. Ett omtag har gjorts<br>försörjningsplan<br>kring regionens och förvaltningens arbetsgivarvarumärke och en<br>framgångsrik satsning har genomförts kring rekrytering av<br>hyrläkare inför hyrläkarstopp 1 februari. En grundläggande del i<br>att möjliggöra en målanpassad kompetensförsörjning med<br>befintlig personal är den omorganisation som är genomförd inom<br>Folktandvården. Denna syftar bland annat till att möjliggöra en<br>jämnare bemanning, och samtidigt främja spridning av kunskap,<br>erfarenheter och kompetens på ett mer öppet sätt inom hela<br>Folktandvården och inte bara inom enskild klinik. Ett arbete är<br>inlett för att förbättra tillgången till tandsköterskor. I<br>verksamheterna pågår löpande kompetensutveckling och<br>utbildande insatser för de olika yrkesgrupperna för att kunna<br>bedriva en säker och evidensbaserad vård.<br>Uppdraget uppföljt genom planerade aktiviteter |
-| Bidra till en god<br>hälsa i<br>befolkningen och<br>minskade<br>hälsoskillnader | Stärka samverkan Uppfylls<br>mellan våra<br>Vårdcentralen Halland och Folktandvården Halland har arbetat<br>områden och med<br>vidare med att samverkansprojektet Små barn vi hjälps åt och<br>andra vårdaktörer<br>projektet har utökats till fler enheter. Under året har en<br>gemensam kompetenshöjande utbildning genomförts som<br>resulterade i ökad kunskap kring levnadsvanor, tobak, nikotin,<br>energidryck och dess effekt på kroppen och munhälsan.<br>Under sommaren har två vårdcentralsakuter vid<br>akutmottagningarna i Halmstad och Varberg varit i drift, ett<br>samarbetsprojekt med Hallands sjukhus, se avsnitt 2.1.<br>Vårdcentralen Halland har under året haft lokal samverkan med<br>Psykiatrin Halland i varje kommun.<br>Folktandvården Halland har haft ett tätt samarbete med<br>Specialisttandvården gällande kompetensförsörjning av<br>tandsköterskor och digitala konsultationer. I Folktandvården<br>pågår utvecklingsprojekt kring minskad kariesförekomst och<br>motiverande samtal, se avsnitt 2.5.6. |
-|  | Arbete pågår för strategisk förflyttning av nära vård till<br>primärvården. Under året pågår arbete inom processerna<br>Osteoporos, Rehabilitering av Hjärtsvikt och Ischemi och<br>Diabetes Mellitus samt Astma och KOL. Arbetet omfattar nära<br>samarbete med alla vårdnivåer.<br>Ett viktigt arbete i nära samverkan med Psykiatrin och de<br>halländska kommunerna är suicidpreventionsarbetet.<br>Utbildningar har genomförts samt stöd och samordning getts<br>kring skolbaserad suicidprevention. Inom<br>barnhälsovårdsuppdraget har utbildningar genomförts inom barn<br>som riskerar att fara illa och våld i nära relationer. Deltagande<br>har skett i nätverk med elevhälsans medicinska insatser. Se mer<br>avsnitt 2.4.<br>Uppdraget uppföljt genom planerade aktiviteter. |
-| Främja en mer<br>inkluderande och<br>jämställd<br>arbetsmarknad | Färdigställa och Uppfylls<br>börja arbeta<br>Se ovan mål 4.3 Bidra till en god kompetensförsörjning i<br>utifrån<br>regionen<br>Närsjukvårdens<br>kompetens-<br>försörjningsplan |
+| Mål | Uppdrag | Kommentar |
+| --- | --- | --- |
+| Bidra till en god<br>kompetens-<br>försörjning i<br>regionen | Färdigställa och<br>börja arbeta<br>utifrån<br>Närsjukvårdens<br>kompetens-<br>försörjningsplan | Uppfylls<br>Under det gångna året har det skapats en ny<br>komptensförsörjningsplan för Närsjukvården utifrån Region<br>Hallands Regionprioriterad kompetensförsörjningsplan. Full<br>implementering av planen sker under 2025. Ett omtag har gjorts<br>kring regionens och förvaltningens arbetsgivarvarumärke och en<br>framgångsrik satsning har genomförts kring rekrytering av<br>hyrläkare inför hyrläkarstopp 1 februari. En grundläggande del i<br>att möjliggöra en målanpassad kompetensförsörjning med<br>befintlig personal är den omorganisation som är genomförd inom<br>Folktandvården. Denna syftar bland annat till att möjliggöra en<br>jämnare bemanning, och samtidigt främja spridning av kunskap,<br>erfarenheter och kompetens på ett mer öppet sätt inom hela<br>Folktandvården och inte bara inom enskild klinik. Ett arbete är<br>inlett för att förbättra tillgången till tandsköterskor. I<br>verksamheterna pågår löpande kompetensutveckling och<br>utbildande insatser för de olika yrkesgrupperna för att kunna<br>bedriva en säker och evidensbaserad vård.<br>Uppdraget uppföljt genom planerade aktiviteter |
+| Bidra till en god<br>hälsa i<br>befolkningen och<br>minskade<br>hälsoskillnader | Stärka samverkan<br>mellan våra<br>områden och med<br>andra vårdaktörer | Uppfylls<br>Vårdcentralen Halland och Folktandvården Halland har arbetat<br>vidare med att samverkansprojektet Små barn vi hjälps åt och<br>projektet har utökats till fler enheter. Under året har en<br>gemensam kompetenshöjande utbildning genomförts som<br>resulterade i ökad kunskap kring levnadsvanor, tobak, nikotin,<br>energidryck och dess effekt på kroppen och munhälsan.<br>Under sommaren har två vårdcentralsakuter vid<br>akutmottagningarna i Halmstad och Varberg varit i drift, ett<br>samarbetsprojekt med Hallands sjukhus, se avsnitt 2.1.<br>Vårdcentralen Halland har under året haft lokal samverkan med<br>Psykiatrin Halland i varje kommun.<br>Folktandvården Halland har haft ett tätt samarbete med<br>Specialisttandvården gällande kompetensförsörjning av<br>tandsköterskor och digitala konsultationer. I Folktandvården<br>pågår utvecklingsprojekt kring minskad kariesförekomst och<br>motiverande samtal, se avsnitt 2.5.6. |
+|  |  | Arbete pågår för strategisk förflyttning av nära vård till<br>primärvården. Under året pågår arbete inom processerna<br>Osteoporos, Rehabilitering av Hjärtsvikt och Ischemi och<br>Diabetes Mellitus samt Astma och KOL. Arbetet omfattar nära<br>samarbete med alla vårdnivåer.<br>Ett viktigt arbete i nära samverkan med Psykiatrin och de<br>halländska kommunerna är suicidpreventionsarbetet.<br>Utbildningar har genomförts samt stöd och samordning getts<br>kring skolbaserad suicidprevention. Inom<br>barnhälsovårdsuppdraget har utbildningar genomförts inom barn<br>som riskerar att fara illa och våld i nära relationer. Deltagande<br>har skett i nätverk med elevhälsans medicinska insatser. Se mer<br>avsnitt 2.4.<br>Uppdraget uppföljt genom planerade aktiviteter. |
+| Främja en mer<br>inkluderande och<br>jämställd<br>arbetsmarknad | Färdigställa och<br>börja arbeta<br>utifrån<br>Närsjukvårdens<br>kompetens-<br>försörjningsplan | Uppfylls<br>Se ovan mål 4.3 Bidra till en god kompetensförsörjning i<br>regionen |
 
 <!-- sida 23 -->
 
@@ -961,16 +945,16 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 [Tabell 23-25-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/23-25-1.csv)
 
-| Mål | Uppdrag Kommentar |
-| --- | --- |
-| Vidareutveckla<br>den nära vården | Samverka med Uppfylls<br>patienten för<br>Närsjukvården deltar i regional utvecklingsgrupp och<br>delaktighet och<br>genomförandegrupp för utveckling av nära vård i Halland.<br>kontinuitet i sin<br>Färdplanen Omtanke Halland är inarbetad i förvaltningens<br>vård, utifrån<br>strategiska planering. Med mål att stärka invånarens delaktighet<br>behov<br>och stärka rollen fast vårdkontakt pågår ett pilotprojekt, Vård och<br>omsorgskollen, avseende utskrivningsprocessen tillsammans<br>med Hallands sjukhus och kommunerna.<br>Fast läkarkontakt syftar till att skapa trygghet och kontinuitet<br>genom att möjliggöra en förtroendefull relation mellan läkare och<br>patient. Uppföljningen av Vårdcentralen Halland vid utgången av<br>2024 visar att 69 % av de listade patienter har en registrerad fast<br>läkarkontakt. Majoriteten av vårdcentralerna (21 av 24) uppfyller<br>SKR och regeringens målsättning att andelen i befolkningen<br>som har en namngiven fast läkarkontakt i primärvården ska<br>utgöra minst 55 procent.<br>Under året har ett förvaltningsgemensamt utvecklingsarbete<br>utifrån riktlinjer kring Våld i nära relationer, VINR, pågått. En<br>utbildningssatsning genomfördes hösten 2023 för samtliga<br>chefer och förvaltningens rutin "Upptäcka och rutinmässigt ställa<br>frågor om våld i nära relationer" uppdaterades. Målet är att<br>frågan om VINR ska ställas i större utsträckning vid<br>vårdbesöken. Vårdcentralerna har under året arbetat för att<br>medarbetare ska ha kunskap om hur och när frågan ställs och<br>var patienterna kan få hjälp.<br>Inom Folktandvården Halland har informationskampanj för ökad<br>kännedom om möjligheten till digital tandvård genomförts vid två<br>tillfällen under året. Även en riktad kampanj till 23-åringar som<br>övergår till vuxentandvård genomfördes för att informera om<br>förändringen samt erbjuda frisktandvårdsavtal. En ny digital<br>funktion för vårdplanering infördes under året på samtliga<br>kliniker efter ett lyckat pilotprojekt. Den digitala funktionen |
-|  | innebär stöd i att lägga korrekt revisionsintervall efter avslutad<br>undersökning. Uppföljning visar på minskad administrationstid<br>och ökad följsamhet till revisionsintervall. Inom tandvården<br>fortsätter arbetet med rutinen för omhändertagande av patienter<br>som riskerar att få eller har karies/tandlossning. Rutinen är<br>implementerad i verksamheterna och medarbetare har fått<br>utbildning i motiverande samtal.<br>Uppdraget har följts upp genom planerade aktiviteter samt<br>indikatorer<br>• Andel barn som tillhör röd riskgrupp och har fått en<br>behandlingsplan<br>• Andel vuxna som tillhör röd riskgrupp och har fått en<br>behandlingsplan |
-|  | Stärka samverkan Uppfylls<br>mellan våra<br>Se ovan mål 4.3 Utbildning, kompetens och jämlik hälsa.<br>områden och med<br>andra vårdaktörer |
-| Säkerställa god<br>tillgänglighet till<br>vård | Uppnå Uppfylls delvis<br>tillgänglighet<br>Inom Vårdcentralen Halland nås inte riktigt målet om 90 %<br>utifrån krav och<br>tillgänglighet för medicinsk bedömning inom tre dagar.<br>löften - Digitalt<br>Vårdcentralerna har en något lägre telefontillgänglighet, men<br>först - fysiskt när<br>hög tillgänglighet i den digitala plattformen med ökat antal<br>det behövs<br>inkommande chattar och korta svarstider. Inom Folktandvården<br>nås målet om väntetid till tandregleringen. Undersökningar som<br>genomförs i tid på barn uppnås, men inte för vuxna. Inom<br>Folktandvården Halland har digital plattform införts vilket ökat<br>tillgängligheten genom digital tandvård. Inom förvaltningen pågår<br>ytterligare ett antal digitala satsningar som långsiktigt bidrar till<br>ökad tillgänglighet genom effektivare och smartare arbetssätt, se<br>avsnitt 4.1 mål Stärka digital utveckling för smart och enkel<br>vardag. Digitalt först - fysiskt när det behövs<br>Uppdraget följs genom följande indikatorer, se uppföljning avsnitt<br>2.5.1-2.<br>• Kontakt med primärvården samma dag, vårdgaranti,<br>telefontillgänglighet<br>• Om patienten bedöms behöva en medicinsk<br>bedömning av sitt hälsoproblem ska patienten få det av<br>legitimerad personal inom tre dagar, vårdgaranti<br>• Mediansvarstid digital plattform, chatt<br>• Väntetiden på Tandregleringen<br>• Andel undersökningar på barn som genomförs i tid<br>• Andel undersökningar på vuxna som genomförs i tid<br>• Antal vaccinationer, covid-19 och säsongsinfluensa |
-| Utveckla arbetet<br>för barn och unga<br>med psykisk<br>ohälsa | Utveckla Uppfylls<br>individuell vård<br>Inom suicidprevention har arbetet skett utifrån regional<br>och stärka<br>handlingsplan suicidprevention. Implementeringsarbete och<br>efterlevnad av<br>kompetensutveckling för hela vårdvalet pågår. Utbildningar har<br>vårdförlopp<br>genomförts samt stöd och samordning givits kring skolbaserad<br>suicidprevention. Inom barnhälsovårdsuppdraget har<br>utbildningar genomförts inom barn som riskerar att fara illa, våld<br>i nära relationer. Deltagande har skett i nätverk med elevhälsans<br>medicinska insatser.<br>Samverkan sker också med specialistvården (BUPs första linjen<br>inom Psykiatrin) i att förbättra flöden för de barn som ska fortsatt |
-|  | omhändertas inom primärvården. För att öka kunskapen om<br>ungas utsatthet på nätet genomfördes under hösten en<br>föreläsning kring trygg digital uppväxt.<br>Inom Folktandvården Halland finns nu möjlighet till digitala<br>möten med barn som uteblir från besök på grund av<br>tandvårdsrädsla eller psykisk ohälsa. Folktandvården har två<br>projekt, beviljade med regionala utvecklingsmedel, för att<br>förebygga och minska kariesförekomst hos barn som har hög<br>risk för dålig munhälsa. Arbetet omfattar besök på skolor för att<br>ge munhälsolektioner (6-12 år) i utsatta område med hög risk för<br>dålig munhälsa samt motiverande samtal för förebyggande hos<br>barn i ålder 1–5 år.<br>Uppdraget uppföljt genom planerade aktiviteter. |
-|  | Stärka samverkan Uppfylls<br>mellan våra<br>Se ovan mål 4.3 Utbildning, kompetens och jämlik hälsa<br>områden och med<br>andra vårdaktörer |
-| Öka användandet<br>av digitala verktyg<br>och besöksformer | Stärka digital Uppfylls<br>utveckling för<br>Se ovan mål 4.1 Accelerera digital transformation<br>smart och enkel<br>vardag. Digitalt<br>först - fysiskt när<br>det behövs |
+| Mål | Uppdrag | Kommentar |
+| --- | --- | --- |
+| Vidareutveckla<br>den nära vården | Samverka med<br>patienten för<br>delaktighet och<br>kontinuitet i sin<br>vård, utifrån<br>behov | Uppfylls<br>Närsjukvården deltar i regional utvecklingsgrupp och<br>genomförandegrupp för utveckling av nära vård i Halland.<br>Färdplanen Omtanke Halland är inarbetad i förvaltningens<br>strategiska planering. Med mål att stärka invånarens delaktighet<br>och stärka rollen fast vårdkontakt pågår ett pilotprojekt, Vård och<br>omsorgskollen, avseende utskrivningsprocessen tillsammans<br>med Hallands sjukhus och kommunerna.<br>Fast läkarkontakt syftar till att skapa trygghet och kontinuitet<br>genom att möjliggöra en förtroendefull relation mellan läkare och<br>patient. Uppföljningen av Vårdcentralen Halland vid utgången av<br>2024 visar att 69 % av de listade patienter har en registrerad fast<br>läkarkontakt. Majoriteten av vårdcentralerna (21 av 24) uppfyller<br>SKR och regeringens målsättning att andelen i befolkningen<br>som har en namngiven fast läkarkontakt i primärvården ska<br>utgöra minst 55 procent.<br>Under året har ett förvaltningsgemensamt utvecklingsarbete<br>utifrån riktlinjer kring Våld i nära relationer, VINR, pågått. En<br>utbildningssatsning genomfördes hösten 2023 för samtliga<br>chefer och förvaltningens rutin "Upptäcka och rutinmässigt ställa<br>frågor om våld i nära relationer" uppdaterades. Målet är att<br>frågan om VINR ska ställas i större utsträckning vid<br>vårdbesöken. Vårdcentralerna har under året arbetat för att<br>medarbetare ska ha kunskap om hur och när frågan ställs och<br>var patienterna kan få hjälp.<br>Inom Folktandvården Halland har informationskampanj för ökad<br>kännedom om möjligheten till digital tandvård genomförts vid två<br>tillfällen under året. Även en riktad kampanj till 23-åringar som<br>övergår till vuxentandvård genomfördes för att informera om<br>förändringen samt erbjuda frisktandvårdsavtal. En ny digital<br>funktion för vårdplanering infördes under året på samtliga<br>kliniker efter ett lyckat pilotprojekt. Den digitala funktionen |
+|  |  | innebär stöd i att lägga korrekt revisionsintervall efter avslutad<br>undersökning. Uppföljning visar på minskad administrationstid<br>och ökad följsamhet till revisionsintervall. Inom tandvården<br>fortsätter arbetet med rutinen för omhändertagande av patienter<br>som riskerar att få eller har karies/tandlossning. Rutinen är<br>implementerad i verksamheterna och medarbetare har fått<br>utbildning i motiverande samtal.<br>Uppdraget har följts upp genom planerade aktiviteter samt<br>indikatorer<br>• Andel barn som tillhör röd riskgrupp och har fått en<br>behandlingsplan<br>• Andel vuxna som tillhör röd riskgrupp och har fått en<br>behandlingsplan |
+|  | Stärka samverkan<br>mellan våra<br>områden och med<br>andra vårdaktörer | Uppfylls<br>Se ovan mål 4.3 Utbildning, kompetens och jämlik hälsa. |
+| Säkerställa god<br>tillgänglighet till<br>vård | Uppnå<br>tillgänglighet<br>utifrån krav och<br>löften - Digitalt<br>först - fysiskt när<br>det behövs | Uppfylls delvis<br>Inom Vårdcentralen Halland nås inte riktigt målet om 90 %<br>tillgänglighet för medicinsk bedömning inom tre dagar.<br>Vårdcentralerna har en något lägre telefontillgänglighet, men<br>hög tillgänglighet i den digitala plattformen med ökat antal<br>inkommande chattar och korta svarstider. Inom Folktandvården<br>nås målet om väntetid till tandregleringen. Undersökningar som<br>genomförs i tid på barn uppnås, men inte för vuxna. Inom<br>Folktandvården Halland har digital plattform införts vilket ökat<br>tillgängligheten genom digital tandvård. Inom förvaltningen pågår<br>ytterligare ett antal digitala satsningar som långsiktigt bidrar till<br>ökad tillgänglighet genom effektivare och smartare arbetssätt, se<br>avsnitt 4.1 mål Stärka digital utveckling för smart och enkel<br>vardag. Digitalt först - fysiskt när det behövs<br>Uppdraget följs genom följande indikatorer, se uppföljning avsnitt<br>2.5.1-2.<br>• Kontakt med primärvården samma dag, vårdgaranti,<br>telefontillgänglighet<br>• Om patienten bedöms behöva en medicinsk<br>bedömning av sitt hälsoproblem ska patienten få det av<br>legitimerad personal inom tre dagar, vårdgaranti<br>• Mediansvarstid digital plattform, chatt<br>• Väntetiden på Tandregleringen<br>• Andel undersökningar på barn som genomförs i tid<br>• Andel undersökningar på vuxna som genomförs i tid<br>• Antal vaccinationer, covid-19 och säsongsinfluensa |
+| Utveckla arbetet<br>för barn och unga<br>med psykisk<br>ohälsa | Utveckla<br>individuell vård<br>och stärka<br>efterlevnad av<br>vårdförlopp | Uppfylls<br>Inom suicidprevention har arbetet skett utifrån regional<br>handlingsplan suicidprevention. Implementeringsarbete och<br>kompetensutveckling för hela vårdvalet pågår. Utbildningar har<br>genomförts samt stöd och samordning givits kring skolbaserad<br>suicidprevention. Inom barnhälsovårdsuppdraget har<br>utbildningar genomförts inom barn som riskerar att fara illa, våld<br>i nära relationer. Deltagande har skett i nätverk med elevhälsans<br>medicinska insatser.<br>Samverkan sker också med specialistvården (BUPs första linjen<br>inom Psykiatrin) i att förbättra flöden för de barn som ska fortsatt |
+|  |  | omhändertas inom primärvården. För att öka kunskapen om<br>ungas utsatthet på nätet genomfördes under hösten en<br>föreläsning kring trygg digital uppväxt.<br>Inom Folktandvården Halland finns nu möjlighet till digitala<br>möten med barn som uteblir från besök på grund av<br>tandvårdsrädsla eller psykisk ohälsa. Folktandvården har två<br>projekt, beviljade med regionala utvecklingsmedel, för att<br>förebygga och minska kariesförekomst hos barn som har hög<br>risk för dålig munhälsa. Arbetet omfattar besök på skolor för att<br>ge munhälsolektioner (6-12 år) i utsatta område med hög risk för<br>dålig munhälsa samt motiverande samtal för förebyggande hos<br>barn i ålder 1–5 år.<br>Uppdraget uppföljt genom planerade aktiviteter. |
+|  | Stärka samverkan<br>mellan våra<br>områden och med<br>andra vårdaktörer | Uppfylls<br>Se ovan mål 4.3 Utbildning, kompetens och jämlik hälsa |
+| Öka användandet<br>av digitala verktyg<br>och besöksformer | Stärka digital<br>utveckling för<br>smart och enkel<br>vardag. Digitalt<br>först - fysiskt när<br>det behövs | Uppfylls<br>Se ovan mål 4.1 Accelerera digital transformation |
 
 <!-- sida 24 -->
 
@@ -984,13 +968,13 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 [Tabell 25-26-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/25-26-1.csv)
 
-| Mål | Uppdrag Kommentar |
-| --- | --- |
-| Utveckla<br>cancervården<br>samt förbättra<br>resultatet för de<br>kvalitetsindikatore<br>r där Halland<br>ligger under<br>rikssnitt | Utveckla Uppfylls<br>individuell vård<br>Vårdcentralen Halland har arbetat vidare med att remisser är<br>och stärka<br>korrekt märkta utifrån Standardiserade vårdförlopp, SVF, när de<br>efterlevnad av<br>kommer till slutenvården. Verksamheten har 87 % korrekt<br>vårdförlopp<br>märkta remisser. Kontinuerliga dialoger inom läkargrupperna<br>sker under året.<br>Uppdraget har följts upp genom aktiviteter och följande indikator,<br>• Andel remisser som är korrekt märkta, SVF, när de<br>kommer till slutenvården |
-| Säkerställa<br>införandet av<br>framtidens<br>vårdinformations-<br>stöd | Säkerställa Uppfylls<br>införande av<br>Förberedelser pågår för införandet av det framtida<br>framtidens<br>vårdinformationsstödet, FVIS och journalsystemet Cosmic som<br>vårdinformations-<br>startar den 29 mars. Arbete pågår inom förvaltningen och för<br>stöd<br>hela vårdvalet och följer den regionala processen.<br>Utbildningsinsatser har gjorts inom uppsatt tid och arbete med<br>rutiner inför övergången till Cosmic fortlöper enligt plan.<br>Stödfunktioner som nu arbetar med förberedelser har fått<br>fördjupad utbildning då de även kommer vara support i<br>verksamheten vid start. Förändrade arbetssätt är identifierade<br>och dokumenteras i nya rutiner och riktlinjer. Förberedande<br>arbete har skett för att avsluta VAS och migrera information.<br>Tandvården kommer att integrera befintligt system Carita till<br>Cosmic.<br>Uppdraget uppföljt genom planerade aktiviteter |
-| Säkerställa<br>implementering | Utveckla Uppfylls<br>individuell vård<br>Utifrån den strategiska förflyttningen av nära vård till |
-| och uppföljning av<br>personcentrerade<br>och<br>sammanhållna<br>vårdförlopp | och stärka närsjukvården krävs implementeringsarbete för<br>efterlevnad av personcentrerade sammanhållna vårdförlopp. I<br>vårdförlopp regiongemensamma utvecklingsuppdrag har arbete skett med<br>olika vårdförlopp: rehabilitering av invånare med diagnoserna<br>hjärtsvikt och ischemi samt uppdrag inom processerna<br>Osteoporosprocessen, Diabetes samt Astma/KOL. Inom<br>suicidprevention har arbetet skett utifrån regional handlingsplan<br>suicidprevention. Implementeringsarbete och<br>kompetensutveckling för hela vårdvalet pågår.<br>Vårdcentralen Halland har arbetat vidare med att remisser är<br>korrekt märkta utifrån Standardiserade vårdförlopp, SVF, när de<br>kommer till slutenvården. Verksamheten har 87 % korrekt<br>märkta remisser. Kontinuerliga dialoger inom läkargrupperna<br>sker under året. Samverkan sker också med specialistvården<br>(BUPs första linjen inom Psykiatrin) i att förbättra flöden för de<br>barn som ska fortsatt omhändertas inom primärvården. För att<br>öka kunskapen om ungas utsatthet på nätet genomfördes under<br>hösten en föreläsning kring trygg digital uppväxt.<br>Inom Folktandvården Halland finns nu möjlighet till digitala möte<br>med barn som uteblir från besök på grund av tandvårdsrädsla<br>eller psykisk ohälsa. Folktandvården har två projekt, beviljade<br>med regionala utvecklingsmedel, för att förebygga och minska<br>kariesförekomst hos barn som har hög risk för dålig munhälsa.<br>Arbetet omfattar besök på skolor för att ge munhälsolektioner (6-<br>12 år) i utsatta område med hög risk för dålig munhälsa samt<br>motiverande samtal för förebyggande hos barn i ålder 1–5 år.<br>Uppdraget uppföljt genom aktiviteter och följande indikatorer<br>• Andel remisser som är korrekt märkta, SVF, när de<br>kommer till slutenvården<br>• Öka andel vuxna revisionspatienter med<br>frisktandvårdsabonnemang |
-|  | Etablera ett Uppfylls<br>systematiskt<br>Det stärkta systematiska patientsäkerhetsarbetet utifrån<br>patientsäkerhets-<br>Närsjukvården Hallands handlingsplan har genomförts enligt<br>arbete utifrån<br>föregående års planering. Uppdraget uppföljt genom lokal<br>Närsjukvården<br>handlingsplan och följande indikatorer, se uppföljning och info i<br>Hallands<br>avsnitt 2.5.5<br>handlingsplan<br>• Följsamhet strukturerad journalgranskning<br>• Hållbart säkerhetsengagemang, HSE |
+| Mål | Uppdrag | Kommentar |
+| --- | --- | --- |
+| Utveckla<br>cancervården<br>samt förbättra<br>resultatet för de<br>kvalitetsindikatore<br>r där Halland<br>ligger under<br>rikssnitt | Utveckla<br>individuell vård<br>och stärka<br>efterlevnad av<br>vårdförlopp | Uppfylls<br>Vårdcentralen Halland har arbetat vidare med att remisser är<br>korrekt märkta utifrån Standardiserade vårdförlopp, SVF, när de<br>kommer till slutenvården. Verksamheten har 87 % korrekt<br>märkta remisser. Kontinuerliga dialoger inom läkargrupperna<br>sker under året.<br>Uppdraget har följts upp genom aktiviteter och följande indikator,<br>• Andel remisser som är korrekt märkta, SVF, när de<br>kommer till slutenvården |
+| Säkerställa<br>införandet av<br>framtidens<br>vårdinformations-<br>stöd | Säkerställa<br>införande av<br>framtidens<br>vårdinformations-<br>stöd | Uppfylls<br>Förberedelser pågår för införandet av det framtida<br>vårdinformationsstödet, FVIS och journalsystemet Cosmic som<br>startar den 29 mars. Arbete pågår inom förvaltningen och för<br>hela vårdvalet och följer den regionala processen.<br>Utbildningsinsatser har gjorts inom uppsatt tid och arbete med<br>rutiner inför övergången till Cosmic fortlöper enligt plan.<br>Stödfunktioner som nu arbetar med förberedelser har fått<br>fördjupad utbildning då de även kommer vara support i<br>verksamheten vid start. Förändrade arbetssätt är identifierade<br>och dokumenteras i nya rutiner och riktlinjer. Förberedande<br>arbete har skett för att avsluta VAS och migrera information.<br>Tandvården kommer att integrera befintligt system Carita till<br>Cosmic.<br>Uppdraget uppföljt genom planerade aktiviteter |
+| Säkerställa<br>implementering | Utveckla<br>individuell vård | Uppfylls<br>Utifrån den strategiska förflyttningen av nära vård till |
+| och uppföljning av<br>personcentrerade<br>och<br>sammanhållna<br>vårdförlopp | och stärka<br>efterlevnad av<br>vårdförlopp | närsjukvården krävs implementeringsarbete för<br>personcentrerade sammanhållna vårdförlopp. I<br>regiongemensamma utvecklingsuppdrag har arbete skett med<br>olika vårdförlopp: rehabilitering av invånare med diagnoserna<br>hjärtsvikt och ischemi samt uppdrag inom processerna<br>Osteoporosprocessen, Diabetes samt Astma/KOL. Inom<br>suicidprevention har arbetet skett utifrån regional handlingsplan<br>suicidprevention. Implementeringsarbete och<br>kompetensutveckling för hela vårdvalet pågår.<br>Vårdcentralen Halland har arbetat vidare med att remisser är<br>korrekt märkta utifrån Standardiserade vårdförlopp, SVF, när de<br>kommer till slutenvården. Verksamheten har 87 % korrekt<br>märkta remisser. Kontinuerliga dialoger inom läkargrupperna<br>sker under året. Samverkan sker också med specialistvården<br>(BUPs första linjen inom Psykiatrin) i att förbättra flöden för de<br>barn som ska fortsatt omhändertas inom primärvården. För att<br>öka kunskapen om ungas utsatthet på nätet genomfördes under<br>hösten en föreläsning kring trygg digital uppväxt.<br>Inom Folktandvården Halland finns nu möjlighet till digitala möte<br>med barn som uteblir från besök på grund av tandvårdsrädsla<br>eller psykisk ohälsa. Folktandvården har två projekt, beviljade<br>med regionala utvecklingsmedel, för att förebygga och minska<br>kariesförekomst hos barn som har hög risk för dålig munhälsa.<br>Arbetet omfattar besök på skolor för att ge munhälsolektioner (6-<br>12 år) i utsatta område med hög risk för dålig munhälsa samt<br>motiverande samtal för förebyggande hos barn i ålder 1–5 år.<br>Uppdraget uppföljt genom aktiviteter och följande indikatorer<br>• Andel remisser som är korrekt märkta, SVF, när de<br>kommer till slutenvården<br>• Öka andel vuxna revisionspatienter med<br>frisktandvårdsabonnemang |
+|  | Etablera ett<br>systematiskt<br>patientsäkerhets-<br>arbete utifrån<br>Närsjukvården<br>Hallands<br>handlingsplan | Uppfylls<br>Det stärkta systematiska patientsäkerhetsarbetet utifrån<br>Närsjukvården Hallands handlingsplan har genomförts enligt<br>föregående års planering. Uppdraget uppföljt genom lokal<br>handlingsplan och följande indikatorer, se uppföljning och info i<br>avsnitt 2.5.5<br>• Följsamhet strukturerad journalgranskning<br>• Hållbart säkerhetsengagemang, HSE |
 
 <!-- sida 26 -->
 
@@ -1000,12 +984,12 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 [Tabell 26-27-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/26-27-1.csv)
 
-| Mål | Uppdrag Kommentar |
-| --- | --- |
-|  | Driva varje Uppfylls<br>verksamhet i<br>Grunden i ekonomistyrningen är att varje enhet, såväl<br>ekonomisk balans<br>vårdcentral som folktandvårdsklinik, ska bedrivas i ekonomisk<br>och öka kunskap<br>balans. Verksamhetens intäkter ska alltså täcka såväl löpande<br>om affärsmodellen<br>drift som förväntad utveckling. Finansieringsmodellen med<br>konkurrensutsättning ger verksamheten stor möjlighet att<br>påverka såväl intäkter som kostnader men ställer också höga<br>krav på verksamheten att förstå och hantera sin ekonomi för att<br>skapa god kontroll och utrymme för utveckling.<br>För såväl Vårdcentralen Halland som Folktandvården Halland<br>uppfylls målet för 2024. Uppdraget uppföljt genom indikatorer: |
-|  | • Budgetavvikelse<br>• Kostnadsutveckling<br>• Intäktsutveckling<br>• Antal listade patienter<br>• Antal vårdbesök, inkl distans<br>• Bemanningskostnader - läkare och sjuksköterskor i<br>relation till totala personalkostnader i<br>vårdförvaltningarna |
-|  | Minska personal- Uppfylls<br>omsättning och<br>Personalomsättningen (R12) uppgick till 14,4% vilket är lägre än<br>korttids-<br>målvärdet på 15,2%. Personalomsättningen skiljer sig markant<br>sjukfrånvaro<br>mellan verksamhetsområdena. Vårdcentralen har 10,7% och<br>Folktandvården har 23%. Den totala sjukfrånvaron (R12) ligger<br>på 6,3%, vilket är högre än målvärdet. Det skiljer sig mellan<br>områdena, Folktandvården har en sjukfrånvaro på 7,1% och<br>Vårdcentralerna på 5,9%. Även om målvärdet inte nås så är det<br>noterbart att sjukfrånvaron i verksamheten går neråt.<br>Den totala kortidssjukfrånvaron R12 ligger just nu 2,7% vilket är<br>en liten nedgång jämfört med förra året. Det skiljer mellan<br>verksamheter där Folktandvården har en något högre siffra.<br>Uppdraget uppföljt genom insatser i insatser i arbetsmiljöplanen<br>samt följande indikatorer:<br>• Personalomsättning<br>• Sjukfrånvaro |
-|  | Stärka Uppfylls<br>krisberedskapen<br>Rutin för Närsjukvårdens kontinuitetshantering har tagits fram<br>och öka<br>och arbete på såväl övergripande nivå som enhetsnivå har<br>robustheten<br>genomförts och fortsätter 2025, allt för att stärka beredskapen.<br>genom säkrad<br>Krisledningen har genomfört övning. Förvaltningen har deltagit i<br>kontinuitets-<br>arbete med framtagande av regional masskadeplan,<br>planering och<br>förvaltningens plan fastställs 2025. Säkerhetsronder har<br>försörjnings-<br>genomförts liksom översyn av fysisk säkerhet. Under året har<br>beredskap<br>förvaltningen deltagit i regionalt arbete för att stärka<br>försörjningsberedskapen.<br>Uppdraget uppföljt genom aktiviteter |
+| Mål | Uppdrag | Kommentar |
+| --- | --- | --- |
+|  | Driva varje<br>verksamhet i<br>ekonomisk balans<br>och öka kunskap<br>om affärsmodellen | Uppfylls<br>Grunden i ekonomistyrningen är att varje enhet, såväl<br>vårdcentral som folktandvårdsklinik, ska bedrivas i ekonomisk<br>balans. Verksamhetens intäkter ska alltså täcka såväl löpande<br>drift som förväntad utveckling. Finansieringsmodellen med<br>konkurrensutsättning ger verksamheten stor möjlighet att<br>påverka såväl intäkter som kostnader men ställer också höga<br>krav på verksamheten att förstå och hantera sin ekonomi för att<br>skapa god kontroll och utrymme för utveckling.<br>För såväl Vårdcentralen Halland som Folktandvården Halland<br>uppfylls målet för 2024. Uppdraget uppföljt genom indikatorer: |
+|  |  | • Budgetavvikelse<br>• Kostnadsutveckling<br>• Intäktsutveckling<br>• Antal listade patienter<br>• Antal vårdbesök, inkl distans<br>• Bemanningskostnader - läkare och sjuksköterskor i<br>relation till totala personalkostnader i<br>vårdförvaltningarna |
+|  | Minska personal-<br>omsättning och<br>korttids-<br>sjukfrånvaro | Uppfylls<br>Personalomsättningen (R12) uppgick till 14,4% vilket är lägre än<br>målvärdet på 15,2%. Personalomsättningen skiljer sig markant<br>mellan verksamhetsområdena. Vårdcentralen har 10,7% och<br>Folktandvården har 23%. Den totala sjukfrånvaron (R12) ligger<br>på 6,3%, vilket är högre än målvärdet. Det skiljer sig mellan<br>områdena, Folktandvården har en sjukfrånvaro på 7,1% och<br>Vårdcentralerna på 5,9%. Även om målvärdet inte nås så är det<br>noterbart att sjukfrånvaron i verksamheten går neråt.<br>Den totala kortidssjukfrånvaron R12 ligger just nu 2,7% vilket är<br>en liten nedgång jämfört med förra året. Det skiljer mellan<br>verksamheter där Folktandvården har en något högre siffra.<br>Uppdraget uppföljt genom insatser i insatser i arbetsmiljöplanen<br>samt följande indikatorer:<br>• Personalomsättning<br>• Sjukfrånvaro |
+|  | Stärka<br>krisberedskapen<br>och öka<br>robustheten<br>genom säkrad<br>kontinuitets-<br>planering och<br>försörjnings-<br>beredskap | Uppfylls<br>Rutin för Närsjukvårdens kontinuitetshantering har tagits fram<br>och arbete på såväl övergripande nivå som enhetsnivå har<br>genomförts och fortsätter 2025, allt för att stärka beredskapen.<br>Krisledningen har genomfört övning. Förvaltningen har deltagit i<br>arbete med framtagande av regional masskadeplan,<br>förvaltningens plan fastställs 2025. Säkerhetsronder har<br>genomförts liksom översyn av fysisk säkerhet. Under året har<br>förvaltningen deltagit i regionalt arbete för att stärka<br>försörjningsberedskapen.<br>Uppdraget uppföljt genom aktiviteter |
 
 <!-- sida 27 -->
 
@@ -1017,10 +1001,6 @@ chefer och medarbetare tillsammans tar fram aktiviteter för 2025.
 
 5.1 Årets budgetavvikelse
 
-Indikator      Resultat       Årsbudget      Budgetavvikelse
-Ackumulerad
--104 307 tkr   -111 528 tkr   7 221 tkr
-budgetavvikelse
 Ackumulerad budgetavvikelse
 Budgetavvikelsen för förvaltningen uppgår till +7,2 mnkr för helåret 2024. Båda
 verksamhetsområdena, Vårdcentralen Halland samt Folktandvården Halland, visar positiv
@@ -1066,6 +1046,12 @@ till kärnverksamheten.
 
 28
 
+[Tabell 28-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/28-1.csv)
+
+| Indikator | Resultat | Årsbudget | Budgetavvikelse |
+| --- | --- | --- | --- |
+| Ackumulerad<br>budgetavvikelse | -104 307 tkr | -111 528 tkr | 7 221 tkr |
+
 <!-- sida 29 -->
 
 5.1.1 Resultaträkning
@@ -1086,22 +1072,21 @@ avvikelsen beror på lägre utfall för personalkostnader inklusive hyrpersonal 
 Den positiva avvikelsen reduceras av högre kostnader för köpt vård, lokalprojektering samt
 kostnader för labb- och röntgen.
 
-Indikator                          Utfall            Målvärde
-
-Bemanningskostnader
-\- läkare och sjuksköterskor i
-relation till totala               0,5 %                2 %
-personalkostnader i
-vårdförvaltningarna
-
 5.1.3 Intäktsutveckling
-Skilln. Ack           Intäktsutv.     Skilln.
-Ack utfall Ack utfall         Diff. mot      Budg.
-mot förra budget      mot föreg.      mot
-förra året i år               budget         intäktsutv.
-året   årets          år              budget
-288 984 tkr 296 932 tkr 7 948 tkr 255 874 tkr 41 058 tkr 2,8 % -11,5 % 14,2 %
+
 29
+
+[Tabell 29-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/29-1.csv)
+
+| Indikator | Utfall | Målvärde |
+| --- | --- | --- |
+| Bemanningskostnader<br>- läkare och sjuksköterskor i<br>relation till totala<br>personalkostnader i<br>vårdförvaltningarna | 0,5 % | 2 % |
+
+[Tabell 29-2](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/29-2.csv)
+
+| Ack utfall<br>förra året | Ack utfall<br>i år | Skilln.<br>mot förra<br>året | Ack<br>budget<br>årets | Diff. mot<br>budget | Intäktsutv.<br>mot föreg.<br>år | Budg.<br>intäktsutv. | Skilln.<br>mot<br>budget |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 288 984 tkr | 296 932 tkr | 7 948 tkr | 255 874 tkr | 41 058 tkr | 2,8 % | -11,5 % | 14,2 % |
 
 <!-- sida 30 -->
 
@@ -1136,9 +1121,6 @@ Bäckagård samt ett antal telefoniutbyten som försenats inom Närsjukvården.
 5.2 Investeringar
 
 5.2.1 Investeringsbudgetavvikelse
-Utfall              Årsbudget           Budgetavvikelse
-
-12 142 tkr          24 360 tkr          12 218 tkr
 
 Närsjukvårdens investeringar uppgår under 2024 till 12,1 mnkr vilket ger en avvikelse mot
 beslutad budget (24,4 mnkr) på +12,3 mnkr.
@@ -1150,3 +1132,9 @@ investeringar uppgår till 2,4 mnkr och avser bland annat mobil EKG-apparat, inb
 som kommer att fortsätta under 2025.
 
 30
+
+[Tabell 30-1](bilaga-arsredovisning-2024-narsjukvarden-halland-helar-2024.tabeller/30-1.csv)
+
+| Utfall | Årsbudget | Budgetavvikelse |
+| --- | --- | --- |
+| 12 142 tkr | 24 360 tkr | 12 218 tkr |
