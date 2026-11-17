@@ -12,14 +12,14 @@ kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftna
 sha256: ad96669c8c1cc9eb615a0e36111914083bd0505768df23474ad4562b46715968
 bytes: 879982
 sidor: 36
-hamtad: 2026-11-17T12:44:10+00:00
-konverterad: 2026-11-17T12:44:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T18:18:51+00:00
+konverterad: 2026-11-17T18:18:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: [1, 4, 5, 6, 7, 8, 10, 11, 13, 18, 23, 24, 25, 26, 27, 34]
+figurer: [1, 4, 5, 23, 24, 25, 26, 27, 34]
 tolkade: []
 granskad: null
 ---
@@ -112,31 +112,18 @@ förvaltningschef Närsjukvården Halland 2021-01-27
 
 2 Regionfullmäktiges   fokusområden
 
-Fokusområde
-Hög attraktivitet
-Bättre digital tillgänglighet
-Nära och sammanhållen vård
-Styrning utifrån kunskap och kvalitet inom Hälso- och sjukvård
-Kompetensförsörjning
-Minska kostnadsutvecklingstakten för att möjliggöra en långsiktigt god ekonomisk hushållning
-Verksamhetens egna utvecklingsområden
-
 2.1 Hög attraktivitet
 
 Regiongemensamt och förvaltningens uppdrag:
 Aktivt klimat- och miljöarbete internt och externt bidrar till att Halland blir
 
 den bästa livsplatsen
-Regiongemensamt och
-Utfall år  Kommentar
-förvaltningens uppdrag
-För tjänsteresor med bil uppfyller Närsjuk-
-Aktivt miljöarbete Uppfylls delvis vården målet om minskning 20% jämfört
-indexår 2015. NSVH minskning drygt 50%
+
 Närsjukvården Hallands miljöarbete 2020 i sammanfattning
 Aktivt klimat- och miljöarbete sker inom tre övergripande områden –
 koldioxidneutralt, hållbar resurshållning och innovationer. Inom Närsjukvården
 Halland är fokus främst på de två första punkterna.
+
 Koldioxidneutralt
 Regionens mål är att minska koldioxidutsläppen med minst 20% från interna
 transporterna t.o.m. 2020 (basår 2015). Närsjukvårdens minskning 50% för period.
@@ -148,6 +135,24 @@ Pandemin.
 Majoriteten av bilarna inom förvaltningen är så kallade flexifuel bilar vilket innebär
 att de kan tankas både med bensin och med E85 (etanol). Under andra halvåret har
 4
+
+[Tabell 4-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/4-1.csv)
+
+|  | Fokusområde |
+| --- | --- |
+| Hög attraktivitet |  |
+| Bättre digital tillgänglighet |  |
+| Nära och sammanhållen vård |  |
+| Styrning utifrån kunskap och kvalitet inom Hälso- och sjukvård |  |
+| Kompetensförsörjning |  |
+| Minska kostnadsutvecklingstakten för att möjliggöra en långsiktigt god ekonomisk hushållning |  |
+| Verksamhetens egna utvecklingsområden |  |
+
+[Tabell 4-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/4-2.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Aktivt miljöarbete | Uppfylls delvis | För tjänsteresor med bil uppfyller Närsjuk-<br>vården målet om minskning 20% jämfört<br>indexår 2015. NSVH minskning drygt 50% |
 
 <!-- sida 5 -->
 
@@ -201,20 +206,12 @@ Regiongemensamt och förvaltningens uppdrag:
 Erbjuda Hallands invånare digitala vårdmöten genom skriftlig
 distanskontakt (t.ex. chat) och/eller digital kontakt via video, som en del av
 det ordinarie utbudet
-Regiongemensamt och
-Utfall år  Kommentar
-förvaltningens uppdrag
-Kraftig ökning under året. Beskrivning
-Digitala vårdmöten 4294 st.   av arbetet inom uppdraget finns i
-avsnitt 3.1
+
 Förvaltningens uppdrag:
 Stärka tillgängligheten för att möta invånares behov, digitalt när det är
 möjligt – fysiskt när det behövs. Översyn verksamhetsnära stöd i
 digitaliseringen
-Förvaltningens uppdrag  Utfall år Kommentar
-Arbetet igångsatt, men med begränsad
-Översyn stöd digitalisering Uppfylls delvis framdrift utifrån omprioriteringar stöd
-pandemi.
+
 För att verksamheterna ännu bättre ska kunna öka sin förmåga att nyttja och dra
 fördelar av den digitala utvecklingen behövs en översyn av organisationens
 
@@ -226,6 +223,18 @@ kommande implementeringen av det framtida vårdinformationssystemet VISUS.
 
 6
 
+[Tabell 6-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/6-1.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag | Utfall år | Kommentar |
+| --- | --- | --- |
+| Digitala vårdmöten | 4294 st. | Kraftig ökning under året. Beskrivning<br>av arbetet inom uppdraget finns i<br>avsnitt 3.1 |
+
+[Tabell 6-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/6-2.csv)
+
+| Förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Översyn stöd digitalisering | Uppfylls delvis | Arbetet igångsatt, men med begränsad<br>framdrift utifrån omprioriteringar stöd<br>pandemi. |
+
 <!-- sida 7 -->
 
 2.3 Nära och sammanhållen vård
@@ -234,20 +243,10 @@ Regiongemensamt och förvaltningens uppdrag:
 Aktivt medverka i den regiongemensamma utredningen om Morgondagens
 Hälso- och sjukvårdsstruktur (MHSS) och omställningsarbetet mot en god
 och nära vård i Halland
-Regiongemensamt och
-Utfall år    Kommentar
-förvaltningens uppdrag
-Närsjukvårdens ledningsgrupp har vid ett
-Aktivt medverka Uppfylls inte tillfälle våren 2020 fått information om MHSS
-men i övrigt inte deltagit i arbetet.
 
 Regiongemensamt och förvaltningens uppdrag:
 Inom ramen för trygg och effektiv utskrivning från slutenvård utveckla
 utskrivningsprocessen och samarbetet med kommunerna
-Regiongemensamt och
-Utfall år  Kommentar
-förvaltningens uppdrag
-Trygg och säker utskrivning Uppfylls Se nedan
 
 Under 2020 har Närsjukvårdens vårdcentraler genomfört 5 327 SIP.
 
@@ -277,14 +276,24 @@ upp det som inte fungerar tillräckligt bra, då det utvecklade arbetssättet ä
 
 7
 
+[Tabell 7-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/7-1.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Aktivt medverka | Uppfylls inte | Närsjukvårdens ledningsgrupp har vid ett<br>tillfälle våren 2020 fått information om MHSS<br>men i övrigt inte deltagit i arbetet. |
+
+[Tabell 7-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/7-2.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag | Utfall år | Kommentar |
+| --- | --- | --- |
+| Trygg och säker utskrivning | Uppfylls | Se nedan |
+
 <!-- sida 8 -->
 
 2.4 Styrning utifrån kunskap och kvalitet inom Hälso- och sjukvård
 
 Regiongemensamt uppdrag:
 Säkerställa följsamhet till de regionala vårdprocesserna inom hjärtsjukvård
-Regiongemensamt uppdrag    Utfall år Kommentar
-Vårdprocesser hjärtsjukvård Uppfylls delvis Se nedan
 
 Närsjukvården har under året arbetat med att säkra basalt omhändertagande av hjärtsvikt och
 har deltagit i det regionala arbetet kring vårdprocesser inom hjärtsjukvård. Att säkerställa
@@ -293,10 +302,7 @@ följsamheten till vårdprocesserna är ett långsiktigt arbete som fortsätter 
 Förvaltningens uppdrag:
 Stärka kvalitetsarbetet genom systematisk kvalitetsuppföljningen, lärande
 och erfarenhetsåterföring
-Förvaltningens uppdrag Utfall år Kommentar
-Uppfylls Arbete igångsatt, men p.g.a. pandemin fram-
-Stärkt kvalitetsarbete
-delvis flyttat för systematiskt genomförande till 2021
+
 Det operativa kvalitetsarbetet och kvalitetsuppföljningen sker till största delen lokalt
 på vårdcentraler och folktandvårskliniker. På förvaltningsnivå handlar det framför allt
 
@@ -312,10 +318,6 @@ Regiongemensamt och förvaltningens uppdrag:
 Utveckla kunskapsstyrning samt samverkan inom område psykisk hälsa –
 modell för en väg in barn och unga
 
-Regiongemensamt och
-Utfall år  Kommentar
-förvaltningens uppdrag
-Modell en väg in  Genomfört   Se nedan
 Närsjukvården deltar aktivt i det regiongemensamma arbetet inom område psykisk
 hälsa:
 
@@ -326,6 +328,24 @@ om ett forum som träffas regelbundet i varje kommun.
 för konsultation i gemensamma patientärenden.
 
 8
+
+[Tabell 8-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/8-1.csv)
+
+| Regiongemensamt uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Vårdprocesser hjärtsjukvård | Uppfylls delvis | Se nedan |
+
+[Tabell 8-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/8-2.csv)
+
+| Förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Stärkt kvalitetsarbete | Uppfylls<br>delvis | Arbete igångsatt, men p.g.a. pandemin fram-<br>flyttat för systematiskt genomförande till 2021 |
+
+[Tabell 8-3](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/8-3.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag | Utfall år | Kommentar |
+| --- | --- | --- |
+| Modell en väg in | Genomfört | Se nedan |
 
 <!-- sida 9 -->
 
@@ -350,25 +370,20 @@ psykiatrin vid årsskiftet.
 Regiongemensamt och förvaltningens uppdrag:
 Att de insatser som görs på olika nivåer i organisationen gör att
 verksamhetens behov av kritisk kompetens tillgodoses.
-Regiongemensamt och
-Utfall år Kommentar
-förvaltningens uppdrag
-Bedömningen är att de aktiviteter som har
-Att kritisk kompetens     påbörjats bidrar till ett mer systematiskt och
-Uppfylls delvis
-tillgodoses               kvalitetssäkrat arbetssätt för att beskriva och
-följa upp kompetensbehov.
+
 Kompetensförsörjning fortsätter att vara en utmaning för att möta den
 transformation hälso- och sjukvården står inför. Det innebär att införandet av nya
 kompetenser, förändrat arbetssätt och digitalisering måste fortsätta.
 Kompetensutveckling av medarbetare och att använda medarbetares kompetens rätt,
 blir allt viktigare. En översyn över vilka kompetenser närsjukvården behöver i
 framtiden behöver göras.
+
 Prioriterat område inför 2020 var att skapa systematik som stödjer verksamheternas
 behov av att kartlägga och följa upp kompetens. Arbetet har skett på flera nivåer.
 \-  Introduktion av chefer i systemet ”kompetensportalen”
 \-  Framtagande och implementation av roller vilket innebär en möjlighet att
 koppla kompetenser till roller och på så sätt identifiera kompetensbehov.
+
 Med det som utgångspunkt fortsätter nu arbetet med att skapa grunden för ett
 kvalitetssäkrat arbetssätt för att beskriva och följa upp kompetensbehov.
 
@@ -380,21 +395,23 @@ Regiongemensamt och förvaltningens uppdrag:
 Skapa förutsättningar för chefer att leda i förändring och att lyckas i sitt
 
 chefsuppdrag
-Regiongemensamt och
-Utfall år Kommentar
-förvaltningens uppdrag
-De aktiviteter som har påbörjas har bidragit till det
-övergripande uppdraget och målet att skapa
-förutsättningar för chefer att leda i förändring och
-Uppfylls att lyckas i sitt uppdrag. Flertal aktiviteter flyttas
-Att leda i förändring
-delvis fram till 2021. Men samtidigt har pandemin
-inneburit stor övning i praktiken för chefer att leda i
-konstant förändring - en ovärderlig kunskap!
+
 Ett hållbart ledarskap och att skapa förutsättningar för chefer att lyckas i sina
 uppdrag handlar om att ge möjlighet till ett nära ledarskap, med ledare som har en
 vilja och förmåga att motivera och engagera sina medarbetare.
 10
+
+[Tabell 10-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/10-1.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Att kritisk kompetens<br>tillgodoses | Uppfylls delvis | Bedömningen är att de aktiviteter som har<br>påbörjats bidrar till ett mer systematiskt och<br>kvalitetssäkrat arbetssätt för att beskriva och<br>följa upp kompetensbehov. |
+
+[Tabell 10-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/10-2.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Att leda i förändring | Uppfylls<br>delvis | De aktiviteter som har påbörjas har bidragit till det<br>övergripande uppdraget och målet att skapa<br>förutsättningar för chefer att leda i förändring och<br>att lyckas i sitt uppdrag. Flertal aktiviteter flyttas<br>fram till 2021. Men samtidigt har pandemin<br>inneburit stor övning i praktiken för chefer att leda i<br>konstant förändring - en ovärderlig kunskap! |
 
 <!-- sida 11 -->
 
@@ -417,26 +434,24 @@ Regiongemensamt och förvaltningens uppdrag:
 Skapa förutsättningar för medarbetare inom kritiska yrkesgrupper att
 arbeta längre
 
-Regiongemensamt och
-Utfall år Kommentar
-förvaltningens uppdrag
-Regiongemensamt arbetet. Begränsad
-Att arbeta längre Uppfylls delvis framdrift på grund av pandemin. Arbete
-fortsätter 2021.
 Förvaltningens uppdrag:
 Skapa förutsättning för förändring och en kultur som motiverar till en mer
 
 flexibel verksamhet – etablera förändringskraft i organisationen.
-Förvaltningens uppdrag Utfall år  Kommentar
-Arbetet igångsatt enligt plan, men drivits
-med något lägre takt på grund av fokus
-Förändringskraft i           pandemin. Samtidigt har pandemin inneburit
-Uppfylls delvis
-verksamheten                 stora krav på förändringskraft i det dagliga
-arbetet genom alla omställningar som
-behövt göras.
 
 11
+
+[Tabell 11-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/11-1.csv)
+
+| Regiongemensamt och<br>förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Att arbeta längre | Uppfylls delvis | Regiongemensamt arbetet. Begränsad<br>framdrift på grund av pandemin. Arbete<br>fortsätter 2021. |
+
+[Tabell 11-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/11-2.csv)
+
+| Förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Förändringskraft i<br>verksamheten | Uppfylls delvis | Arbetet igångsatt enligt plan, men drivits<br>med något lägre takt på grund av fokus<br>pandemin. Samtidigt har pandemin inneburit<br>stora krav på förändringskraft i det dagliga<br>arbetet genom alla omställningar som<br>behövt göras. |
 
 <!-- sida 12 -->
 
@@ -474,10 +489,7 @@ långsiktigt god ekonomisk hushållning
 
 Regiongemensamt uppdrag:
 Nämndens kostnadsutveckling ska inte överstiga den budgeterade nivån
-Regiongemensamt uppdrag     Utfall år Kommentar
-Kostnadsutveckling ska inte
-10,5Mkr    Se avsnitt 5 ekonomi
-överstiga budgeterad nivå
+
 Närsjukvårdens kostnadsutveckling uppgår till 0,3% jämfört med föregående år.
 Justerat för kostnader för tillkommande uppdrag kopplat till pandemin har
 kostnaderna minskat med 1% jämfört med föregående år.
@@ -486,10 +498,7 @@ Förvaltningens uppdrag:
 
 Skapa stabil struktur för planering och uppföljning som stödjer cheferna att
 styra och leda mot en budget i balans.
-Förvaltningens uppdrag      Utfall år Kommentar
-Struktur för planering och
-Genomfört  Se nedan
-uppföljning
+
 Att som första linjens chef leda och styra konkurrensutsatta och intäktsfinansierade
 verksamheter är både stimulerande och utmanande. Det stöd som cheferna får
 behöver stärkas så att man som chef fullt ut kan agera efter det mandat man har. Det
@@ -509,14 +518,28 @@ Förvaltningens uppdrag:
 Stärka kunskap kring att arbeta i en intäktsfinansierad och
 konkurrensutsatt verksamhet för att stärka varumärke och marknadsandel.
 
-Förvaltningens uppdrag      Utfall år  Kommentar
-Stärka kunskap om
-intäktsfinansierad och  Delvis     Se nedan
-konkurrensutsatt verksamhet
 Närsjukvården, både Vårdcentralen Halland och Folktandvården, verkar på en
 konkurrensutsatt marknad och förvaltningen är till största delen intäktsfinansierad,
 
 13
+
+[Tabell 13-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/13-1.csv)
+
+| Regiongemensamt uppdrag | Utfall år | Kommentar |
+| --- | --- | --- |
+| Kostnadsutveckling ska inte<br>överstiga budgeterad nivå | 10,5Mkr | Se avsnitt 5 ekonomi |
+
+[Tabell 13-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/13-2.csv)
+
+| Förvaltningens uppdrag | Utfall år | Kommentar |
+| --- | --- | --- |
+| Struktur för planering och<br>uppföljning | Genomfört | Se nedan |
+
+[Tabell 13-3](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/13-3.csv)
+
+| Förvaltningens uppdrag |  | Utfall år | Kommentar |
+| --- | --- | --- | --- |
+|  | Stärka kunskap om<br>intäktsfinansierad och<br>konkurrensutsatt verksamhet | Delvis | Se nedan |
 
 <!-- sida 14 -->
 
@@ -609,9 +632,6 @@ Utvecklingsarbete fortsätter 2021.
 Fortsatt digital utveckling
 
 Antal digitala distanskontakter per månad
-Indikator                   Utfall    Målvärde
-
-Antal digitala distanskontakter 4294 >636
 
 Under året har 4294 distanskontakter via videolänk, vilket är en mycket kraftig
 ökning i förhållande till föregående år och beror till stor del på grund av ändrade
@@ -644,6 +664,12 @@ marknadsföras via Facebook, posters och informationsblad tryckas upp för place
 i väntrum mm på vårdcentralerna. En viktig åtgärd är att engagera alla medarbetare
 
 16
+
+[Tabell 16-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/16-1.csv)
+
+| Indikator |  | Utfall | Målvärde |
+| --- | --- | --- | --- |
+|  | Antal digitala distanskontakter | 4294 | >636 |
 
 <!-- sida 17 -->
 
@@ -706,9 +732,6 @@ förvaltningen uppsatta indikatorer och arbetar ständigt med att förbättra
 tillgängligheten i vid bemärkelse. Två viktiga indikatorer handlar om vårdgarantin.
 
 Vårdgaranti medicinsk bedömning inom 3 dagar
-Indikator                   Utfall     Målvärde
-
-Vårdgaranti – 3 dagar  81%       90%
 
 Närsjukvården har under året fortsatt utveckla arbetssätt samt rutiner avseende
 korrekt registrering för att nå upp till målet avseende vårdgarantin. Målsättningen för
@@ -736,13 +759,21 @@ rättvisande statistik.
 
 Vårdgaranti telefontillgänglighet primärvård inom 0 dagar
 
-Indikator                   Utfall    Målvärde
-
-Vårdgaranti – kontakt samma dag 96,8% 95%
-
 Tillgängligheten vårdgaranti kontakt med vården samma dag ligger i december på
 96,8% och ligger därmed över målet på 95%. Hälften av vårdcentralerna ligger över
 18
+
+[Tabell 18-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/18-1.csv)
+
+| Indikator |  | Utfall | Målvärde |
+| --- | --- | --- | --- |
+|  | Vårdgaranti – 3 dagar | 81% | 90% |
+
+[Tabell 18-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/18-2.csv)
+
+| Indikator |  | Utfall | Målvärde |
+| --- | --- | --- | --- |
+|  | Vårdgaranti – kontakt samma dag | 96,8% | 95% |
 
 <!-- sida 19 -->
 
@@ -949,8 +980,6 @@ träffar där nya rutiner samt kvalitetsfrågor tas upp har startat.
 4 Medarbetare
 
 4.1 Personalomsättning
-Indikator                         Utfall     Målvärde
-Personalomsättning          14,40%         14%
 
 Andelen avgångar har minskat under året och gått från 16,63 % till 14,40 %.
 Personalomsättningen skiljer sig mellan de båda verksamhetsområdena – en ökning
@@ -977,11 +1006,15 @@ personalomsättningen. Personalomsättningen är högre (5,6 procentenheter) hos
 
 23
 
+[Tabell 23-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/23-1.csv)
+
+| Indikator |  | Utfall | Målvärde |
+| --- | --- | --- | --- |
+|  | Personalomsättning | 14,40% | 14% |
+
 <!-- sida 24 -->
 
 4.2 Sjukfrånvaro
-Indikator                       Utfall          Målvärde
-Sjukfrånvaro                7,22%              5,2%
 
 Sjukfrånvaron har ökat under året och ligger nu på 7,22% (5,72% 2019). Främst
 handlar det om den korta sjukfrånvaron med en topp under mars. Därefter har
@@ -1010,6 +1043,12 @@ av svårigheten att rekrytera specialistläkare i allmänmedicin. Aktivt arbete 
 rekrytering av personal för att undvika behovet av hyrpersonal.
 
 24
+
+[Tabell 24-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/24-1.csv)
+
+| Indikator |  | Utfall | Målvärde |
+| --- | --- | --- | --- |
+|  | Sjukfrånvaro | 7,22% | 5,2% |
 
 <!-- sida 25 -->
 
@@ -1049,10 +1088,7 @@ tillsammans.
 5 Ekonomi
 
 5.1 Ekonomiskt resultat
-Indikator     Ack resultat tkr Ack budget tkr Ack avvikelse tkr
-Ackumulerad
-10 494 tkr    0 tkr        10 494 tkr
-budgetavvikelse
+
 Närsjukvården Halland redovisar ett positivt resultat på 10,5 Mkr för helåret 2020.
 
 Analys av resultatet
@@ -1075,15 +1111,19 @@ Kostnads- och intäktsutveckling
 
 Kostnadsutveckling
 
-Skillnad
-Ack utfall              Ack     Diff. mot Kostn. Budg. Skillnad
-Ack utfall i mot
-föregående              budget  budget  utv. mot kostn. mot
-år (tkr) föregå.
-år (tkr)                årets (tkr) (tkr) föreg. år utv. budget
-år (tkr)
--1 090 760 -1 093 636 -2 876 -1 113 327 19 692 0,3% 2,1% 1,8%
 26
+
+[Tabell 26-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/26-1.csv)
+
+| Indikator | Ack resultat tkr | Ack budget tkr | Ack avvikelse tkr |
+| --- | --- | --- | --- |
+| Ackumulerad<br>budgetavvikelse | 10 494 tkr | 0 tkr | 10 494 tkr |
+
+[Tabell 26-2](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/26-2.csv)
+
+| Ack utfall<br>föregående<br>år (tkr) | Ack utfall i<br>år (tkr) | Skillnad<br>mot<br>föregå.<br>år (tkr) | Ack<br>budget<br>årets (tkr) | Diff. mot<br>budget<br>(tkr) | Kostn.<br>utv. mot<br>föreg. år | Budg.<br>kostn.<br>utv. | Skillnad<br>mot<br>budget |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| -1 090 760 | -1 093 636 | -2 876 | -1 113 327 | 19 692 | 0,3% | 2,1% | 1,8% |
 
 <!-- sida 27 -->
 
@@ -1347,45 +1387,23 @@ kallade nätläkare), kommer att påverka både verksamhet och ekonomi.
 
 7 Verksamhetsmått
 
-Grupp            Indikatorer   Utfall      Målvärde
-Vårdgaranti
-telefontillgänglighet
-96,8%       95,0%
-primärvård - kontakt
-inom 0 dagar
-Målgrupp
-Vårdgaranti
-(invånare/patient/kund/elev)
-primärvård
-\- Medicinsk   81,0%       90,0%
-bedömning inom tre
-dagar
-Verksamhet       Antal besök i
-41 636,0    >48 308,0
-(produktion/kvalitet) öppenvård
-Personalomsättning 15,2%  14,0%
-Medarbetare
-Sjukfrånvaro  7,2%        5,2%
-Periodresultat 10,5 Mnkr  0,0 Mnkr
-Ackumulerad
-10,5 Mnkr   0,0Mnkr
-budgetavvikelse
-Prognos
-5,0 Mnkr    0,0 Mnkr
-budgetavvikelse
-Kostnadsutveckling 0,3%
-Bemanningspersonal
-Ekonomi          kostnad -läkare och 27 578 tkr <5 236 tkr
-sjuksköterskor
-Bemanningskostnader
-\- läkare och
-sjuksköterskor i
-5,24%       2,0%
-relation till totala
-personalkostnader i
-vårdförvaltningarna
-
 33
+
+[Tabell 33-1](bilaga-arsredovisning-och-uppfoljning-av-intern-kontroll-2020.tabeller/33-1.csv)
+
+| Grupp | Indikatorer | Utfall | Målvärde |
+| --- | --- | --- | --- |
+| Målgrupp<br>(invånare/patient/kund/elev) | Vårdgaranti<br>telefontillgänglighet<br>primärvård - kontakt<br>inom 0 dagar | 96,8% | 95,0% |
+|  | Vårdgaranti<br>primärvård<br>- Medicinsk<br>bedömning inom tre<br>dagar | 81,0% | 90,0% |
+| Verksamhet<br>(produktion/kvalitet) | Antal besök i<br>öppenvård | 41 636,0 | >48 308,0 |
+| Medarbetare | Personalomsättning | 15,2% | 14,0% |
+|  | Sjukfrånvaro | 7,2% | 5,2% |
+| Ekonomi | Periodresultat | 10,5 Mnkr | 0,0 Mnkr |
+|  | Ackumulerad<br>budgetavvikelse | 10,5 Mnkr | 0,0Mnkr |
+|  | Prognos<br>budgetavvikelse | 5,0 Mnkr | 0,0 Mnkr |
+|  | Kostnadsutveckling | 0,3% |  |
+|  | Bemanningspersonal<br>kostnad -läkare och<br>sjuksköterskor | 27 578 tkr | <5 236 tkr |
+|  | Bemanningskostnader<br>- läkare och<br>sjuksköterskor i<br>relation till totala<br>personalkostnader i<br>vårdförvaltningarna | 5,24% | 2,0% |
 
 <!-- sida 34 -->
 
