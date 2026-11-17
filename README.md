@@ -93,11 +93,11 @@ och de nya slagen i
 | `overenskommelser/regionhalland.csv`   | Överenskommelser och vårdval.                    |
 
 Först ute är Driftnämnden Närsjukvård, 2017–2026. Målen står för
-2018–2026, ur verksamhetsplanerna (2020 ur årsredovisningen, eftersom
-planen inte finns i poolen; 2024 bara nämndens egna utvecklingsområden ur
-beslutsförslaget; 2026 ur planen nämnden fick i oktober 2025). Utfallet står
-för 2020–2022 och 2025. Årsredovisningarna 2023 och 2024 har tabeller som
-inte går att läsa mål för mål, och 2018–2019 följs bara upp med indikatorer.
+2018–2026, ur verksamhetsplanerna (2020 och 2024 ur årsredovisningen,
+eftersom planen inte finns i poolen, och för 2024 också nämndens egna
+utvecklingsområden ur beslutsförslaget; 2026 ur planen nämnden fick i
+oktober 2025). Utfallet står för 2020–2025; 2018–2019 följs bara upp med
+indikatorer.
 Motionerna har fullmäktiges beslut där beslutet finns bland nämndens
 handlingar; resten kommer när regionfullmäktige är hämtat.
 Gemensam nämnd för hemsjukvård och hjälpmedel har sidorna för 2017–2021,
