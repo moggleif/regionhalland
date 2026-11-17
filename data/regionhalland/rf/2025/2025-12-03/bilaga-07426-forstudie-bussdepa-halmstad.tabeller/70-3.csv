@@ -1,0 +1,76 @@
+Ekonomi (viktas 30%),,,Kommentar,4,3,2,1,0
+R,dantsoksgnirelbatE,Inköpspris fastighet,"Kostnad för anskaffning av
+fastighet.","Fastighet till salu
+till lågt pris","Fastighet till salu
+till rimligt pris","Fastighet till salu
+till högt pris","Fastighet till
+salu, men
+orimligt högt
+pris","Fastighet inte till
+salu"
+,,Befintlig byggnation,"Befintlig byggnad/
+byggnader finns på
+fastigheten.
+Återanvändning,
+renovering. Kostnader för
+rivning, återbruk av delar
+och material","Inga befintliga
+byggnader/
+byggnader som
+användas med
+små
+förändringar","Byggnader i
+gott skick och
+ändamåls-enliga
+för åter-
+användning","Byggnader delvis
+i skick för
+återanvändning/
+rivningsarbeten i
+mindre
+omfattning","Byggnader ej
+lämpade för
+återbruk/
+omfattande
+rivnings-arbeten
+krävs",X
+,,"Markens påverkan på
+byggkostnad, fastighetens
+topografi","Geotekniska
+förutsättningar, topografi,
+saneringsbehov,
+vattenskydd. Vilka
+markåtgärder behövs för
+att förbereda platsen för
+bussdepå? Behövs
+sprängning/ omfördelning
+massor? Arkeologiska
+fynd?","Mycket lämpliga
+förutsättningar
+för etablering.
+Enkel mark-
+projektering","Mark kan tas i
+bruk utan större
+insats","Kostsamma
+begränsningar
+för etablering","Mycket
+kostsamma
+begränsningar
+för etablering","Förut-
+sättningarna
+bedöms
+omöjliggöra
+bussdepå på
+fastigheten"
+R,dantsokstfirD,"Avstånd till ändhållplats
+stadsbusslinje","Avstånd i tid. Minska
+tomkörning.",Under 5 min,5-10 min,10-15 min,15-20 min,"Tid överstiger 20
+min"
+,,"Avstånd till Resecentrum i
+tid.","Avstånd i tid. Minska
+tomkörning.",Under 5 min,5-10 min,10-15 min,15-20 min,"Tid överstiger 20
+min"
+,,"Avstånd till Resecentrum i
+kilometer","Kostnad för drivmedel och
+slitage.",Under 3 km,3-5 km,5-8 km,8- 12 km,"Avstånd
+överstiger 12 km"

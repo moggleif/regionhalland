@@ -1,0 +1,24 @@
+Besökskategori,"Besöksersät
+tning
+(exkl.
+patientavgift)",Kommentar
+Läkare,450 kr,"Inkl. medicinsk service, exklusive röntgen"
+Psykolog,600 kr,
+"Kurator,
+arbetsterapeut",500 kr,
+"Sjuksköterska,
+distriktssköterska",300 kr,
+"Fysioterapeut,
+normalbesök",240 kr,Naprapat likställs med fysioterapeut.
+"Fysioterapeut,
+gruppbesök",100 kr,"Gruppbesök, en eller flera personal träffar flera patienter
+vid samma tillfälle."
+"Avgiftsbelagd
+provtagning",50 kr,Mellanliggande provtagning
+Avgiftsfri provtagning,150 kr,"Provtagning i samband med betalt läkarbesök, eller med
+ordination från annan vårdenhet."
+"Ej legitimerad
+personal",0 kr,
+"Övriga
+yrkeskategorier",400 kr,Krav på legitimation föreligger
+Distanskontakt,,Ersättning som vid fysiskt besök

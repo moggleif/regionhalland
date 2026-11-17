@@ -1,0 +1,33 @@
+"Klinik /
+verksamhet",Avd/Sektion,Yrke,Sjukhus,Stråldos (mSv/år),,
+,,,,Helkropp,Extremiteter,Ögonlins
+Röntgen,CT,Läkare,HSH,0,"5,52",0
+,Genomlysning,Undersköterska,HSH,0,,
+,,"Röntgensjuk-
+sköterska",HSH,"0,58",,
+,,Läkare,HSH,0,"11,9",
+,,,HSK,0,,
+,,,HSV,0,,0
+,"Konventionell
+röntgen","Röntgensjuk-
+sköterska","Falken-
+berg","0,04",,
+,"Roterande
+personal","Röntgensjuk-
+sköterska",HSK,"0,06",,
+,,,HSH,0,,
+,,,HSV,0,,
+,,Undersköterska,HSH,0,,
+"Operation
+HS",Operation,Sjuksköterska,HSK,0,,
+,,,HSV,0,,
+,,Läkare,HSK,"0,06",,
+Kirurgi,ERCP,Läkare,HSH,"0,1",,
+Ortopedi,Ortopedi HSH,Läkare,HSH,0,"64,3",
+,Ortopedi HSV,Läkare,HSV,0,"34,3",
+Urologi,Operation,Läk,HSH,"0,35",,
+Medicin,Lunga,SSK och Läk,HSH,"0,19",,
+"Medicinsk
+teknik",Sjukhusfysik,Sjukhusfysiker,HSH,"0,10",,
+,MTA Norr,Rtg-ingenjör,HSV,0,,
+Högsta tillåtna stråldos,,Radiologisk personal,,20,500,20

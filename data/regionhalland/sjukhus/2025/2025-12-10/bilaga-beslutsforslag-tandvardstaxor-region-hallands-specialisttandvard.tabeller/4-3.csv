@@ -1,0 +1,41 @@
+401S,"Tanduttagning, en tand",1 670 kr,1 900 kr
+402S,"Tanduttagning, när separation eller friläggning krävs, en tand",2 380 kr,2 700 kr
+403S,"Tanduttagning, enkel",660 kr,750 kr
+404S,Kirurgiskt avlägsnande av en eller flera tänder i samma kvadrant och/eller annan vävnad,4 800 kr,5 400 kr
+405S,Dentoalveolär kirurgi vid komplicerade förhållanden,5 520 kr,6 250 kr
+406S,"Tanduttagning, övertalig tand",1 670 kr,1 800 kr
+407S,Övrig kirurgi eller plastik,3 095 kr,3 200 kr
+408S,"Preprotetisk friläggning med lambå, omfattande",6 475 kr,6 850 kr
+409S,"Lambåoperation, ytterligare när flera lambåoperationer utförs under samma dag, per kvadrant, tilläggsåtgärd",2 100 kr,2 300 kr
+410S,"Tanduttagning, ytterligare när flera tandextraktioner utförs under samma dag eller i samband med lambåoperation,
+tilläggsåtgärd",1 290 kr,1 500 kr
+420S,"Implantat, per styck, tilläggsåtgärd",3 585 kr,Enligt faktura
+421S,"Operation avseende käkbensförankrade implantat, ett implantat",4 715 kr,7 000 kr
+422S,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,2 225 kr,2 550 kr
+423S,"Operation avseende käkbensförankrade implantat, två eller tre implantat",6 865 kr,8 400 kr
+424S,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,2 515 kr,2 900 kr
+425S,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",9 275 kr,11 300 kr
+426S,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,3 405 kr,3 900 kr
+427S,Benaugmentation med egen vävnad i en kvadrant,5 985 kr,7 200 kr
+427S1,"Benaugmentation med egen vävnad i en kvadrant , omfattande",5 985 kr,12 000 kr
+428S,Benaugmentation med benersättningsmaterial i en kvadrant,6 810 kr,9 800 kr
+428S1,"Benaugmentation med benersättningsmaterial i en kvadrant, omfattande",6 810 kr,14 500 kr
+429S,Kirurgiskt avlägsnande av implantat,5 915 kr,6 000 kr
+430S,"Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i annan kvadrant eller
+implantatoperation i samma kvadrant, per kvadrant, tilläggsåtgärd",2 085 kr,2 600 kr
+431S,"Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperation i annan
+kvadrant, per kvadrant, tilläggsåtgärd",3 280 kr,3 700 kr
+432S,"Benaugmentation med benersättningsmaterial i samband med implantatinstallation, per kvadrant, tilläggsåtgärd",2 445 kr,3 400 kr
+433S,"Sinuslyft utan autologt ben eller benersättningsmaterial i samband med implantatinstallation,per kvadrant, tilläggsåtgärd",1 450 kr,2 500 kr
+436S,Avlägsnande av ett implantat,1 070 kr,1 200 kr
+446S,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd",2 245 kr,2 600 kr
+446S1,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, omfattande",2 245 kr,3 000 kr
+447S,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd",1 515 kr,1 700 kr
+447S1,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, omfattande",1 515 kr,2 400 kr
+448S,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd",1 030 kr,2 500 kr
+451S,Parodontalkirurgi i en kvadrant eller inom tandposition 3-3,5 300 kr,5 830 kr
+452S,Parodontalkirurgi i flera kvadranter eller omfattande parodontalkirurgi i en kvadrant eller inom tandposition 3–3,7 285 kr,8 000 kr
+453S,"Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i en kvadrant eller inom tandposition
+3–3",5 585 kr,6 200 kr
+454S,"Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i flera kvadranter eller omfattande
+kirurgisk behandling i en kvadrant eller inom tandposition 3–3",7 845 kr,8 450 kr

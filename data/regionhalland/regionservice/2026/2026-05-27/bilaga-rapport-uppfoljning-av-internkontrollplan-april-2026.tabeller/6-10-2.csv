@@ -1,0 +1,161 @@
+Kontrollmoment,Resultat av genomförd kontroll
+"Sker behörighetshantering på säkert
+sätt?
+Beskrivning av metod
+Stickprov på följsamhet till rutiner.
+Förvaltningen väljer för vilken rutin
+stickprov ska genomföras.","Kontrollpunkt
+För att undersöka om behörighetshantering sker enligt
+gällande rutiner har hanteringen av avslut av
+passagebehörighet för personer som avslutat sin
+anställning eller bytt arbetsplats granskats.
+Granskningen har omfattat tre utvalda terminaler inom
+verksamhetsområdena:
+• GAS – Skånegatan
+• Måltidsservice – köket i Varberg
+• Städ & VNS – städcentralen i Halmstad
+Passagebehörigheter för dessa terminaler har jämförts
+med listor över medarbetare som avslutat sin
+tjänstgöring under perioden 2025-01-01 – 2026-03-31.
+Frågeställningar"
+,"Avslutas passagebehörighet i samband med att
+medarbetare avslutar sin anställning eller byter
+arbetsplats?
+• Om nej, sker avslut av behörighet i efterhand
+och finns dokumentation för detta
+Bedömningskriterier
+• RÖTT = avslut sker i högst 70 % av fallen
+• GULT = avslut sker i 70–90 % av fallen
+• GRÖNT = avslut sker i minst 90 % av fallen
+Genomförande och resultat
+Granskningen av passagebehörigheter visar att totalt
+108 medarbetare avslutade sin anställning eller bytte
+arbetsplats under perioden inom de tre utvalda
+terminalerna. Av dessa hade 45 personer fått sin
+passagebehörighet avslutad, vilket motsvarar cirka
+42 % av de fall där det varit aktuellt.
+Fördelningen visar variationer mellan verksamheterna,
+där följsamheten är lägre inom GAS och Måltidsservice
+jämfört med Städcentralen i Halmstad. Resultatet visar
+att avslut av behörigheter inte sker i tillräcklig
+utsträckning i samband med avslutad anställning eller
+byte av arbetsplats. Sammantaget bedöms detta
+delmoment som RÖTT, och kontrollmomentet är därför
+inte uppfyllt.
+Resultatet indikerar behov av åtgärder för att stärka
+efterlevnaden av rutinerna. Det handlar främst om att
+tydliggöra informationen kring gällande rutiner samt att
+undersöka om befintliga arbetssätt, såsom checklista i
+samband med avslut av anställning, behöver
+revideras.
+Ej uppfyllt"
+"Finns en tillräckligt god
+cybersäkerhetskultur (medvetenhet,
+attityder och beteenden)?
+Beskrivning av metod
+Flera olika metoder kan komma att
+användas, exempelvis
+självskattningsenkät, uppföljning av
+utbildningsinsatser och analys av antal","Kontrollpunkter
+För att bedöma om det finns en tillräckligt god
+cybersäkerhetskultur inom Regionservice har tre
+kontrollmoment följts upp:
+• deltagande i nanolearning inom
+informationssäkerhet"
+"och hanterade incidenter. Förvaltningen
+väljer metod inför varje
+rapporteringsperiod.","• utfall i simulerade phishingutskick
+• förekomst av SIM-kort i mobiltelefoner som
+inte ingår i Region Hallands standardsortiment
+av mobiltelefoner.
+Nanolearning har skickats ut var tredje vecka sedan
+oktober 2024 till samtliga medarbetare med e-
+postkonto i Region Hallands domän. Phishingmail har
+skickats ut vid tre tillfällen under 2025 i syfte att följa
+upp effekten av utbildningsinsatsen och planeras att
+fortsätta under 2026. Kontrollen av SIM-kort har avsett
+att kartlägga i vilken utsträckning mobilabonnemang
+används i enheter som inte ingår i standardsortimentet.
+Genom att använda enheter som inte ingår i
+standardsortimentet ökar risken att regionen utsätts för
+angrepp eftersom de kan sakna de säkerhetsåtgärder
+som är inlagda på telefoner ur standardsortimentet.
+Frågeställningar
+1. Hur stor andel av Regionservices medarbetare
+har genomgått utbildningen i
+informationssäkerhet?
+2. Hur stor andel av Regionservices medarbetare
+har klickat på länken i simulerade
+phishingmail?
+3. Hur stor andel av mobiltelefonerna med
+Region Halland SIM-kort utgörs av enheter
+som inte ingår i standardsortimentet?
+Bedömningskriterier
+Nanolearning
+• RÖTT = färre än 50 % har genomgått
+utbildningen
+• GULT = minst 50 % har genomgått
+utbildningen
+• GRÖNT = minst 75 % har genomgått
+utbildningen
+Phishing
+• RÖTT = fler än 50 % har klickat på länken
+• GULT = fler än 20 % har klickat på länken
+• GRÖNT = färre än 20 % har klickat på länken
+SIM-kort i icke standardenheter"
+,"• RÖTT = fler än 10 % av mobiltelefonerna är
+utanför standardsortimentet
+• GULT = fler än 5 % av mobiltelefonerna är
+utanför standardsortimentet
+• GRÖNT= färre än 5 % av mobiltelefonerna är
+utanför standardsortimentet
+Genomförande och resultat
+Nanolearning
+Urvalsgruppen omfattade samtliga medarbetare inom
+Regionservice som haft tillgång till nanolearning till och
+med den 24 april 2026. Resultatet visar att 41 % av
+medarbetarna har genomfört utbildningen. Detta kan
+jämföras med Region Halland som helhet där
+motsvarande andel uppgår till 36 %.
+Utfallet innebär en minskning jämfört med tidigare
+uppföljningar (UR1 2025: 57 %, UR2 2025: 60 %, helår
+2025: 61 %). Resultatet bedöms som RÖTT.
+Phishing
+Urvalsgruppen omfattade samtliga medarbetare inom
+Regionservice som mottagit simulerade phishingmail
+vid tre utskick under 2025.
+Resultatet visar att andelen som klickade på länkarna
+uppgick till:
+• Våren 2025: 24 %
+• Hösten 2025: 11 %
+• Vintern 2025: 23 %
+Vid två av tre tillfällen översteg andelen 20 %, vilket
+innebär att resultatet sammantaget bedöms som
+GULT.
+SIM-kort i icke standardenheter
+Kartläggningen av SIM-kort visar att totalt 3 626 aktiva
+SIM-kort identifierades i mobiltelefoner vid mättillfället
+den 16 april 2026. Av dessa användes 162 SIM-kort i
+mobiltelefoner som inte ingår i Region Hallands
+standardsortiment, vilket motsvarar 4,5 %. Resultatet
+för detta delmoment bedöms som GRÖNT i enlighet
+med fastställda gränsvärden.
+Sammantagen bedömning
+Resultatet visar att det finns utvecklingsbehov kopplat
+till cybersäkerhetskulturen inom Regionservice.
+Deltagandet i utbildningsinsatsen är lågt och har"
+,"dessutom minskat jämfört med tidigare år, vilket
+indikerar bristande genomslag i kunskapshöjande
+aktiviteter. Samtidigt visar utfallet i phishingmailen att
+en betydande andel av medarbetarna fortsatt har svårt
+att identifiera misstänkta utskick. Resultatet för SIM-
+kort i icke-standardtelefoner indikerar behov av vidare
+analys för att identifiera orsaker till avvikelser från
+standardsortimentet, som underlag för att kunna ta
+fram relevanta och ändamålsenliga åtgärder.
+Sammantaget bedöms cybersäkerhetskulturen inte
+vara tillräckligt stark, vilket innebär en förhöjd risk
+kopplat till informationssäkerhet och hantering av
+digitala hot. Resultatet för kontrollmomentet som
+helhet är därför delvis uppfyllt.
+Delvis uppfyllt"

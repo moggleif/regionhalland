@@ -1,0 +1,37 @@
+Flöde,System,Volym,Prismodell
+"Vårdval
+närsjukvård","Vårdval
+Finans
+Närsjukvård
+(VvFN)","614,9","Ersättningsmodell baserad på antal listade patienter
+(HOSPEN) och förhållandet mellan besök som görs
+till primärvården (vårdnivå 1) och besök som görs
+akut eller till specialistvård (vårdnivå 2)."
+"Vårdval
+specialiserad
+öppenvård","Vårdval
+Finans
+Specialiserad
+öppenvård
+(VvFS)","122,6","Ersättningsmodell där samtliga leverantörer
+konkurrerar om patienten. Gemensamt tak som
+begränsar hur mycket som ska ersättas varje månad.
+Om alla gemensamt kommer över taket, ersätts de
+med reducerat pris (flexpris). Ersätts inte per besök
+utan per vårdepisod för patienten, där ersättningen
+kan delas upp över flera månader och där krav finns
+på min-/maxantal besök inom perioden."
+"Vårdavtal och
+nationella taxan","Loke +
+Ekonomi
+(efter april
+2025)","245,4","Gemensam prislista per specialitet. Nationella taxan
+regleras enligt lag. Individuella beloppstak som kan
+minska ersättningen om producerad vård överstiger
+taket."
+Gynekologi,Vera,"29,4","Ersättningsmodell där samtliga leverantörer
+konkurrerar om patienten. Gemensamt tak som
+begränsar hur mycket som ska ersättas varje månad.
+Om alla gemensamt kommer över taket, ersätts de
+med reducerat pris (s k flexpris). Ersättning per
+besök enligt gemensam prislista."

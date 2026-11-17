@@ -1,0 +1,61 @@
+Kontrollmoment,Resultat av genomförd kontroll
+"Att kontinuitetsplaner existerar-Övande
+av kontinuitetsplaner - att system,
+speciellt sådana som är exponerade mot
+Internet uppdaterade.
+Beskrivning av metod
+Manuell uppföljning
+Automatiserad sårbarhetsanalys","Kontrollen är genomförd
+Under 2025 har Region Halland fortsatt att stärka sin förmåga till
+kontinuitet och robusthet inom IT-drift och informationssäkerhet.
+Fokus har legat på att etablera strukturerade kontinuitetsplaner,
+förbättra skyddet av nätverk och säkerställa att kritiska system hålls
+uppdaterade.
+Kontinuitetsplaner och övning
+Arbetet med att omsätta kontinuitetsplaner i praktiken påverkades
+under första halvåret av införandet av nytt journalsystem, vilket
+medförde att planerade övningar sköts fram. Under året har dock en
+kontinuitetsplan för infrastrukturen färdigställts, vilket etablerar en
+tydlig grund för hantering av större IT-störningar.
+Genomförande av övningar är planerade och kommer att genomföras
+under 2026, och kontinuitetsplanering kommer framöver att ingå som
+ett mål i det löpande informationssäkerhetsarbetet.
+Säkerhetskopiering och återställningsförmåga
+Under 2025 har arbetet med att säkra backupmiljön stärkts avsevärt.
+• Säkra backuper har etablerats.
+• Regelbundna tester av återläsningar genomförs och har
+visat god förmåga att återställa data.
+Detta innebär att regionen nu har en mer robust och verifierad
+återställningskapacitet vid incidenter.
+Nätverkssäkerhet
+Arbetet med att förbättra och skydda nätverksmiljön har fortsatt enligt
+plan:
+• Det trådbundna nätet har förstärkts och har nu en etablerad
+basnivå av säkerhet.
+• Motsvarande förfining av det trådlösa nätverket pågår och
+fortsätter in i 2026.
+Dessa åtgärder bidrar till ökad motståndskraft och minskad exponering
+för angrepp.
+Systemkartläggning och uppdateringar
+En omfattande kartläggning av system har genomförts inom flera
+områden, särskilt inom försörjningsflöden. Detta arbete har förbättrat
+överblicken över kritiska beroenden och underlag för riskstyrning.
+När det gäller systemuppdateringar har arbetet fortsatt, i synnerhet för
+de system som är exponerade mot internet. Rutiner och genomförande
+stärks successivt, och fler system än tidigare hålls nu uppdaterade enligt
+plan.
+Kommande arbete
+Flera prioriterade insatser fortsätter under 2026:
+• Etablering av katastrofåterställningssajt (DR-site).
+• Tiering av Active Directory, inklusive gruppering och
+uppdelning av administratörskonton för att höja
+säkerhetsnivån."
+,"• Vidareutveckling av övningar och mognad inom
+kontinuitetshantering i verksamheten.
+Samlad bedömning 2025
+Regionen har under året etablerat en stabil grund för kontinuitetsarbete,
+stärkt backupförmågan och förbättrat nätverkssäkerheten. Samtidigt
+kvarstår behov av vidare övning och ytterligare förstärkningar inom
+AD-säkerhet och katastrofåterställning. Kontrollmomentet bedöms
+därmed som på god väg, men med tydliga aktiviteter som fortsätter in i
+2026."
