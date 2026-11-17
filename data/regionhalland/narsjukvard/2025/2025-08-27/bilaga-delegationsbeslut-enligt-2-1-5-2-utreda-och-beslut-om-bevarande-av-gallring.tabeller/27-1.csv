@@ -1,0 +1,45 @@
+2.4.1.1,Hantera kundfakturor,,,,,,,,
+,Medgivandeblankett autogiro,"Systematisk
+förvaring",,Se anmärkning,,På enhet,,,"Gallring kan ske 2 år efter att autogirot
+upphör att gälla, d.v.s när avanmälan
+görs eller kunden avlider."
+,Internfakturor,"Systematisk
+förvaring",,7 år,,Agresso,,,
+2.4.1.2,Hantera leverantörsfakturor,,,,,,,,
+,"Skannade
+leverantörsfakturor
+inklusive underlag","Systematisk
+förvaring",,7 år,,"Server hos
+skanningspartner",2?,,"Förvaras enligt avtal med
+skanningpartner. Information om
+hantering av digitala e-fakturor ska
+finnas angivna i RS Infoplan"
+2.4.1.4,Bokföra och redovisa,,,,,,,,
+,Huvudbok,"Systematisk
+förvaring",Bevaras,,Agresso,,,2,
+,"Koder och koddelar enligt
+ekonomimodell","Systematisk
+förvaring",Bevaras,,Agresso,,,1,
+,"Förteckning
+beslutsattestanter, attest
+och utanordning",Diarieförs,Bevaras,,Ärendeakt/Platina Diarium,,,1,"Diarieförs 4 gånger om året; januari,
+april, juli, oktober. Se
+Delegationsordning"
+2.4.1.6,Hantera kontantkassor och betalkort,,,,,,,,
+,"Kvittenser, underlag,
+betalkortsterminaler","Systematisk
+förvaring",7 år,,Förvaras på enhet,,,1,"S.k. ”babskvitton” ska förvaras fysiskt i
+pärm 7 kalenderår."
+,"Verifikationsunderlag,
+dagavslut, sammanställning
+av genomförda transaktioner","Systematisk
+förvaring",7 år,,"Systemstöd/förvaras på
+enhet",,,1,"Förvaras digitalt om digitalt systemstöd
+med fullgod förvaring finns. Om det
+saknas digitalt systemstöd förvaras
+dagavsluten fysiskt på enhet i pärm."
+,"Kvitton, inköpskort","Systematisk
+förvaring",7 år,,Agresso,,,1,"Kvitton som bifogas faktura skickas
+till fakturaservice för skanning.
+Förvaras enligt avtal med
+skanningspartner."

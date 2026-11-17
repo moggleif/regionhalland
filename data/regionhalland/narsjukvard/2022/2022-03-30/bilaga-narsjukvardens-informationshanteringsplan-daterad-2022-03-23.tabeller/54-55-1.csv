@@ -1,0 +1,87 @@
+"Process-
+beteckning
+Kod","Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Bevaras/
+Gallras","Förvaringsplats/
+System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning
+(Hantering, lagrum, personuppgifter, m m)"
+2.4.1.1,Hantera kundfakturor,,,,,
+,Kundfaktura (extern) underlag,"Systematisk
+förvaring",7 år,Agresso,,"Digital kundfaktura och
+kundreskontra arkiveras i Agresso.
+Pappersfaktura kan gallras efter
+registrering i Agresso."
+,"Kundreskontra, kundregister","Systematisk
+förvaring",Bevaras,Agresso,,"Avser kundregister,
+kundnummer, fakturadatum,
+fakturanummer,
+verifikationsnummer,
+förfallodatum,
+bokföringsdatum, belopp"
+,"Kundreskontra, inbetalningar","Systematisk
+förvaring",7 år,Agresso,,"Återrapporteringar på betalningar,
+bokföring utförda utbetalningar,
+betalningspåminnelser, manuellt
+bokförda inbetalningar, bokföring
+osäkra fordringar, återrapporteringar
+betalning från inkasso, ränte-fakturor,
+justeringar, makulering,
+kreditering"
+,Rapportredovisning daglig OCR,"Systematisk
+förvaring",7 år,PlusGirots e-arkiv,,
+,Medgivandeblankett autogiro,"Systematisk
+förvaring",Se anmärkning,På enhet,,"Gallring kan ske 2 år efter att autogirot
+upphör att gälla, d.v.s när avanmälan görs
+eller kunden avlider."
+,"Filöverföring/integration mellan
+försystem/verksamhetssystem","Systematisk
+förvaring",7 år,Agresso,,"Information som förs över för att
+möjliggöra fakturering eller
+kontroll/avstämning av"
+,,,,,,fakturering och inbetalning.
+,"Värdereglering
+kundfordringar underlag
+från inkassoföretag","Systematisk
+förvaring",Bevaras,Agresso,,Avtal inkassoföretag
+,Internfakturor,"Systematisk
+förvaring",7 år,Agresso,,
+2.4.1.2,Hantera leverantörsfakturor,,,,,
+,Leverantörsregister,"Systematisk
+förvaring",Bevaras,Agresso,,"Organisationsnummer,
+företagskod, kundnummer,
+kundnamn"
+,Leverantörsreskontra,"Systematisk
+förvaring",Bevaras,Agresso,,"Leverantörsnamn, kundnummer,
+reskontratyp, fakturanummer,
+fakturadatum, förfallodatum,
+verifikationsnummer, bokföringsdatum,
+belopp"
+,Leverantörsreskontra,"Systematisk
+förvaring",7 år,Agresso,,"Bokföring, utförda betalningar,
+justeringar, kvittenser på skapade filer
+till betalningsinstitut, manuella
+utbetalningar till betalningsinstitut,
+utbetalningsbekräftelser,
+återrapportering från utförda betalningar."
+,"Skannade
+leverantörsfakturor
+inklusive underlag","Systematisk
+förvaring",7 år,"Server hos
+skanningspartner",,"Förvaras enligt avtal med skanningpartner.
+Fakturor avseende EU-projekt 10 år efter
+programslut"
+,Underlag för utbetalningar,"Systematisk
+förvaring",7 år,Agresso,,"Lönefiler, körjournaler,
+återbetalningar, överföringsuppdrag"
+2.4.1.3,Redovisa skattedeklarationer,,,,,

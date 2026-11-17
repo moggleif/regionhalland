@@ -1,0 +1,29 @@
+164S,Laboratoriekostnader vid patologanatomisk diagnostik (PAD),610,610
+200 Sjukdomsförebyggande åtgärder,,,
+201S,Information eller instruktion vid risk för munhälsorelaterade sjukdomar eller problem,440,511
+300 Sjukdomsbehandlande / Smärtstillande åtgärder,,,
+301S,"Sjukdoms- eller smärtbehandling, mindre omfattande",530,530
+302S,Sjukdoms- eller smärtbehandling,1 005,1 005
+303S,"Sjukdoms- eller smärtbehandling, omfattande",1 490,1 490
+304S,"Sjukdoms- eller smärtbehandling, särskilt tidskrävande",2 225,2 225
+311S,Information eller instruktion vid munhälsorelaterade sjukdomar eller problem,440,440
+312S,Uppföljande information eller instruktion vid munhälsorelaterade sjukdomar (cid:10)eller problem,175,175
+313S,"Beteendemedicinsk behandling, 60 minuter eller mer",2 265,2 265
+314S,Beteendemedicinsk behandling,1 045,1 045
+321S,Icke-operativ behandling av kariessjukdom,440,440
+322S,Stegvis ecxavering,1 155,1 155
+341S,"Behandling av parodontal sjukdom eller periimplantit, mindre omfattande(cid:10)",745,745
+342S,"Behandling av parodontal sjukdom eller periimplantit, omfattande(cid:10)",1 910,1 910
+343S,"Behandling av parodontal sjukdom eller periimplantit, särskilt tidskrävande",4 230,4 230
+400 Kirurgiska åtgärder,,,
+401S,"Tanduttagning, en tand",1 360,1 360
+402S,"Tanduttagning, när separation eller friläggning krävs, en tand",2 005,2 005
+403S,"Tanduttagning, tillkommande enkel",245,240
+404S,Kirurgiskt avlägsnande av en eller flera tänder i samma kvadrant och/eller annan vävnad,4 040,4 040
+405S,Omfattande dentoalveolär kirurgi,5 390,4 715
+405S1,Omfattande dentoalveolär kirurgi,5 390,5 390
+406S,"Tanduttagning, övertalig tand",1 360,1 360
+407S,Övrig kirurgi eller plastik,2 615,2 615
+408S,"Preprotetisk friläggning med lambå, omfattande",5 440,5 440
+409S,"Kirugisk avlägsnande av tand i annan kvadrant i samband med parodontalkirurgiska åtgärder, tillägs åtgärd",2 010,2 010
+420S,"Implantat, per styck, tillägs åtgärd",2 900,Enligt listpris

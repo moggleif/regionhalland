@@ -1,0 +1,65 @@
+Områden,Risk,Sannolikhet,Konsekvens,Risktal,Beslut
+Ekonomi,,,,,
+,"Beslut fattas av fel
+person inom
+attestordning och att
+beslut inte kommer
+till nämndens
+kännedom",Medel (2),Allvarlig (3),6,
+,"Nämnden har
+verksamheter som
+inte har en ekonomi i
+balans",Medel (2),Allvarlig (3),6,
+"IT-
+system/informationssäkerhet",,,,,
+,"Personuppgifter
+hanteras felaktigt
+eller kommer i orätta
+händer",Medel (2),Allvarlig (3),6,
+Organisation/styrning/ledning,,,,,
+,"Delegarade beslut
+fattas av fel person
+och att beslut inte
+kommer till
+nämndens
+kännedom.",Medel (2),Allvarlig (3),6,
+"Personal,
+kompetensförsörjning,
+arbetsmiljö",,,,,
+,"Personal rekryteras
+på tjänster som de
+inte har behörighet
+till genom
+legitimation","Osannolik
+(1)",Allvarlig (3),3,
+,"Verksamheterna har
+en arbetsmiljö som
+påverkar
+personalens stress
+och ohälsa.",Medel (2),Kännbar (2),4,
+,"Svårighet att
+behålla/rekrytera rätt
+kompetens.",Medel (2),Allvarlig (3),6,
+Patientsäkerhet,,,,,
+,"Vårdcentraler/kliniker
+bearbetar inte
+rapporterade
+avvikelser",Hög (3),Kännbar (2),6,
+,"Vårdcentraler/kliniker
+bedriver inte trygg
+och säker vård","Osannolik
+(1)",Allvarlig (3),3,
+,"Vårdcentraler/kliniker
+samverkar inte i
+samband med
+patienters
+vårdövergångar.",Medel (2),Kännbar (2),4,
+,"Invånare får inte
+vård inom fastställda
+garantitider för
+primärvården",Medel (2),Kännbar (2),4,
+"Verksamhetens
+genomförande/ kvalitet","Kvalitén på
+nämndens
+beslutsunderlag är
+bristfällig",Medel (2),Allvarlig (3),6,

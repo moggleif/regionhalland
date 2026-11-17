@@ -1,0 +1,36 @@
+Nyckeltal,Västerbotten,Västern orrland,Örebro
+AKTIVITETSDATA,,,
+"Antal brukare som erhållit förskrivna huvudhjälpmedel
+(exkl. beh hjm, ort o prot, syn, lmn) / 10 000 inv.",251,367,385
+Ant brukare som erh H-hjm för personlig vård / 10 000 inv.,109,192,157
+Ant brukare som erh gånghjm som hant med båda armarna / 10 000 inv.,88,209,180
+Ant brukare som erh manuellt drivna rullstolar / 10 000 inv.,113,133,146
+Ant brukare som erh motordrivna rullstolar / 10 000 inv.,"7,7",10,11
+Ant brukare som erh H-hjm sängar / 10 000 inv,16,20,0
+Ant brukare som erh H-hjm för komm och info / 10 000 inv.,73,49,38
+"Ant brukare som erh H-hjm för komm och info (exkl. synhjälpmedel)
+/ 10 000 inv.",55,36,38
+Ant brukare som har manuellt drivna rullstolar / 10 000 inv.,188,212,238
+Ant brukare som har motordrivna rullstolar / 10 000 inv.,36,44,46
+RESURSDATA,,,
+Antal årsarbetande personal / 10 000 inv.,"2,5","2,2","1,8"
+"Totalkostnad (exkl. med beh hjm, ort o prot, syn, inkontinens) / inv.",392,454,416
+Totalkostnad / inv.,213,227,150
+"Personalkostnad (exkl. med beh hjm, ort o prot, syn, inkontinens) / inv.",135,109,96
+"Inköpskostnad hjälpmedel (exkl. med beh hjm, ort o prot, syn, inkontinens)
+/ inv.",204,213,92
+Inköpskostnad motordrivna rullstolar / inv.,36,42,34
+Andel utlev beg man driv rst av tot ant utlev man driv rst,85%,83%,86%
+Andel utlev beg motordriv rst av tot ant utlev motordriv rst,32%,59%,40%
+PRODUKTIVITETSDATA,,,
+Antal inkomna ärenden för utprovning / 10 000 inv.,31,20,27
+Antal utförda ärenden / årsarb hjälpmedelskonsulent,112,94,59
+VERKSAMHETSPRAXIS,,,
+Nyttjandegrad HMC:s id.märkta hjälpmedel,92%,93%,87%
+LEDTIDER,,,
+"Beställda lagervaror, inkl samleverans, levererade inom 5 arbetsdagar
+(7 kalenderdagar)",76%,93%,81%
+"Beställda lagervaror, exkl samleverans, levererade inom 5 arbetsdagar
+(7 kalenderdagar)",88%,95%,83%
+"Beställningsvaror, inkl samleverans, levererade inom 15 arbetsdagar
+(21 kalenderdagar)",80%,91%,79%

@@ -1,0 +1,82 @@
+427,Benaugmentation med autologt ben i en kvadrant,4 505,4 640
+428,Benaugmentation med benersättningsmaterial i en kvadrant,5 440,5 675
+429,Kirurgiskt avlägsnande av implantat,4 445,4 940
+430,Benaugmentation med autologt ben i en kvadrant i samband med benaugmentation i annan kvadrant eller implantatoperation i samma,1 520,1 540
+431,"Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperation i annan kvadrant, ,per kvadran",2 665,2 700
+432,"Benaugmentation med benersättningsmaterial i samband med implantatinstallation, per kvadrant, tilläggsåtgärd",1 985,2 005
+433,"Sinuslyft utan autologt ben eller benersättningsmaterial i samband med implantatinstallation, per kvadrant, tilläggsåtgärd",1 030,1 030
+436,Avlägsnande av ett implantat,830,890
+446,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd",1 975,1 995
+447,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd,",1 335,1 350
+448,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd",750,765
+451,Parodontalkirurgi i en kvadrant eller inom tandposition 3–3,3 685,3 700
+452,Parodontalkirurgi i flera kvadranter eller omfattande parodontalkirurgi i en kvadrant eller inom tandposition 3–3,5 090,5 115
+453,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i en kvadrant eller inom tandposition 3–3,3 880,3 900
+454,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i flera kvadranter eller omfattande kirurgisk behand,5 480,5 510
+480,"Sjukvårdskontakt för att säkerställa koagulation, tilläggsåtgärd",365,385
+"480 Sjukvårdskontakt för att säkerställa koagulation, tilläggsåtgärd",,,
+501,"Rensning och rotfyllning, en rotkanal",3 845,4 425
+502,"Rensning och rotfyllning, två rotkanaler",4 635,4 900
+503,"Rensning och rotfyllning, tre rotkanaler",5 820,6 430
+504,"Rensning och rotfyllning, fyra eller fler rotkanaler",6 345,7 030
+520,"Akut endodontisk behandling, annan behandlare",1 025,1 040
+521,Akut trepanation och kavumextirpation,905,920
+522,Komplicerad kanallokalisation,910,1 005
+523,Stiftborttagning,1 330,1 430
+541,Apikalkirurgisk behandling,4 145,4 285
+600 Bettfysiologiska åtgärder,,,
+601,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",3 965,4 170
+602,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",3 965,4 170
+603,"Reponeringsskena, per skena",6 310,6 465
+604,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologisk indikation, per skena",2 380,2 830
+606,Motorisk aktivering,605,660
+607,Bettslipning för ocklusal stabilisering,845,860
+650,"Motorisk aktivering, distanskontakt via videolänk",390,690
+700 Reparativa åtgärder,,,
+701,Fyllning av en yta på framtand eller hörntand,685,800
+702,Fyllning av två ytor på framtand eller hörntand,1 090,1 210
+703,Fyllning av tre eller flera ytor på framtand eller hörntand,1 335,1 465
+704,Fyllning av en yta på molar eller premolar,880,1 120
+705,Fyllning av två ytor på molar eller premolar,1 290,1 475
+706,Fyllning av tre eller flera ytor på molar eller premolar,1 720,1 885
+707,"Krona i plastiskt material, klinikframställd",1 955,2 150
+708,"Stiftförankring i rotkanal vid fyllningsterapi,tilläggsåtgärd",545,620
+800 Protetiska åtgärder,,,
+800,"Permanent tandstödd krona, en per käke",6 485,7 500
+801,"Permanent tandstödd krona, flera i samma käke",5 035,6 400
+802,Laboratorieframställd pelare med intraradikulärt stift,3 555,4 045
+803,Klinikframställd pelare med intraradikulärt stift,1 705,1 990
+804,"Hängande led vid tandstödd protetik, per led",2 465,2 625
+805,"Emaljretinerad konstruktion, laboratorieframställd, per stöd",2 110,2 295
+806,Radikulärförankring vid avtagbar protes,3 855,4 635
+807,"Semipermanent krona, brostöd eller hängande led, per led",2 760,2 850
+808,Innerkrona för teleskop- eller konuskonstruktioner,3 785,4 220
+809,"Långtidstemporär laboratorieframställd krona eller hängande led, per led",1 180,1 485
+811,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd",655,890
+812,"Reparation av krona eller bro, utan tandteknisk insats",1 670,1 745
+813,Broreparation med tandteknisk insats,5 070,5 245
+814,"Broreparation med tandteknisk insats, omfattande",8 760,10 645
+815,Sadelkrona,5 850,6 110
+822,"Partiell protes ,utan metallskelett eller för temporärt bruk, en till tre tänder",4 120,4 800
+823,"Partiell protes,utan metallskelett eller för temporärt bruk, fyra eller fler tänder",5 800,6 700
+824,"Partiell protes med metallskelett, klammerförankrad",12 285,15 015
+825,"Komplicerad partiell protes med metallskelett som förankras med stöd av urtagskrona, innerkrona eller attachments",13 905,13 905
+826,"Attachments, per styck",105,105
+827,Hel underkäksprotes,10 435,12 025
+828,Hel överkäksprotes,10 435,12 025
+829,"Immediatprotes, hel käke",7 815,9 100
+831,Justering av avtagbar protes,425,440
+832,Lagning av protes eller tillsättning av protestand,1 410,1 510
+833,Rebasering av protes,2 880,3 340
+834,Lagning av protes där avtryck krävs,2 195,2 350
+835,Rebasering och lagning av protes,3 415,3 735
+836,Komplicerad lagning av protes,4 275,4 800
+837,Komplicerad lagning av protes där uppvaxning och gjutning av ny del utförs vilken svetsas till befintlig protes,7 385,8 250
+839,Inmontering av förankringselement,3 360,3 895
+845,Ocklusionskorrigerande bettslipning,2 105,2 280
+846,"Skena, hel eller cementerad i sektioner, för vertikal platsberedning eller bettstabilisering",4 800,5 475
+847,Klammerplåt,4 460,4 575
+848,"Betthöjning eller uppbyggnad för ocklusal stabilisering med fyllningsmaterial, per tandposition",620,640
+850,"Implantatstödd krona, en per käke",8 820,9 580
+852,"Implantatstödd krona, flera i samma käke",6 835,8 760
+853,Hängande led vid implantatstödd bro,2 465,2 740

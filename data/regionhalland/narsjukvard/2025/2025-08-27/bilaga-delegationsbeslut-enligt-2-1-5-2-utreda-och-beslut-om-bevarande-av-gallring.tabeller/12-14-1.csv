@@ -1,0 +1,143 @@
+1.2.3.1 Styrdokument,,,,,,
+1.2.3.2 Bedriva internkontroll,,,,,,
+1.2.3.3 Hantera revision,,,,,,
+"Process-
+beteckning
+Kod","Handlingsslag
+/
+Handlingstyp","Registrerin
+gDiarieförs
+Systematisk
+förvaring","Bevaras
+/
+Gallras","Förvaringsplats
+/System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning(Hantering,
+lagrum, personuppgifter,
+m m)"
+1.2.3.1,Styrdokument,,,,,
+,"Regionalt reglemente för
+nämnder",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,"Se Reglementen för
+regionstyrelsen och
+driftnämnderna."
+1.2.3.2,Bedriva internkontroll,,,,,
+,Internkontrollplan,Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",1,"Dokumentation av upplägg och
+arbetsformer samt rapporter och
+eventuella åtgärdsplaner.
+Arbetsmaterial förvaras i Stratsys."
+,Riskanalys,Diarieförs,Bevaras,"Ärendeakt/Platina
+Diairum",1,"Bevaras tillsammans med
+handlingar om intern kontroll"
+,"Uppföljning av
+internkontrollplan",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",1,"Redovisas till nämnd genom UR2
+och ÅR."
+1.2.3.3,Hantera revision,,,,,
+,Revisionsrapporter,Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+,"Nämndens svar på
+revisionsrapporter",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,"Nämndens svar beslutas av
+arbetsutskottet på delegation och
+redovisas till nämnd."
+Process,,,,,,
+1.4 Demokrati och insyn,,,,,,
+Processer,,,,,,
+1.4.1. Hantering av allmänna handlingar,,,,,,
+1.4.1.1 Tillhandahålla och lämna ut allmänna handlingar,,,,,,
+1.4.1.2 Behandla personuppgifter och skydda personlig integritet,,,,,,
+"Process-
+beteckning/
+Kod","Handlingsslag/
+Handlingstyp","Registrerin
+g
+Diarieförs
+Systematisk
+förvaring",Bevaras/ Gallras,"Förvaringsplats/
+System","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning(Hantering
+, lagrum,
+personuppgifter,
+m m)"
+1.4.1.1,Tillhandahålla och lämna ut allmänna handlingar,,,,,
+,"Begäran om allmän handling
+som inte omfattas av
+sekretess","Systematisk
+förvaring","Gallras efter
+utlämnande",,,
+,"Utlämnande av allmän
+handling som inte omfattas
+av sekretess, svar","Systematisk
+förvaring","Gallras efter
+utlämnande",,,
+,"Begäran om allmän
+handling som omfattas av
+sekretess",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",1–4,"Se rutin för Journalutlämnande
+& Utlämnande av allmän
+handling NSVH"
+,"Utlämnande av allmän
+handling som omfattas av
+sekretess",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,"Se rutin för Journalutlämnande
+& Utlämnande av allmän
+handling NSVH.
+Journalhandlingar ska inte
+diarieföras i Platina."
+,"Beslut att avslå begäran
+om utlämnande av allmän
+handling",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,"Beslut fattas av förvaltningschef
+eller administrativ chef. Se
+NSVHDelegationsordning"
+,"Överklagande av beslut
+rörande utlämnande av
+allmän handling eller
+maskning av
+uppgifter",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+,"Yttrande och beslut i övre
+instans i överklagat beslut
+om avslag på utlämnande",Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+1.4.1.2,Behandla personuppgifter och skydda personlig integritet,,,,,
+,"Begäran om registerutdrag
+från registrerad",Diarieförs,Gallras efter 10 år,"Ärendeakt/Platina
+Diarium",1-3,"Se rutin Loggutdrag till
+patient. Begäran inklusive
+svar ska bevaras vid avslag"
+,"Svar om
+registerutdrag",Diarieförs,"Gallras
+efter 10 år","Ärendeakt/Platina
+Diarium",,"Gäller även begäran om ändring,
+radering. Begäran inklusive svar ska
+bevaras vid avslag"
+,Avslag på begäran,Diarieförs,Bevaras,"Ärendeakt/Platina
+Diarium",,
+,"Samtycke till behandling
+och publicering av
+personuppgifter enligt
+GDPR","Systematisk
+förvaring","Gallras vid
+inaktualitet",Systemstöd,,"Gallras 2 år efter att tiden för
+samtycket har löpt ut eller att
+samtycket återkallats och
+behandlingen i fråga har avslutats.
+Avser även fysiskt emottaget
+samtycke, t ex blankett."

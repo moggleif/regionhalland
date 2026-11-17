@@ -1,0 +1,6 @@
+UBA,"Uteblivande eller sent återbud från behandling, barn. Allmäntandvård",,,300
+UBS,"Uteblivande eller sent återbud från behandling, barn. Specialisttandvård",,,300
+,,,,
+UB1,"Uteblivande eller sent återbud från behandling, vuxentandvård upp till 30 minuter",,,500
+UB2,"Uteblivande eller sent återbud från behandling, vuxentandvård mer än 30 minuter",,,1 000
+UBN,Uteblivande eller sent återbud från narkos,,,2 400
