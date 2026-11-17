@@ -1,0 +1,20 @@
+103S,"Kompletterande eller akut undersökning, utförd av tandläkare",585 kr,680 kr
+107S,"Omfattande undersökning, utförd av tandläkare",1 970 kr,2 300 kr
+108S,"Utredning inklusive undersökning, utförd av tandläkare",2 960 kr,3 550 kr
+115S,Konsultation specialisttandvård,1 060 kr,1 300 kr
+115S1,"Konsultation specialisttandvård, över 30 minuter",1 060 kr,1 704 kr
+116S,"Konsultation specialisttandvård, omfattande",2 080 kr,2 080 kr
+116S1,"Konsultation specialisttandvård, omfattande, över 75 minuter",2 080 kr,3 300 kr
+116S2,"Konsultation specialisttandvård, omfattande, över 90 minuter",2 080 kr,4 000 kr
+121S,"Röntgenundersökning, en bild, eller flera bilder av en tandposition",120 kr,140 kr
+123S,"Röntgenundersökning, helstatus",1 595 kr,1 750 kr
+124S,Panoramaröntgenundersökning,1 130 kr,1 320 kr
+125S,"Röntgenundersökning, extraoral",1 125 kr,1 300 kr
+126S,"Röntgenundersökning, omfattande",2 075 kr,2 400 kr
+127S,"Röntgenundersökning, delstatus",410 kr,460 kr
+128S,"Röntgenundersökning, större delstatus",625 kr,670 kr
+131S,"Tomografiundersökning, en kvadrant eller tandposition 3-3",1 555 kr,2 000 kr
+132S,"Tomografiunderöskning, två kvadranter eller sinus",2 080 kr,2 600 kr
+133S,"Tomografiundersökning, tre kvadranter eller käkleder",2 830 kr,3 400 kr
+134S,"Tomografiundersökning, fyra kvadranter",3 340 kr,3 900 kr
+163S,Biopsi,1 565 kr,2 000 kr

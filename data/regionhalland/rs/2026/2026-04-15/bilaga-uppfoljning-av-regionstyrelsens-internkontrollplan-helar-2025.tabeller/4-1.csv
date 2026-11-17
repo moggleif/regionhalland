@@ -1,0 +1,24 @@
+Kontrollmoment,Resultat av genomförd kontroll
+"Risk att äldre icke förvaltade system, gammal
+hårdvara ökar antal driftstörningar.
+Beskrivning av metod: Antal Windows
+klienter som är för gamla, Antal operativsystem på
+servrar som är för gamla och antal databasversioner
+som är för gamla - två gånger per år","Kontrollen är genomförd
+Under 2025 har Region Halland fortsatt att minska riskerna kopplade
+till äldre och icke förvaltade IT-system. Rutiner för livscykelhantering
+fungerar väl, men efterlevnaden varierar och flera system och
+plattformar ligger kvar på operativsystem och databasversioner som
+saknar eller snart förlorar support. Totalt finns ett betydande antal äldre
+serverplattformar samt databaser som måste uppgraderas senast 2026.
+På klientsidan har utfasningen av Windows 10 försvårats av att många
+applikationer – särskilt medicintekniska – ännu inte är verifierade för
+Windows 11. Detta blockerar migreringen för över 680 datorer och
+riskerar ökade supportkostnader.
+Arbetet med att minska antalet icke förvaltade system har gett goda
+resultat, men skugg-IT i form av okända molntjänster kvarstår som risk.
+Sammantaget bedöms risken som delvis hanterad, men fortsatt
+väsentlig. Prioriterade områden framåt är utfasning av gamla
+plattformar, uppgradering av databaser, accelererad
+applikationsvalidering och förstärkt styrning mot leverantörer och
+verksamheter."

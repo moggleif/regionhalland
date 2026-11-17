@@ -1,0 +1,13 @@
+Indikatorer,Målvärde,Delresultat
+"Patient/närstående som väntat kortare än 24 timmar på
+bekräftelse vid nytt ärende.",80%,97%
+"Patient/närstående som väntat 7 dagar eller kortare på första
+kontakt.",80%,93%
+Andel stödpersonsuppdrag som har förordnats inom 7 dagar.,80%,100%
+Andel svar från vårdgivare inom fyra veckor.,80%,80%
+Andel svar från vårdgivare inom två veckor.,80%,92%
+"Andel svar till patient från vårdgivaren inom tid eller efter tre
+påminnelser.",100%,100%
+Antal analyser som produceras,100%,50%
+Antal rapporter som produceras,100%,50%
+Andel telefontidbokningar,80%,73%

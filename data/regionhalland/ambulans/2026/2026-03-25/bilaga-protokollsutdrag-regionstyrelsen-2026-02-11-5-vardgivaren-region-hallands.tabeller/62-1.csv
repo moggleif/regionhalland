@@ -1,0 +1,21 @@
+Klinik,Hantering av graviditetsfråga
+Akutkliniken,Remitterande läkare ansvarar för att tillfråga om patienten är gravid
+Kirurgikliniken,Graviditet efterfrågas i hälsodeklaration.
+Medicinkliniken HSH,"Frågan adresseras i de lokala strålskyddsreglerna och i perioperativt
+protokoll i samband med procedur."
+Medicinkliniken HSV,"Ytterst ovanligt, men om det skulle ske har vi dialog med patienten och
+informerar om risker."
+OP/IVA HSH,Frågan ställs i hälsodeklaration som fylls i inför operation.
+OP/IVA HSK,"Frågan om graviditet finns med i patientens hälsodeklaration och den
+följs upp i ankomstsamtalet inför operation."
+OP/IVA HSV,"Graviditetsstatus hos patient frågas av personal. Om graviditet bekräftas
+jobbas det aktivt med att minska stråldosen genom justering av
+bländare, inzoomning samt begränsning med ”gardiner” på c-bågar.
+Operatör minimerar antal belysningstillfällen samt använder sig av
+pulsar i stället för kontinuerlig genomlysning. Vidare jobbas det aktivt
+med skärmar och skynken för att minska spridningen."
+"Ortopedimottagningen
+HSV","För patient används så liten mängd strålning att risken för ett eventuellt
+foster i magen på patient, personal eller medföljande person är obetydlig
+eftersom det endast handlar om röntgen av extremiteter."
+Urologikliniken,Kvinnor i fertil ålder tillfrågas om graviditetsstatus innan ingrepp.

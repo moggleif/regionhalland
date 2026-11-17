@@ -1,0 +1,17 @@
+Ordning,Leveransobjekt,Status R7,Nästa steg,Status applikation
+1,Aweria,Ej aktuellt,Klart,Avställt
+2,Provisio,Testvalidering klar,Validering av produktionsdata,"Övergång till Cosmic plan 2026
+Provisio EOL årsskiftet 2026/2027"
+3,VAS E-arkiv,Pågår,Validering i test,"Läsläge
+Arkivering sker under 2026"
+4,NCS,"Klart att starta
+förarbete",,Läsläge minst till mars 2027
+5,VAS,Klar att starta,Testarbete startas januari 2026,Läsläge minst till mars 2027
+6,PMO BHV-Journal,Förstudie klar,,"Plan för införande i Cosmic årsskiftet
+2025/2026"
+7,CytoBase,,Start av förstudie,"Plan införande i Cosmic halvårsskiftet
+2026"
+7,Obstetrix,Förstudie klar,,Plan införande i Cosmic tidigast höst 2026
+,MedSpeech,Ej aktuellt,"Åtkomst- och aktivitetsloggar till
+Monitor",Plan avveckling okt 2025
+,"LifeCare, Pasiva, Jill, Epsilon",,,Oklart när de kommer ersättas
