@@ -117,6 +117,8 @@ samlingsmoten = [
   "https://politik.regionhalland.se/committees/driftnamnden-kultur-och-skola-1/mote-2020-01-01",
   "https://politik.regionhalland.se/committees/driftnamnden-regionservice/mote-2024-01-01",
   "https://politik.regionhalland.se/committees/revisionsrapporter/mote-2022-01-01",
+  # Revisorernas äldre adress, länkad från revisionens organsida.
+  "https://politik.regionhalland.se/committees/regionens-revisorer/mote-2018-01-01",
 ]
 
 # Samlingsmötenas filer är protokoll: "Protokoll 2014-04-16.pdf",

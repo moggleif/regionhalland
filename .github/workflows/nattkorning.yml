@@ -27,7 +27,7 @@ defaults:
 
 env:
   # Versionen av kommunhandlingar som körs: en commit på dess main.
-  KOMMUNHANDLINGAR: git+https://github.com/moggleif/kungsbackakommun@b002679ab8b2c3a04724c381014a0cc1e77fd5ff
+  KOMMUNHANDLINGAR: git+https://github.com/moggleif/kungsbackakommun@7ca5f699cd49163bc7a5fe7298ef7a319fbbadc5
 
 jobs:
   moten:
