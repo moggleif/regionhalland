@@ -92,8 +92,13 @@ och de nya slagen i
 | `remisser/regionhalland.csv`           | Remisser och yttranden.                          |
 | `overenskommelser/regionhalland.csv`   | Överenskommelser och vårdval.                    |
 
-Först ute är Driftnämnden Närsjukvård, 2017–2026. Målen står för 2025, det
-enda året där verksamhetsplanen och årsredovisningen går att läsa mål för
-mål; i äldre årsredovisningar är tabellerna för trasiga för att citera.
+Först ute är Driftnämnden Närsjukvård, 2017–2026. Målen står för
+2018–2026, ur verksamhetsplanerna (2020 ur årsredovisningen, eftersom
+planen inte finns i poolen; 2024 bara nämndens egna utvecklingsområden ur
+beslutsförslaget; 2026 ur planen nämnden fick i oktober 2025). Utfallet står
+för 2020–2022 och 2025. Årsredovisningarna 2023 och 2024 har tabeller som
+inte går att läsa mål för mål, och 2018–2019 följs bara upp med indikatorer.
+Motionerna har fullmäktiges beslut där beslutet finns bland nämndens
+handlingar; resten kommer när regionfullmäktige är hämtat.
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
