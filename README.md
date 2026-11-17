@@ -23,6 +23,7 @@ koden. Format, regler och beslut står där:
 | `hamtning.toml`                     | User-Agent och intervall mellan anropen.                    |
 | `data/regionhalland/`               | Dokumenten, ett per fil i källan, skrivna av nattkörningen. |
 | `versioner/regionhalland.csv`       | Varje ny version av ett dokument, skriven av nattkörningen. |
+| `mal/`, `uppfoljningar/` och spåren | Sidorna över tid, skrivna för hand ur handlingarna (nedan). |
 | `.github/workflows/nattkorning.yml` | Nattkörningen, och versionen av kommunhandlingar den kör.   |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
@@ -69,3 +70,30 @@ publiceras på <https://moggleif.github.io/regionhalland/>. Menyn delar in
 organen i grupperna i inställningsfilen. Kallelser och protokoll visar
 texten på sin sida; bilagornas sidor visar härkomsten och länkar till
 Markdown-filen här, så att webbplatsen ryms under GitHub Pages gräns på 1 GB.
+
+## Sidorna över tid
+
+Varje driftnämnd kan få samma sidor över tid som Kungsbackas nämnder, och
+tre till som regionen behöver. Filerna skrivs för hand ur handlingarna, och
+bygget prövar att varje text står på källans sida. Formatet står i
+[arkitekturen](https://github.com/moggleif/kungsbackakommun/blob/main/docs/03-ARKITEKTUR.md)
+och de nya slagen i
+[ADR-0085](https://github.com/moggleif/kungsbackakommun/blob/main/docs/decisions/0085-lokaler-remisser-och-overenskommelser-som-spar.md).
+
+| Fil                                    | Sidan                                            |
+| -------------------------------------- | ------------------------------------------------ |
+| `mal/regionhalland.csv`                | Mål och direktiv: nämndens mål och utfallet.     |
+| `uppfoljningar/regionhalland.csv`      | Uppföljningarna av målen i protokollen.          |
+| `investeringar/regionhalland.csv`      | Lokaler och investeringar.                       |
+| `initiativ/regionhalland.csv`          | Initiativärenden, och motioner som nämnden yttrat sig över. |
+| `handlingsplaner/regionhalland.csv`    | Handlingsplaner.                                 |
+| `redovisningar/regionhalland.csv`      | Redovisningar av uppdrag och återkommande rapporter. |
+| `granskningar/regionhalland.csv`       | Revisionens granskningar och nämndens svar.      |
+| `remisser/regionhalland.csv`           | Remisser och yttranden.                          |
+| `overenskommelser/regionhalland.csv`   | Överenskommelser och vårdval.                    |
+
+Först ute är Driftnämnden Närsjukvård, 2017–2026. Målen står för 2025, det
+enda året där verksamhetsplanen och årsredovisningen går att läsa mål för
+mål; i äldre årsredovisningar är tabellerna för trasiga för att citera.
+Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
+lokalplan och planmonopol.
