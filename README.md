@@ -95,5 +95,13 @@ och de nya slagen i
 Först ute är Driftnämnden Närsjukvård, 2017–2026. Målen står för 2025, det
 enda året där verksamhetsplanen och årsredovisningen går att läsa mål för
 mål; i äldre årsredovisningar är tabellerna för trasiga för att citera.
+Gemensam nämnd för hemsjukvård och hjälpmedel har sidorna för 2017–2021,
+de år poolen har hämtat: överenskommelserna med kommunerna (hemsjukvården,
+hjälpmedelsavtalet, trygg och effektiv utskrivning och betalningsmodellen),
+redovisningarna (hjälpmedelsuppdraget och indikatorrapporterna) och
+granskningarna. Nämnden har inga egna mål i handlingarna, bara medel i
+regionens budget, och därför ingen sida för mål och uppföljningar.
+Stegen tar med beslut i andra organ när de gäller nämndens överenskommelser.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
