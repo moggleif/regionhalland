@@ -1,0 +1,16 @@
+Indikatorer,Målvärde
+Periodresultat,
+Ackumulerad budgetavvikelse,
+Prognos budgetavvikelse,
+Antal ärenden som bedöms som patientärenden.,5%
+Antal ärenden som bedöms som informationsärenden.,5%
+"Patient/närstående som väntat kortare än 24 timmar på bekräftelse
+vid nytt ärende.",80%
+"Patient/närstående som väntat 7 dagar eller kortare på första
+kontakt.",80%
+Andel stödpersonsuppdrag som har förordnats inom 7 dagar.,80%
+Andel svar från vårdgivare inom fyra veckor.,80%
+"Andel svar till patient från vårdgivaren inom tid eller efter tre
+påminnelser.",100%
+Antal analyser och rapporter som produceras,100%
+Andel telefontidbokningar,80%
