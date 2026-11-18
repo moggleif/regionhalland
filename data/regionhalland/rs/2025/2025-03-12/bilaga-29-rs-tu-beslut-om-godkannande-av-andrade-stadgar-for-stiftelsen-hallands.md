@@ -1,0 +1,97 @@
+---
+kommun: regionhalland
+organ: rs
+datum: 2025-03-12
+lopnr: null
+typ: bilaga
+namn: 29-rs-tu-beslut-om-godkannande-av-andrade-stadgar-for-stiftelsen-hallands
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/regionstyrelsen/mote-2025-03-12/agenda/ss29-rs-tu-beslut-om-godkannande-av-andrade-stadgar-for-stiftelsen-hallands-lansmuseer-beredning-infor-rspdf
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/regionstyrelsen/mote-2025-03-12/agenda/ss29-rs-tu-beslut-om-godkannande-av-andrade-stadgar-for-stiftelsen-hallands-lansmuseer-beredning-infor-rspdf?downloadMode=open
+sha256: 7ce72dd59697d91948df47c31b5af1d48a4371c7bba2085d28e9b9e2f4eab91e
+bytes: 204818
+sidor: 2
+hamtad: 2026-11-18T06:27:46+00:00
+konverterad: 2026-11-18T06:27:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
+fel: null
+kvalitet_per_sida: [ok, ok]
+tal_obekraftade: []
+figurer: []
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+Protokoll
+Sammanträdesdatum
+2025-02-11
+
+Regionstyrelsens tillväxtutskott
+
+§29
+
+Beslut om godkännande  av ändrade stadgar för Stiftelsen Hallands
+länsmuseer (Beredning inför RS)
+RS241580
+
+Beslut
+
+Regionstyrelsen föreslår regionfullmäktige besluta att
+
+• godkänna föreslagna ändringar av urkund och stadgar för Stiftelsen Hallands
+länsmuseer i enlighet med stiftelsens styrelses förslag den 24 oktober 2024.
+
+Ärendet
+Stiftelsen Hallands länsmuseer har inkommit med anmodan om att Region Halland medger
+ändring av stiftelsens stadgar. Stiftelsens styrelse har beslutat om ändringsförslaget den 24
+oktober 2024. Som en av fem huvudmän behöver Region Halland godkänna föreslagna
+
+ändringar innan de kan träda i kraft.
+
+De föreslagna ändringarna syftar till att uppdatera stadgan enligt rådande förhållanden samt
+vara hållbara under en längre tid. Ändringarna gäller
+
+1\. Ändring av interna rådande förhållanden, såsom att stiftelsen sedan 2016 återförts till
+samma organisation samt idag har länsmuseichef som högsta tjänsteperson.
+2\. Ändring av externa rådande förhållanden, såsom att länsantikvarien vid Länsstyrelsen i
+
+Halland inte sedan 1990-talet har adjungerats till stiftelsens styrelsemöten och detta
+förhållande idag inte är tillämpligt.
+3\. Ändring av namn på den regionala stiftaren, från landstinget till regionen alternativt
+regionstyrelsen, alternativt Region Halland, i de paragrafer där det inte redan är ändrat (§ 4,
+5, 19 och 20 ändrades 2005).
+4\. Ändring av viss terminologi i enlighet med nutida praxis
+
+Förslag till beslut
+Regionstyrelsen föreslår regionfullmäktige besluta att
+
+• godkänna föreslagna ändringar av urkund och stadgar för Stiftelsen Hallands
+länsmuseer i enlighet med stiftelsens styrelses förslag den 24 oktober 2024.
+
+Ordförandes sign     Justerares sign      Utdragsbestyrkande
+
+Sida 1 av 2
+
+<!-- sida 2 -->
+
+Protokoll
+Sammanträdesdatum
+2025-02-11
+
+Regionstyrelsens tillväxtutskott
+
+Beslutsunderlag
+•  Beslut om godkännande av ändrade stadgar för Stiftelsen Hallands
+länsmuseer
+•  Anmodan om att ge medgivande till ändring av stadgarna för Stiftelsen
+Hallands länsmuseer
+
+Paragrafen är justerad
+
+Ordförandes sign     Justerares sign      Utdragsbestyrkande
+
+Sida 2 av 2

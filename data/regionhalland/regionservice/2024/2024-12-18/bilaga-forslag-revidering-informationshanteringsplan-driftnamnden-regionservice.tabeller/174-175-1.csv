@@ -1,0 +1,98 @@
+2.10.2.4,Svara för transporter,,,,,,,
+2.10.2.4,Trucktillstånd,"Systematisk
+förvaring",,"Gallras när
+anställning
+avslutas",Självservice E-arkivet,Ja,,.
+2.10.2.4,Körtillstånd,"Systematisk
+förvaring",,"Gallras när
+anställning
+avslutas",Självservice E-arkivet,Ja,,
+2.10.2.4,Trafiktillstånd,"Systematisk
+förvaring",,"Gallras när
+tillstånd förnyas",Platina,Ja,,
+2.10.2.4,"Tillstånd Transport avfall, inkl.
+farligt avfall","Diarieföring
+Systematisk
+förvaring",,Bevaras,"Platina
+Teams (Överlämning
+ledningssystem &
+miljö)",,,"Original diarieförs, kopia finns
+i Teams."
+2.10.2.4,"Tillstånd farligt avfall, farligt gods","Diarieföring
+Systematisk
+förvaring",,Bevaras,"Platina
+Teams (Överlämning
+ledningssystem &
+miljö)",,,"Original diarieförs, kopia finns
+i Teams"
+2.10.2.4,Tillstånd trafikansvarig,"Diarieföring
+Systematisk
+förvaring",,Besvaras,"Platina
+Teams (Överlämning
+ledningssystem &
+miljö)",,,"Original diarieförs, kopia finns
+i Teams"
+2.10.2.4,"Anmälan om mellanlagring av
+farligt avfall","Systematisk
+förvaring",,Bevaras,"Teams (Överlämning
+ledningssystem &
+miljö)",,,"Ett för varje sjukhus
+(Kungsbacka, Varberg,
+Halmstad)"
+2.10.2.4,"Arbetsorder: Dokument till
+scanning","Systematisk
+förvaring",,Bevaras,Faciliate,,,
+2.10.2.4,Arbetsorder: Extra transport,"Systematisk
+förvaring",,Bevaras,Faciliate,,,
+2.10.2.4,Aktiviteter distribution,"Systematisk
+förvaring",,"Gallras efter 13
+månader","AddSecure
+WebOffice",,,
+2.10.2.4,Körhistorik,"Systematisk
+förvaring",,"Gallras efter 13
+månader","AddSecure
+WebOffice",Ja,,
+2.10.2.4,Positioner,"Systematisk
+förvaring",,"Gallras efter 13
+månader","AddSecure
+WebOffice",,,
+2.10.2.4,Loggar,"Systematisk
+förvaring",,"Gallras efter 13
+månader","AddSecure
+WebOffice",Ja,,
+2.10.2.4,Tachograf,"Systematisk
+förvaring",,"Gallras efter 13
+månader","AddSecure
+WebOffice",Ja,,
+2.10.2.4,Temperaturmätningar,"Systematisk
+förvaring",,"Gallras efter 13
+månader","AddSecure
+WebOffice",,,
+2.10.2.4,Uppdrag (Körschema),"Systematisk
+förvaring",,Gallras efter 5 år,WebOffice,,,
+2.10.2.4,Följesedel Läkemedel,"Systematisk
+förvaring",,Gallras efter 3 år,Logistikservice,,,
+2.10.2.4,Bokningar patienttransporter,"Systematisk
+förvaring",,Bevaras,Faciliate,,,
+2.10.2.4,Rapporter patienttransporter,"Systematisk
+förvaring",,Bevaras,Faciliate,,,
+2.10.2.4,"Kontinuitetsplaner
+patienttransporter","Systematisk
+förvaring",,"Gallras vid
+uppdatering","Papper (Blå pärm på
+varje avdelning)
+Platina",,,"Telefoner, skyddsutrustning,
+arbetskläder, nätverk, IT-
+system, kvalificerad personal,
+behörigheter (Passage & IT-
+system)"
+2.10.2.4,Kontinuitetsplaner distribution,"Systematisk
+förvaring",,"Gallras vid
+uppdatering","Papper (Blå pärm på
+varje avdelning)
+Platina",,,"Telefoner, skyddsutrustning,
+arbetskläder, nätverk, IT-
+system, kvalificerad personal,
+behörigheter (Passage & IT-
+system), fordon (exkl. truckar),
+drivmedel (ej el),"

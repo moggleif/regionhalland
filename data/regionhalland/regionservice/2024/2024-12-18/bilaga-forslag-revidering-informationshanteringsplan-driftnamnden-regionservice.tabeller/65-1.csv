@@ -1,0 +1,53 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium
+för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion",,"Anmärkning
+(Hantering, lagrum, personuppgifter,
+m m)"
+2.1.1,Informationssäkerhet,,,,,,,,
+2.1.1.1,Hantera informationssäkerhet,,,,,,,,
+2.1.1.1,Minnesanteckningar ISSO,"Systematisk
+förvaring",,"Gallras vid
+inaktualitet",Teams,N,1,,
+2.1.1.1,Uttalande om tillämplighet,"Systematisk
+förvaring",,Bevaras,Server,N,2,Uppdateras löpande.,
+2.1.1.1,Informationsklassningar,"Systematisk
+förvaring",,Bevaras,Server,N,,"Generellt i styrdokumentet 309
+Informationssäkerhet Region
+Halland.",
+2.1.1.1,Riskanalyser,Diarieförs,,Bevaras,Platina,N,1-3,"Kan omfattas av OSL kap 18 §
+13.",
+2.1.1.1,Incidenthantering,Diarieförs,,Bevaras,Platina,(Ja),1-3,"Kan omfattas av OSL kap 18 §
+8 och kap 18 § 13.
+Samordnas med andra internt.
+Kan innehålla uppgifter om
+individer.",
+2.1.1.1,Revisionsrapporter interna,Diarieförs,,Bevaras,Platina,N,1-3,"Samt ledningens genomgång.
+Allvarliga avvikelser kan vara
+av känslig karaktär.
+Kan omfattas av OSL kap 18 §
+8 och kap 18 § 13.",

@@ -1,0 +1,36 @@
+Öppenvård (ej DRG-ersatt),Läkarbesök (kr),Behandling (kr)
+Akutmottagning,5 541,2 664
+Paramedicin,0,3 259
+"Paramedicin, digital kontakt",0,2 129
+Internmedicin,12 832,12 134
+"Internmedicin, digital kontakt",5 140,0
+"Hematologi, hud och infektion",7 690,2 223
+"Hematologi, hud och infektion, digital kontakt",1 662,1 199
+Kardiologi,4 388,2 612
+"Kardiologi, digital kontakt",2 267,1 561
+"Neurologi, stroke och rehabilitering",8 334,3 580
+"Neurologi, stroke och rehabilitering, digital kontakt",3 654,1 775
+Specialistmedicin,8 394,3 601
+"Specialistmedicin, digital kontakt",2 423,1 212
+AnOpIVA,9 971,4 557
+"AnOpIVA, digital kontakt",5 331,3 148
+Kirurgi,5 226,2 515
+"Kirurgi, digital kontakt",1 982,1 269
+Ortopedi,2 786,1 868
+"Ortopedi, digital kontakt",1 487,0
+Ögon,2 627,1 363
+"Ögon, digital kontakt",1 512,782
+ÖNH/Käkkirurgi,3 785,2 455
+"ÖNH/Käkkirurgi, digital kontakt",2 100,1 331
+Barn- och ungdomsmedicin,4 549,2 187
+"Barn- och ungdomsmedicin, digital kontakt",1 791,1 291
+Barn- och ungdomspsykiatri,17 461,5 111
+"Barn- och ungdomspsykiatri, digital kontakt",8 363,2 801
+Kvinnoklinik,4 227,2 415
+"Kvinnoklinik, digital kontakt",2 268,1 555
+Vuxenpsykiatri,8 831,3 370
+"Vuxenpsykiatri, digital kontakt",5 479,1 429
+Sluten vård,Kr/vårddag,Kr/vårdtillfälle
+Vuxenpsykiatri,7 445,6 522
+Rättspsykiatri,9 320,0
+Barn- och ungdomspsykiatri,24 940,0

@@ -1,0 +1,37 @@
+S & P,Moodys,Fitch,Rating beskrivning
+Long-term,Long-term,Long-term,
+AAA,Aaa,AAA,Prime
+"AA+
+AA
+AA-","Aa1
+Aa2
+Aa3","AA+
+AA
+AA-",High Grade
+"A+
+A
+A-","A1
+A2
+A3","A+
+A
+A-",Upper medium grade
+"BBB+
+BBB
+BBB-","Baa1
+Baa2
+Baa3","BBB+
+BBB
+BBB-",Medium grade
+BB+,Ba1,BB+,Non investment grade
+BB,Ba2,BB,
+BB-,Ba3,BB-,
+B+,B1,B+,Speculative/ Highly speculative
+B,B2,B,
+B-,B3,B-,
+CCC+,Caa1,CCC,Substantial risks
+CCC,Caa2,,
+CCC-,Caa3,,
+CC,Ca,CC,Very high risks
+C,,C,Exceptionally high risks
+D,C,RD,In default
+,,D,

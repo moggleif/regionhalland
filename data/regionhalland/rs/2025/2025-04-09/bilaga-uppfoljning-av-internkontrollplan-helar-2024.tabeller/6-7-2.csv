@@ -1,0 +1,42 @@
+Kontrollmoment,Resultat av genomförd kontroll
+"Kontroll av att kontinuitetsplaner
+existerar, övande av kontinuitetsplaner
+och att system speciellt sådana som är
+exponerade mot Internet är
+uppdaterade.
+Beskrivning av metod
+Manuell uppföljning
+Automatiserad sårbarhetsanalys","Kontrollen är genomförd
+Under helåret 2024 har kontroller genomförts för att
+säkerställa att regionkontorets kontinutietsplaner är
+aktuella och att de regelbundet övas. Vid uppföljningen
+i augusti noterades att manuella kontroller och
+sårbarhetsuppdateringar sker kontinuerligt, och att
+även automatiserad sårbarhetsanalys har införts.
+Avdelningen för IT-säkerhet och infrastruktur har
+rapporterat följande framsteg:
+• Incidentprocess för ransomware-angrepp:
+Arbetet med att utveckla en incidentprocess
+för att hantera eventuella utpressningsvirus
+pågår. Syftet med denna process är att
+förbereda organisationen för sådana händelser
+och att träna personalen i förebyggande
+åtgärder. Detta innefattar även en
+kontinuitetsplan och hantering tillsammans
+med verksamheterna.
+• Sårbarhetsskanningar: Löpande
+sårbarhetsskanningar genomförs mot samtliga
+servrar, inklusive de som är exponerade mot
+internet. Resultaten av dessa skanningar
+rapporteras månadsvis till ansvariga personer."
+,"• Samarbete med Mjukvaruutveckling: Team IT-
+säkerhet har ett nära samarbete med
+avdelningen för mjukvaruutveckling. De bistår
+med penetrationstester, kodgranskningar och
+sårbarhetsskanningar för de applikationer som
+utvecklas. Eventuella fynd från dessa tester
+rapporteras till
+mjukvaruutvecklingsavdelningen.
+Dessa åtgärder och samarbeten bidrar till att stärka vår
+IT-säkerhet och att hålla våra system uppdaterade och
+skyddade mot potentiella hot."
