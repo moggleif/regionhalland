@@ -40,7 +40,7 @@ jobs:
         run: |
           {
             echo "START=$(date +%s)"
-            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}"
+            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-${{ github.run_attempt }}"
           } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
         with:
@@ -105,7 +105,7 @@ jobs:
   pr:
     name: PR med automatisk merge
     needs: moten
-    if: ${{ always() && needs.moten.outputs.gren != '' }}
+    if: ${{ !cancelled() && needs.moten.outputs.gren != '' }}
     runs-on: ubuntu-latest
     permissions: {}
     steps:
