@@ -21,7 +21,7 @@ jobs:
           python-version: "3.12"
       - name: Samma version som nattkörningen
         run: |
-          pip install "$(grep -oP 'KOMMUNHANDLINGAR: \K\S+' .github/workflows/nattkorning.yml)"
+          pip install "$(cat kodversion.txt)"
       - name: Kommunfilen går att läsa
         run: |
           for kommunfil in kommuner/*.toml; do
