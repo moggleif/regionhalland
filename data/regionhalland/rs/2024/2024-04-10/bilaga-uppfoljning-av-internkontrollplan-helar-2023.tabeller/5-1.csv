@@ -1,0 +1,25 @@
+Kontrollmoment,Resultat av genomförd kontroll
+"Kontroll av leverantörstroheten
+Beskrivning av metod
+Utveckla ett mätetal att följa i Stratsys.
+När det gäller den generella efterlevnaden
+av avtal enligt avtalskatalogen, är den mer
+komplex att kontrollera. Utmaningen är
+extra stor då vi ej har något
+beställningssystem.
+Köp kan göras från rätt leverantör men
+man kan inte generellt säga att man
+använder leverantören för det område
+som avtalet gäller utan att göra nedslag
+på varje faktura och följa upp den.
+Vad vi jobbar med är att mäta
+leverantörstroheten. Nästa steg är att få in
+detta som ett mätetal att följa i Stratsys.","Kontrollen är genomförd
+Metod: Kontroll i inköpsanalysen av köp gjorda hos
+leverantörer med avtal eller ej.*
+Resultat: Resultatet visar på vissa brister i
+följsamheten.
+Åtgärd: Fortsatt analys och kontroll av leverantörer
+där avtal saknas.
+*Analysen utgår ifrån avtal som finns i
+upphandlingsverktyget Tendsign."
