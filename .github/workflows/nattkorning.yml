@@ -1,7 +1,8 @@
 # Nattkörningen för Region Halland: upptäckt och steg 2 med kommunhandlingar
-# i en fast version, datakontrollerna, och incheckning på en egen gren som
-# får en PR. Samma kommandon och tidsbudget som kommunhandlingars
-# nattkörning (där K11, K53 och ADR-0052).
+# i en fast version, i delar om 15 minuter, och efter varje del
+# datakontrollerna och en push på körningens egen gren, som får en PR.
+# Samma kommandon och tidsbudget som kommunhandlingars nattkörning (där
+# K11, K53, ADR-0052 och ADR-0088).
 name: Nattkörning
 
 on:
@@ -25,10 +26,6 @@ defaults:
   run:
     shell: bash
 
-env:
-  # Versionen av kommunhandlingar som körs: en commit på dess main.
-  KOMMUNHANDLINGAR: git+https://github.com/moggleif/kungsbackakommun@7ca5f699cd49163bc7a5fe7298ef7a319fbbadc5
-
 jobs:
   moten:
     name: Mötena
@@ -39,8 +36,12 @@ jobs:
     outputs:
       gren: ${{ steps.incheckning.outputs.gren }}
     steps:
-      - name: Jobbets start, som tidsbudgeten räknas från
-        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - name: Jobbets start, som tidsbudgeten räknas från, och dess gren
+        run: |
+          {
+            echo "START=$(date +%s)"
+            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-${{ github.run_attempt }}"
+          } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
         with:
           ref: main
@@ -49,35 +50,48 @@ jobs:
           python-version: "3.12"
       - name: Tesseract med svensk modell
         run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
-      - run: pip install "$KOMMUNHANDLINGAR"
-      - name: Upptäckt och steg 2
+      # Versionen står i kodversion.txt, inte här: GitHub vägrar körningen
+      # att pusha en gren vars workflow-fil skiljer sig från main, så en ny
+      # version här mitt i en körning kastade körningens arbete.
+      - run: pip install "$(cat kodversion.txt)"
+      # Varje del sparas för sig, så att ett fel kostar högst en del: kod 4
+      # betyder att delen tog slut och att kandidater väntar inom budgeten.
+      # Varje fel i kontrollerna eller pushen stoppar körningen (ADR-0088).
+      - name: Upptäckt och steg 2, sparat var 15:e minut
         run: |
+          spara() {
+            python -m kommunhandlingar.datakontroll data
+            git add -A
+            if git -c core.quotePath=false diff --cached --name-only | grep -Ev '^(data|versioner)/'; then exit 1; fi
+            if git diff --cached --numstat | grep '^-'; then exit 1; fi
+            git diff --cached --quiet && return 0
+            git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Nattkörning $(date -u +%F)"
+            git push -q origin "HEAD:refs/heads/$GREN"
+          }
           for kommunfil in kommuner/*.toml; do
             python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
               | tee -a "$RUNNER_TEMP/sammanfattning.txt"
-            python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
-              --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+            while :; do
+              kod=0
+              python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
+                --start "$START" --del 15 | tee -a "$RUNNER_TEMP/sammanfattning.txt" || kod=$?
+              [ "$kod" -eq 0 ] || [ "$kod" -eq 4 ] || exit "$kod"
+              spara
+              [ "$kod" -eq 4 ] || break
+            done
           done
-      - name: Datakontrollerna
-        run: python -m kommunhandlingar.datakontroll data
-      - name: Bara textfiler under data/ och versioner/
-        run: |
-          git add -A
-          if git -c core.quotePath=false diff --cached --name-only | grep -Ev '^(data|versioner)/'; then exit 1; fi
-          if git diff --cached --numstat | grep '^-'; then exit 1; fi
-      - name: Checka in på en egen gren
+      # Också när körningen fallit: det som sparats har klarat kontrollerna.
+      - name: Grenen, om något sparats
         id: incheckning
+        if: always()
         run: |
-          if git diff --cached --quiet; then
+          if git ls-remote --exit-code origin "refs/heads/$GREN" > /dev/null; then
+            echo "gren=$GREN" >> "$GITHUB_OUTPUT"
+          else
             echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
-            exit 0
           fi
-          gren="nattkorning/$(date -u +%F)-${{ github.run_id }}"
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -q -m "Nattkörning $(date -u +%F)"
-          git push origin "HEAD:refs/heads/$gren"
-          echo "gren=$gren" >> "$GITHUB_OUTPUT"
       - name: Sammanfattning
         if: always()
         run: |
@@ -91,7 +105,7 @@ jobs:
   pr:
     name: PR med automatisk merge
     needs: moten
-    if: needs.moten.outputs.gren != ''
+    if: ${{ !cancelled() && needs.moten.outputs.gren != '' }}
     runs-on: ubuntu-latest
     permissions: {}
     steps:

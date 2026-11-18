@@ -24,7 +24,8 @@ koden. Format, regler och beslut står där:
 | `data/regionhalland/`               | Dokumenten, ett per fil i källan, skrivna av nattkörningen. |
 | `versioner/regionhalland.csv`       | Varje ny version av ett dokument, skriven av nattkörningen. |
 | `mal/`, `uppfoljningar/` och spåren | Sidorna över tid, skrivna för hand ur handlingarna (nedan). |
-| `.github/workflows/nattkorning.yml` | Nattkörningen, och versionen av kommunhandlingar den kör.   |
+| `kodversion.txt`                    | Versionen av kommunhandlingar som alla körningar använder.  |
+| `.github/workflows/nattkorning.yml` | Nattkörningen.                                              |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
 
@@ -55,12 +56,17 @@ Uppmätt 2026-11-15:
 ## Körningen
 
 Nattkörningen installerar kommunhandlingar på den commit som står i
-`nattkorning.yml`, och kör samma upptäckt och steg 2 som för kommunerna, med
-samma tidsbudget. Den checkar in på en egen gren och öppnar en PR, som mergas
-när kontrollen gått igenom. Det nyaste mötet hämtas först över alla organ.
+`kodversion.txt`, och kör samma upptäckt och steg 2 som för kommunerna, med
+samma tidsbudget. Steg 2 går i delar om 15 minuter, och efter varje del
+kontrolleras det klara och pushas på körningens egen gren, så att ett fel
+kostar högst en del. Grenen får en PR, som mergas när kontrollen gått
+igenom, också när körningen fallit efter en sparad del. Det nyaste mötet
+hämtas först över alla organ.
 
 En ny version av kommunhandlingar tas in genom att byta commit i
-`nattkorning.yml` i en PR.
+`kodversion.txt` i en PR. Versionen står inte i workflow-filen, eftersom
+GitHub vägrar en pågående körning att pusha sin gren när workflow-filen på
+main har ändrats under tiden, och körningens arbete då går förlorat.
 
 ## Webbplatsen
 

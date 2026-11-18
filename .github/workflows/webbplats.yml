@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
       - name: Samma version som nattkörningen
         run: |
-          pip install "$(grep -oP 'KOMMUNHANDLINGAR: \K\S+' .github/workflows/nattkorning.yml)"
+          pip install "$(cat kodversion.txt)"
       # Bara issues från projektets egna konton, så att ingen utomstående
       # kan lägga ut text på webbplatsen (ADR-0054).
       - name: De öppna avvikelserna i källan, ett issue per rad
