@@ -1,0 +1,65 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systemförvaring
+(systematisk
+förvaring)","Medium för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning","Anmärkning
+(Hantering, lagrum, personuppgifter,
+m m)"
+2.3.5.1,Bedriva friskvård,,,,,,,
+2.3.5.1,Avtal om företagshälsovård,Diarieförs,,Bevaras,Ärendeakt/Platina,,,"Uppdraget hanteras av
+upphandlade externa aktörer."
+2.3.5.1,Gratifikation – erhållen gåva,,,Bevaras,"Server
+Winlas",,,Uppdraget hanteras av GAS.
+2.3.5.1,"Utmärkelse –
+årets medarbetare",Diarieförs,,Bevaras,Ärendeakt/Platina,,,"Nomineringar,
+sammanställning av sökande,
+tidplan och stadgar bevaras i
+ärendeakt i diariet. Även ej
+antagna förslag bevaras."
+2.3.5.2,Utföra medicinska kontroller – arbetsmiljö,,,,,,,
+2.3.5.2,Avtal,Diarieförs,,Bevaras,Ärendeakt/Platina,,,"Uppdraget hanteras av
+upphandlade externa aktörer.
+(Vissa utvalda tjänster utförs
+dock inom RH)"
+2.3.5.3,Ge vård,,,,,,,
+2.3.5.3,Avtal,Diarieförs,,Bevaras,Ärendeakt/Platina,,,"Uppdraget hanteras av
+upphandlade externa aktörer.
+(Vissa utvalda tjänster utförs
+dock inom RH)"
+2.3.5.4,Hantera tillbud,,,,,,,
+2.3.5.4,Anmälan av tillbud,"Registreras i
+systemstöd",,Bevaras,Stella,Ja,,"Anmälan sker direkt i region-
+gemensamt datorstöd."
+2.3.5.4,"Tillbud – anmälan till Central
+samverkansgrupp","Registreras i
+systemstöd",,Bevaras,,,,"Anmälan sker direkt i region-
+gemensamt datorstöd."
+2.3.5.4,"Handlingsplan –
+Central samverkansgrupp",Diarieförs,,Bevaras,Ärendeakt/Platina,,,
+2.3.5.4,Handlingsplan - individärende,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Stella,Ja,,
+2.3.5.4,Tillbudsrapporter,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Stella,Ja,,"Inklusive digital anmälan till
+och kvitto på anmälan till
+Försäkringkassan och
+Arbetsmiljöverket enligt
+rutin/lagstiftning."

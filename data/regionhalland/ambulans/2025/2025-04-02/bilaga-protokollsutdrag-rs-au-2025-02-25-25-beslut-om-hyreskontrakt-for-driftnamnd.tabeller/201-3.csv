@@ -1,0 +1,14 @@
+Funktionskrav,,,Värde
+,F11­1,Komfortklass,"Inga krav på
+maxtemperatur"
+,F11­2,Komfortklass,Centralt reglerad kyla
+,F31­5,Min temperaturkrav,21 °C
+,G33­3,Min luftflöden l/s m²,1 l/s m²
+,G41­1,Tryckförhållanden till andra rum,Balanserat
+,H32­5,Färgtemperatur 4000K,Neutral färgtemperatur
+,I11­13,Ljudkrav. Enligt Akustikriktlinje ses över beroende på vad för disponibelt rum,
+,K23­1,Kraft belysning. Övrig Last,ÖL 100%
+,K24­1,Kraftuttag 230V. Övrig Last.,ÖL 100%
+,N31­1,Hygienklass N31­3 om placerad inom vårdlokal,0
+,N61­3,"Låsning. Med elektriskt lås menas kort eller bricka­styrning För SIHTS kort, en in till korridor 4100 och en in till
+korridor 4120. SE ritning.",Elektriskt lås

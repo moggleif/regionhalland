@@ -1,0 +1,84 @@
+2.3.5.3,Ge vård,,,,,,,
+2.3.5.3,Avtal,Diarieförs,,Bevaras,Ärendeakt/Platina,,,"Uppdraget hanteras av
+upphandlade externa aktörer.
+(Vissa utvalda tjänster utförs
+dock inom RH)"
+2.3.5.4,Hantera tillbud,,,,,,,
+2.3.5.4,Anmälan av tillbud,"Registreras i
+systemstöd",,Bevaras,Stella,Ja,,"Anmälan sker direkt i region-
+gemensamt datorstöd."
+2.3.5.4,"Tillbud – anmälan till Central
+samverkansgrupp","Registreras i
+systemstöd",,Bevaras,,,,"Anmälan sker direkt i region-
+gemensamt datorstöd."
+2.3.5.4,"Handlingsplan –
+Central samverkansgrupp",Diarieförs,,Bevaras,Ärendeakt/Platina,,,
+2.3.5.4,Handlingsplan - individärende,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Stella,Ja,,
+2.3.5.4,Tillbudsrapporter,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Stella,Ja,,
+2.3.5.4,Sammanställning,Diarieförs,,Bevaras,Ärendeakt/Platina,Nej,,"Regionövergripande
+sammanställningar till
+arbetsgivarens uppföljning.
+Till exempel sammanställning
+över arbetsskador och tillbud –
+förrapport till samverkans-
+grupper."
+2.3.5.5,Hantera arbetsskada,,,,,,,
+2.3.5.5,"Arbetsskadeanmälan som
+föranleder åtgärd","Systematisk
+förvaring i
+systemstöd",,Bevaras,Stella,Ja,,"Förvaras tillsammans med
+utredningsdokumentation,
+läkarintyg, beslut om
+skadeersättning, ansökan om
+ersättning m m."
+2.3.5.5,"Arbetsskadeanmälan som inte
+föranleder åtgärd","Systematisk
+förvaring i
+systemstöd",,Bevaras,Stella,Ja,,"Förvaras tillsammans med
+utredningsdokumentation,
+m m."
+2.3.5.5,Arbetsanpassning,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Adato,Ja,,"Dokumentation av behov och
+eventuella åtgärder"
+2.3.5.6,Arbetsanpassning och rehabilitera,,,,,,,
+2.3.5.6,Rehabiliteringsutredningar,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Adato,Ja,,
+2.3.5.6,Rehabjournal,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Adato,Ja,,"OSL kap 39 § 1. Löpande
+anteckningar. Uppgifter
+dokumenteras i
+verksamhetssystemet Adato.
+Överenskommelser/avtal samt
+övriga eventuella handlingar
+ska slutförvaras i
+personalakten."
+2.3.5.6,Anteckningar,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Adato,Ja,,
+2.3.5.6,Arbetsförmågebedömning,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Adato,Ja,,"Utförs av extern leverantör av
+företagshälsovård."
+2.3.5.6,Handlingsplan,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Adato,Ja,,
+2.3.5.6,Kompletterande läkarintyg,"Systematisk
+förvaring",,Bevaras,Adato,Ja,,
+2.3.5.6,"Mötesanteckningar om
+rehabilitering","Systematisk
+förvaring",,Bevaras,Adato,Ja,,
+2.3.5.6,"Utlåtande, företagshälsovård","Systematisk
+förvaring",,Bevaras,Adato,Ja,,"Utförs av extern leverantör av
+företagshälsovård.
+Undertecknat original förvaras
+där."
+2.3.5.6,"Utredning –
+Anpassningsåtgärder","Systematisk
+förvaring",,Bevaras,Adato,Ja,,

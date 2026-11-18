@@ -1,0 +1,33 @@
+"Ovid MEDLINE(R) ALL 1946 to October 15, 2024",,
+#,Query,Hits
+Population:,,
+1,"exp adolescent/ or exp child/ or exp infant/ or (infant disease* or
+childhood disease*).ti,ab,kf. or (adolescen* or babies or baby or boy?
+or boyfriend or boyhood or girlfriend or girlhood or child* or girl? or
+infan* or juvenil* or kid? or minors or minors* or neonat* or neo-nat*
+or newborn* or new-born* or paediatric* or peadiatric* or pediatric*
+or perinat* or preschool* or puber* or pubescen* or school* or teen* or
+toddler? or underage? or under-age? or youth*).ti,ab,kf.",5223347
+2,"Mental Disorders/ or exp Anxiety Disorders/ or exp Anxiety/ or exp
+Mood Disorders/ or exp ""Trauma and Stressor Related Disorders""/ or
+exp Stress, Psychological/",686992
+3,"(neurotic* or neuros* or panic* or phob* or anxi* or angst or mood
+disorder* or cyclothymi* or depress* or obsessive or ocd or ((psych* or
+sex* or disorder) adj3 (stress* or trauma*))).ti,ab,kf. or ((mental* or
+psych*) adj1 (disorder* or issue* or diagnos* or symptom* or illness* or
+diseas* or health)).ti.",1146400
+4,1 and (2 or 3),344288
+5,Horticultural Therapy/,104
+6,"(ecotherapy* or ((horticultur* or agricultur* or garden* or plant* or
+green or nature or forest or environment* or eco or ecolog* or
+outdoor*) adj2 (therap* or rehab* or intervention* or
+treatment*))).ti,ab,kf.",42599
+7,5 or 6,42612
+8,Animal Assisted Therapy/,601
+9,"(anthrozoolog* or hippotherap* or human animal or ((animal* or
+canin* or dog* or equine* or horse* or riding or pet*) adj2 (therap* or
+rehab* or intervention* or treatment*))).ti,ab,kf.",28598
+10,8 or 9,28759
+11,7 or 10,71208
+12,4 and 11,667
+13,12 not ((exp Animals/ or exp Plants/) not Humans/),610

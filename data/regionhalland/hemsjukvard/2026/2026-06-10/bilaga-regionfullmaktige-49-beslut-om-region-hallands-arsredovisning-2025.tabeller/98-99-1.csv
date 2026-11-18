@@ -1,0 +1,120 @@
+Indikatorer,Utfall,Målvärde,Kommentar
+"Första kontakt,
+Väntande som väntat
+kortare än 60 dgr
+(Månadsvärde)",51 %,80 %,"Efter december är det cirka 1 150 fler patienter
+som väntar på första kontakt jämfört med
+samma period 2024. Andel patienter som väntat
+kortare än 60 dagar är 51 %, vilket är en
+försämring med 16 procentenheter jämfört med
+februari, som är den senaste perioden med data
+före Cosmicinförandet.
+Vad som återges i denna resultat-indikator har
+förändrats sedan införandet av Cosmic i slutet
+på mars 2025. Förändringen beror främst på ny
+logik för vilken typ av besök (fas) patienter
+väntar på samt felregistreringar kopplade till ett
+nytt, mindre välkänt, registreringsmoment vilka
+sammantaget haft stor påverkan på statistiken.
+En större skillnad är också att sjukhusets dietist-
+och logopediverksamhet nu inkluderas i
+tillgänglighetsstatistiken, vilket inte var fallet före
+april 2025. Förväntningen är att datakvaliteten
+successivt kommer att förbättras genom bättre
+registrering och rensning av fel. Detta bör
+framöver ge en alltmer rättvisande bild av den
+faktiska kösituationen och utveckling över tid.
+Beskrivna orsaker bedöms enbart ha påverkar
+statistik och inte det faktiskt utförda
+omhändertagandet av patienterna."
+"Vårdgaranti besök,
+antal patienter som
+hänvisats till vårdgaranti
+och fått vård av extern
+vårdgivare
+(R12 medel)",1 000,,"Helår 2025 har totalt ca 12 000 vårdgaranti-
+första kontakt utförts, vilket är ca 10 % färre än
+helår 2024. Den största minskningen (en
+halvering) är inom ögonsjukvård, men även
+urologi och gynekologi har minskat. Inom kirurgi,
+medicin och ortopedi har antal första kontakter
+som hänvisats till vårdgaranti har ökat jämfört
+med 2024."
+"Operation/åtgärd,
+Väntande som väntat
+kortare än 60 dgr
+(Månadsvärde)",47 %,80 %,"Enligt tillgänglig data efter december väntar
+cirka 2 900 patienter på operation/åtgärd, det är
+1 400 färre jämfört med samma period 2024.
+Minskningen är dock inte reell, då
+felregistreringar och ny logik har medfört att
+många patienter som väntar på operation/åtgärd
+i stället registrerats som väntande till Återbesök.
+Andelen patienter som väntat kortare än 60
+dagar är nu 47 %, vilket är en försämring med 8
+procentenheter jämfört med helår 2024.
+Vad som återges i denna resultat-indikator har
+förändrats sedan införandet av Cosmic i slutet
+på mars 2025. Förändringen beror främst på ny
+logik för vilken typ av besök (fas) patienter
+väntar på samt felregistreringar kopplade till ett
+nytt, mindre välkänt, registreringsmoment vilka
+sammantaget haft stor påverkan på statistiken.
+En större skillnad är också att sjukhusets dietist-
+och logopediverksamhet nu inkluderas i"
+,,,"tillgänglighetsstatistiken, vilket inte var fallet före
+april 2025. Förväntningen är att datakvaliteten
+successivt kommer att förbättras genom bättre
+registrering och rensning av fel. Detta bör
+framöver ge en alltmer rättvisande bild av den
+faktiska kösituationen och utveckling över tid.
+Beskrivna orsaker bedöms enbart ha påverkar
+statistik och inte det faktiskt utförda
+omhändertagandet av patienterna."
+"Vårdgaranti
+operation/åtgärd, antal
+patienter som hänvisats
+till vårdgaranti och fått
+vård av extern
+vårdgivare
+(R12 medel)",73,,"Under januari-december 2025 har cirka 870
+operationer/åtgärder utförts via vårdgarantin,
+vilket är en dryg halvering jämfört med samma
+period 2024. De största volymerna
+operation/åtgärd via vårdgaranti är alltjämt
+ögonsjukvård och ortopedi och dessa
+specialiteter står därmed för huvuddelen av
+volymminskningen. Störst relativ minskning
+jämfört med 2024 är inom kirurgi och gynekologi
+där mycket lite operationer/åtgärd hänvisats till
+vårdgaranti under 2025."
+"Återbesök,
+Väntande inom
+måldatum
+(Månadsvärde)",77 %,80 %,"Andel patienter som inte passerat måldatum är
+efter december 77 %, vilket är en försämring
+med 1 procentenhet jämfört med februari, den
+senaste perioden med data från tidigare
+journalsystem.
+Vad som återges i denna resultat-indikator har
+förändrats sedan införandet av Cosmic i slutet
+på mars 2025. Förändringen beror främst på ny
+logik för vilken typ av besök (fas) patienter
+väntar på samt felregistreringar kopplade till ett
+nytt, mindre välkänt, registreringsmoment vilka
+sammantaget haft stor påverkan på statistiken.
+En större skillnad är också att sjukhusets dietist-
+och logopediverksamhet nu inkluderas i
+tillgänglighetsstatistiken, vilket inte var fallet före
+april 2025.Förväntningen är att datakvaliteten
+successivt kommer att förbättras genom bättre
+registrering och rensning av fel. Detta bör
+framöver ge en alltmer rättvisande bild av den
+faktiska kösituationen och utveckling över tid.
+Beskrivna orsaker bedöms enbart ha påverkar
+statistik och inte det faktiskt utförda
+omhändertagandet av patienterna."
+"Patientnämnden -
+svarstider från
+vårdgivare
+(Månadsvärde)",91 %,80 %,Uppfyller målen med god marginal.

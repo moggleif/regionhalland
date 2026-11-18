@@ -1,0 +1,18 @@
+Funktionskrav,,,Värde
+,D61­9,"Dörrar. Entrédörrar 2stycken mot korridor 3140D, båda dörrarna skall ha kortläsare för SITHS Kort.",Speciella krav mm
+,F11­2,Komfortklass,Centralt reglerad kyla
+,F31­5,Min temperaturkrav,21 °C
+,G33­3,Min luftflöden l/s m²,1 l/s m²
+,H11­1,Belysningskrav. Enligt branschrekommendationer.,
+,H12­1,Synkrav. Synkrav enligt branchrekommendationer för denna typ av rum,Normala
+,H13­1,Allmän belysning,
+,H16­1,Belysningsstyrka. Belysningsstyrka enligt branschrekommendation för denna typ av rum.,Normal
+,H32­5,Färgtemperatur 4000K,Neutral färgtemperatur
+,H81­7,Belysningsstyrning ­ tid. Styrning via tidfunktion,Tid
+,I11­13,Ljudkrav. Enligt Akustikriktlinje,
+,I12­1,Stegljudsnivå. Inga särskilda krav,Inga särskilda krav dB
+,I13­5,Rumsakustik. Krav på kort efterklangstid,"0,6s"
+,I14­3,Buller från installationer. Rum med låga krav på ljudnivåer. Allmänna utrymmen.,45 dB(A)
+,I15­1,Trafikbuller. Inga särskilda krav,Inga särskilda krav dB
+,J33­1,Dagsljus,Inga krav
+,K23­1,Kraft belysning. Övrig Last,ÖL 100%

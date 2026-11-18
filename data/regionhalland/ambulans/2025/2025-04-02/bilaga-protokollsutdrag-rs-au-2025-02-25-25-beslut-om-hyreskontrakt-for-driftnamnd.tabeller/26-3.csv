@@ -1,0 +1,11 @@
+Funktionskrav,,,Värde
+,F11­2,Komfortklass,Centralt reglerad kyla
+,F31­5,Min temperaturkrav,21 °C
+,G33­11,Min luftflöden l/s m²,8 l/s m²
+,G41­1,Tryckförhållanden till andra rum,Balanserat
+,H11­1,Belysningskrav. Enligt branschrekommendationer.,
+,H32­5,Färgtemperatur 4000K,Neutral färgtemperatur
+,H81­15,Belysningsstyrning Frånvarodämpning. Samstyrs med korridor.,ca 20 ­ 90%
+,I11­13,Ljudkrav. Enligt Akustikriktlinje,
+,J33­1,Dagsljus,Inga krav
+,K23­1,"Kraft belysning. Övrig Last Verksamhet kan endast höja, ej sänka",ÖL 100%

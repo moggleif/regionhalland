@@ -1,0 +1,13 @@
+Funktionskrav,,,Värde
+,D61­18,Dörrar Fritt passagemått vid 90°,840 mm
+,F11­2,Komfortklass,Centralt reglerad kyla
+,F31­5,Min temperaturkrav,21 °C
+,G39­3,Min luftflöde + forcering,"0,35 l/s m² + forcering 10
+l/pers"
+,G41­1,Tryckförhållanden till andra rum,Balanserat
+,H11­1,Belysningskrav. Enligt branschrekommendationer.,
+,H32­5,Färgtemperatur 4000K,Neutral färgtemperatur
+,H81­3,Belysningsstyrning ­ dimmer. Ljusreglering ­ manuell styrning via dimmer,Dimmer
+,H81­5,Belysningsstyrning ­ frånvarostyrd. Manuell tändning med frånvarostyrd släckning,Frånvaro
+,I11­13,Ljudkrav. Enligt Akustikriktlinje,
+,J33­1,Dagsljus,Inga krav

@@ -1,0 +1,113 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning
+K1 = Öppet
+K2 = intern sekretess
+K3 = Extern sekretess
+K4 =Hemligt","Anmärkning
+(Hantering, lagrum,
+personuppgifter, m m)"
+2.6.4,Uthyrning,,,,,,,
+2.6.4.1,"Hyra ut byggnad, bostad eller lokal",,,,,,,
+2.6.4.1,Internhyresavtal,"Systematisk
+förvaring",Databas,"Se
+anmärkning",Faciliate,Nej,K2,"Kan gallras 3 år efter
+avtalets utgång.
+Gallras 3 år efter
+upphörande förutsatt att
+hyresskuld ej kvarstår."
+2.6.4.1,"Hyresavtal –
+byggnad eller lokal",Diarieförs,PDF/A,Bevaras,Ärendeakt/Platina,Nej,K2,"Se för övrigt
+delegationsordningen.
+."
+2.6.4.1,Delegationsbeslut,Diarieförs,PDF/A,Bevaras,Ärendeakt/Platina,Nej,K1,
+,,,,,,,,
+2.6.4.1,"Hyresavtal/kontrakt
+bostad",Diarieförs,PDF/A,"Gallras 3 år
+efter avslut",Ärendeakt/Platina,Ja,K2,"Avser personalbostäder.
+Gallras 3 år efter
+upphörande förutsatt att
+hyresskuld ej kvarstår. (Se
+2.6.4.2 – vid uppsägning blir
+ett nytt ärende i Platina.)"
+2.6.4.1,"Hyresavier –
+externa hyresgäster","Systematisk
+förvaring",Databas,7 år,Agresso,Nej,K2,"Fakturor till hyresgäster.
+Faciliate skickar en fil till
+Agresso, men själva avierna
+skrivs ut och skickas från
+Agresso, och sparas där."
+2.6.4.1,"Ersättningsanspråk
+på hyresgäster","Systematisk
+förvaring",PDF/A,7 år,"Faciliate/
+Agresso",Nej,K2,"Avser t ex formulär/
+blanketter för ersättning
+från hyresgäst gällande
+borttappade nycklar,
+flyttstäd m.m. (Ekonomisk
+handling)"
+2.6.4.1,Nyckelkvittenser,"Systematisk
+förvaring",PDF/A,"Gallras 2 år
+efter
+inaktualitet.","Filyta G:
+(Tills ett dokumenthanterings-stöd är på
+plats)",Ja,K2,"Gäller uthyrning av
+personalbostäder."
+2.6.4.1,Hyresgästregister,"Systematisk
+förvaring",Databas/PDF/A,"Gallras 10
+år efter att
+kontraktet
+har
+upphört.","Databas
+(Tills ett dokumenthanterings-stöd är på
+plats)",Ja,K2,Register i Faciliate
+2.6.4.1,"Hyresgästregister
+(Personalbostäder)","Systematisk
+förvaring",PDF/A,"Gallras 2 år
+efter
+inaktualitet.","Filyta G:
+(Tills ett dokumenthanterings-stöd är på
+plats)",Ja,K2,Gäller personalbostäder.
+2.6.4.1,Prislistor,"Systematisk
+förvaring",PDF/A,"Vid
+inaktualitet","Faciliate/
+Filyta G:
+(Tills ett dokumenthanterings-stöd är på
+plats)",Nej,K1,Hyreskostnader
+2.6.4.2,Säga upp hyresgäst,,,,,,,
+2.6.4.2,"Uppsägning
+hyresavtal/kontrakt –
+bostad","Systematisk
+förvaring/
+Diarieförs
+(Se
+kommentar)",PDF/A,"Se
+anmärkning","Ärendeakt/Platina/Filyta G:
+(Tills ett dokumenthanterings-stöd är på
+plats)",Ja,K2,"Kan gallras 3 år efter
+uppsägning. (Se 2.6.4.1)
+Uppsägningar där tvist
+förekommer ska diarieföras
+och bevaras."
+2.6.4.2,"Uppsägning
+hyresavtal –
+byggnad eller lokal",,,,,,,"Se 2.6.4.1 under hyresavtal
+för byggnad och lokal."

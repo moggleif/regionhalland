@@ -1,0 +1,55 @@
+Grupp,Indikatorer
+"Målgrupp
+(invånare/patient)","Första kontakt, Väntande som väntat kortare än 60 dagar"
+,"Vårdgaranti specialiserad vård – Andel patienter som väntat 90 dagar eller
+kortare på första kontakt"
+,"Vårdgaranti specialiserad vård – Andel patienter som väntat 90 dagar eller
+kortare på operation/åtgärd"
+,Specialiserad vård – andel genomförda första kontakt inom 60 dagar
+,"Vårdgaranti besök, antal patienter som hänvisats till vårdgaranti och fått
+vård av extern vårdgivare"
+,"Operation/åtgärd, Väntande som väntat kortare än 60 dagar"
+,"Vårdgaranti operation/åtgärd, antal patienter som hänvisats till vårdgaranti
+och fått vård av extern vårdgivare"
+,"Återbesök, Väntande inom måldatum"
+,Patientnämnden – svarstider från vårdgivare (Andel svar inom 4 veckor)
+"Verksamhet
+(produktion/kvalitet)",Akutmottagningsbesök
+,Planerade besök i öppenvård
+,Akuta besök i öppenvård (exklusive akutmottagningar)
+,Antal besök i öppenvård
+,Akuta vårdtillfällen i slutenvård
+,Planerade vårdtillfällen i slutenvård
+,Antal vårdtillfällen i slutenvård
+,Disponibla vårdplatser
+,Beläggningsgrad
+,Punktbeläggning
+,Medelvårdtid som utskrivningsklar
+,Medelvårdtid vid slutenvård
+,"Återinskrivningar, oplanerade inom 30 dagar alla åldrar"
+,Operationer på operationsavdelningarna
+,Använd operatonssalstid på operationsavdelningarna
+,Icke verkställd läkemedelslista
+,SVF ledtid inom målvärde (välgrundad misstanke till behandling)
+,SVF inklusion (andel cancerpatienter som ingått i SVF)
+,Andel outskrivna diktat > 4 dagar
+,Patientavvikelser i Platina
+Medarbetare,Personalomsättning
+,Sjukfrånvaro
+,Övertidsarbete
+,Förändring av antal allmänsjuksköterskor
+,HME-index (hållbart medarbetarengagemang)
+,Rapporterade tillbud
+,Rapporterade arbetsskador
+Ekonomi,Periodresultat
+,Ackumulerad budgetavvikelse
+,Prognos budgetavvikelse
+,Prognos investeringsbudgetavvikelse
+,Kostnadsutveckling
+,Intäktsutveckling
+,Bemanningspersonal kostnad läkare och sjuksköterskor
+,"Bemanningskostnader – läkare och sjuksköterskor i relation till totala
+personalkostnader i vårdförvaltningarna"
+,Ackumulerad avvikelse – egen verksamhet
+,Prognosavvikelse – egen verksamhet
+,Prognosavvikelse – egen och inhyrd personal

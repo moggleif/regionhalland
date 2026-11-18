@@ -1,0 +1,44 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium
+för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion",,,"Anmärkning
+(Hantering, lagrum, personuppgifter,
+m.m)"
+1.1.5,Redovisning till myndighet,,,,,,,,,
+1.1.5.3,Lämna övriga myndighetsredovisning,,,,,,,,,
+1.1.5.3,Begäran om statistiska uppgifter,Diarieförs,,Bevaras,Ärendeakt/Platina,Nej,,,Avser annan övrig statistik.,
+1.1.5.3,Statistik bearbetningsbar,"Förvaras
+systematiskt
+ordnat i
+systemstöd",,Bevaras,Server,,,,"Bevaras om statistiken är
+möjlig att bearbeta och
+sammanställa för framtida
+forskningssyften.",
+1.1.5.2,"Statistik, underlag",,,"Gallras vid
+inaktualitet",,,,,"Underlag för statistik, ej
+bearbetningsbar och/eller av
+kortvarig betydelse",
