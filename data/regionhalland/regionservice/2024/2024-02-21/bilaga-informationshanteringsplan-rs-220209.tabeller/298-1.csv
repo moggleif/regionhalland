@@ -1,0 +1,61 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium
+för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion","Anmärkning
+(Hantering, lagrum, personuppgifter,
+m m)"
+3.13.5,Tandvård,,,,,,,
+3.13.5.0,"Leda, styra och organisera",,,,,,,
+3.13.5.0,Förhandsbedömning,"Förvaras
+systematiskt
+ordnat i
+systemstöd",,Bevaras,"C-takt Link
+VAS
+TEARS
+e-FHB",,,Sekretess enl OSL 25 kap 1 §
+3.13.5.0,Munhälsobedömning,"Förvaras
+systematiskt
+ordnat i
+systemstöd",,10 år,TEARS,,,Sekretess enl OSL 25 kap 1 §
+3.13.5.0,Underlag nödvändig tandvård,"Förvaras
+systematiskt
+ordnat i
+systemstöd",,10 år*,TEARS,,,"Sekretess enl OSL 25 kap 1 §
+*Gallras efter 10 år mot
+bakgrund av intygets giltighet
+om 5 år samt därtill 5-års
+preskriptionstid för
+intygandet."
+3.13.5.0,Intyg nödvändig tandvård,"Förvaras
+systematiskt
+ordnat i
+systemstöd",,10 år*,TEARS,,,"Sekretess enl OSL 25 kap 1 §
+*Gallras efter 10 år mot
+bakgrund av intygets giltighet
+om 5 år samt därtill 5-års
+preskriptionstid för
+intygandet."

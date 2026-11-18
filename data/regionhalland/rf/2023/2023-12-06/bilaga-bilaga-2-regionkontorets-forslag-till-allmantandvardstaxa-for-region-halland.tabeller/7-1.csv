@@ -1,0 +1,6 @@
+UBA,"Uteblivande eller sent återbud från behandling, ba",,rn. Allmäntandvård,300
+UBS,"Uteblivande eller sent återbud från behandling, ba",,rn. Specialisttandvård,300
+,,,,
+UB1,"Uteblivande eller sent återbud från behandling, vu",,xentandvård upp till 30 minuter,500
+UB2,"Uteblivande eller sent återbud från behandling, vu",,xentandvård mer än 30 minuter,1 000
+UBN,Uteblivande eller sent återbud från narkos,,,2 400

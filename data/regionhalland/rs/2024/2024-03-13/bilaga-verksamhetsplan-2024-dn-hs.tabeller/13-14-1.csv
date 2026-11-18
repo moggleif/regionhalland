@@ -1,0 +1,61 @@
+Grupp,Indikatorer
+"Målgrupp
+(invånare/patient)","Första kontakt, Väntande som väntat kortare än 60 dagar"
+,"Vårdgaranti specialiserad vård – Andel patienter som väntat 90 dagar eller
+kortare på första kontakt"
+,"Vårdgaranti specialiserad vård – Andel patienter som väntat 90 dagar eller
+kortare på operation/åtgärd"
+,Specialiserad vård – andel genomförda första kontakt inom 60 dagar
+,"Vårdgaranti besök, antal patienter som hänvisats till vårdgaranti och fått
+vård av extern vårdgivare"
+,"Operation/åtgärd, Väntande som väntat kortare än 60 dagar"
+,"Vårdgaranti operation/åtgärd, antal patienter som hänvisats till vårdgaranti
+och fått vård av extern vårdgivare"
+,"Återbesök, Väntande inom måldatum"
+,"Återbesök, Genomförda inom måldatum"
+"Verksamhet
+(produktion/kvalitet)",Akutmottagningsbesök
+,Läkarbesök exkl. Akutmottagningarna
+,Sjukvårdande behandling exklusive akutmottagningarna
+,Planerade besök i öppenvård
+,Akuta besök i öppenvård (exklusive akutmottagningar)
+,Antal besök i öppenvård
+,Akuta vårdtillfällen i slutenvård
+,Planerade vårdtillfällen i slutenvård
+,Antal vårdtillfällen i slutenvård
+,Disponibla vårdplatser
+,Beläggningsgrad
+,Punktbeläggning
+,Utlokaliserade eller överbeläggningar per 100 vårdplatser
+,Medelvårdtid som utskrivningsklar
+,Vårdplatser belagda med utskrivningsklara patienter
+,Medelvårdtid vid slutenvård
+,"Återinskrivningar, oplanerade inom 30 dagar alla åldrar"
+,Operationer på operationsavdelningarna
+,Använd operatonssalstid på operationsavdelningarna
+"Fortsättning
+Verksamhet
+(produktion/kvalitet)",Andel diktat > 4 dagar
+,Andel vårdrelaterade infektioner
+,Andel trycksår
+,Trycksår
+,Följsamhet till basala hygienrutiner
+,Följsamhet till klädrutiner
+,Icke verkställd läkemedelslista
+,SVF inom målvärde (Standardiserade vårdförlopp)
+Medarbetare,Personalomsättning
+,Sjukfrånvaro
+,Övertid
+,Förändring av antal allmänsjuksköterskor
+,HME-Index (Hållbart medarbetarengagemang)
+Ekonomi,Periodresultat
+,Ackumulerad budgetavvikelse
+,Prognos budgetavvikelse
+,Prognos Investeringsbudgetavvikelse
+,Kostnadsutveckling
+,Intäktsutveckling
+,Bemanningspersonal kostnad -läkare och sjuksköterskor
+,"Bemanningskostnader - läkare och sjuksköterskor i relation till totala
+personalkostnader i vårdförvaltningarna"
+,Avvikelse period. Budget - egen verksamhet ackumulerad
+,Prognosavvikelse - egen verksamhet
