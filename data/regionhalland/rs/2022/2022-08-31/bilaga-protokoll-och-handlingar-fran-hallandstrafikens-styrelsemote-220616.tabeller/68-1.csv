@@ -1,0 +1,32 @@
+Systemtyp,Avdelning,IT-System,Systemägare,Verksamhetsansv.,Systemansvarig,Driftansvarig,Användare
+Infrastruktur,IT,"Nätverk
+Int/Ext",IT-chef,IT-chef,IT-avdelningen,"IT-
+avdelningen",Alla
+Kontorssystem,Alla,MS Office,IT-chef,IT-chef,IT-avdelningen,"IT-
+avdelningen",Alla
+Kontorssystem,Alla,"Tfn-växel
+inkl CC",IT-chef,IT-chef,IT-avdelningen,"IT-
+avdelningen",Alla
+Kontorssystem,Marknad,Adobe,Kom-chef,Kom-chef,Marknad,"IT-
+avdelningen",Marknad
+Verksamhetssystem,Ekonomi,Kontek,Ek-chef,Ek-chef,Ek-chef,"IT-
+avdelningen",Ekonomi
+Verksamhetssystem,Ekonomi,Visma,Ek-chef,Ek-chef,Ek-chef,"IT-
+avdelningen",Ekonomi
+Verksamhetssystem,Ekonomi,NB Access,Ek-chef,Ek-chef,Ek-chef,"IT-
+avdelningen",Ekonomi
+Verksamhetssystem,Försäljning,LynX,Förs-chef,IT-chef,IT-avdelningen,"IT-
+avdelningen","Ek/Trafik/
+Marknad"
+Verksamhetssystem,Kundcenter,TimeCare,KC-chef,KC-chef,KC-chef,"IT-
+avdelningen",Kundcenter
+Verksamhetssystem,Marknad,"Webbsida
+Intranät",Kom-chef,Kom-chef,Marknad,"IT-
+avdelningen",Alla
+Verksamhetssystem,Marknad,"Webbsida
+Internet",Kom-chef,Kom-chef,Marknad,"IT-
+avdelningen",Alla/Externa
+Verksamhetssystem,Marknad,Respons,Kom-chef,Kom-chef,Marknad,"IT-
+avdelningen",Alla
+Verksamhetssystem,Trafik,Rebus,Trafikchef,Trafikutvecklare,Trafikutvecklare,"IT-
+avdelningen",Trafik

@@ -1,0 +1,35 @@
+Kostnadsberäkning,,,,,,,
+,Inköpspris,Antal,Pris/enhet,Antal/år,Antal månader,5-års period,Per år
+Intäkter,,,,,,,
+Hyra,,25,"1633,5",5,1500,2450250,490050
+,,,,,,,
+Kostnader,,,,,,,
+Avskrivningskostnad,50000,25,,,,-1250000,-250000
+Ökade kostn. För rullstol,22000,25,,,,-366667,"-73333,3"
+Ökade admin kostnader,,,800,,1500,-1200000,-240000
+,,,,,,,
+HMC kostnader,,,,,,-366417,-73283
+,,,,,,,
+Region nivå,,,,,,,
+HMC kostnad,,,,,,-366417,-73283
+"Minskad kostnad axel
+operationer",,2,30000,5,,300000,60000
+,,,,,,,
+Kostnad för Regionen,,,,,,-66417,-13283
+,,,,,,,
+Kund nivå,,,,,,,
+Ökad hyra hjälpmedel,,,,,,-2450250,-490050
+"Minskad kostand
+färdtjänst (1 ärende
+varannan vecka)",,4,400,,1500,2400000,480000
+"Minskad kostnad
+hemtjänst
+(10tim/axeloperation)",,100,500,,,50000,10000
+,,,,,,,
+Kundens kostnad,,,,,,-250,-50
+,,,,,,,
+"Försäkringskassan
+minskad kostnad
+sjukersättning",,10,45000,,1,450000,90000
+,,,,,,,
+Samhällsekonomi,,,,,,383333,76667

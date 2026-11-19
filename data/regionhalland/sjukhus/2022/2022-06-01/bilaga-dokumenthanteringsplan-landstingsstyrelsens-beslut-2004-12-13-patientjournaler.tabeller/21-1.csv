@@ -1,0 +1,10 @@
+Handlingsslag,Bevaras/Gallras,Anmärkning
+Intyg,,"Ingår i patientjournal. Den som utfärdar
+intyg skall anteckna detta i journalen samt
+spara en kopia av intyget i journalen"
+"Isotopundersökningar, huvudexemplar",,Ingår i patientjournal
+"Isotopundersökningar, övriga exemplar",Vid inaktualitet*,"Intern utförares exemplar
+(se dokumenthuvud)"
+"Journalkopior, inkomna från annan vårdgivare",,Ingår i patientjournal
+Journalnummerförteckningar/liggare,Bevaras,
+Journalöversikter,,Ingår i patientjournal

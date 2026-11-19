@@ -1,0 +1,31 @@
+,,,,,,,,,,,,,,,
+Filer från VAS till efter-,,,,,,,,,,,,,,,
+följande system,,,,,,,,,,,,,,,
+Fil till kundreskontran,,,Txt-fil,,,Databas,,,Verifikationsnummer,,,10 år,,,Sparas i ekonomisystemet.
+,,,,,,,,,,,,,,,Skapas med automatik direkt
+,,,,,,,,,,,,,,,från VAS för inläsning till
+,,,,,,,,,,,,,,,ekonomisystemet 1 gång per
+,,,,,,,,,,,,,,,vecka.
+,,,,,,,,,,,,,,,
+Fil till grundredovisning,,,Txt-fil,,,Databas,,,Verifikationsnummer,,,10 år,,,Sparas i ekonomisystemet.
+,,,,,,,,,,,,,,,Skapas med automatik direkt
+,,,,,,,,,,,,,,,från VAS för inläsning till
+,,,,,,,,,,,,,,,ekonomisystemet 1 gång per
+,,,,,,,,,,,,,,,vecka.
+,,,,,,,,,,,,,,,
+Fil till Mimerdatabas,,,Txt-fil,,,Databas,,,Löpnummer,,,10 år,,,Skapas 1 gång per månad.
+öppenvård,,,,,,,,,,,,,,,Uppgifterna i denna används
+,,,,,,,,,,,,,,,för att betala ut ersättning till
+,,,,,,,,,,,,,,,VAS-enheter som ingår i
+,,,,,,,,,,,,,,,"Vårdval Halland, samt faktu-"
+,,,,,,,,,,,,,,,rering av utomlänsbesök.
+,,,,,,,,,,,,,,,
+Fil för fakturering av,,,Txt-fil,,,Databas,,,Löpnummer,,,10 år,,,Skapas var 14:e dag för
+egenavgift slutenvård,,,,,,,,,,,,,,,inläsning till ekonomisystemet
+,,,,,,,,,,,,,,,där fakturor för patientens
+,,,,,,,,,,,,,,,egenavgift skapas.
+,,,,,,,,,,,,,,,
+Fil till Mimerdatabas,,,Txt-fil,,,Databas,,,Löpnummer,,,10 år,,,Skapas 1 gång per månad.
+slutenvård,,,,,,,,,,,,,,,Uppgifterna i denna används
+,,,,,,,,,,,,,,,"till ersättning av slutenvården,"
+,,,,,,,,,,,,,,,samt fakturering av

@@ -1,0 +1,45 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium
+för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande",,"Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion",,"Anmärkning
+(Hantering, lagrum, personuppgifter,
+m m)"
+3.10.0,Ledning,,,,,,,,,
+3.10.0.1,"Leda, styra och organisera",,,,,,,,,
+3.10.0.1,Protokoll,Diarieförs,,Bevaras,,Ärendeakt/Platina,,,,"T ex styrelseprotokoll med
+avtalspartner."
+3.10.0.1,Kallelse/Inbjudan,Diarieförs*,,Bevaras*,,Ärendeakt/Platina*,,,,"Avses om är av dignitet för
+ärendet. *Övriga av tillfällig
+eller ringa betydelse kan
+gallras vid inaktualitet."
+3.10.0.1,Beslut av staten,Diarieförs,,Bevaras,,Ärendeakt/Platina,,,,Till exempel regeringsbeslut.
+3.10.0.1,Beslut,Diarieförs,,Bevaras,,Ärendeakt/Platina,,,,"Beslut fattade av RS arbetsut-
+skott eller Tillväxtutskottet."
+3.10.01,Avtal,Diarieförs,,Bevaras,,Ärendeakt/Platina,,,,"T ex med andra partners eller
+regioner."
+3.10.0.1,Samrådsredogörelse,Diarieförs,,Bevaras,,Ärendeakt/Platina,,,,
+3.10.0.1,Rekvisition,Diarieförs,,Bevaras,,Ärendeakt/Platina,,,,Av medel enligt beslut

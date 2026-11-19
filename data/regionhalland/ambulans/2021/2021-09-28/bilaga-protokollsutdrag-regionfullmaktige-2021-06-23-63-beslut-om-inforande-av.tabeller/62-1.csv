@@ -1,0 +1,22 @@
+Förklarande variabel,Kategori,"Demografiskt (kalenderår,
+ålder och kön) justerad
+incidenskvot (95% KIa)","Sociodemografiskt
+justerad incidenskvot
+(95% KIa)"
+Sjukvårdsregion,RSG,"1,00 (referens)","1,00 (referens)"
+,RV,"1,21 (1,15–1,27)","1,18 (1,12–1,24)"
+,RS,"1,21 (1,15–1,26)","1,17 (1,11–1,22)"
+,RSÖ,"1,19 (1,12–1,25)","1,14 (1,08–1,21)"
+,RM,"1,17 (1,12–1,22)","1,13 (1,07–1,19)"
+,RN,"1,17 (1,11–1,24)","1,14 (1,06–1,21)"
+Ekonomisk standardb,1,–,"1,00 (referens)"
+,2,–,"1,06 (1,01–1,11)"
+,3,–,"1,07 (1,02–1,13)"
+,4,–,"1,09 (1.04–1,15)"
+,5,–,"1,16 (1,10–1,23)"
+"Födelseland utanför
+Nordenb",1,–,"1,03 (0,97–1,10)"
+,2,–,"1,06 (1,00–1,12)"
+,3,–,"1,09 (1,04–1,15)"
+,4,–,"1,02 (0,97–1,08)"
+,5,–,"1,00 (referens)"

@@ -1,0 +1,51 @@
+"rocess-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium
+för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Anmärkning
+(Hantering, lagrum, personuppgifter, m m)",
+2.4.1,Redovisning,,,,,,,
+2.4.1.1,Hantera kundfakturor,,,,,,,
+2.4.1.1,Kundregister,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Agresso,,,"Avser kundregister, kundnummer,
+fakturadatum, fakturanummer,
+verifikationsnummer, förfallodatum,
+bokföringsdatum, belopp"
+2.4.1.1,Kundreskontra,"Systematisk
+förvaring i
+systemstöd",,Bevaras,Agresso,,,"Kundnamn, kundnummer, reskontratyp,
+fakturanummer, fakturadatum,
+förfallodatum, verifikationsnummer,
+bokföringsdatum, belopp"
+2.4.1.1,"Kundreskontra, inbetalningar","Systematisk
+förvaring i
+systemstöd",,7 år*,Agresso,,,"Återrapporteringar på betalningar,
+bokföring utförda utbetalningar,
+betalningspåminnelser, manuellt bokförda
+inbetalningar, bokföring osäkra fordringar,
+återrapporteringar betalning från inkasso,
+räntefakturor, justeringar, makulering,
+kreditering."
+2.4.1.1,Kundfaktura (extern) underlag,"Systematisk
+förvaring i
+systemstöd",,7 år*,Agresso,,,"Digital kundfaktura och kundreskontra
+arkiveras i Agresso"
+2.4.1.1,Rapport redovisning daglig OCR,"Systematisk
+förvaring i
+systemstöd",,7 år*,Bank,,,
