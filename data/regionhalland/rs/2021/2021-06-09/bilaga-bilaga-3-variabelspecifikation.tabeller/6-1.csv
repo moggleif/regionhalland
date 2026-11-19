@@ -1,0 +1,11 @@
+Variabel,Beskrivning,Exempel
+SkapadDatumId,Datum då ärendet skapades,20200101
+PersonID,Pnr för invånare ärendet berör,(personnummer borttaget)
+Region,"Administrativt ansvarig region för
+enhet som ärendet berör",Region Stockholm
+Flödestyp,"Initierare av ärende (vård- eller
+invånarinitierat ärende)",Vårdinitierat
+Flödesundertyp,"Typ av initiering (fråga eller
+information)",Information
+Ärendetyp,Ärendekategori,Provsvar
+Ärendeundertyp,Namn på ärende,Provsvar covid-19

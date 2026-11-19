@@ -1,0 +1,13 @@
+Variabel,Beskrivning,Exempel
+referralPriority,Brådskegrad,Omgående
+referralCategory,Hänvisningsnivå,Primärvård
+contactReason,Kontaktorsak,Feber – barn
+personId,Personnummer,(personnummer borttaget)
+personZipcode,"Postnummer för invånares
+folkbokföringsadress",11860
+personGender,"Kön för invånare (Heltal {0, 1, 2})",0
+documentCreatedTime,"Tidsstämpel för skapande av
+journalhandling. (DateTime
+(YYYYMMDDhhmmss))",20150521150000
+StatQuestionAnswer2,"Svar på fråga 2 vid signering:
+Gällde samtalet Corona covid-19?",Ja
