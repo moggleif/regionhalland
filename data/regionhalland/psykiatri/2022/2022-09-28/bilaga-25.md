@@ -1,0 +1,3476 @@
+---
+kommun: regionhalland
+organ: psykiatri
+datum: 2022-09-28
+lopnr: null
+typ: bilaga
+namn: 25
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-psykiatri/mote-2022-09-28/agenda/protokollsutdrag-regionfullmaktige-220622-beslut-om-uppdragsbeskrivning-och-forfragningsunderlag-vardval-halland-specialiserad-oppenvard-2023-44pdf
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-psykiatri/mote-2022-09-28/agenda/protokollsutdrag-regionfullmaktige-220622-beslut-om-uppdragsbeskrivning-och-forfragningsunderlag-vardval-halland-specialiserad-oppenvard-2023-44pdf?downloadMode=open
+sha256: c03ca5abec136182bf687fcbb0b6e1d32c4850632753e5fe9abe3db8291dac12
+bytes: 723509
+sidor: 70
+hamtad: 2026-11-19T11:13:31+00:00
+konverterad: 2026-11-19T11:13:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
+fel: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: []
+figurer: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 62, 63, 64, 65, 66, 67, 68, 69, 70]
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+SPECIALISERAD                   ÖPPEN          HÄLSO-
+
+OCH      SJUKVÅRD              2023
+
+UPPDRAGSBESKRIVNING                 OCH
+
+FÖRFRÅGNINGSUNDERLAG                   FÖR   VÅRD-
+
+VAL   HALLAND      SPECIALISERAD          ÖPPEN-
+
+VÅRD
+
+Uppdragsbeskrivning och förfrågningsunderlag Vårdval Halland specialiserad öppenvård 2023(579079) (0)\_TMP
+
+<!-- sida 2 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 2 av 70
+
+Förfrågningsunderlag enligt LOV
+
+INNEHÅLLSFÖRTECKNING
+
+1  VÅRDVAL HALLAND – MÅL, KRAV OCH AVTALSVILLKOR ...................................................................... 4
+1.1  FÖRFRÅGNINGSUNDERLAGETS DISPOSITION ................................................................................................. 4
+
+2  ADMINISTRATIVA FÖRESKRIFTER ......................................................................................................... 6
+2.1  ORIENTERING ........................................................................................................................................ 6
+2.2  BESLUTSORDNING .................................................................................................................................. 7
+2.3  KRAV FÖR GODKÄNNANDE AV ANSÖKNING .................................................................................................. 8
+
+3  UPPDRAGS- OCH KRAVSPECIFIKATION ............................................................................................... 15
+3.1  POLITISKA MÅL OCH STRATEGIER FÖR HÄLSO- OCH SJUKVÅRDEN .................................................................... 15
+3.2  ÖVERGRIPANDE MÅL FÖR REGION HALLAND .............................................................................................. 15
+
+4  LEVERANTÖRENS ÅTAGANDE ............................................................................................................. 17
+
+4.1  VÅRDUPPDRAGET ................................................................................................................................. 17
+4.2  ÖVRIGA KRAV PÅ LEVERANTÖREN ............................................................................................................ 24
+5  UTBILDNINGSANSVAR ........................................................................................................................ 28
+
+5.1  SPECIALISERINGSTJÄNSTGÖRING (ST) FÖR LÄKARE INOM SPECIALISTOMRÅDET .................................................. 28
+5.2  BASTJÄNSTGÖRING (BT) FÖR LÄKARE ....................................................................................................... 29
+5.3  ALLMÄNTJÄNSTGÖRING (AT) FÖR LÄKARE ................................................................................................. 31
+5.4  STUDIEREKTOR FÖR SPECIALISERINGSTJÄNSTGÖRANDE LÄKARE ...................................................................... 31
+5.5  VERKSAMHETSINTEGRERAT LÄRANDE, LÄKARUTBILDNING – VIL, VFU ............................................................ 31
+5.6  SJUKSKÖTERSKE- OCH SPECIALISTSJUKSKÖTERSKEUTBILDNING ........................................................................ 32
+5.7  UTBILDNING FÖR MEDICINSKA SEKRETERARE OCH UNDERSKÖTERSKOR ............................................................ 32
+
+6  UPPFÖLJNING ..................................................................................................................................... 34
+6.1  LÖPANDE UPPFÖLJNING ......................................................................................................................... 34
+6.2  FÖRDJUPAD UPPFÖLJNING ...................................................................................................................... 35
+6.3  DATAINSAMLING OCH INDIKATORER ......................................................................................................... 35
+
+6.4  ÖPPEN REDOVISNING ............................................................................................................................ 35
+7  PÅFÖLJDER VID AVTALSBROTT ........................................................................................................... 36
+
+7.1  ÅTGÄRDSPLAN ..................................................................................................................................... 36
+7.2  RÄTT ATT INNEHÅLLA SAMT NEDSÄTTA ERSÄTTNING TILL LEVERANTÖREN ......................................................... 37
+7.3  RÄTT TILL AVHJÄLPANDE PÅ LEVERANTÖRENS BEKOSTNAD ............................................................................ 37
+7.4  LEVERANTÖRS SKADESTÅNDSSKYLDIGHET VID BRISTANDE UPPFYLLELSE AV AVTALET ........................................... 37
+7.5  LEVERANTÖRENS ANSVAR FÖR KRAV FRÅN TREDJE MAN ................................................................................ 37
+7.6  FÖRTIDA UPPHÖRANDE AV AVTALET ......................................................................................................... 38
+7.7  POLITISKT BESLUT OM TILLBAKADRAGANDE AV UPPHANDLING ENLIGT LOV ...................................................... 39
+
+8  PATIENTERNAS VAL, RÄTTIGHETER OCH DELAKTIGHET ...................................................................... 40
+8.1  PRINCIPER FÖR INVÅNARNAS VAL ............................................................................................................. 40
+8.2  PATIENTENS RÄTTIGHETER ...................................................................................................................... 40
+8.3  MEDICINSK INFORMATION PÅ NÄTET ........................................................................................................ 40
+
+9  INFORMATION OCH MARKNADSFÖRING ............................................................................................ 42
+
+<!-- sida 3 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 3 av 70
+
+Förfrågningsunderlag enligt LOV
+
+9.1  VÅRDVALSSYMBOLEN ............................................................................................................................ 42
+9.2  INFORMATION OM KONTAKTUPPGIFTER OCH PATIENTAVGIFTER ..................................................................... 42
+9.3  GRUNDUTBUD AV INFORMATION ............................................................................................................. 42
+9.4  REKLAM OCH MARKNADSFÖRING ............................................................................................................. 42
+9.5  OM VÅRDENHET FLYTTAR, SAMLOKALISERAS ELLER BYTER NAMN.................................................................... 43
+10 VERKSAMHETSSTÖD – IT-TJÄNSTER ................................................................................................... 44
+
+10.1 GEMENSAMMA IT-TJÄNSTER .................................................................................................................. 44
+10.2 GENERELLA KRAV ................................................................................................................................. 44
+10.3 INFORMATIONSSÄKERHET ...................................................................................................................... 45
+10.4 NATIONELLA TJÄNSTER .......................................................................................................................... 46
+10.5 AVVIKELSEHANTERING ........................................................................................................................... 47
+10.6 BESTÄLLARENS DATALAGER .................................................................................................................... 47
+10.7 DIGITALT UTBUD .................................................................................................................................. 47
+
+10.8 VERKSAMHETENS UPPHÖRANDE .............................................................................................................. 48
+11 EKONOMISK ERSÄTTNING .................................................................................................................. 49
+
+11.1 VÅRDEPISODERSÄTTNING ....................................................................................................................... 49
+11.2 ÖVRIG ERSÄTTNING FÖR SÅLD VÅRD ......................................................................................................... 52
+11.3 KÖPT VÅRD ......................................................................................................................................... 54
+11.4 ÖVRIGA ERSÄTTNINGAR ......................................................................................................................... 54
+12 ÖVRIGA VILLKOR ................................................................................................................................ 56
+
+12.1 BETALNINGSVILLKOR ............................................................................................................................. 56
+
+13 ORDLISTA ........................................................................................................................................... 57
+14 BILAGOR/BLANKETTER ....................................................................................................................... 59
+
+14.1 ANSÖKAN OM GODKÄNNANDE FÖR VÅRDVAL HALLAND ............................................................................... 59
+14.2 AVTALSMALL ....................................................................................................................................... 59
+
+<!-- sida 4 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 4 av 70
+
+Förfrågningsunderlag enligt LOV
+
+1  Vårdval Halland  – mål, krav och avtalsvillkor
+
+Denna Uppdragsbeskrivning och förfrågningsunderlag vänder sig både till vårdgivare som
+vill vara en del av Vårdval Halland och till de som redan är en del av vårdvalet. Innehållet i
+dokumentet klargör de generella målen och kraven på specialiserad öppen vård som bed-
+rivs inom vårdval, liksom kraven på Leverantörens företag och gällande avtalsvillkor. I bi-
+laga framgår de specifika kraven på respektive vårdval. För vårdgivare som uppfyller och
+accepterar villkoren skrivs ett grundavtal som gäller i 10 år. Villkoren uppdateras dock årli-
+gen av Region Halland. Om en enskild vårdgivare inte accepterar de uppdaterade villkoren,
+
+har denne att säga upp avtalet enligt det regelverk som framgår av avtalet.
+Ett vårdavtal inom ramen för Vårdval Halland innebär inga garanterade intäkter för Leveran-
+
+tören. Vårdvalet innebär att patienten väljer vårdgivare och ersättningen följer patienterna.
+En vårdgivare kan inte avvisa en invånare som gjort sitt val. Å andra sidan har Leverantö-
+ren en stor frihet att utforma verksamheten så att den svarar mot patienternas behov.
+
+Vårdgivarna ska både tillgodose patienternas behov av hälso- och sjukvård och bidra till att
+genomföra Regions Hallands långsiktiga mål och strategier för hälso- och sjukvården. Kra-
+ven på verksamheterna är högt ställda. De är legala, ekonomiska och politiska. De innebär
+också att vårdenheterna ska använda bästa tillgängliga kunskap och leva upp till allmänt
+accepterade professionella standarder.
+
+Inom Vårdval Halland har varje vårdenhet stor frihet att utforma vården. Den måste dock
+ansluta till den vårdinformationsstruktur som Region Halland har beslutat. Region Halland
+förbättrar successivt sin uppföljning av och dialog med vårdvalsverksamheterna i syfte att
+kunna jämföra och bedöma verksamheterna samt att bidra till förbättringar.
+
+För att få ingå i Vårdval Halland ska Sökanden uppfylla Regionens krav för att bedriva verk-
+samhet inom sitt område. Dessa preciseras i denna Uppdragsbeskring och förfrågningsun-
+derlag respektive i olika dokument som detta länkar eller hänvisar till.
+
+1.1 Förfrågningsunderlagets disposition
+
+I förfrågningsunderlaget finns en ordlista som förklarar väsentliga begrepp och förkortningar
+som används i dokumentet följt av olika blanketter/bilagor:
+
+• Administrativa föreskrifter
+• Uppdrags- och kravspecifikation
+
+• Utbildningskrav
+• Uppföljning
+
+• Påföljder vid avtalsbrott
+• Patienternas val, rättigheter och delaktighet
+
+• Information och marknadsföring
+• Verksamhetsstöd – IT-tjänster
+
+• Ekonomisk ersättning
+• Ordlista
+
+<!-- sida 5 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 5 av 70
+
+Förfrågningsunderlag enligt LOV
+
+• Bilagor/Blanketter
+Ansökan om godkännande för Vårdval Halland
+­
+Avtalsmall
+­
+
+<!-- sida 6 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 6 av 70
+
+Förfrågningsunderlag enligt LOV
+
+2  Administrativa  föreskrifter
+
+2.1 Orientering
+
+2.1.1 Upphandlande myndighet
+Upphandlande myndighet för denna upphandling är Region Halland, organisationsnummer
+
+232100-0115, nedan kallad Beställaren.
+Region Halland (RH) är en av Hallands största arbetsgivare med ca 7 100 anställda. Ett av
+
+Beställarens uppdrag är att ansvara för och bedriva hälso- och sjukvård samt tandvård.
+Mer information finns tillgänglig på www.regionhalland.se
+
+2.1.2 Upphandlingsform
+Denna upphandling sker i enlighet med Lag (2008:962) om valfrihetssystem, LOV. LOV re-
+glerar vad som ska gälla för regioner som vill konkurrenspröva landstingskommunala verk-
+samheter genom att överlåta valet av utförare av stöd, vård- och omsorgstjänster till patien-
+ten. Från och med 2010 är det obligatoriskt för alla regioner att ha ett valfrihetssystem enligt
+
+LOV i primärvården. Detta regleras i hälso- och sjukvårdslagens kap 7 § 3.
+Syftet med vårdvalet är att stärka patientens ställning genom att fritt kunna välja vårdgivare.
+
+Den fria etableringen inom vårdvalet syftar till att öka mångfalden av vårdgivare och till-
+gängligheten för patienterna. Vårdvalet ska ge alla Sökanden samma villkor och konkur-
+rensneutralitet ska råda inom de uppdragsområden för vårdvalet som Regionen definierar i
+Förfrågningsunderlaget.
+
+2.1.3 Anvisningar för inlämnande av ansökningar
+
+Ansökningshandlingar
+Intresserade av att driva verksamhet inom Vårdval Halland ska insända en ansökan om att
+bli godkänd. Ansökan sker genom att ansökningsblanketten tillsammans med övriga be-
+
+gärda handlingar lämnas in till Beställaren. En ansökan ska lämnas per huvudman och spe-
+cialitet.
+
+Adress
+Ansökan insänds i ett exemplar till:
+
+Diariet, Region Halland, Box 517, 301 80 Halmstad.
+
+Observera att ansökan via fax eller e-post inte accepteras.
+
+Ange ”Vårdval Halland” på kuvertet.
+
+Språk
+Ansökan och bilagor ska vara på svenska.
+
+Öppen ansökningstid
+Ansökningstiden är öppen vilket innebär att det inte finns en sista dag som ansökan ska
+vara inlämnad.
+
+<!-- sida 7 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 7 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Godkännandekrav
+För att Sökanden ska bli godkänd måste samtliga skallkrav och övriga villkor som anges i
+detta förfrågningsunderlag vara uppfyllda.
+
+Förtydligande och/eller komplettering av ansökan
+Om ansökan inte är komplett ifylld, begärda underlag saknas får Beställaren begära kom-
+
+plettering. Om ansökan inte är komplett vid inlämningstillfället, eller om Sökanden inte läm-
+nar begärda kompletteringar kan handläggningstiden förlängas eller ansökan avslås.
+
+Fel i ansökan
+Fel i ansökan får rättas. Sökanden ska utan dröjsmål lämna de kompletteringar av ansökan
+som efterfrågas.
+
+2.1.4 Offentlig handläggning
+
+Inkommen ansökan är som regel offentlig handling. Om inte Sökanden anger annat kom-
+mer Beställaren att tolka det som att inte någon information i ansökan omfattas av sekre-
+tess. Om Sökanden anser att någon del i ansökan ska omfattas av sekretess ska detta
+anges i ansökan och motiveras. Det ska anges på vilka grunder sekretess önskas. Beställa-
+ren kommer att i varje enskilt fall och vid varje förfrågan göra en prövning av huruvida en
+specifik uppgift omfattas av sekretess.
+
+2.2 Beslutsordning
+
+Beslut om godkännande ska fattas av Hälso- och sjukvårdsdirektör på uppdrag av Region-
+styrelsen.
+
+Ingående av avtal
+Om ansökan godkänts upprättar Beställaren ett avtal som sänds till Sökanden. Det ska ske
+utan dröjsmål efter det att beslut om godkännande fattats.
+
+Villkorat godkännande
+
+Beställaren kan meddela villkorat godkännande. Det innebär att Sökanden åläggs att vidta
+åtgärder för att bli godkänd. När Beställaren kontrollerat att begärd åtgärd vidtagits, blir Sö-
+kanden godkänd och avtal upprättas.
+
+Avslag av ansökan
+Sökanden som inte blir godkänd har möjlighet att återkomma med en ny ansökan eller
+kompletteringar till tidigare ansökan.
+
+Ansökan om rättelse
+
+Om Sökanden inte har godkänts och anser att det beslutet i någon bemärkelse är felaktigt
+har Sökanden möjlighet att ansöka om rättelse av beslutet. Sådan ansökan om rättelse ska
+inom tre veckor ha inlämnats till Förvaltningsrätten i Göteborg. Ansökan ska innefatta begä-
+ran om vilken ändring som Sökanden yrkar.
+
+Avtalets giltighet
+
+<!-- sida 8 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 8 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Det avtal som tecknas mellan Sökanden och Region Halland om verksamhet inom Vårdval
+Halland, gäller i tio år från det datum avtalet tecknas.
+
+2.3 Krav för godkännande av ansökning
+För att få bedriva vård inom Vårdval Halland krävs att Sökanden godkänts av Beställaren.
+Beställarens prövning av en ansökan omfattar bedömning av det aktuella bolagets resurser
+i olika avseenden. Grundläggande är att Sökanden har kompetens och kapacitet att arbeta
+
+med samtliga vårdepisoder inom det vårdval som ansökan gäller. En ansökan bör därför
+innehålla en programförklaring för den planerade verksamheten, på kort och lång sikt. Sö-
+kanden ska göra för troligt att bolaget besitter teknisk, ekonomisk, kunskaps- och kompe-
+tensmässig kapacitet och förmåga att bedriva hälso- och sjukvård.
+
+Ansökan ska fyllas i enligt de anvisningar som lämnas i förfrågningsunderlaget. Beställaren
+kommer att inhämta referenser för nyckelpersoner i verksamheten, samt andra tillgängliga
+uppgifter från offentliga register.
+
+Utländsk Sökanden ska bifoga dokumentation som intygar att i hemlandet föreskrivna regi-
+streringar och betalningar har fullgjorts.
+
+Beskrivning av verksamheten
+I ansökan ska Sökanden beskriva hur verksamheten kommer att bedrivas och hur det sä-
+
+kerställs att åtagandet i alla dess delar kommer att utföras från driftstart.
+
+Beskrivningen ska omfatta följande områden:
+•  Verksamhetsidé
+
+•  Beskrivning av företagets organisation, ledning och ägarförhållanden
+•  Beskrivning hur marknadsföring kommer att ske.
+
+•  Öppethållande under året
+•  Organisation för att utföra Uppdrag/Åtagande – bemanning och kompetens
+
+•  Hur personalens kompetensutveckling ska säkerställas
+•  Lokaler och utrustning
+
+•  Telefontider
+
+Till ansökan ska bifogas:
+
+•  Registerutdrag från vårdgivarregistret som bekräftelse på att anmälan av verksam-
+het är gjord enligt 2 kap 1-3 § Patientsäkerhetslag (2010:659)
+•  Dokumentation som redovisar andra faktorer som Sökanden önskar åberopa (frivil-
+ligt)
+
+Driftstart
+
+<!-- sida 9 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 9 av 70
+
+Förfrågningsunderlag enligt LOV
+
+I ansökan ska anges från vilken dag Sökanden avser att bedriva verksamheten. Sökanden
+ska från och med driftstart utföra uppdraget i hela dess omfattning. Om angivet datum för
+driftstart förändras, ska detta meddelas Beställaren. Dagen för driftstart ska infalla inom sex
+månader från det att avtal tecknats.
+
+Bemanning
+I ansökan ska anges kompetensprofil för den personal som ska bemanna verksamheten.
+Kompetensprofilen ska spegla förmågan att utföra åtagandet.
+
+Samverkan med andra företag
+
+Sökanden får åberopa andra företags ekonomiska, tekniska och yrkesmässiga kapacitet i
+sin ansökan (s.k. underleverantörsavtal). Sökanden ska i så fall kunna visa att det finns
+nödvändiga resurser när avtalet ska fullgöras, exempelvis genom ett skriftligt åtagande från
+de aktuella företagen.
+
+Verksamhetschef
+Till ansökan ska anges namn på verksamhetschef och bifogas CV och meritförteckning
+som visar att personen är väl förtrogen med uppdragets karaktär. Två referenser för verk-
+
+samhetschef ska lämnas. Beställaren förbehåller sig rätten att inhämta ytterligare referen-
+ser. Om rekrytering av verksamhetschef inte är klar vid tidpunkten för ansökans inläm-
+nande, ska ansökan kompletteras med detta innan godkännande kan ges.
+
+Leverantören ska hålla Regionen löpande informerad om vem som är verksamhetschef och
+tillika ansvarig kontaktperson samt vem som – i förekommande fall – är medicinskt led-
+ningsansvarig.
+
+Medicinskt ledningsansvarig
+Om verksamhetschefen inte är läkare ska en medicinskt ledningsansvarig läkare utses
+(MLA).
+
+Den läkare som ska ha det medicinska ledningsansvaret ska inneha specialistkompetens i
+aktuell specialitet, ha god erfarenhet av hälso- och sjukvård i enlighet med detta förfråg-
+
+ningsunderlag och vara väl förtrogen med de lagar, förordningar, föreskrifter och allmänna
+råd som gäller för hälso- och sjukvård. I bilaga ska CV lämnas och innehålla uppgifter om
+anställningstid, kompetens och yrkeserfarenhet. Vidimerade kopior på intyg för legitimation
+och intyg på specialistkompetens ska bifogas.
+
+Två referenser ska styrka att medicinskt ledningsansvarig läkare har kompetens och erfa-
+renhet i enlighet med ställda krav. Beställaren förbehåller sig rätten att inhämta ytterligare
+referenser.
+
+Om rekrytering av medicinskt ledningsansvarig läkare inte är färdig vid anbudsgivningen,
+ska Region Halland informeras om tilltänkt läkares erfarenhet och kompetens senast en
+månad före avtalsstart.
+
+Verksamhetens geografiska placering och krav på lokaler
+Verksamhetens adress ska anges i ansökan. Leverantörens åtagande enligt avsnitt 3.3 i
+
+detta förfrågningsunderlag ska fullgöras i de lokaler som Leverantören anger i ansökan eller
+
+<!-- sida 10 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 10 av 70
+
+Förfrågningsunderlag enligt LOV
+
+som senare godkänns av Region Halland. Sökanden ska göra en beskrivning av de lokaler
+som är aktuella för verksamheten samt redovisa hur Region Hallands riktlinje för fysisk till-
+gänglighet länk ska efterföljas och hur fortlöpande städning och underhåll kommer att han-
+teras (se kap Lokaler och utrustning i detta dokument).
+
+Kvalitetsledningssystem
+I ansökan ska verksamhetens kvalitetsledningssystem beskrivas, samt på vilket sätt det an-
+vänds i verksamheten. Ledningssystemet ska uppfylla kraven i Socialstyrelsens föreskrift
+SOSFS 2011:9.
+
+IT-infrastruktur
+
+I ansökan ska anges att Sökanden accepterar anslutningen till Region Hallands systemstöd
+och den sammanhållna journalen. Sökanden ska även säkerställa att använda underleve-
+rantörer ges tillgång till dessa system och dokumenterar i dessa.
+
+2.3.1 Ekonomiska förutsättningar att driva verksamheten
+En grundförutsättning för godkännande är att Sökanden är godkänd för F-skattsedel och
+
+har en stabil ekonomiskt grund. Det ska framgå av ansökan att det finns ekonomiska förut-
+sättningar att fullgöra det långsiktiga åtagande som Avtalet innebär. Beställarens bedöm-
+ning av huruvida Sökanden ska godkännas kommer att ske utifrån dennes finansiella och
+ekonomiska ställning (förmåga att fullfölja ett avtal av denna storleksordning under avtals-
+perioden). Sökandens redovisning styrks lämpligen genom revisors eller banks intygande.
+
+Ansökan ska innehålla:
+
+•  en trovärdig finansierings- och affärsplan för det aktuella bolaget,
+•  årsredovisning för aktörer med aktiva företag,
+
+•  av skatteverket ifylld blankett SKV 4820, avseende den för ansökan juridiska perso-
+nen, som underlag på att bolaget fullgjort sina skyldigheter till det allmänna i form av
+skatteinbetalningar. Blanketten får inte vara äldre än tre månader från datum för ut-
+färdandet.
+
+•  kopia på finansiella säkerheter som åberopas, t.ex. checkkredit, lånelöfte från bank
+eller koncerngaranti.
+
+2.3.2 Skäl att inte godkänna ansökan
+
+Ofullständig ansökan
+I en första schablonbedömning kommer ansökan inte att godkännas i de fall som:
+
+•  Ansökan inte är komplett.
+
+•  Begärda handlingar och intyg saknas.
+•  Sökanden i något väsentligt hänseende har låtit bli att lämna begärda upplysningar
+eller lämnat felaktiga upplysningar som begärts med stöd av Lag (2008:962) om val-
+frihetssystem 7 kap § 1.
+
+Dessa brister kan dock åtgärdas genom att Sökanden kompletterar ansökan och lämnar de
+uppgifter som krävs.
+
+<!-- sida 11 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 11 av 70
+
+Förfrågningsunderlag enligt LOV
+
+När ansökningshandlingarna är kompletta kan Beställaren ta ställning till om Sökanden
+uppfyller ställda krav eller inte.
+
+Bristande ekonomiska förutsättningar
+Vid prövningen av de ekonomiska förutsättningarna att driva verksamheten kommer Sökan-
+den inte att godkännas om:
+
+•  Sökanden har en låg kreditvärdighet enligt kreditupplysningen och Beställaren be-
+dömer att det kan påverka Sökandens förmåga att driva verksamheten
+
+•  Sökanden med en nystartad verksamhet inte kan redovisa en ekonomisk stabilitet
+som krävs för att driva verksamheten, eller har sådana ekonomiska förutsättningar
+att verksamheten kan garanteras
+•  Sökanden har en soliditet (eget kapital/totalt kapital) som understiger 15 procent
+
+•  Sökanden är i konkurs eller likvidation, är under tvångsförvaltning eller är föremål för
+ackord eller tills vidare har inställt sina betalningar eller är underkastad näringsför-
+bud
+
+•  Sökanden är föremål för ansökan om konkurs, tvångslikvidation, ackord eller annat
+liknande förfarande
+•  Sökanden inte har fullgjort sina åligganden avseende socialförsäkringsavgifter eller
+skatt i hemlandet eller annan stat inom EES-området
+
+•  Sökanden på Beställarens begäran inte kan redovisa en finansieringsplan som Be-
+ställaren bedömer visar på förutsättningar att bedriva verksamheten under de två
+första verksamhetsåren
+•  Sökanden riskerar att inställa sina betalningar, inleda ackordsförhandlingar, träda i
+
+likvidation eller om fara för obestånd föreligger,
+Nedanstående förhållanden kan medföra att Sökanden inte kommer att godkännas om:
+
+•  likviditeten (omsättningstillgångar utom varulager/kortfristiga skulder) understiger
+100 procent.
+
+•  Sökanden eller en eller flera företrädare har obetald skuld avseende inbetalning av
+skatter eller socialförsäkringsavgifter
+•  Sökanden eller en eller flera företrädare för Sökanden haft upprepade tidigare – nu
+inbetalda skulder – avseende inbetalning av skatter eller socialförsäkringsavgifter
+
+•  Sökanden eller en eller flera företrädare för Sökanden har varit inblandad i flera tidi-
+gare konkurser.
+Saknas ekonomisk styrka, eller om bolaget är nystartat, kan bank-, moderbolags- eller an-
+nan borgenärs garanti förstärka uppfattningen om Sökandens möjlighet att fullgöra uppdra-
+
+get.
+
+Brister i den planerade verksamheten
+Sökanden anses inte vara godkänd som Leverantör till Vårdval Halland om:
+•  Beställaren bedömer att verksamheten inte kommer att bedrivas i sin helhet enligt
+
+Avtalet.
+
+<!-- sida 12 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 12 av 70
+
+Förfrågningsunderlag enligt LOV
+
+•  Beställaren bedömer att verksamheten inte kommer att bedrivas med en kvalitet
+motsvarande de krav som Avtalet anger.
+•  Verksamheten inte kommer att bemannas med den kompetens och i den omfattning
+Avtalet anger och förutsätter.
+
+•  Sökanden inte är beredd att ingå Vårdavtal enligt Lag om Valfrihetssystem.
+•  Sökanden inte kan visa att denne har tillgång till lokaler anpassade för Verksam-
+heten inom Region Halland
+
+•  Lokalerna i väsentlig omfattning inte uppfyller Myndigheten för delaktighets riktlinjer
+för tillgängliga lokaler
+•  Sökanden inte visat att denna har tillgång till den utrustning som krävs för att bed-
+
+riva Verksamheten
+•  Sökanden saknar de tillstånd som krävs för utförandet av uppdraget.
+
+•  Sökanden har i väsentligt hänseende underlåtit att lämna begärda uppgifter alterna-
+tivt lämnat felaktiga uppgifter.
+•  Beställaren av annan anledning bedömer att Sökanden saknar förutsättningar att
+bedriva Verksamheten
+
+Övriga skäl att inte godkänna en Sökanden
+
+Sökanden kommer inte att godkännas om:
+•  Sökanden, eller en person som är verksam hos Sökanden, har gjort sig skyldig till
+
+allvarligt fel i yrkesutövningen eller genom lagakraftvunnen dom dömts för brott av-
+seende yrkesutövning eller för annat brott som Regionen anser påverkar förtroendet
+för vården.
+•  Ersättning till Sökanden samtidigt utgår enligt Lagen om läkarvårdsersättning (LOL),
+
+förordningen (1994:1121) om läkarvårdsersättning (FOL) eller den lag som ersätter
+denna.
+•  En vårdgivare som ersätts enligt LOL/FOL kommer att vara verksam på samma ut-
+budspunkt som Sökanden.
+
+•  Personal hos Sökanden (inklusive vikarier, ersättare eller underleverantörer) uppbär
+ersättning enligt LOL/FOL under den tid de är verksamma vid vårdenheten och/eller
+på annat sätt utför tjänster enligt detta avtal.
+Läkare som är verksam enligt LOL/FOL i Halland kan ges möjlighet att under 24 månader
+
+arbeta inom Vårdval Halland, med möjlighet att inom denna tid återgå till LOL/FOL (s.k. vi-
+lande etablering). Läkaren får under denna tid inte driva verksamhet och begära ersättning
+enligt LOL/FOL. Möjligheten kan utnyttjas en gång per läkare.
+
+Sökanden kan komma att inte godkännas om:
+
+•  Sökanden eller en eller flera företrädare för Sökanden tidigare haft uppdrag åt Be-
+ställaren, annan region eller annan uppdragsgivare som denne uppdragsgivare till
+följd av brister i Sökandens agerande sagt upp i förtid.
+
+<!-- sida 13 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 13 av 70
+
+Förfrågningsunderlag enligt LOV
+
+•  Beställaren eller annan myndighet genomför en utredning om allvarliga brister i
+verksamhet som Sökanden har i annat uppdrag.
+•  Företrädare för Sökanden är dömd för eller föremål för utredning av brott som av
+Beställarens anses påverka förtroendet för vården.
+
+Om Beställaren överväger att inte godkänna en ansökan på grund av tidigare brister i Sö-
+kandens eller dess företrädares agerande ska Beställaren väga bristens omfattning mot hur
+lång tid tillbaka bristen ligger. Beställaren äger inte rätt att avslå en ansökan med hänvis-
+ning till brister som ligger mer än fem år tillbaka i tiden, om inte synnerliga skäl föreligger.
+
+2.3.3 Utdrag ur register
+
+Beställaren kommer att i relevanta fall (legitimerade yrkeskategorier) inhämta uppgifter från
+Socialstyrelsen och Inspektionen för vård och omsorg (IVO).
+
+Sökanden ska om Beställaren så begär kunna lämna utdrag ur belastningsregistret för före-
+trädare för Sökanden.
+
+Beställaren inhämtar via kreditupplysningsföretag och på andra sätt offentlig information om
+Sökandens ekonomiska förutsättningar.
+
+Beställaren har ett förebyggande samarbete med Skatteverket, vilket innebär att offentliga
+uppgifter om skattestatus inhämtas för kontrakterade parter, både inför godkännande och
+löpande under avtalets löptid.
+
+2.3.4 Underskrift
+Med sin underskrift av ansökan intygar Sökanden att:
+
+•  Lämnade uppgifter i alla delar är korrekta och att väsentlig information om Sökan-
+den inte är utelämnad.
+
+•  Samtliga beskrivningar och dokument som Beställaren efterfrågar bifogas i ansö-
+kan.
+•  Hela Uppdraget/Åtagandet enligt Avtalet kommer att utföras från driftstart.
+
+•  De krav som Beställaren anger i förfrågningsunderlaget kommer att uppfyllas vid
+driftstart.
+•  Verksamheten bemannas med personal med den kompetens och i den omfattning
+
+som krävs för att utföra åtagandet.
+•  Något förhållande i enlighet med vad som föreskrivs i Lag (2008:962) om valfrihets-
+system, 7 kap. som utgör grund för uteslutning inte föreligger.
+
+•  Sökanden accepterar att tillsammans med Beställaren medverka vid ett uppstarts-
+möte cirka 4 veckor före driftstart. Vid detta möte kommer Beställaren att följa upp
+att Sökanden vidtagit de åtgärder som behövs utifrån de krav och villkor som ställs
+för att verksamheten ska kunna starta vid driftstart. Om Beställaren bedömer att Sö-
+kanden inte kommer att klara att driva verksamheten enligt Avtalet från angivet da-
+tum för driftstart har Beställaren rätt att ensidigt fatta beslut om att senarelägga drift-
+start eller säga upp avtalet till förtida upphörande.
+
+<!-- sida 14 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 14 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Om Sökanden inte har möjlighet att i samband med ansökan redovisa samtliga begärda
+uppgifter ska det till ansökan bifogas en redogörelse för orsaken till detta, samt en tidsatt
+plan för när ansökan kommer att kompletteras. Ett beslut om villkorat godkännande kan i
+sådant fall komma att fattas, inklusive ett besked om vad som återstår att göra innan ansö-
+kan kan godkännas. Ett beslut om villkorat godkännande utgör inte ett beslut om godkän-
+nande enligt 8 kap. 1 § lagen (2008:962) om valfrihetssystem, LOV.
+
+Sökanden kan inte ansöka om rättelse enligt LOV av ett beslut om villkorat godkännande
+eller grunda en skadeståndstalan enligt samma lag på ett sådant beslut. Ett beslut om vill-
+korat godkännande innebär att när den som ansöker har kompletterat ansökan med hand-
+lingar som visat att återstående krav för godkännande är uppfyllda, kommer ett nytt beslut
+
+om godkännande att fattas. Om Sökanden inte inom tre månader kan visa att återstående
+krav för godkännande är uppfyllda kommer ett beslut att fattas om att inte bifalla ansökan.
+
+2.3.5 Upplysningar
+Frågor om förfrågningsunderlaget görs per brev, e-post eller telefon till Hälso- och sjuk-
+vårdsstrateg, Region Halland, Box 517, 301 80 Halmstad, e-post: regionen@regionhall-
+and.se. Telefon (mobilnummer borttaget).
+
+<!-- sida 15 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 15 av 70
+
+Förfrågningsunderlag enligt LOV
+
+3  Uppdrags-  och  kravspecifikation
+
+Regionfullmäktige beslutade i november 2016 om en Hälso- och sjukvårdsstrategi för Hall-
+and under åren 2017-2025. Regionstyrelsen beslutar årligen om förutsättningar för Vårdval
+Halland. Utifrån dessa och andra förutsättningar görs årliga – och för Leverantören bin-
+dande – förändringar i Uppdragsbeskrivningen för Vårdval Halland, förfrågningsunderlaget.
+
+Leverantören ska ha kompetens och kapacitet att arbeta med samtliga vårdepisoder inom
+det vårdval som godkännandet gäller. Om detta inte görs i förväntad utsträckning kommer
+godkännandet av Leverantören att omprövas.
+
+3.1 Politiska mål och strategier för hälso- och sjukvården
+
+Region Hallands hälso- och sjukvårdsstrategi beskriver ett övergripande mål och fem del-
+mål för hälso- och sjukvården, samt strategiska val och prioriteringar för att nå dit. Strategin
+är styrande för framtidens hälso- och sjukvårdsutveckling i Halland och ger en tydlig riktning
+för hur både vård och system ska förändras för att med god kvalitet och resurseffektivitet
+möta nuvarande och framtida invånares behov. Hälso- och sjukvårdsstrategin ska fungera
+som en ledstång vid beslutsfattande och ska vara utgångspunkten när fokusområden pekas
+ut i Mål och budget och bryts ned i verksamhetsplaner. Delar i det strategiska arbetet hand-
+
+lar om att arbeta med processutveckling, inom och mellan organisationer, med fokus på att
+skapa värde för invånarna. Hälso- och sjukvården ska arbeta med ständiga förbättringar i
+syfte att stärka invånarens och patientens roll och skapa förutsättningar för vård på rätt
+vårdnivå.
+
+3.2  Övergripande mål för Region Halland
+
+3.1.1 Mål, delmål, strategiska val och prioriteringar
+Hälso- och sjukvårdsstrategin har ett strategiskt ramverk som utgår från regionens vision
+
+”Halland – bästa livsplatsen”, vilken sedan bryts ned till strategins övergripande mål, fem
+delmål, fem strategiska val och ett antal prioriteringar. Varje år pekas ett antal fokusområ-
+den ut efter en strategisk analys av Hallands utvecklingsbehov.
+
+Mål
+En hälso- och sjukvård för bättre hälsa. Detta mål genomsyrar samtliga delmål och innebär
+en utvecklad hälso- och sjukvård som är sammanhållen och ytterst verkar för att stärka in-
+vånarnas hälsa. Det övergripande målet bryts ned till fem delmål, utan inbördes rangord-
+
+ning.
+Delmål
+
+Hälso- och sjukvården i Halland:
+•  arbetar hälsofrämjande och levererar en individuell hälso- och sjukvård av hög kvali-
+tet för en god och jämlik hälsa
+•  är trygg, sammanhållen och utformas tillsammans med patient och närstående
+•  arbetar med ständig förbättring för en bättre hälsa hos invånarna
+
+•  möjliggör att invånare själva tar ansvar utifrån egen förmåga
+•  har en tydlig prioritering av hur kompetens och resurser används
+
+<!-- sida 16 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 16 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Strategiska val
+De fem strategiska valen i ramverket ska fungera som olika perspektiv att ta hänsyn till vid
+beslutsfattande. De kan liknas vid glasögon som alla beslutsfattare och utförare inom hälso-
+och sjukvården i Halland ska ha på sig och använda när de fattar beslut, och alla väger lika
+tungt gentemot varandra.
+
+• Invånarnas och patienternas fokus
+
+• Hälso- och sjukvårdsutbud utifrån behov, patientsäkerhet och kvalitet
+• Rätt kompetens på rätt nivå
+
+• Flödes- och resurseffektivitet i allt vi gör
+• Digitalisering och e-hälsa för invånare, patienter och profession
+
+Årliga fokusområden
+
+För att göra det möjligt att nå målen om En hälso- och sjukvård för bättre hälsa till 2025 be-
+slutas det årligen om ett antal fokusområden som bedöms leda till målet. Vårdenheterna i
+Vårdval Halland specialiserad öppenvård uppdras att arbeta med de fokusområden som
+fastslagits i Mål och budget. Regionfullmäktige har för 2022 beslutat om följande fokusom-
+råden för perioden 2022 – 2026:
+•  Nära och sammanhållen vård
+•  Digitalisering i vården
+•  Styrning utifrån kunskap och kvalitet
+Uppföljning
+
+Uppföljning av Hälso- och sjukvårdsstrategin sker med hjälp av indikatorer på delmålsnivå
+samt per fokusområde.
+
+<!-- sida 17 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 17 av 70
+
+Förfrågningsunderlag enligt LOV
+
+4  Leverantörens   åtagande
+
+Föreliggande förfrågningsunderlag konkretiserar Region Hallands mål, krav och uppdrag till
+vårdgivarna. Genom avtalstecknandet blir Leverantören också godkänd. Leverantör inom
+Vårdval Halland accepterar innehållet i och formerna för den uppföljning av avtalet som
+Region Halland har bestämt.
+
+För att få ingå i Vårdval Halland ska Leverantören uppfylla Regionens krav för att bedriva
+verksamhet (se administrativa föreskrifter kap. 2).
+
+4.1 Vårduppdraget
+
+Vårduppdraget definieras av Uppdragsbeskrivningen och förfrågningsunderlagets specifi-
+kationer av patientgrupper samt diagnos- och åtgärdsrelaterade insatser och avgräns-
+ningar.
+
+Utifrån detta ska vårdenheten ge en hälso- och sjukvård med god medicinsk kvalitet och
+hög säkerhet, god tillgänglighet, ett gott bemötande på lika villkor och en helhetssyn på in-
+dividens hälsotillstånd och vårdbehov samt tillämpa de indikationer för behandling som ge-
+nerellt gäller för specialiserad vård och specifikt de riktlinjer som gäller inom Region Hall-
+and.
+
+I vårduppdraget ingår att:
+
+•  Vårdenheten ska efter professionell bedömning, tillgodose och svara för patientens
+behov av medicinsk rådgivning, diagnostik, behandling, förebyggande och rehabili-
+terande åtgärder som inte av kvalitets- och effektivitetsskäl kräver andra medi-
+
+cinska eller särskilda tekniska resurser eller annan särskild kompetens eller som
+täcks av annan huvudmans ansvar.
+•  Vårdenheten ska främja patientens delaktighet och inflytande i sin vård samt efter-
+sträva kontinuitet
+•  Vårdenheten ska ta emot, bedöma och behandla, akut sjuka och skadade.
+•  Vårdenheten ska svara för att patientens behov av medicinsk service tillgodoses i
+
+en omfattning som motsvarar behovet
+•  Vårdenheten ska se till att patienten får vård på rätt vårdnivå och skapa förutsätt-
+ningar för aktiva överlämningar mellan olika vårdnivåer.
+
+•  Vårdenheten ska ge patienten nödvändig information om sin sjukdom och tillgäng-
+liga behandlingsalternativ. Vårdenheten ska mobilisera och stödja patientens egna
+resurser (egenvård) i behandlingsarbetet, öka välbefinnandet och förhindra försäm-
+ringar.
+
+•  Vårdenheten ska i sin vård av patienterna använda bästa tillgänglighet kunskap
+såsom den uttrycks i nationella och regionala kunskapsunderlag som beskrivs i reg-
+ionala vård- och behandlingsprocesser. Följsamhet till fastställda mål och indikato-
+rer följs upp kontinuerligt på verksamhets- och regionnivå. Länk till Nationella riktlin-
+jer
+
+•  Vårdenheten ska bistå närsjukvårdens enheter med bedömningar och stöd när an-
+svarig behandlare inom närsjukvården behöver konsultera specialist
+
+<!-- sida 18 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 18 av 70
+
+Förfrågningsunderlag enligt LOV
+
+•  Vårdenheten ska främja effektiva vårdprocesser, Standardiserade vårdförlopp och i
+allt övrigt samverka med andra vårdgivare och huvudmän så att patienter och anhö-
+riga upplever vården i Halland som en helhet. SVF Region Halland
+•  Vårdenheten ska rapportera väntetider och tillgänglighet till nationella väntetidsdata-
+basen.
+
+•  Vid utringning från vårdenheten ska alltid telefonnummer visas.
+•  Följa de beslutade vårdepisoderna.
+
+För hud ingår hela uppdraget utom STD-verksamhet.
+o
+För psykiatrin ingår patienter med diagnos ADD, ADHD, Depression, Bipolär
+o
+sjukdom.
+4.1.1 Hälsofrämjande och sjukdomsförebyggande arbete
+I det hälsofrämjande och sjukdomsförebyggande arbetet ingår att stödja människor att göra
+hälsosamma val och att ta ansvar för sin egen hälsa. Vårdenheten ansvarar för att:
+• Identifiera eventuella ohälsosamma levnadsvanor vad gäller tobak, alkohol, mat-
+
+vanor och fysisk aktivitet
+• ge enkel rådgivning enkla råd
+• hänvisa motiverade patienter till vidare stöd i närsjukvården
+• särskilt uppmärksamma tobaksfrihet inför operation, se rutin för Tobaksfri oper-
+ation
+
+Den vårdenhet som erbjuder ytterligare rekommenderade åtgärder så som rådgivande re-
+spektive kvalificerat rådgivande samtal eller fysisk aktivitet på recept (FaR) ska följa Region
+Hallands vårdriktlinje för sjukdomsförebyggande arbete/levnadsvanor samt rekommendat-
+
+ioner för prevention och behandling vid ohälsosamma levnadsvanor i Terapirekommendat-
+ioner Halland
+
+Dokumentation av arbetet med levnadsvanor ska ske strukturerat enligt rutinen VAS – Lev-
+nadsvanor. Till stöd finns också Lathund för dokumentation av levnadsvanor i VAS.
+
+Mer information om levnadsvanearbetet finns på vårdgivarwebben. Rekommenderat
+material finns för beställning och nedladdning i Broschyrer och rapporter – beställ eller
+ladda ner.
+
+4.1.2.Sexuell hälsa och sexuellt överförda sjukdomar, STI
+Vårdenheten ska uppmärksamma riskbeteenden samt vara lyhörda för de listades sexuella
+hälsa och tecken på sexuellt överförda infektioner. Vårdenheten ska samverka tvärsektori-
+
+ellt i den utsträckning som patientens vård kräver det. Se Regional rutin.
+På Vårdgivarwebb Halland finner du regiongemensam information om Sexuell och repro-
+duktiv hälsa och rättigheter.
+
+4.1.3 Våld i nära relationer
+
+<!-- sida 19 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 19 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vårdenheten ska uppmärksamma fysiska skador samt symtom på fysisk och psykisk
+ohälsa som skulle kunna ha sin grund i utsatthet för våld i nära relationer och vårdleveran-
+tören ska implementera de processer och riktlinjer som behövs för att verksamheten ska
+uppfylla kraven i SOSFS 2014:4 Våld i nära relationer.
+
+Se vidare regiongemensam rutin Våld i nära relationer. Dokumentation av våldsutsatthet
+ska ske under sökordet Våld i nära relationer som då säkerställer ett sekretesskydd i Jour-
+nal via nätet. Se VAS-manual Våld i nära relationer.
+
+Ansvar och roller i samverkan med externa aktörer beskrivs i Region Hallands den region-
+ala handboken – Våld i nära relationer.
+
+Barn som misstänks fara illa.
+Vårdenheten har skyldighet att anmäla misstanke om barn som far illa i enlighet med Soci-
+altjänstlagen kap 14 § 1. Se vidare ”vid oro och misstanke – om att ett barn far illa” samt ru-
+
+tin som beskriver skyldighet att anmäla.
+
+4.1.4 Rehabilitering
+Vårdenheten ska uppmärksamma patienters behov av rehabilitering. I de fall sådana be-
+hövs och inte ingår i avtalade vårdepisoder, ska patientens remitteras till lämplig insats.
+
+Vårdenheten ska tillgodose patienters behov av rehabilitering. Följande yrkesgrupper ska
+ingå på eller kopplas till vårdenheten om patientens behov kräver rehabiliterande insatser
+av: fysioterapeut, arbetsterapeut, psykolog/psykoterapeut och kurator/annan jämförbar psy-
+kosocial funktion.
+
+Rehabiliteringen ska innehålla grundläggande bedömning, en planering, rehabiliterande
+insatser, utvärdering och förebyggande arbete. Rehabiliteringsinsatserna ska bygga på ve-
+
+tenskaplig grund och/eller bepröva erfarenhet, antalet behandlingstillfällen och omfattning
+ska stå i proportion till åkommans art och kontinuerlig utvärdering ska ske. Rehabiliteringen
+ska sträva efter att så snart som möjligt ge patienten stöd att hantera sin behandling/träning
+på egen hand. Rehabiliteringen ska också ge adekvat kunskap som patienten kan tillämpa
+för sin egenvård.
+
+Vårdenhetens rehabiliteringsprofessioner ska samverka med varandra och samordna insat-
+ser med externa aktörer när patientens behov så kräver. I de fall det finns en handlägg-
+ningsövernskommelse skall denna följas.
+
+Försäkringsmedicin
+Sjukskrivning är det vanligaste försäkringsmedicinska uppdraget i hälso- och sjukvården
+
+och utgör en del av vård och behandling.
+Vårdenheten ska tillse att berörd personal har grundläggande kompetens i
+
+försäkringsmedicin enligt regional rutin Sjukskrivningsprocessen, tillämpar rutinen samt har
+god kännedom om socialförsäkringssystemet och gällande regelverk
+
+<!-- sida 20 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 20 av 70
+
+Förfrågningsunderlag enligt LOV
+
+I verksamheter med hög sjukskrivningsförekomst vilka beskrivs i regional rutin Sjukskriv-
+ningsprocessen, ska minst en läkare på enheten utses för rollen läkare med fördjupad kun-
+skap i försäkringsmedicin för att säkra det försäkringsmedicinska uppdraget i verksam-
+heten. Psykiatrin är en av de identifierade verksamheterna.
+
+Vårdgivaren ska kunna hantera alla tillgängliga elektroniska intyg kopplade till det försäk-
+ringsmedicinska uppdraget, vilket möjliggör för patient att administrera sina intyg via Mina
+Intyg 1177.se
+
+Funktion för koordinering, rehab koordinator
+
+Enligt lag (2019:1297) om koordineringsinsatser för sjukskrivna patienter, ska hälso och
+sjukvården erbjuda koordinerande insatser för sjukskrivna patienter som har ett särskilt be-
+hov av individuellt stöd för att kunna återgå till eller inträda i arbetslivet. Enligt regional rutin
+Sjukskrivningsprocessen ska identifierade verksamheter säkerställa att koordinerande insat-
+ser erbjuds sjukskrivna patienter med behov. Psykiatrin är en av de verksamheter som iden-
+tifieras med hög sjukskrivningsförekomst och skall erbjuda rehab koordinator. Vårdenheten
+
+ska ha en tydlig kontakt för dessa frågor som anges till Regionkontoret efter förfrågan. Kon-
+takten blir en samverkanspart för externa aktörer och regionalt utvecklingsarbete i frågor som
+rör koordinerade insatser. Verksamheten ska tillämpa regional rutin Rehabkoordinatorfunkt-
+ion.
+
+4.1.5 Hjälpmedel
+Vårdenheten ska ha tillgång till behörig hälso- och sjukvårdspersonal som efter obligatorisk
+utbildning ska ha uppgiften att förskriva hjälpmedel och medicintekniska produkter enligt
+
+Region Hallands hjälpmedelsanvisningar. Förskrivningen ska ske på ett kostnadseffektivt
+sätt.
+
+4.1.6 Asylsökande
+Vården till asylsökande sker enligt regelverket för Region Halland, som reglerar akut och
+nödvändigvård. Vägledning finns via Vårdgivarwebb Halland och sidan Asylsökande
+
+4.1.7 Kris- och katastrofberedskap
+
+Vid en allvarlig/extra ordinär händelse underställs de privata vårdvalsenheterna Hallands
+sjukhus eller Psykiatri Hallands lokala krisledning. Vårdenheten ska utföra uppdraget även
+vid allvarlig händelse och krig. Under fredstid ska medverkan ske i Region Hallands bered-
+skapsplanering samt vid behov medverka vid övning och utbildning.
+
+Vårdenheten ska ge Region Halland den information som är nödvändig för att Regionen
+ska kunna fullgöra sina skyldigheter enligt lagen Lag (2006:544) om kommuners och lands-
+tings åtgärd inför och vid extraordinära händelser i fredstid och höjd beredskap samt Social-
+styrelsens föreskrift och allmänna råd (SOSFS 2013:22) Katastrofmedicinsk beredskap.
+
+4.1.8 Tillgänglighet
+
+Leverantören ska ha ett öppethållande som motsvarar invånarnas behov av hälso- och
+sjukvård, följa den nationella vårdgarantin och de standardiserade vårdförloppen
+
+<!-- sida 21 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 21 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vårdenheten ska också:
+•  Snarast ta emot den som söker vård utifrån en bedömning av dennes medicinska
+
+tillstånd.
+•  Tillse att patienter kan komma i kontakt med legitimerad hälso- och sjukvårdsperso-
+nal på vårdenheten (telefontid är tillåten).
+•  Tillse att mottagning för patientverksamhet finnas minst en dag per vecka, eller mot-
+svarande 20 procent av heltid, året runt.
+•  Öppettider och telefontider ska framgå klart och tydligt på 1177.se och Leverantö-
+
+rens hemsida
+
+4.1.9 Utskrivningsplanering och SIP
+När den enskilde har behov av insatser både från hälso- och sjukvården och från social-
+tjänsten, ska regionen tillsammans med kommunen upprätta en samordnad individuell plan
+(SIP).
+
+Vid utskrivning från slutenvården är regionens öppenvård (privat och offentlig regi) sam-
+manhållande för samverkan för att säkra den fortsatta vården utanför sjukhuset. Punkterna i
+Hemgångsklar ska vara säkerställda/uppfyllda för en trygg och säker utskrivning. Plane-
+ringen för att säkra utskrivning från slutenvården ska starta tidigt under vårdtiden och mål-
+
+sättningen är att en patient med behov av insatser skrivs ut från den slutna vården så snart
+som möjligt efter det att den behandlande läkaren bedömt patienten som utskrivningsklar.
+
+Utskrivningsplanering och upprättande av Samordnad individuell plan (SIP) inför utskrivning
+från slutenvården (somatisk och psykiatrisk vård) ska kunna genomföras vardagar, dagtid
+och kan genomföras efter överenskommelse via video, telefon eller som ett fysiskt möte i
+slutenvården.
+
+Alla parter har ansvar för att genomföra effektiva planeringsprocesser. Parterna ska tillhan-
+dahålla resurser, säkra kontaktvägar och informationsöverföring så att individen kan
+komma hem på ett tryggt sätt efter en slutenvårdsvistelse. Det är parternas gemensamma
+ansvar att avsätta tillräckliga resurser så att patienten får de insatser och hjälpmedel som
+behövs för att utskrivning från slutenvård kan ske på ett tryggt och effektivt sätt.
+
+Som systemstöd för den samordnade planeringen ska systemet Lifecare användas och ar-
+betet ska utgå från:
+
+• Lag (2017:612) om samverkan vid utskrivning från sluten hälso- och sjukvård.
+• Samverkansrutin för vård- och omsorgsplanering i öppenvård och utskrivningsplanering
+
+från sluten hälso- och sjukvård Lifecare – Samordnad planering.
+
+4.1.10 Jour och beredskap
+Vårdenheten ska medverka i jour- och beredskapsverksamhet i den utsträckning som
+Regionen fastställer. Ingen särskild ersättning utgår för denna typ av arbete, då den redan
+ingår som ett påslag för varje vårdepisod.
+
+Ansvaret för jour och beredskap per specialitet framgår av tabell nedan:
+
+<!-- sida 22 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 22 av 70
+
+Förfrågningsunderlag enligt LOV
+
+4.1.11 Kunskapsstyrning
+I vårdenhetens ledningssystem för kvalitet, utifrån SOSFS 2011:9, ska framgå hur
+vårdenheten arbetar med att hålla sig uppdaterad med kunskapsstyrning av nya nationella
+och regionala stöd, samt hur dessa sprids på vårdenheten och hur uppföljning av tillämpning
+sker.
+
+Leverantören ska ha tillgång till personal vars utbildningsnivå motsvarar patientens behov
+av hälso- och sjukvård. Denna ska utgöras av legitimerad hälso- och sjukvårdspersonal
+och/eller personal som krävs för patientens hälso- och sjukvård, t ex psykologiskt och/eller
+
+psykosocialt utbildad personal.
+Vårdenheten ska förhålla sig till den nationella kunskapsstyrningsstrukturen med syfte att
+
+skapa en kunskapsbaserad och jämlik vård. Region Hallands lokala kunskapsstyrningsmo-
+dell baseras på den nationella kunskapsstyrningsstrukturen, och där deltagande i den be-
+slutade regionala processmodellen är en förutsättning för att nå målet om ”En hälso- och
+sjukvård för bättre hälsa”. Syftet är att erbjuda patienter i regionen en säker, patientfokuse-
+rad, kunskapsbaserad, jämlik och effektiv vård i rätt tid och på rätt plats.
+
+Införande av nya metoder, kunskapsstöd, läkemedel och medicintekniska produkter sker
+via processen ordnat införande. Vårdenheten ska förhålla sig till och följa de beslut som
+fattas i processen ordnat införande. För läkemedel innebär detta att regionalt beslut region-
+alt beslut ska inväntas, de rekommendationer som kommer från NT-rådet är endast att be-
+trakta som underlag i den regionala processen.
+
+4.1.12 Uppföljnings- och kvalitetsregister
+Leverantören ska registrera i relevanta nationella kvalitetsregister och uppnå hög täck-
+ningsgrad i dessa samt vidta förbättringsarbete utifrån resultaten.
+
+Enheter inom vårdval psykiatri ska registrera i BUSA (ADHD-register) och BipoläR.
+
+Enheter inom vårdval hud ska registrera i Pso-Reg (psoriasisregister) och Nationellt kvali-
+tetsregister för hudmelanom.
+
+Enheter inom vårdval psykiatri ska även skicka in uppgifter via e-formulär för att möjliggöra
+uppföljning av Spravato. Observera att detta inte är ett kvalitetsregister.
+
+För de nationella register som vårdenheten inom en specialitet är ålagda att delta i, ska pa-
+tienter med en diagnos som omfattas av registret rapporteras på alla parametrar som en-
+heten hanterar i sin behandling.
+
+4.1.13 Patientsäkerhet, avvikelsehantering och ständiga förbättringar
+Vårdenheten ska ha mål och rutiner för att minska vårdskador. Arbetet ska ske utifrån pati-
+
+entsäkerhetslagen (2010:659) och Ledningssystem för systematiskt kvalitetsarbete
+(SOSFS 2011:9). Regionens avvikelsehanteringssystem ska användas.
+
+[Tabell 22-1](bilaga-25.tabeller/22-1.csv)
+
+| Jour och beredskap | Specialitet |
+| --- | --- |
+| Hudsjukvård | För närvarande ej aktuellt |
+| Vuxenpsykiatri | För närvarande ej aktuellt |
+
+<!-- sida 23 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 23 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vårdenheten ska:
+•  Säkerställa att rutiner finns för Lex Maria, patienters klagomål samt hantering av av-
+
+vikelser.
+•  Arbeta med ständiga förbättringar utifrån observerade avvikelser och utifrån ny kun-
+skap om patientens vård och hur denna kan ges.
+
+•  Årligen lämna in patientsäkerhetsberättelse till årsredovisningen.
+•  Bistå Patientnämnden och lämna de uppgifter som nämnden efterfrågar.
+
+•  Delta i Region Hallands två årliga mätningar av följsamhet till basala hygienrutiner
+och klädregler. Mellan dessa mätningar arbetar vårdenheten med att förbättra sitt
+resultat.
+•  Delta i Region Hallands regionövergripande arbete för att minska vårdskador
+
+4.1.14 Läkemedel
+
+Verksamhetschefen ska tillse att vårdenhetens förskrivning och hantering av läkemedel föl-
+jer Socialstyrelsens föreskrifter HSLF-FS 2017:37 samt att verksamhetens läkemedelsbe-
+handling sker på ett rationellt, säkert och kostnadseffektivt sätt med helhetsperspektiv där
+patientens och samhällets bästa beaktas.
+
+Verksamhetschefen ska:
+
+•  Säkerställa att läkemedelsförskrivningen följer gällande terapirekommendationer
+från Läkemedelskommittén Halland, övriga rekommendationer och riktlinjer från
+Region Hallands läkemedelsfunktioner samt Strama Hallands mål för förskrivning av
+antibiotika. Uppdragsgivaren kommer att följa upp att så sker.
+•  Ansvar för att läkemedelsgenomgångar genomförs samt följer Region Hallands rikt-
+
+linjer och regionövergripande rutiner Läkemedel - Läkemedelsgenomgång.
+•  Ansvara för att förskrivande personal deltar i de utbildningar som arrangeras av Lä-
+kemedelskommittén Halland. Utifrån att ämnet är relevant för den aktuella verksam-
+
+heten.
+•  Ansvara för att vårdenheten tar emot besök av representant från Läkemedelskom-
+mittén Halland för producentobunden information och analys av förskrivningsmöns-
+ter samt utifrån detta identifierar förbättringsområden och upprättar handlingsplaner.
+
+•  Säkerställa tvåläkarbedömning (två specialister inom aktuellt område) vid förskriv-
+ning av kostsamma biologiska läkemedel samt att registrering har skett i patientjour-
+nalen. Observera att specialisterna ska vara kliniskt aktiva och besitta aktuell kun-
+skap inom sitt specialistområde. Vad som är kostsamt läkemedel utgår från Region
+Hallands bedömning.
+•  Ansvara för att eventuell undantagshantering (individuell subvention av läkemedel
+utanför läkemedelsförmånen) följer regional rutin och att eventuella beslut om un-
+
+dantagshantering grundar sig på gällande kriterier samt konsensus inom vårdvalet i
+syfte att vården ska bli jämlik.
+•  Säkerställa att vårdenheten följer nationell överenskommelse och regionövergri-
+pande tillämpningsrutin gällande samverkansregler mellan offentligt finansierad
+
+<!-- sida 24 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 24 av 70
+
+Förfrågningsunderlag enligt LOV
+
+hälso- och sjukvård och industrin och regional anpassning för samverkan för läke-
+medelsindustrin.
+•  Utse Läkemedelsansvarig läkare samt Läkemedelsansvarig sjuksköterska. Dessa
+ska vara enhetens kontaktperson samt företrädare gällande:
+Läkemedelshantering och andra läkemedelsfrågor
+o
+IT-baserade vårdsystem inom läkemedelsområdet
+o
+Den som är utsedd ska anmälas till Region Halland enligt instruktioner i gäl-
+o
+lande rutin Läkemedel - ansvarsfördelning (Se också 10.2 Generella krav).
+För patienter med befintliga dosrecept ska all receptförskrivning ske i Pascal.
+
+Studier eller kliniska prövningar som innefattar läkarbesök, särskilda åtgärder, medicinsk
+service och/eller läkemedel och finansieras av annan part får inte samtidigt faktureras Reg-
+ion Halland eller belasta läkemedelsförmånen. Vårdkontaktakt för patient som omfattas av
+sådana kliniska prövningar ska registreras i patientadministrativt system enligt Region Hal-
+lands anvisning.
+
+4.1.15 Intyg
+
+Vårdenheten ska utfärda intyg såsom vårdintyg, rättsintyg, dödsbevis, i förekommande fall
+medicinskt underlag till Försäkringskassan samt övriga intyg som patienten har rätt till.
+
+4.1.16 Utomlänspatient
+Patienter ska ges möjlighet att välja utförare av offentlig finansierad primärvård och öppen
+specialiserad vård i hela landet. Patienten ska få ta del av det öppenvårdsutbud som ingår i
+en annan regions vårderbjudande även om utbudet är ett annat än det som finns i patien-
+
+tens hemregion. Prioriteringar av patienter ska enbart ske utifrån medicinska behov, oavsett
+bostadsort och listning. Patientlag (2014:821).
+
+4.2 Övriga krav på Leverantören
+
+4.2.1 Regiongemensamt förbättrings- och utvecklingsarbete samt nationella
+satsningar
+
+Vårdenheten ska delta i regiongemensamt förbättrings-, utvecklings- och gränsdragningsar-
+bete där medarbetare med adekvat kompetens kan efterfrågas inför olika projekt. Det kan
+exempelvis handla om att vara ledamot i någon av Läkemedelskommittén Hallands terapi-
+grupper, medicinska råd, samverkansgrupper, expertstöd i samband med utveckling och
+framtagande av vård- och behandlingsprocesser, förfrågningsunderlag m.m. Insatser i olika
+arbetsgrupper kan variera över tid.
+
+Region Halland avgör vilka utvecklingsarbeten som berättigar till ”stilleståndsersättning”. Er-
+sättning kan inte sökas retroaktivt. Ansökan sker med därtill avsedd blankett som efterfrå-
+gas på Regionkontoret. För beslutade aktiviteter ersätts vårdenheten utifrån en schablon
+med timersättning.
+
+<!-- sida 25 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 25 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vårdenheten ska delta i de nationella och övriga regionala satsningar som Region Halland
+beslutar om. I vissa fall kan ersättning utgå i dessa satsningar. Även om det inte utgår er-
+sättning finns ett krav/ansvar att delta.
+
+4.2.2 Arbetsgivare
+•  Leverantören ska tillse att all personal informeras om gällande bestämmelser om
+tystnadsplikt och sekretess (som gäller även efter avtalets upphörande) samt att
+
+tillse att dessa efterföljs.
+•  Personal anställd hos privata leverantörer ska omfattas av samma yttrande- och
+meddelarfrihet som anställda i offentlig verksamhet.
+
+•  Leverantören påtar sig arbetsgivaransvar och svarar för löner, sociala avgifter och
+andra avtalsenliga och lagstadgade kostnader för sig och sin personal. Leverantö-
+ren är ensam arbetsgivare för den egna personalen och är ensam bärare av arbets-
+givaransvar i förhållande till denna personal. Vårdenhetens personal ska ha en ut-
+bildningsnivå och kompetens som svarar mot patienternas behov av hälso- och
+sjukvård och de krav som ställs i denna uppdragsbeskrivning.
+
+•  Leverantören ska genom sitt sätt att leda, planera och genomföra verksamheten
+tillse att en god kontinuitet i patientkontakterna kan upprätthållas.
+
+4.2.3 Försäkringar
+Leverantören har fullt ansvar för sitt åtagande enligt detta avtal och för all skada och alla
+förluster som kan komma att orsakas inom åtagandet.
+
+Leverantören ska förbinda sig gentemot Beställaren, myndigheter, patienter och andra att
+fullgöra de skyldigheter som Leverantören har eller föranleder vid varje tillfälle. Detta inne-
+bär att:
+
+•  Leverantören själv svarar för de skador som vållas av vårdenhetens anställda ge-
+
+nom att teckna och vidmakthålla försäkring till täckande av skada och skadestånd.
+•  Leverantören garanterar att denne innehar gällande och för branschen sedvanlig(a)
+försäkring(ar) avseende all verksamhet som omfattas av detta avtal.
+
+•  Leverantören omfattas av den patientförsäkring som tecknas av Beställaren hos
+Landstingens Ömsesidiga Försäkringsbolag (LÖF), 12 § patientskadelagen.
+
+4.2.4 Lokaler och utrustning
+Leverantören ska utföra sitt åtagande i lokaler som är geografiskt belägna inom Hallands
+län. Vårdenhetens lokaler ska vara anpassade för åtagandet samt vara fysiskt tillgängliga
+för personer med nedsatt rörelse- och orienteringsförmåga. Region Hallands riktlinjer för fy-
+
+sisk tillgänglighet länk ska följas.
+I övrigt ska behandlingslokaler:
+
+•  vara utformade så att vård av patienter kan ske med respekt för individens integritet.
+
+•  städning följer Svensk förening för vårdhygiens riktlinjer för städning i vårdlokaler
+ISBN 978-91-633-8059-4.
+
+<!-- sida 26 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 26 av 70
+
+Förfrågningsunderlag enligt LOV
+
+•  Följa vårdhygieniska rekommendationer avseende möbler och textilier.
+All utrustning som krävs för att utföra beställd vård inom vårdenheten, ska uppfylla lagar,
+föreskrifter, vedertagna standarder och krav på tillförlitlighet, prestanda och kvalitet för att
+tillförsäkra en ändamålsenlig funktion. Leverantören ansvarar för att all utrustning får fortlö-
+pande och regelbunden service samt förebyggande och felavhjälpande underhåll. Service
+
+och kvalitetskontroller ska dokumenteras.
+Verksamhetschefen ska ansvara för medicintekniska produkter i enlighet med Region Hal-
+
+lands Riktlinjer om ansvarsförhållanden.
+
+4.2.5 Underleverantörer
+Vårdenheten kan erbjuda vård genom en underleverantör. Vårdenheten och underleveran-
+tören avtalar sinsemellan om avtalsrelationens omfattning, innehåll, pris etc.
+
+Vårdenheten ansvarar för underleverantören som för egen verksamhet. Kraven på underle-
+verantören, integrerad såväl som åtskild, är de samma som för vårdenheten och regleras
+genom Uppdragsbeskrivning och förfrågningsunderlaget Vårdval Halland. Vid ingång av un-
+derleverantörsavtal ska Leverantören särskilt uppmärksammas följande krav:
+
+•  Ankomstregistrering av vårdkontakter och journaldokumentation ska ske i det pati-
+entadministrativa system som regleras genom förfrågningsunderlag Vårdval Hall-
+
+and.
+•  Redovisning av vårdkontakter till Regionen ska vara integrerad i den som ges från
+Leverantörens vårdenhet.
+
+•  Samma regler för information och marknadsföring gäller för underleverantören som
+för Vårdenheten.
+•  Patientavgift gäller för underleverantör enligt Region Hallands Avgiftshandbok och
+dessa ingår i högkostnadsskyddet.
+
+•  Patienten har rätt att söka underleverantörens tjänster även om patienten inte be-
+handlas på den vårdenhet som har avtal med underleverantören.
+
+Regiondrivna vårdenheter ska i relation till privata underleverantörer tillämpa lagen om of-
+fentlig upphandling, LOU eller lagen om valfrihetssystem, LOV. Eftersom det är Region Hal-
+land som blir formell avtalstecknare ska vårdenheter i egen regi alltid samråda med region-
+kontoret.
+
+4.2.6 Klinisk kemi, Mikrobiologi och Patologi
+
+Som leverantör i Region Halland ska analyser ske i Region Hallands egen regi, dvs. köptro-
+het råder inom detta område.
+
+4.2.7 Miljö
+Vårdenheten ska ha ett strukturerat och dokumenterat miljöarbete som är öppet för gransk-
+ning. Miljöarbetet ska vara aktivt under hela avtalsperioden. Detta innebär att det ska finnas
+en miljöpolicy, mätbara och tidsatta mål och rutin för redovisning av miljöpåverkan. Det ska
+finnas en ansvarig för miljöarbetet och målen ska följas upp minst en gång per år.
+
+<!-- sida 27 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 27 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vårdenheten ska på begäran redovisa att kraven uppfylls.
+
+<!-- sida 28 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 28 av 70
+
+Förfrågningsunderlag enligt LOV
+
+5  Utbildningsansvar
+
+Alla regionfinansierade vårdenheter ansvarar för och ska bidra till en fungerande kompe-
+tensåterväxt inom sina respektive kompetensområden. Det innebär att ta emot praktikanter,
+praktiktjänstgörande och specialisttjänstgörande personal samt kunna erbjuda utbildnings-
+tjänster till olika yrkesgrupper. Det gäller för både medicinsk och paramedicinsk personal.
+
+Regionen kommer att träffa avtal med vårdenheter om särskilda uppdrag för de delar där
+ersättning utgår till vårdenheter som påtar sig ett sådant ansvar. De särskilda uppdragen
+gäller:
+
+•  Specialiseringstjänstgöring (ST) för läkare.
+•  Bastjänstgöring (BT) för läkare.
+
+•  Allmäntjänstgöring (AT) för läkare.
+•  Studierektorskap för specialiseringstjänstgörande läkare (ST-läkare).
+
+•  Verksamhetsintegrerat lärande, läkarutbildningen – VIL, VFU.
+•  Sjuksköterske- och specialistsjuksköterskeutbildning.
+
+•  Medicinska sekreterare och undersköterskor.
+
+Vårdenheten ansvarar för att de kliniska utbildnings- och praktikplatserna håller den kvalitet
+och inriktning som följer av examenskraven för respektive utbildning. Region Hallands FoU-
+avdelning samordnar övergripande den kliniska utbildningen.
+
+5.1 Specialiseringstjänstgöring (ST) för läkare inom specialistom-
+
+rådet
+Region Halland har statens uppdrag att utbilda specialistläkare. För varje aktuell specialitet
+ska det beskrivas om anställning respektive placering av ST-läkare i vårdvalet. Samtliga le-
+verantörer i Vårdval Halland för specialiserad vård förväntas vara delaktiga i ST-läkarutbild-
+ning. Regionen kan uppdra åt en godkänd vårdenhet att fullgöra hela eller delar av detta
+
+uppdrag för en eller flera läkare.
+Enligt gällande lagar, Socialstyrelsens föreskrifter, allmänna råd och målbeskrivningar ska
+
+specialiseringstjänstgörande läkare (ST-läkare) få en allsidig erfarenhet av verksamhetsom-
+rådet och därför ska arbetsuppgifter som förekommer inom specialistområdet fullgöras.
+Vårdenheten ska följa Socialstyrelsen SOSFS 2015:8 och HSLF-FS 2021:8 Läkarnas spe-
+cialisttjänstgöring och Region Hallands rutin ”ST-specialisttjänstgöring läkare”.
+
+För att kunna åta sig utbildningsuppdrag för regionens räkning måste vårdenheten ha minst
+två verksamma specialister inom området. Mottagningen ska vara öppen på heltid under
+årets alla vardagar.
+
+En läkare ska utses att ha det obligatoriska handledningsansvaret. Läkaren ska genomgå
+Regionens handledarutbildning, som genomförs i enlighet med regionens ST-rutin. Vården-
+heten ska även ha en studierektor som en stödfunktion till verksamhetschefen, handledaren
+
+<!-- sida 29 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 29 av 70
+
+Förfrågningsunderlag enligt LOV
+
+och ST-läkaren. Såväl handledaren som studierektorn ska vara specialist inom specialist-
+området som avses.
+
+Specialiseringstjänstgöringen ska planeras i samverkan med studierektor.
+Antal ST-läkare som idag finansieras av beställaren framgår av tabell nedan:
+
+5.1.1 Anställning
+
+Olika förutsättningar för anställning finns beroende på specialistområde. Detta framgår av
+bilaga för respektive specialistområde. Leverantörer inom Vårdval Halland anställer och har
+arbetsgivaransvar för ST-läkare. Anställningen ska vara tillsvidare och sker efter att avtal
+har träffats med Regionen.
+
+Leverantören avlönar ST-läkaren under hela specialiseringstjänstgöringen. Vid tjänstgöring
+på en placering inom psykiatri, länssjukvård eller regionsjukvård ska eventuella jourer avlö-
+nas av den organisation där ST-läkaren tjänstgör. Leverantören står för alla kostnader som
+är förenade med ansvaret för en specialiseringstjänstgörande läkare.
+
+Om Leverantören inte har anställt en ST-läkare inom tre månader efter att avtalet träffades
+kan hälso- och sjukvårdsstyrelsen komma att ompröva avtalet.
+
+5.1.2 Ersättning till vårdenheten
+
+Ersättningen från regionen utgår under läkarens specialiseringstjänstgöring, vilket i normal-
+fallet innebär fem år från det att en ny ST-läkare anställs. Kortare tid kan vara aktuellt i en-
+skilda fall. Ersättningen gäller från det datum och år som anställningsavtalet visar.
+
+Regionen ersätter Leverantören med 40 500 kronor per månad när det gäller ST-läkare
+med heltidstjänstgöring. När ST-läkaren är placerad utanför vårdenhetens organisation, ex-
+empelvis vid annan klinik, ersätter regionen vårdenheten med 81 000 kronor per månad
+med heltidstjänstgöring. Ersättningen inkluderar arbetsgivaravgifter. Vårdenheten ansvarar
+för att regionkontoret kontinuerligt får rätt uppgifter om anställningen av ST-läkare.
+
+ST-läkare kan även göra del av sin specialistutbildning (sidotjänstgöring) inom en vårdvals-
+enhet, men ha sin anställning inom sjukhuset eller psykiatrin. Vid sådan placering ansvarar
+den anställande enheten för lön och arbetsgivaravgifter för anställningen och mottagande
+
+behåller enbart patientavgifter.
+
+5.2 Bastjänstgöring (BT) för läkare
+
+5.2.1 Grundläggande krav
+Enligt riksdagsbeslut 2018-11-28 ska Bastjänstgöring (BT) för läkare, som en fristående
+första introduktionsdel av ST, införas från 2021-07-01 (HSL 2017:30 och SFS 2020:1043).
+Region Halland har statens uppdrag att utbilda specialistläkare, vilket även kommer att in-
+
+nefatta BT. Region Halland kan uppdra åt en godkänd vårdenhet att fullgöra delar av detta
+uppdrag för en eller flera läkare.
+
+[Tabell 29-1](bilaga-25.tabeller/29-1.csv)
+
+| Specialitet | Antal ST-tjänster |
+| --- | --- |
+| Hudsjukvård | 2 |
+| Vuxenpsykiatri | 0 |
+
+<!-- sida 30 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 30 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Enligt regeringsbeslut ska regleras BT av samma föreskrifter som ST (HSLF-FS 2021:8).
+BT bör enligt regeringsbeslut vara målstyrd utifrån de lärandemål som fastställs i föreskrif-
+terna och bör fullgöras under ska genomföras under minst 6 månade, varav tre till fyra må-
+nader inom primärvård. Vårdenheten ska följa Socialstyrelsens föreskrifter (HSLF-FS
+2021:8). läkarnas specialisttjänstgöring, kommande föreskrift och Region Hallands rutin för
+BT.
+
+En läkare ska utses att ha det obligatoriska handledningsansvaret. Läkaren ska genomgå
+Region Hallands handledarutbildning eller motsvarande som Region Halland bedömer som
+adekvat, som genomförs i enlighet med Region Hallands ST-policy. Studierektorsfunktionen
+för BT vid Region Hallands FoU-avdelning utgör en stödfunktion till verksamhetschefen,
+
+handledaren och BT-läkaren. Handledaren ska vara specialist i allmänmedicin.
+Bastjänstgöringen ska planeras i samverkan med studierektor. Studierektorsfunktionen för
+
+BT vid Region Hallands FoU-avdelning samordnar tjänstgöringen i samverkan med Hal-
+lands sjukhus.
+
+Studierektorsfunktionen kommer överens med vårdenheter inom Vårdval Halland om upp-
+draget att ansvara för BT-läkares tjänstgöringsavsnitt inom allmänmedicin. Vårdenheter
+inom Vårdval Halland, vilka av studierektorsfunktionen bedöms uppfylla grundläggande
+krav har skyldighet att ta emot BT-läkare under minst 3 till 4 månader. I ansvaret ingår att
+allmäntjänstgöringen sker enligt gällande lag och Socialstyrelsens föreskrifter.
+
+5.2.2 Anställning
+Den vårdgivare som anställer BT-läkaren avlönar BT-läkaren under hela bastjänstgöringen.
+
+Vid tjänstgöring på en placering inom psykiatri, länssjukvård eller regionsjukvård ska even-
+tuella jourer avlönas av den organisation där BT-läkaren tjänstgör.
+
+I de fall Leverantörer inom Vårdval Halland anställer BT-läkare gäller att Leverantören har
+arbetsgivaransvar för BT-läkaren. Leverantören står för alla kostnader som är förenade
+med ansvaret för en bastjänstgörande läkare. Om Leverantören inte har anställt en BT-lä-
+kare inom tre månader efter att avtalet träffades har Region Halland rätt att ompröva avta-
+let.
+
+Anställningen kan vara tillsvidare och sker efter att avtal har träffats med Region Halland.
+
+5.2.3 Ersättning till vårdenheten
+Avtal om ersättning upprättas först efter förhandsgodkännande från Region Halland och
+studierektor.
+
+Vårdenheten ansvarar för att Region Halland kontinuerligt får rätt uppgifter om anställ-
+ningen av BT-läkare.
+
+Ersättningen, motsvarande 80% av lönen, från Region Halland utgår under läkarens BT-
+tjänstgöring under högst 12 månader, vilket är normalfallet. Kortare tid kan vara aktuellt i
+
+enskilda fall. Ersättningen gäller från det datum som anställningsavtalet visar.
+
+<!-- sida 31 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 31 av 70
+
+Förfrågningsunderlag enligt LOV
+
+5.3 Allmäntjänstgöring (AT) för läkare
+AT-läkarnas tjänstgöringsavsnitt ska ske enligt Socialstyrelsens föreskrifter om allmän-
+tjänstgöring för läkare (SOSFS 1999:5). Studierektorsfunktionen vid Regionens Hallands
+FoU-avdelning samordnar tjänstgöringen i samverkan med Hallands sjukhus.
+
+Studierektorsfunktionen kommer överens med vårdenheter om uppdraget att ansvara för
+AT-läkares olika tjänstgöringsavsnitt. Vårdenheter inom Vårdval Halland, vilka av studierek-
+
+torsfunktionen bedöms uppfylla grundläggande krav har skyldighet att ta emot AT-läkare
+under minst 6 månader. I ansvaret ingår att allmäntjänstgöringen sker enligt gällande lag
+och Socialstyrelsens föreskrifter.
+
+5.3.1 Anställning
+Regionens AT-läkare är anställda av Hallands sjukhus, som avlönar AT-läkaren under hela
+tjänstgöringsavsnittet.
+
+5.4 Studierektor för specialiseringstjänstgörande läkare
+
+5.4.1 Studierektor vid vårdenheten
+Enligt SOSFS 2015:8 och HSLF-FS 2021:8 läkares specialisttjänstgöring ska varje vården-
+het/vårdgivare ansvara för att det finns tillgång till en studierektor. Denna funktion ska ut-
+göra stöd för ST-läkaren, handledaren och verksamhetschefen.
+
+5.4.2 Anställning och ersättning
+
+Studierektorn ska vara specialist inom specialistområdet och är antingen anställd av vård-
+enheten/vårdgivare eller har ett avtal tecknats med annan leverantör om inköp av tjänsten.
+Studierektorn avlönas av Leverantören om leverantören har ST-läkare anställd. Leverantö-
+ren ersätts av regionen i förhållande till antalet ST-läkare och månader som dessa tjänst-
+gör.
+
+5.4.3 Övergripande studierektorskap
+
+FoU-avdelningen inom Region Halland har ett särskilt uppdrag att tillhandahålla en övergri-
+pande studierektorsfunktion. I uppdraget ingår bland annat specifika specialitets- och reg-
+iongemensamma utbildningsinsatser samt ett övergripande samordningsansvar för studie-
+rektorerna i den regionala utbildningsorganisationen för utbildningsläkare.
+
+5.5 Verksamhetsintegrerat lärande, läkarutbildning – VIL, VFU
+Inom svensk läkarutbildning ingår verksamhetsintegrerat lärande (VIL) eller motsvarande
+
+verksamhetsförlagd utbildning (VFU). Den verksamhetsintegrerade utbildningen ska svara
+mot de mål som följer av utbildnings- och kursplaner samt Högskolelag och Högskoleför-
+ordning.
+
+5.5.1 Avtal
+Region Halland har tecknat samverkansavtal med Lunds universitet för VIL och med Sahl-
+grenska akademien vid Göteborgs universitet för VFU för läkarstudenter. Avtalen reglerar
+VIL respektive VFU och gäller för samtliga inom Region Halland inklusive de vårdgivare
+
+<!-- sida 32 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 32 av 70
+
+Förfrågningsunderlag enligt LOV
+
+som omfattas av Vårdval Halland. Verksamheter inom Vårdval Halland har skyldighet att ta
+emot läkarstudenter för verksamhetsförlagd utbildning – VFU och VIL.
+
+5.5.2 Handledning
+Handledaren undervisar och vägleder studenten i syfte att underlätta dennes teoretiska och
+kliniska lärande och stärka studentens yrkesidentitet i enlighet med utbildnings- och kurs-
+planer. Den kliniska handledningen ska ledas av pedagogiskt skickliga läkare med utbild-
+ning i klinisk handledning och som är förtrogna med universitetets pedagogiska modell. I
+
+övrigt gäller vad som krävs för handledning av AT respektive ST-läkare inom verksam-
+heten.
+
+5.6 Sjuksköterske- och specialistsjuksköterskeutbildning
+
+5.6.1 Klinisk akademisk vårdutbildning
+Enligt Högskolelagen och Svensk författningssamling ska studenterna utveckla kunskaper,
+färdigheter och förmågor. Klinisk utbildning, benämns som verksamhetsförlagd utbildning
+
+(VFU), ska ingå som en del inom sjuksköterske- och specialistsjuksköterskeutbildningen.
+Region Hallands FoU-avdelning samordnar övergripande den kliniska utbildningen inom
+Region Halland.
+
+5.6.2 Avtal
+I syfte att upprätthålla god kvalitet i utbildningen har Region Halland och Högskolan i Halm-
+stad ett avtal angående VFU i sjuksköterske- och specialist-sjuksköterskeutbildningen. Av-
+talet reglerar all VFU och gäller för samtliga vårdenheter inom Region Halland samt de
+
+vårdgivare som omfattas av Vårdval Halland.
+Ersättning enligt nationella normer utgår.
+
+5.6.3 Handledarmodell
+Handledarmodellen omfattar utbildningen för sjuksköterskor och specialistsjuksköterskor
+där studenten befinner sig i VFU. I handledarmodellen beskrivs olika aktörers uppdrag, ar-
+betsuppgifter, utveckling och kvalifikationer.
+
+I VFU handleds studenterna av sjuksköterskor med uppdrag och kompetens att vara hand-
+ledare. Huvudhandledare är de som utser handledare och tid för uppdraget avsätts i sam-
+råd med vårdverksamheten. En student kan ha flera handledare då den VFU har ett pati-
+entcentrerat fokus.
+
+5.7 Utbildning för Medicinska sekreterare och undersköterskor
+
+5.7.1 Klinisk Utbildning
+I syfte att tillgodose framtida kompetensförsörjningsbehov och att upprätthålla god kvalitet i
+utbildning samverkar Region Halland med Yrkeshögskolan Campus Varberg och Vård- och
+omsorgscollege Halland (VO-College) angående utbildningsinnehåll och den kliniska utbild-
+ningen (APL för elever inom VO-College, LIA för studerande vid Yrkeshögskolan).
+
+5.7.2 Avtal
+
+<!-- sida 33 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 33 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Region Halland har ett APL-avtal med VO-College Halland. APL-avtalet reglerar innehållet
+och ansvarsfördelningen i den kliniska utbildningen för blivande undersköterskor. Region
+Halland har tillsammans med Yrkeshögskolan Campus Varberg avsiktsförklaringar som re-
+glerar innehållet och ansvarsfördelningen i den kliniska utbildning för medicinska sekrete-
+rare. Avtalen gäller för samtliga inom Region Halland samt de vårdenheter som omfattas av
+Vårdval Halland.
+
+<!-- sida 34 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 34 av 70
+
+Förfrågningsunderlag enligt LOV
+
+6  Uppföljning
+
+Region Halland är skyldig att följa upp såväl verksamhet som bedrivs i Regionens regi som
+den som bedrivs av Leverantörer som Regionen har ingått avtal med. Regionen är också
+skyldig att ge invånarna relevant och jämförbar information om hur verksamheternas upp-
+drag utförs. Uppföljningen är utformad i syfte att dels ligga till grund för övergripande verk-
+samhetsanalyser och jämförelser, dels att främja vårdenheternas kvalitets- och verksam-
+hetsutveckling.
+
+Då vårdenheter inom egenregin kan innehålla både anslagsfinansierad respektive kapitat-
+ionsersatt verksamhet, kommer dessa att följas upp av två olika parter. Vård utförd inom ra-
+men för vårdvalet följs upp av vårdvalsförvaltningen och den budgetersatta vården följs upp
+
+av Hallands sjukhus respektive förvaltningen för Psykiatrin.
+6.1 Löpande  uppföljning
+
+Region Halland har i egenskap av uppdragsgivare rätt att för medicinsk och ekonomisk
+uppföljning på aggregerad nivå följa upp leverantörens verksamhetsdata som skapats i
+vårdsystemet. Åtkomst till data sker endast om det uppfyller de krav som uppställts i pati-
+entdatalagen.
+
+Region Halland följer systematiskt upp vårdenhetens arbete utifrån de krav och mål som
+preciseras i Uppdragsbeskrivningen inklusive följsamheten till regionala och nationella rikt-
+
+linjer och vårdprogram. Leverantören ska dokumentera på ett sådant sätt att indikatorer kan
+följas.
+
+Uppföljningen ställer krav på Leverantören/vårdenheten om att;
+•  Medverka vid granskning utförd av Region Halland eller regionens revisorer.
+
+•  Medverka till de arbetssätt och åtgärder som Region Halland eller regionens reviso-
+rer bedömer är nödvändiga för att fullgöra granskningen.
+•  Kostnadsfritt samt utan dröjsmål ställa efterfrågad dokumentation till Regionens Hal-
+
+lands eller regionens revisorers förfogande.
+•  Tillhandahålla direktuppkoppling mot verksamhetens databaser om det efterfrågas
+av Region Halland eller regionens revisorer samt.
+
+•  Följa framtagna riktlinjer kring standardiserad och strukturerad dokumentation i pati-
+entjournal eller andra gemensamma administrativa system.
+Uppföljningsplanen ovan för specialiserat vårdval följer närsjukvårdens. För specialiserat
+vårdval kommer särskild uppföljning att göras för följande områden: (1) att säkerställa att
+
+rätt ersättning betalas för rätt insats, (2) gränssnitten mellan vårdnivåerna och (3) vårdepi-
+sodernas konstruktion.
+
+Samtliga deltagare i revisionsbesök eller fördjupade granskningar/medicinska revisioner
+ska följa gällande sekretessbestämmelser.
+
+Region Halland äger de resultat och rapporter som kommer ur uppföljning och granskning.
+Regionen har därmed rätt att publicera resultat och kan göra så för att tillgodose invånarnas
+
+<!-- sida 35 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 35 av 70
+
+Förfrågningsunderlag enligt LOV
+
+rätt till insyn och information samt för att stimulera regionalt kvalitets- och förbättringsar-
+bete.
+
+6.2 Fördjupad uppföljning
+Vid en fördjupad uppföljning kan Region Halland komma att granska journaler förda hos
+Vårdenheten. Leverantören ska tillhandahålla journaler när fördjupad uppföljning sker. Vid
+journalgranskning kan följande tillvägagångssätt komma att tillämpas:
+
+•  En handläggare från Regionen är närvarande när Vårdenheten avidentifierar journa-
+lerna. Granskningen utförs därefter av andra handläggare på Regionen.
+•  Vårdenheten ska varje år tillfråga X antal patienter om samtycke till att Regionen
+granskar deras journaler. När samtyckena kommit in, kan Regionen se journalerna.
+•  Regionen klargör vilka patientjournaler som önskas granskas (exempelvis samtliga
+journaler för personer som besökt verksamheten under tre olika datum). Leverantö-
+rens verksamhetschef gör därefter en menprövning för samtliga patienter vars jour-
+
+naler är aktuella. Om men anges för någon av journalerna, ska detta skriftligen moti-
+veras och sändas in till Regionen.
+
+I samtliga fall gäller att det är papperskopior av journaler eller elektroniska kopior som Reg-
+ionen ska få från Vårdenheten.
+
+6.3 Datainsamling och indikatorer
+Data för uppföljning hämtas från; nationella register och undersökningar, Regionens indika-
+torer, Regionens databaser för bland annat avvikelsehantering, konsumtions- och produkt-
+
+ionsstatistik, uppgifter efterfrågade för ekonomiska kontroller, information tillhandahållen av
+myndigheter och genom dialog med vårdenheten.
+
+Region Halland ansvarar för att definiera vilka indikatorer som ska användas i uppfölj-
+ningen. Indikatorerna är sådana som bedöms relevanta för att följa uppdraget. Indikato-
+rerna kommer att införas successivt och revideras årligen.
+6.4 Öppen  redovisning
+
+Region Halland avser att öppet redovisa resultat för allmänheten genom publicering av ut-
+valda indikatorer, i syfte att underlätta invånarnas val genom relevant och jämförbar inform-
+ation.
+
+Vårdenheten ska bidra med den information och de kvalitetsresultat som beslutas ingå i
+jämförelsetjänsten.
+
+<!-- sida 36 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 36 av 70
+
+Förfrågningsunderlag enligt LOV
+
+7  Påföljder vid avtalsbrott
+
+Beställaren har vid Leverantörens avtalsbrott rätt att begära upprättandet av en åtgärds-
+plan, innehålla samt nedsätta ekonomisk ersättning, rätt till avhjälpande av bristande avtals-
+uppfyllnad på leverantörens bekostnad, utfå skadestånd samt säga upp avtalet för upphö-
+rande i förtid. De rättigheter som tillkommer Beställaren enligt detta kapitel kan utövas obe-
+roende av varandra. Beställaren förbinder sig att vid utövandet av rättigheterna tillgripa de
+rättsmedel som står i proportion till Leverantörens avtalsbrott i syfte att i först hand tillse Av-
+talets fullgörelse och i andra hand avtalsrelationens upphörande.
+
+Leverantörens anställda eller uppdragsutövare som misstänks vara skyldig till brott som har
+samband med yrkesutövningen anmäls av Beställaren till Polismyndigheten efter prövning i
+
+det enskilda fallet.
+Leverantören, dess anställda eller uppdragsutövare som medverkar till händelse som med-
+
+fört eller hade kunnat medföra en allvarlig vårdskada anmäls till Inspektionen för vård och
+omsorg av Leverantören eller Beställaren efter prövning i det enskilda fallet.
+
+7.1 Åtgärdsplan
+När Leverantören inte utför sina Åtaganden enligt Avtalet har Beställaren rätt att begära Le-
+verantörens rättelse samt upprättande av åtgärdsplan inom skälig tid alternativt inom av Be-
+ställaren angiven tid. Åtgärdsplan ska upprättas efter att Beställaren skriftligen, i den ut-
+
+sträckning detta är möjligt, har preciserat hur Leverantören brister i uppfyllandet av sina
+åtaganden. Om Leverantörens bristande avtalsuppfyllelse innebär att Beställaren eller Le-
+verantörens patienter utsätts för betydande risker ska Leverantören påbörja sammanställ-
+ningen av en åtgärdsplan utan att Beställaren skriftligen preciserat hur Leve-rantören brister
+i sina åtaganden.
+
+I åtgärdsplanen ska Leverantören ange i vilken utsträckning denne brister i uppfyllandet av
+sina åtaganden, identifiera de risker som förknippas med brister i avtalsuppfyllelsen, ange
+vilka åtgärder som ska vidtas för att säkerställa framtida uppfyllelse av avtalet, uppge när i
+tiden åtgärderna för att rätta den bristande avtalsuppfyllelsen ska utföras samt när åtgär-
+derna kan förväntas vara genomförda.
+
+Åtgärdsplanen ska kommuniceras med Beställaren så snart Leverantören färdigställt pla-
+nen. Beställaren fastställer, av Leverantören, inlämnad åtgärdsplan om planen kan förvän-
+tas leda till att den bristande uppfyllelsen av Avtalet upphör inom skälig tid med beaktande
+
+av de risker som är förknippade med den bristande uppfyllelsen av Åtagandet. Kan inte åt-
+gärdsplanen förväntas leda till att den bristande uppfyllelsen av Åtagandet upphör inom
+skälig tid ska Beställaren informera Leverantören om att planen inte kommer att fastställas
+och skälen för detta. Leverantören ska fullfölja fastställd åtgärdsplan.
+
+Om Beställaren av Leverantören inte erhåller åtgärdsplan inom skälig tid, alternativt den tid
+Beställaren angivit, Leverantörens åtgärdsplan inte kan fastställas, Leverantören inte följer
+av Beställaren fastställd åtgärdsplan eller bristerna i Leverantörens uppfyllelse av Åtagan-
+det, av Beställaren, bedöms vara av sådant slag att annan påföljd än upprättande/fullföl-
+jande av åtgärdsplan är nödvändig för att i första hand säkerställa fullgörelse av Åtagandet
+
+<!-- sida 37 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 37 av 70
+
+Förfrågningsunderlag enligt LOV
+
+och i andra hand avtalsrelationens upphörande har Beställaren rätt att innehålla samt ned-
+sätta ersättning, utfå skadestånd, avhjälpa bristen på Leverantörens bekostnad samt säga
+upp avtalet för upphörande i förtid.
+
+7.2 Rätt att innehålla samt nedsätta ersättning till Leverantören
+Om Leverantören inte utför sitt Åtagande, inte upprättar en åtgärdsplan, medverkar till att
+en åtgärdsplan kan fastställas eller följer fastställd åtgärdsplan har Beställaren rätt att från
+
+framtida utbetalningar av ekonomisk ersättning till leverantören för avtalets uppfyllande in-
+nehålla belopp som efter bedömning av avtalsbrottets art, varaktighet samt medicinska- och
+ekonomiska konsekvenser skäligen kan förväntas leda till Leverantörens rättelse.
+
+Om Leverantören inte inom skälig tid åtgärdar den bristande avtalsuppfyllelse eller Leve-
+rantörens avtalsbrott som ligger till grund för innehållandet av ersättning av beställaren be-
+döms vara av allvarlig art har Beställaren rätt att nedsätta Leverantörens rätt till ersättning
+utan att detta inverkar på Beställarens rätt till skadestånd.
+
+7.3 Rätt till avhjälpande på Leverantörens bekostnad
+
+Om Leverantören brister i uppfyllelse av detta avtal eller till avtalet tillhörande bilagor ge-
+nom att underlåta att utge betalning för de tjänster som Leverantören har en skyldighet att
+hålla sig med enligt Åtagandet har Beställaren rätt att på Leverantörens bekostnad avhjälpa
+bristen och från framtida utbetalning av ekonomisk ersättning samt avräkna ett belopp som
+svarar mot avhjälpandekostnaden.
+
+7.4 Leverantörs skadeståndsskyldighet vid bristande uppfyllelse
+
+av Avtalet
+Utan begränsning av annan rätt enligt detta Avtal ska Leverantören ersätta Beställaren för
+samtliga kostnader och förluster som Beställaren åsamkas med anledning av Leverantö-
+rens bristande avtalsuppfyllelse. Med skada avses bland annat den merkostnad uppsäg-
+ningen orsakar Beställaren.
+
+7.5 Leverantörens ansvar för krav från tredje man
+
+Leverantören ansvarar för all skada och alla förluster som kan komma att orsakas vid Leve-
+rantörens fullgörelse av sitt Åtagande. Leverantören ska hålla Beställaren skadelös om krav
+väcks mot Beställaren till följd av Leverantörens handlande eller underlåtenhet. Ansvaret
+gäller under avtalets giltighetstid och därefter under en period av tre år, utom i fall av uppsåt
+eller grov vårdslöshet, då ansvaret gäller till dess preskription inträder.
+
+Beställaren ska omgående underrätta Leverantören om krav framställs mot Beställaren
+som avses i föregående stycke. Beställaren ska inte utan Leverantörens medgivande träffa
+
+uppgörelse gällande sådant krav som avses i föregående stycke om medgivandet kan på-
+verka Leverantörens ersättningsskyldighet. Utan påverkan av ovanstående är Be-ställaren
+skyldig att vidta åtgärder för att begränsa sin skada i händelse av att krav riktas mot Bestäl-
+laren som omfattas av Leverantörens ersättningsskyldighet.
+
+<!-- sida 38 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 38 av 70
+
+Förfrågningsunderlag enligt LOV
+
+7.6 Förtida upphörande av avtalet
+Beställaren äger säga upp avtalet i förtid till omedelbart upphörande, eller till upphörande
+vid datum som Beställaren anger om Leverantören väsentligen åsidosätter sina skyldig-
+heter enligt avtalet. Som väsentligt åsidosättande räknas bland annat när:
+
+Leverantören brister i uppdragets utförande och rättelse ej sker utan dröjsmål efter
+o
+erinran av Beställaren.
+Leverantören försätts i konkurs eller i likvidation, är under tvångsförvaltning, är un-
+o
+derkastad näringsförbud eller annat liknande förfarande, är föremål för ackord eller
+har tillsvidare inställt sina betalningar eller annars på goda grunder kan befaras vara
+på obestånd eller inte fullgör sina skyldigheter avseende redovisning, svenska skat-
+ter eller socialavgifter eller årsredovisning till Bolagsverket,
+Leverantören är föremål för ansökan om konkurs, tvångslikvidation, ackord eller an-
+o
+nat liknande förfarande,
+en förändring sker direkt eller indirekt avseende ägandet av en majoritet av aktierna
+o
+i Leverantören, eller annars det bestämmande inflytandet över Leverantören föränd-
+ras direkt eller indirekt, på ett sätt som Beställaren inte skäligen kan godta,
+det framkommer att Leverantören i sin ansökan lämnat oriktiga uppgifter eller på an-
+o
+nat sätt i samband med det ansökningsförfarande som har föregått tecknande av
+detta avtal,
+verksamhetschef eller annan person i ledande ställning hos Leverantören eller per-
+o
+son verksam hos Leverantören enligt lagakraftvunnen dom dömts för brott som av-
+ser yrkesutövningen eller dömts för annat brott ägnat att allvarligt rubba Beställa-
+rens eller allmänhetens förtroende för Leverantören, eller Leverantörens lämplighet
+att fullfölja avtalet, och Leverantören inte vidtar erforderliga åtgärder för att skilja ve-
+derbörande från uppdrag som omfattas av avtalet,
+företrädare för Leverantören har gjort sig skyldig till allvarligt fel i yrkesutövningen
+o
+eller
+Socialstyrelsen/Inspektionen för vård och omsorg eller allmän förvaltningsdomstol
+o
+genom lagakraftvunnet beslut helt eller delvis förbjudit Leverantörens verksamhet
+enligt Patientsäkerhetslagen. Detta gäller under förutsättning att den förbjudna verk-
+samheten inverkar på Avtalets fullgörande.
+Ej uttömmande uppräknat grundar följande omständigheter rätt enligt första punkten
+o
+för Beställaren att säga upp avtalet i förtid om Beställaren konstaterar att:
+Leverantören inte upprätthåller enligt detta Avtal överenskommen kvalitet
+­
+och tillgänglighet, vilket föranleder att patientsäkerheten hotas.
+Leverantören uppfyller inte – vid uppdragets utförande – gällande medi-
+­
+cinska krav på undersökning, vård och behandling samt krav avseende
+bemötande av patienter,
+Leverantören bryter mot lagar, författningar, föreskrifter, beslut och riktlin-
+­
+jer som denne har att iaktta i sin verksamhet,
+Leverantören brister ifråga om organisation, ledning och intern kontroll,
+­
+exempelvis avseende verksamhetschef och ansvar för enskilda lednings-
+uppgifter,
+
+<!-- sida 39 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 39 av 70
+
+Förfrågningsunderlag enligt LOV
+
+kraven i Patientdatalagen avseende hantering av patientuppgifter tillgo-
+­
+doses inte av Leverantören,
+Leverantören utför Uppdraget med risker för patientsäkerheten vad gäller
+­
+antalet vårdpersonal i förhållande till förväntade patientvolymer (underbe-
+manning) och/eller nödvändig formell och reell kompetens hos vårdper-
+sonalen,
+Leverantören söker genom ett illojalt eller otillbörligt agerande tillför-
+­
+skansa sig ekonomiska fördelar i avtalsrelationen med Beställaren eller
+Leverantören agerar på ett sätt som riskerar att medföra att Beställarens
+­
+renommé eller allmänhetens förtroende för Beställaren försämras och/el-
+ler Leverantören agerar på ett sätt som medför att Beställarens förtro-
+ende för Leverantören allvarligt rubbas.
+I händelse av att Avtalet sägs upp med stöd av någon av i ovan punkter nämnda
+o
+grunder, ska Leverantören ersätta Beställaren för uppkommen skada, bland annat
+den merkostnad uppsägningen orsakat Beställaren.
+Beställaren kan antingen säga upp avtalet med omedelbar verkan eller säga upp det till en
+viss tidpunkt.
+Leverantören har även efter avtalets upphörande ansvar för de kostnader som uppstått un-
+der verksamhetstiden och som Leverantören haft kostnadsansvar för enligt avtalet.
+Förtida upphörande av avtal på grund av kontraktsbrott kan medföra skadestånd i enlighet
+med allmänna avtalsrättsliga principer, med undantag för utebliven vinst och annan indirekt
+skada.
+7.7 Politiskt beslut om tillbakadragande av upphandling enligt
+LOV
+
+Region Halland äger rätt att när som helst under avtalstiden säga upp Avtalet till upphö-
+rande i förtid efter politiskt beslut om tillbakadragande av upphandling enligt LOV. Sådan
+uppsägning ska vara skriftlig och uppsägningstiden är tolv (12) månader.
+
+<!-- sida 40 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 40 av 70
+
+Förfrågningsunderlag enligt LOV
+
+8  Patienternas  val, rättigheter och delaktighet
+
+8.1 Principer för invånarnas val
+Invånarens val av öppen specialiserad vård sker först när ett behov av denna vård upp-
+står. Behovet identifieras antingen av den närsjukvårdsenhet på vilken personen är
+
+listad, av annan specialist eller av invånaren/patienten själv. Tillgång till specialiserad
+vård får patienten antingen genom remiss från sjukvården eller genom egenremiss (pa-
+tienten söker mottagningen utan remiss från annan läkare).
+
+Patienten har rätt att välja vårdenhet inom aktuell medicinsk specialitet bland de leve-
+rantörer som Region Halland godkänt. Valet av vårdenhet kan också ske av anhörig el-
+ler god man, om patienten/invånaren inte har egen förmåga.
+
+Patienten har rätt till oberoende guidning inför sitt val av specialistvårdsenhet. Detta kan
+ske genom Regionens hemsida www.1177.se/halland, Vårdvalsservice eller vald vårdenhet
+i närsjukvården.
+
+Vårdenhet inom specialistvården ska guida och/eller remittera patienter till närsjukvår-
+den om den vård som erbjuds av vald närsjukvårdsenhet är adekvat.
+
+Vårdenheten ska ha god tillgänglighet och erbjuda vård skyndsamt då medicinskt behov fö-
+religger. Om patienter som valt vårdenheten inte kan tas om hand inom vårdgarantins grän-
+ser ska dessa få hjälp att kontakta Vårdgarantiservice och dessutom ska vårdvalförvalt-
+ningen meddelas omedelbart. Vidare åtgärder planeras av Leverantören och vårdvalsför-
+valtningen i samråd.
+
+8.2 Patientens rättigheter
+
+Vårdenhetens medarbetare ska vara väl förtrogna med Patientlagen och informera patien-
+ten om sina rättigheter. Information om patientens rättigheter finns redovisade på
+1177.se/Halland.
+
+Den enskilde patienten och närstående ska ges möjlighet att vara delaktiga i och ha infly-
+tande över vård och behandling. Patienten har också rätt att få en second opinion.
+
+Invånare som är i behov av tolk ska få detta, i enlighet med förvaltningslagen § 8. Leveran-
+tören svarar för kostnaden för tolk till döva, dövblinda och hörselskadade vid patientkontakt.
+Språktolk ersätts enligt särskild ordning, se Ersättning för tolkkostnader.
+
+Leverantören ska ha kännedom om Region Hallands regler för sjukresor och vara patienten
+behjälplig med att ordna med resa.
+
+8.3 Medicinsk information på nätet
+
+Vårdenheten ska aktivt förse patienten med kvalitetssäkrad och invånaranpassad informat-
+ion kring hälsa, vård och olika livssituationer med stöd av 1177 Vårdguiden, 1177.se/Hall-
+and.
+
+<!-- sida 41 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 41 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Andra webbplatser eller källor till patientinformation får endast användas då informationen
+inte finns på www.1177.se/Halland eller om informationen ger en fördjupning som komplet-
+terar informationen på 1177.se. Källan ska då vara medicinskt kvalitetssäkrad, inte ha
+några kommersiella intressenter, vara invånaranpassad samt hänvisa eller länka till den in-
+formation som finns inom området på 1177.se.
+
+<!-- sida 42 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 42 av 70
+
+Förfrågningsunderlag enligt LOV
+
+9  Information och  marknadsföring
+
+Vårdenheten ska följa de riktlinjer för information till patienter som Regionen har fastställt
+samt i övrigt följa god sed inom området.
+
+9.1 Vårdvalssymbolen
+Vårdvalssymbolen ska användas i all kommunikation med invånarna (annonser, kallelser,
+broschyrer m m) samt på en skylt som ska sitta vid vårdenhetens entré (tillhandahålls av
+
+regionen vid godkännandet). Denna visar att vårdenheten är godkänd och ingår Region
+Hallands skattefinansierade vårdutbud.
+
+9.2 Information om kontaktuppgifter och patientavgifter
+Regionen informerar invånarna om vårdenhetens kontaktuppgifter (öppettider, adress, tele-
+fon m.m.) och om dess grundutbud (verksamheter, kompetenser mm), bland annat via Hall-
+andskatalogen och www.1177.se/Halland, enligt en bestämd mall. Vårdenheten är ansvarig
+
+för att uppgifterna hålls uppdaterade.
+Vid all vård som Leverantörens utför ska Regionens patientavgifter och regler tillämpas.
+
+Detta gäller även priser för hälsovård, vaccinationer och intyg. Se Avgiftshandboken. En ak-
+tuell förteckning över patientavgifter ska finnas tillgänglig på vårdenheten tillgänglig och för-
+varas väl synlig för patienterna.
+
+Leverantören ska alltid lämna kvitto eller räkning till patienten. Innehållet ska vara utformat
+enligt Region Hallands anvisningar. Leverantören ska följa Region Hallands riktlinjer för
+högkostnadsskydd och E-frikort.
+
+9.3 Grundutbud  av information
+Vårdenheten ska bereda plats för det grundutbud av information om patienters rättigheter
+
+och skyldigheter som Region Halland ger ut. Informationen tillhandahålls kostnadsfritt och
+ska finnas på väl synlig plats på vårdenheten. Det är vårdenheten som ansvarar för att upp-
+daterat material finns på plats och att inaktuellt material tas bort. Detta gäller både digital
+information och information i pappersform.
+
+Vårdenheten har ansvar för att aktuell information aktivt kommuniceras med patienterna
+och de som valt vårdenheten.
+
+Vårdenheten ska aktivt och kontinuerligt förse patienten med kvalitetssäkrad och invåna-
+ranpassad information kring patientens rättigheter och skyldigheter, hälsa, sjukdomar, be-
+handlingar och olika livssituationer med stöd av 1177 Vårdguiden, 1177.se/Halland.
+
+9.4 Reklam  och marknadsföring
+
+Reklam för behandlingsmetoder och preparat som inte är förenliga med vetenskap och inte
+är kunskapsbaserad får inte finnas i väntrummen eller kommuniceras med patienterna.
+Detta gäller även för vårdenhetens kommunikation via internet. Vid riktad marknadsföring
+gentemot enskilda individer ska Regionkontoret informeras i förväg och korrigering av inne-
+håll kan ske.
+
+<!-- sida 43 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 43 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Politisk information i form av affischer och flygblad eller liknande ska inte förekomma i vänt-
+rum eller andra lokaler där patienterna uppehåller sig.
+
+Vid marknadsföring ska Leverantören följa marknadsföringslagen och god marknadsfö-
+ringssed. Tjänster och erbjudanden av hälso- och sjukvårdskaraktär får inte erbjudas, vare
+sig gratis eller subventionerat, i syfte att motivera till val av vårdenhet.
+
+Öppettider
+Vårdenhetens öppettider ska annonseras tydligt på mottagningen, i telefonmeddelande och
+på 1177.se/Halland.
+
+Ny vårdenhet
+
+När en ny vårdenhet startar medges marknadsföring och annonsering 3 månader före öpp-
+nande.
+
+9.5 Om  vårdenhet flyttar, samlokaliseras eller byter namn
+Om en vårdenhet flyttar, samlokaliseras eller byter namn är det Regionens och Vårdenhet-
+ens ansvar att samordnat informera de invånare som valt vårdenheten om förändringarna.
+
+9.5.1 Filial
+
+Vårdenheten kan, efter Region Hallands medgivande bilda och driva en filial. Med filial av-
+ses en underavdelning till vårdenheten som erbjuder ett begränsat utbud av vårdtjänster
+och bedrivs i annan lokal än där vårdenheten finns. En filial ska drivas av samma organi-
+sation/juridiska person som driver vårdenheten. Underentreprenör till vårdenheten tillåts
+inte driva en filial. Verksamhetschefen på vårdenheten ska vara verksamhetschef också för
+filialen.
+
+Ansökan om filialverksamhet ska vara skriftlig och innehålla en utförlig beskrivning av vård-
+innehåll, bemanning, lokalisering, lokaler och tillgänglighet. Uppfyller inte leverantören det i
+
+ansökan beskrivna vårdinnehållet, bemanningen, lokaliseringen, lokaltillgången, tillgänglig-
+heten eller den verksamhet som bedrivs vid filialen i annat hänseende är behäftad med vä-
+sentliga brister har Region Halland rätt att återta sitt medgivande till fortsatt drift av filialen.
+
+9.5.2 Om vårdenhet upphör
+När en vårdenhet upphör är det Region Halland och Vårdenhetens ansvar att samordnat
+informera invånarna om förändringen.
+
+Handläggningstid
+
+Region Halland beräknar att handläggningstiden avseende begäran om verksamhetsför-
+ändring uppgår till minst tre månader. Om Region Halland finner att begäran om verksam-
+hetsförändring kan accepteras överenskommer Parterna gemensamt vid vilket datum för-
+
+ändringen tidigast kan träda i kraft.
+
+<!-- sida 44 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 44 av 70
+
+Förfrågningsunderlag enligt LOV
+
+10 Verksamhetsstöd    – IT-tjänster
+
+10.1 Gemensamma   IT-tjänster
+Gemensamma IT-tjänster är en förutsättning för att Regionen ska kunna tillhandahålla en
+jämlik, säker och effektiv vård samt för att en optimal samverkan ska kunna utvecklas i
+
+vårdprocessen mellan olika utförare. Gemensamma IT-tjänster är också en förutsättning för
+uppföljning och analys av uppdrag.
+
+Beställaren tillhandahåller IT-tjänster till Leverantörer i vårdvalet i Region Halland. Tjäns-
+terna delas upp i obligatoriska och frivilliga tjänster. Dessa framgår av bilaga
+
+IT-tjänster . I bilagan beskrivs också övriga förutsättningar för teknik och infrastruktur samt
+prislistor för valbara tjänster och produkter.
+
+10.2 Generella krav
+•  Leverantören och vårdenheten ska använda de system, applikationer och tjänster
+som Beställaren anvisar som obligatoriska. Detta gäller bl. a journalsystemet med
+
+vidhängande funktionalitet, t ex läkemedelsjournal, kassasystem och nationella e-
+Tjänster och applikation för avvikelsehantering.
+•  Leverantören ansvarar för och ska tillse att vårdenhetens personal hanterar region-
+gemensamma IT-tjänster, sammanhållen journalföring samt personuppgiftsbehand-
+ling i enlighet med gällande lagstiftning samt i övrigt följer de regelverk och riktlinjer
+som finns tillgängliga på vårdgivarwebben
+
+•  Leverantören ansvarar för att de uppgifter som registreras i gemensamma system
+är korrekta och ska tillse att de olika inmatningsprocesserna kvalitetssäkras.
+•  Leverantören ska upprätthålla reservrutiner för de fall IT-stöd uppvisar störningar el-
+
+ler avbrott.
+•  Leverantören ska utse kontaktperson för vårdenhetens samverkan med Beställa-
+rens Systemförvaltning. Leverantören behöver säkerställa att utsedd kontaktperson,
+ur ett systemförvaltningsperspektiv, har god kännedom kring verksamhetens vård-
+
+processer och har kompetens att inom området kommunicera frågor kring nationella
+tjänster, utveckling, utbildning, förvaltning och support.
+•  Leverantören ska utse Läkemedelsansvariga läkare och Läkemedelsansvariga sjuk-
+sköterskor för vårdenhetens samverkan med beställarens systemförvaltning, Leve-
+rantören behöver säkerställa att utsedd kontaktperson, ur ett systemförvaltningsper-
+spektiv, har god kännedom kring verksamhetens vårdprocesser och har kompetens
+att inom området kommunicera frågor kring nationella tjänster, utveckling, utbild-
+ning, förvaltning och support
+
+•  Leverantören ska ha personal med grundläggande IT-kunskaper för att kunna han-
+tera anvisade system och tjänster. Verksamhetens personal, alternativ IT-kontakt-
+person, ska delta vid utbildningar i Region Hallands IT-stöd. I samband med dessa
+står Leverantören för personalens lönekostnader och eventuella resekostnader.
+Självkostnadspris kan förekomma för vissa utbildningar.
+•  Om en vårdenhet flyttar, samlokaliseras, byter namn, övergår till filial, slås samman
+med annan i Vårdval Halland godkänd vårdenhet eller upphör med sin verksamhet
+
+<!-- sida 45 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 45 av 70
+
+Förfrågningsunderlag enligt LOV
+
+ska Leverantören i god tid kontakta Region Hallands vårdsystems- och HAK-förvalt-
+ning inför omorganisation/sammanslagning/upphörande för att säkerställa nödvän-
+diga förändringar/anpassningar i journalsystemen.
+
+10.2.1 Övergångsregler
+Kraven på gemensamma system för alla utförare är en viktig del av Regionens strategi för
+att öka patientsäkerheten och förbättra uppföljningen. I och med att gemensamma system
+blir ett skall-krav på närsjukvårdens enheter från 2016, kräver den ökade volymen av nya
+
+enheter att Region Halland kan implementera förändringen på ett säkert sätt. Följande för-
+utsättningar för den specialiserade vården gemensamma system gäller därför för 2016 och
+2017:
+•  För befintliga utförare i befintliga vårdval gäller införandekravet från och med 2017.
+
+•  För nyinrättade vårdval kommer bara vårdenheter att godkännas som använder ge-
+mensamma system från start.
+
+10.3 Informationssäkerhet
+
+10.3.1 Sammanhållen journalföring
+Region Halland har beslutat om en kontinuitetsprincip LÄNK för vårddokumentation som in-
+nebär att Region Halland som sjukvårdshuvudman ansvarar för att vårddokumentationen
+
+finns samlad och tillgänglig för alla vårdgivare som har avtal med Region Halland. Leveran-
+tören kommer att ingå i sammanhållen journalföring enligt Patientdatalagen (PDL) med de
+vårdgivare som Beställaren har sammanhållen journalföring med. Detta möjliggör direktåt-
+komst till patientuppgifter mellan olika vårdgivare i vårdkedjan om patientens samtycke till
+det finns. Leverantören ska följa Patientdatalagens krav och tillhörande föreskrifter för sam-
+manhållen journalföring.
+
+Leverantören/vårdgivaren ska:
+
+•  Tillse att patienter informeras om att vårdgivaren ingår i sammanhållande journalfö-
+ring, om de medicinska fördelarna med detta och om sin rätt att inte vara med.
+
+•  Följa Region Hallands säkerhetspolicy och anvisningar om Informationssäkerhet.
+•  Följa bestämmelserna för journalföring i enlighet med patientdatalagen (2008:355)
+och Socialstyrelsens föreskrifter (HSLF-FS 2016:40) om informationshantering och
+behandling av personuppgifter i hälso- och sjukvården.
+
+•  Tillse att journalpliktig personal har den kunskap som krävs för att hantera aktuella
+system och e-tjänster samt att dokumentation görs i enlighet med gällande termer
+och begrepp.
+•  Tillse att personalen följer den informationsstruktur som Beställaren angett beträf-
+
+fande koder, sökord, mallar och kataloginformation i journalen.
+•  Följa Regionens anvisningar kring hälsoinformatik dvs. kunskap om insamling, re-
+presentation, information och kunskap inom hälso- och sjukvården samt den medi-
+cinska vetenskapens olika discipliner.
+
+<!-- sida 46 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 46 av 70
+
+Förfrågningsunderlag enligt LOV
+
+10.3.2 Personuppgiftsbiträdesavtal
+Personuppgiftsbiträdesavtal enligt Dataskyddsförordningen ska tecknas mellan Leverantö-
+ren och Beställaren när vårdavtal tecknas. Leverantören är personuppgiftsansvarig och Be-
+ställaren är personuppgiftsbiträde för de tjänster som hanterar personuppgifter i register.
+Personuppgiftsbiträdesavtalet (PUB-avtal) ska gälla även efter att vårdavtalet upphör.
+
+10.3.3 E-tjänstekort (SITHS)
+
+För att uppfylla Patientdatalagens krav på stark autentisering krävs e-tjänstekort (SITHS)
+för identifiering. Leverantören ska tillse att all hälso- och sjukvårdspersonal innehar ett per-
+sonligt SITHS-kort för att säkert kunna dokumentera i och få åtkomst till journalbunden in-
+formation samt att använda de nationella tjänsterna t ex Pascal, Mina vårdkontakter m fl.
+Leverantören erbjuds att anskaffa e-tjänstekortet (SITHS) via Region Halland till självkost-
+nad. Länk
+
+10.3.4 Verksamhetskatalogen – Hallandskatalogen samt HSA-katalog
+
+Leverantören ska ansluta vårdenheten/alla vårdenheter till Hallandskatalogen, som är en
+del av den nationella verksamhetskatalogen HSA. Hallandskatalogen utgör källan för in-
+formation för flera nationella tjänster och är en förutsättning för att dessa, samt många av
+Regionens webbtjänster och system, ska fungera.
+
+Se rutin hallandskatalogen
+
+10.4 Nationella tjänster
+
+Beställaren ansvarar för att Leverantören ansluts på ett säkert och effektivt sätt till befintliga
+och kommande nationella tjänster inom vård och omsorg, exempelvis Nationell patientöver-
+sikt (NPÖ), Journal via nätet, Pascal och 1177 Vårdguidens e-tjänster.
+
+Leverantören ska medge att Beställaren ansluter verksamheten till gemensamma nationella
+IT-tjänster. För nationella IT-tjänster ska Leverantören teckna avtal med Beställaren om
+personuppgiftsbiträde.
+
+E-hälsa och nationella tjänster
+
+För informationen som behandlas i de nationella tjänster kopplade till Mitt Vaccin är den pri-
+vata vårdgivaren PUA, Region Halland är PUB och Inera AB och MittVaccin är underbi-
+träde.
+
+•  Beskrivning och tjänstespecifika villkor NPÖ
+
+•  Beskrivning och tjänstespecifika villkor Journalen via nätet
+•  Beskrivning och tjänstespecifika villkor Personuppgiftstjänsten
+
+•  Beskrivning och tjänstespecifika villkor Säkerhetstjänster Spärr Samtycke Logg
+
+•  Allmänna instruktioner för behandling av personuppgifter i Inera Tjänster
+
+10.4.1 Region Hallands Spärrtjänst
+
+<!-- sida 47 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 47 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vid nyttjande av sammanhållen journalföring kräver PDL att spärr hanteras. I nationell pati-
+entöversikt, NPÖ och den interna översikten i MittVaccin ska patienten ha möjlighet att
+spärra åtkomsten till hens uppgifter hos en vårdgivare i NPÖ eller MittVaccins översikt. För
+att möjliggöra för patienten att få lagt spärr enligt PDL tillhandhåller Region Halland en lokal
+”Spärrtjänst”. Region Hallands spärrtjänst har också uppdrag att omfatta Region Hallands
+avtalade leverantörer.
+
+Uppdraget förutsätter att leverantören genom signeringen av detta avtal också ger fullmakt
+åt Region Halland att utföra spärrtjänst för leverantörens räkning.
+
+10.5 Avvikelsehantering
+
+Systemet för avvikelsehanteringen ska vara gemensamt för alla verksamheter inom Region
+Halland och de verksamheter som Regionen finansierar, utom för läkare och fysioterapeu-
+ter som ersätts utifrån den nationella taxan. Den avvikelsehanteringsapplikation, som ingår i
+det obligatoriska systempaket, ska användas av Leverantörens vårdenhet/er.
+
+Alla avvikelser av betydelse för att undvika skador och störningar, inklusive risk för att såd-
+ana uppstår nu eller i framtiden, ska registreras i anvisat system enligt gällande föreskrifter.
+Den som har identifierat avvikelsen gör en bedömning av om avvikelsen ska rapporteras
+och om andra berörda ska informeras och involveras, t ex annan enhet och patient/närstå-
+ende.
+
+Vårdenheten ska genom sin uppföljning och analys av inträffade avvikelser använda detta i
+sin verksamhetsplanering och sitt arbete med ständiga förbättringar. Regionen ska kunna
+
+använda databasen för övergripande analyser och för att få indikationer på vanligt förekom-
+mande avvikelser.
+
+10.6 Beställarens datalager
+Beställarens datalager är delvis en gemensam resurs för alla utförare. Beställaren använ-
+der datalagret för uppföljning av de uppdrag som ges till olika utförare i bl.a. vårdvalet. Le-
+verantören ska medge att information från Beställarens vårdinformationssystem överförs till
+
+datalagret och används för vårdvalsuppföljning och kvalitetssäkring samt leverans till nat-
+ionella register bl. a hos Socialstyrelsen, SKR och registerhållare för kvalitetsregister i
+samma omfattning som Beställarens övriga verksamheter.Beställarens officiella programva-
+ror för rapportering och analys bör vara det gemensamma verktyget för rapporter.
+
+10.7 Digitalt utbud
+Vårdenheten ska erbjuda grundutbud av tjänster som specificeras enligt Digitalt utbud. Utö-
+
+ver det kan mottagningen själv välja att komplettera sitt tjänsteutbud med ytterligare tjänster
+inom 1177 Vårdguidens e-tjänster eller via andra tjänster. Varje mottagning ska aktivt ut-
+veckla tjänsteutbudet utifrån invånarens och verksamhetens behov.
+
+Vårdenheten ska införa webbtidbokning via 1177 Vårdguidens e-tjänster som en naturlig
+del i tidbokningsprocessen. Uppdraget att införa webbtidbokning innebär att vårdenheten
+ska säkerställa att invånaren ser alla sina bokade tider, kan avboka och omboka sina samt-
+liga tider samt själv kan boka så mycket som möjligt till alla yrkeskategorier via webbtid-
+bokningen på www.1177.se.
+
+<!-- sida 48 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 48 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Vårdenheten ska kunna erbjuda distanskontakter.
+
+10.8 Verksamhetens upphörande
+Vid vårdenhetens upphörande ska Leverantören medverka till att en medicinsk säker och
+en trygg övergång av patienter kan ske till ny vårdgivare.
+
+Vårdenhetens journaldokumentation, utifrån avtalet om sammanhållen journalföring kom-
+mer att fortsatt gälla och förvaring sker i ett av Region Halland anvisat system. Informat-
+ionen är därför fortsatt tillgänglig för befintliga och nya vårdenheter som finansieras av Reg-
+ion Halland. Detta innebär för den upphörande leverantören att:
+
+•  Leverantören fortsatt är Personuppgiftsansvarig (PUA) för journaldokumentationen.
+
+•  PUB-avtal fortsätter att gälla.
+•  Ett avtal om förvaring upprättas med Region Halland.
+
+Ovanstående gäller samtliga elektroniska journalsystem som är anvisade från Region Hall-
+and, t.ex. VAS, NCS och Auricula.
+
+När det gäller journaldokumentation som utifrån tidigare regelverk kunnat ske i ett eget
+elektroniskt journalsystem, eller om det funnits pappersjournaler, är Leverantören fortsatt
+ansvarig för hanteringen av dessa. Journaler för listade patienter ska, efter patients sam-
+tycke överlämnas till ny leverantör. I och med detta upphör den tidigare Leverantörens an-
+svar för dessa journaler. Om ingen ny leverantör gör anspråk på journalerna ansvarar den
+tidigare Leverantören för dessa. Enligt patientdatalagen, 3 kap 17§, ska journalerna beva-
+ras i minst 10 år. Om vårdgivaren inte själv anser sig kunna ta hand om sitt journalarkiv när
+
+verksamheten upphör, kan denne ansöka hos Inspektionen för vård och omsorg (IVO) om
+ett omhändertagande HSLF-FS 2016:40. Eventuella kostnader för detta och för den fram-
+tida lagringen belastar Leverantören.
+
+Vid vårdavtalets upphörande ska den utrustning som Regionen hyr ut till Leverantören
+återgå till Regionen. Att avtalet upphör ska inte befria någon av parterna från vid tillfället
+kvarstående och icke uppfyllda åtaganden eller förpliktelser gentemot den andra parten.
+
+<!-- sida 49 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 49 av 70
+
+Förfrågningsunderlag enligt LOV
+
+11 Ekonomisk   ersättning
+
+Ersättningsmodellen förutsätter ett gemensamt ansvar för beställaren och leverantören att
+upprätthålla modellens intentioner och normer samt samverkan kring ersättningsmodellens
+tillämpning och utveckling. Leverantörerna ska samverka med finansiären genom delta-
+gande i dialogmöten per specialitet. Beställaren organiserar detta.
+
+11.1 Vårdepisodersättning
+
+Ersättningsmodellen för Vårdval Halland i specialiserad vård utgår från att leverantö-
+ren får ersättning för utförda tjänster, vilka beskrivits för varje specialitet. Beskriv-
+ningen av tjänster utgår från nationella beskrivningssystem. Vårdgivarkategori, dia-
+gnos samt åtgärder beaktas. En tjänst kan bestå av en enstaka åtgärd som är normal
+eller mer omfattande. När så bedömts lämpligt har flera åtgärder paketeras till en
+tjänst t.ex. alla åtgärder som ingår i diagnostisering eller alla åtgärder som ingår i en
+behandling av en viss diagnos, dessa benämns Vårdepisoder. De beskrivna vårdepi-
+soderna är en standardmodell och utgör underlag för ersättning, det kan göras avsteg
+
+från denna standard att tillåtas om god vård och kvalitetskriterier uppnås. Detta inne-
+bär att för någon patient blir vårdepisoden längre och för någon blir det mera omfat-
+tande, men ersättningen beräknas enligt standard.
+
+Ersättningsnivåerna enligt prislista baseras på huvudmannens självkostnad för egen verk-
+samhet och står i proportion till Leverantörens uppdrag och kostnadsansvar. Ersättningen
+omfattar alla insatser som behöver göras för att utreda, diagnostisera eller behandla patien-
+ten inklusive kostnader för medicinsk service (laborationer och/eller röntgen), behandlings-
+läkemedel samt samordning med olika vårdgivare i patientens vårdkedja. Leverantören har
+kostnadsansvar för merkostnader vid eventuella komplikationer. Ersättning för utförda tjäns-
+ter enligt bilagda prislistor utgör – förutom patientavgifter – enda kostnadsersättningen för
+leverantörens ansvar.
+
+Vårdepisodersättningen kan ändras under året beroende på politiska beslut gällande infö-
+rande av nya vårdepisoder eller ändring i befintliga.
+
+Vårdenhetens kostnadsansvar omfattar inte kostnad för läkemedel inom läkemedelsför-
+månen som förskrivs till patient. länk till lista om klar.
+
+Läkemedel som administreras till patient på besök på vårdenheten ska rekvireras. Vården-
+
+heten har kostnadsansvar för samtliga läkemedel som rekvireras till verksamheten.
+Det är möjligt för samtliga vårdenheter att avropa Region Hallands upphandlade nettopriser
+för läkemedel på rekvisition. Vårdenheten ska i sådant fall teckna särskilt avtal med Apote-
+
+ket AB som utför tjänsten läkemedelsförsörjning åt Region Halland.
+
+Centrala begrepp i modellen är:
+•  Kostnadstaket.
+
+•  Periodisering.
+•  Prislista för utförda tjänster.
+
+<!-- sida 50 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 50 av 70
+
+Förfrågningsunderlag enligt LOV
+
+För specialitetsspecifika uppgifter om prislista och periodisering hänvisas till respektive spe-
+cialitetsbilaga.
+
+Kostnadstak
+För varje specialitet specificeras ett kostnadstak. Detta utgör en gemensam maximal ersätt-
+ningsnivå för samtliga godkända och verksamma leverantörer inom samma specialitet, in-
+kluderande både egenregiverksamhet och privata leverantörer. Samtliga leverantörer kon-
+kurrerar om patienter och ersättningen inom denna givna nivå.
+
+Kostnadstaket avser prestationsbaserad ersättning enligt prislista för utförda tjänster som
+utgår till leverantörerna. Kostnadstaket baseras på ersättningens nettobelopp, d.v.s. ersätt-
+ning exklusive patientavgifter. Kostnadstak beslutas årligen av Regionfullmäktige i respek-
+
+tive års budgetbeslut.
+
+Kostnadstaket för respektive specialitet enligt tabell:
+
+Kostnadstak    Kostnadstak
+Specialitet
+tkr 2022      tkr 2023
+Hudsjukvård      33 303         -
+Vuxenpsykiatri   55 077         -
+
+Kostnadstaket bygger på total produktion av vård till halländska patienter och en viss nivå
+av patienter från andra län inom respektive specialitet. Om andelen utomlänspatienter över-
+stiger budgeterad andel utomlänspatienter, som är grunden i kostnadstaket, så kan kost-
+nadstaket justeras uppåt genom månadsvis buffertjustering.
+
+Riskdelning
+Finansiären beslutar om att dela leverantörernas risk eller förlust som, uppkommer vid vård
+
+som överstiger det maximala ersättningstaket. Syftet att dela risken kan t.ex. vara att för-
+bättra tillgängligheten eller vid osäkerhet om det faktiska sjukvårdsbehovet.
+
+Vid riskdelning blir flexpriset och ersättningen till Leverantören vid överproduktion högre än
+det annars skulle blivit. Flexpriset inklusive riskdelning beräknas enligt formeln:
+
+riktpris / (1+ (taköverskridande % x (1- finansiärsrisken %)).
+
+Beslut om finansiärens riskdelning sker årligen. Finansiärens riskdelning för 2023 för aktu-
+ella vårdval är: xx
+
+Specialitet
+Hudsjukvård 50 %
+Vuxenpsykiatri 50 %
+
+11.1.1 Periodisering
+
+<!-- sida 51 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 51 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Kostnadstaket fördelas/periodiseras månadsvis, vilket innebär att varje månad har en gräns
+för hur stor den maximala ersättningen är. Fördelningen av kostnadstak till månadsvis max-
+imal ersättningsnivå baseras på tidigare års utfall, med innebörden att månadstaket varierar
+månad för månad.
+
+I den mån taket inte utnyttjas under en månad, tillförs det överskjutande beloppet kostnads-
+taket (buffert) och kan användas kommande månader inom samma kalenderår.
+
+Den månadsvisa maximala ersättningsnivån kan vid behov justeras uppåt genom buffert-
+justering förutsatt att andelen utomlänspatienter överstiger budgeterat andel utomlänspati-
+enter i kostnadstaket. Buffertjustering görs då med den överskjutande delen mellan faktiska
+utomlänsintäkter och budgeterad nivå för utomlänsintäkter i kostnadstaket.
+
+11.1.2 Prislista
+
+Ersättningsmodellen är i grunden en prestationsmodell baserad på ersättning för vårdepiso-
+der istället för ersättning för enskilda vårdkontakter. Definitionen på en vårdepisod är ”en
+patients samtliga kontakter, gällande ett specifikt hälsoproblem, med en leverantörs vårdre-
+surser under en avgränsad tid” För de i prislistan upptagna vårdepisoderna får Leverantö-
+ren en enhetlig ersättning för hela behandlingsserien.
+
+Vårdepisoder har ett i prislistan angivet förväntat (rekommenderat) antal vårdkontakter som
+ska uppfattas som normativt, men viss varians kan tillåtas. Om antalet vårdkontakter i en
+vårdepisod understiger det minsta antalet tillåtna, reduceras ersättningen i förhållande till
+rekommenderat antal vårdkontakter. Summan av avdragen tillförs kostnadstaket (buffert)
+och kan användas kommande månader inom samma kalenderår.
+
+Vårdepisoder har i normalfall avdragsfaktor 1,0 (resursförbrukningens k-värde), men alter-
+nativa värden kan beslutas. Avdragsfaktor 1,0 indikerar en jämn resursförbrukning över
+
+hela vårdepisoden. Vårdepisoder med högre initial resursförbrukning (framtung) kan ges en
+avdragsfaktor <1,0, med innebörden att avdraget vid för få besök är mindre jämfört med en
+till antal utförda besök direkt proportionerligt avdrag.
+
+Vårdepisoder har en i prislistan angiven förväntad (rekommenderad) varaktighet angiven i
+månader som ska uppfattas som normativt, men viss variation kan tillåtas. Om en vårdepi-
+sod fortfarande inte är slutförd senast under den angivna maximala varaktigheten, kommer
+vårdepisoden att automatiskt avslutas – även om den inte uppfyller det minsta antalet till-
+låtna vårdkontakter. Vårdepisoderna följs ackumulerat under 14 månader (R-14). Vårdepi-
+sodersättning utbetalas på lika många månader som förväntad varaktighet och kan inte för-
+ändras efter att den uppnått R-14.
+
+Om summan av den utförda vården hos samtliga Leverantörer inom aktuell specialitet un-
+derstiger den maximala ersättningsnivån (kostnadstak), ersätts leverantörerna enligt beslu-
+
+tad prislista, riktpris.
+Vid ett överskridande av månadens kostnadstak, reduceras priserna för de enskilda vårde-
+
+pisoderna för samtliga Leverantörer motsvarande. Då tillämpas ett reducerat pris, flexpris.
+Innebörden av detta är att finansiären inte utbetalar ett högre belopp än beslutat månatligt
+maximalt ersättningsbelopp. Flexpriset tillämpas på samtliga Leverantörer, vårdepisoder
+och priser för innevarande månad.
+
+<!-- sida 52 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 52 av 70
+
+Förfrågningsunderlag enligt LOV
+
+Flexpriset beräknas enligt formeln: riktpris / (1+ taköverskridande %).
+Utbetalning initieras av första besöket i en vårdepisod. Ersättningen periodiseras över den
+
+tidsperiod som vårdepisoden pågår enligt beslutad prislista/vårdepisodbeskrivning. Rak pe-
+riodisering tillämpas vid utbetalning. Månadsersättning för en episod kan variera över må-
+naderna beroende på om riktpris eller flexpris tillämpas.
+
+Vårdepisoderna ersätts med nettopris, med innebörd att patientavgifter tillkommer. Patient-
+avgifterna behålls av Leverantören och ligger utanför kostnadstaket. I samband med för-
+ändring av patientavgifternas storlek kan nettopriset komma att justeras. Riktpris för vårde-
+pisoderna uppräknas årligen och beslut om ersättningsnivå tas i samband med kommande
+års mål och budget.
+
+Vårdenhet inom specialistvården ska endast ta emot och behandla patienter som faller
+inom gällande uppdrag och gränssnittsöverenskommelser. Om dessa patienter ändå får be-
+handling inom specialistvårdvalet utgår ingen ersättning och skulle det ske vid upprepade
+
+tillfällen ser Region Halland det som ett avtalsbrott, som kan utlösa påföljder
+
+11.1.3 Beräkning av vårdepisodersättning
+Beräkning av ersättning sker i sekventiell ordning;
+
+a) kontroll av om vårdepisoden uppfyller miniminivå, annars avdrag,
+b) summa avdrag förs till buffert,
+c) produktionsvärdet beräknas enligt riktpris och jämförs med tillgängligt kostnadstak
+inklusive buffert,
+d) för kvarstående överproduktion reduceras priset så att kostnadstaket inte överskrids
+(flexpris).
+
+Flexindex är ett mått på utbetald ersättning i förhållande till produktionsvärden enligt riktpris.
+
+11.2 Övrig ersättning för såld vård
+
+11.2.1 Patientavgifter
+Patientavgifterna tillfaller vårdenheten. Vid all vård som Leverantörens utför ska Reg-
+ionens patientavgifter och regler tillämpas. Detta gäller även priser för hälsovård, vacci-
+nationer och intyg.
+
+Patientavgifter beslutas årligen av regionfullmäktige i samband med mål- och budget-
+beslutet. Regelverket för patientavgifter, avgiftsbefrielser och högkostnadsskydd åter-
+ges i regionens Avgiftshandbok. Region Halland håller vårdenheten informerad om de
+beslut och regler som gäller.
+
+11.2.2 Kompensationsersättning vid beslutad avgiftsfrihet
+Genom lag eller annat beslut kan betalningsfrihet för patientens öppenvårdskontakt före-
+ligga (patientavgiften). Regelverket för detta återfinns i Avgiftshandboken. Om sådan god-
+känd betalningsbefrielse föreligger utges kompensation för utebliven patientavgift av reg-
+ionen. För mer information hänvisas till särskrift.
+
+<!-- sida 53 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 53 av 70
+
+Förfrågningsunderlag enligt LOV
+
+11.2.3 Ersättning för vård av utomlänspatienter
+Under förutsättning att hemregionens remissregler beaktas, erhåller vårdenheten er-
+sättning för patienter folkbokförda i annat län. Vårdenheten erhåller ersättning för samt-
+liga patienter folkbokförda i Sverige, på samma grunder som för hallänningar enligt be-
+slutad ersättningsmodell. Beställaren åtar sig att fakturera patientens hemregion för ut-
+förd vård.
+
+11.2.4 Ersättning för vård av utländska medborgare och utlandssvenskar
+Försäkringskassan på Gotland betalar ut ersättning för vård av personer bosatta i EU-
+eller EES-land utanför Sverige förordningen 1994:2053. Regionens verksamheter fak-
+turerar Försäkringskassan direkt. Privata leverantörer skickar in utbetalningsunderlag
+till regionens GAS för vidarefakturering till Försäkringskassan. Kopia på giltigt EU-kort
+eller giltigt provisoriskt intyg ska bifogas. Saknas detta betalas inte någon ersättning ut.
+För patienter från de nordiska länderna tillämpar regionen 30 dagars betalningsvillkor
+
+efter utbetalningsunderlagets ankomst. För patienter från övriga EU- och EES-området
+sker utbetalningen till leverantören först efter att regionen fått ersättning från Försäk-
+ringskassan.
+
+Försäkringskassan på Gotland betalar även ut ersättning för vård av personer bosatta i
+ett konventionsland. För vidare information se aktuella uppgifter i Avgiftshandboken.
+Kopia på giltigt pass eller intyg ska bifogas utbetalningsunderlaget för vidarebefordran
+till Försäkringskassan. Utbetalning sker först när regionen fått ersättning från Försäk-
+ringskassan.
+
+Utlandssvenskar bosatta utanför EU-området och övriga konventionsområden har rätt
+till akut vård till vanlig patientavgift. Region Halland ersätter leverantören för mellan-
+skillnaden.
+
+Mer information finns i anvisningen ”Ersättning för vård av utländska medborgare och
+utlandssvenskar”.
+
+För vård av andra utländska medborgare och utlandssvenskar bosatta i övriga länder
+gäller särskilda regler. I flera fall betalar patienten själv sin vård enligt ”utomlänsprislis-
+tan”. För utförlig information om ersättning för vård av dessa patienter – se Avgifts-
+
+handboken.
+
+11.2.5 Ersättning för vård av asylsökande
+För hälso- och sjukvård av asylsökande där kostnaden för vårdtillfället understiger 100
+000 kronor utgår ersättning enligt utomlänsprislistan, kolumn Västra sjukvårdsregionen.
+För att få ersättning ska särskilda underlag skickas in. Dessa finns på vårdgivarwebben.
+Uppgift om LMA-nummer (Lagen om mottagande av asylsökande) ska framgå på un-
+derlaget eller bifogas separat.
+
+Information om ersättning för vård överstigande 100 000 kronor finns i Avgiftshandbo-
+
+ken. För varaktig vård till nyanlända (vårdbehovet bedöms vara i minst tre år) beviljas er-
+sättning om kostnaderna uppgår till minst 60 000 kronor under en 12-månadersperiod.
+För mer information se vårdgivarwebben.
+
+<!-- sida 54 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 54 av 70
+
+Förfrågningsunderlag enligt LOV
+
+11.2.6 Ersättning för vård av tillståndslösa
+Ersättning för vård till personer som vistats i landet utan tillstånd utgår enligt samma
+princip som för asylsökande.
+
+11.3 Köpt vård
+I de fall vårdenheten har tecknat avtal om att köpa vård från en annan vårdenhet eller
+underleverantör, ska vårdenheten betala ersättning till den vårdenhet som har tillhan-
+
+dahållit vården. Avtalsparterna administrerar och ansvarar själva för de ekonomiska
+mellanhavandena.
+
+11.4 Övriga ersättningar
+
+11.4.1 Momskompensation
+Momslagstiftning ger regionens vårdenheter i egen regi avdragsrätt för ingående moms
+vid inköp av varor och tjänster inom området hälso- och sjukvård. Privata vårdaktö-
+
+rerna saknar motsvarande möjlighet och behöver istället kostnads föra ingående
+moms. För att upprätthålla konkurrensneutralitet mellan regionens egna vårdenheter
+och privata vårdenheter får de privata vårdaktörerna ett tillägg som kompensation för
+dessa merkostnader.
+
+Momskompensation utgår med den för varje tillfälle aktuella procentsatsen i 1§ förord-
+ningen 2005:811 om ersättning för viss mervärdesskatt för kommuner och landsting.
+
+Momskompensation baseras och beräknas på den huvudsakliga ersättningsformen, vår-
+depisodersättning för patienter folkbokförda i Sverige, enligt beslutad specialitets speci-
+fika prislista.
+
+11.4.2 Ersättning för tolkkostnader
+Vårdenhetens kostnader för beställda språktolktjänster ersätts i särskild ordning. En vår-
+
+denhet som haft tolkkostnader har rätt att begära ersättning för dessa hos regionen.
+Tolkersättning utgår med faktisk tolkkostnad för asylsökande, nyanlända, och andra grup-
+
+per med behov av tolk. Egen regi ersätts via automatbokföring i slutet av månaden. Privata
+leverantörer betalar först tolkfakturan själv, varefter Region Halland kan faktureras aktuellt
+belopp, som underlag ska fakturakopior bifogas. Fakturan ska skickas till:
+
+Region Halland
+Box 310
+737 26 Fagersta
+Referens: ZZxxx058
+
+Fakturor betalas 30 dagar efter fakturans ankomstdatum till Region Halland.
+
+Utöver faktisk tolkersättning utgår ett tillägg vid vårdbesök för asylsökande. Ersättning beta-
+las ut per automatik till alla verksamheter i egen regi. För privata leverantörer blir det ett till-
+lägg på den ersättning som betalas ut för vård till asylsökande (som sker efter särskild an-
+sökan till Region Halland).
+
+<!-- sida 55 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 55 av 70
+
+Förfrågningsunderlag enligt LOV
+
+För mer information se vårdgivarwebben Tolk.
+
+11.4.3 Ersättning för regiongemensamt arbete
+När medarbetare från vårdenheten deltar i regiongemensamt förbättrings-, utvecklings- och
+gränsdragningsarbete kan stilleståndsersättning utgå för mer omfattande medverkan. Reg-
+ionkontoret avgör vilka aktiviteter som berättigar till stilleståndsersättning. För beslutade ak-
+tiviteter ersätts vårdenheten utifrån en schablon med en timersättning motsvarande 765 kr
+för läkare, 480 kr för chefer som inte är läkare, respektive 325 kronor för övrig personal.
+
+11.4.4 Ersättning för behandling med läkemedlet Spravato
+Behandling med Spravato finansieras centralt för de patienter som uppfyller kriterier i beslut
+om ordnat införande.
+
+Läkemedlet beställs till enheten från regionens upphandlade läkemedelsförsörjningstjänst
+och dokumenteras i öppenvårdstempkurvan. Enheten kan, i efterhand, begära ersättning
+via e-formulär för givna doser under föregående månad under förutsättningen att beslut om
+ordnat införande för Spravato följs.
+
+<!-- sida 56 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 56 av 70
+
+Förfrågningsunderlag enligt LOV
+
+12 Övriga villkor
+
+12.1 Betalningsvillkor
+Ersättning baserat på levererad vårddata utbetalas senast den 20:e i efterföljande månad.
+
+<!-- sida 57 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 57 av 70
+
+Förfrågningsunderlag enligt LOV
+
+13 Ordlista
+
+Förklaring till ord och begrepp som används i dokumentet:
+
+1177 Vårdguiden: sjukvårdsrådgivning dygnet runt på telefonnummer 1177, webbplats
+http://www.1177.se/Halland information om hälsa, sjukdomar, livssituationer, kontaktuppgif-
+ter till all vård och tandvård, säkra personliga e-tjänster.
+
+Avgiftshandbok: Av Regionfullmäktige beslutade avgifter inom hälso- och sjukvård.
+
+Avtal Vårdval Halland: Det avtal som en godkänd leverantör tecknar med regionen. Avtal
+mellan Regionen och privat leverantör är civilrättsligt bindande. Regionstyrelsen har fattat
+ett beslut som binder godkända enheter inom egenregin och aktuell förvaltning till alla vill-
+kor som stadgas i Uppdragsbeskrivning och förfrågningsunderlag samt i avtalet.
+
+Beställare: Region Halland.
+
+Distanskontakt: Region Hallands definition ansluter till Socialstyrelsens definition för be-
+greppet distanskontakt. Med distanskontakt avses vårdkontakt i öppen vård där hälso- och
+sjukvårdspersonal och patient är rumsligt åtskilda. Distanskontakter kan ske genom överfö-
+ring av ljud, bild, text eller som kombination av dessa.
+
+Förfrågningsunderlag: Underlag för ansökan om att få delta i Vårdval Halland enligt La-
+gen om valfrihetssystem. Det valfrihetssystem som en upphandlande myndighet tillhanda-
+håller.
+
+GAS: Gemensam Administrativ Service, som är Regionens servicecenter för en samlad ad-
+ministrativ funktion.
+
+Godkännande: Alla Sökanden som uppfyller kraven i förfrågningsunderlaget godkänns och
+har rätt att bli en del av Vårdval Halland.
+
+HSA: Katalogtjänst inom nationell e-Hälsa som innehåller kvalitetssäkrade uppgifter om
+personer, funktioner och enheter i Sveriges kommuner, regioner och privata vårdgivare.
+Uppgifterna hanteras i Halland via Hallandskatalogen (HAK).
+
+HAK: Hallandskatalogen är den lokala, elektroniska katalogtjänst som används för att
+skapa och underhålla uppgifter i den nationella HSA-katalogen. Hallandskatalogen/HSA
+innehåller kvalitetssäkrade uppgifter om personer, funktioner och enheter i Sveriges kom-
+
+muner, regioner och privata vårdgivare.
+IVO: Inspektionen för Vård och Omsorg ansvarar för tillsyn över hälso- och sjukvård,
+
+hälso- och sjukvårdspersonal, socialtjänst och verksamhet enligt lagen om stöd och ser-
+vice till vissa funktionshindrade (LSS). Myndigheten ansvarar också för viss tillståndspröv-
+ning.
+
+Leverantör: Juridisk person/vårdaktör och ägare av vårdenhet.
+
+Lifecare: Systemstöd för vårdplanering.
+
+LOV: Lagen om valfrihetssystem.
+
+<!-- sida 58 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 58 av 70
+
+Förfrågningsunderlag enligt LOV
+
+NPÖ: Nationella patientöversikten, gör det möjligt för behörig vårdpersonal att med patien-
+tens samtycke ta del av journalinformation som registrerats hos andra regioner, kommuner
+eller privata vårdgivare.
+
+Närsjukvård: Hälso- och sjukvårdsverksamhet som utan avgränsning vad gäller sjukdom, ålder
+eller patientgrupper svarar för befolkningens behov av grundläggande medicinsk behandling, om-
+vårdnad, förebyggande arbete och rehabilitering och som inte kräver sjukhusens medicinska och
+tekniska resurser.
+
+Policy: En av Region Halland politiskt beslutad avsiktsförklaring som ger riktlinjer för att
+styra verksamheten mot att uppnå önskade mål.
+
+PUB-avtal: Personuppgiftsbiträdesavtal.
+
+Region Halland: Den 1 januari 2011 samlades regional utveckling och hälso- och sjukvård samt
+tandvård (tidigare Landstinget Halland) i en gemensam organisation.
+
+SIP: Samordnad Individuell Plan. En struktur för patientens vårdplan när flera organisat-
+ioner medverkar i vården.
+
+SITHS: Tjänstelegitimation, Säker IT Hälso- och Sjukvård.
+
+Specialiserad vård: Hälso- och sjukvårdsverksamhet som kräver mer specialiserade
+åtgärder än vad som kan ges i primärvård.
+
+SKR: Sveriges Kommuner och Regioner.
+
+Styrdokument: Av Region Halland fattade beslut vars syfte är att styra regionens verksam-
+heter i en bestämd riktning.
+
+Sökanden: Vårdgivare som ansöker om godkännande för att bli Leverantör inom Vård-
+val Halland.
+
+Terapirekommendationer: Av Läkemedelskommittén Halland beslutade rekommendationer
+för läkemedelsbehandling och val av mest kostnadseffektiva preparat och behandling.
+
+Underleverantör: En aktör som vårdenheter har eget avtal med.
+
+VAS: Journalsystem som används inom alla Region Hallands vårdenheter samt flera
+privata vårdenheter. Vårdadministrativt system. Gemensamt journalsystem inom Reg-
+ion Halland.
+
+Vårdenhet: Leverantörens mottagning.
+
+Vårdepisoder: En patients samtliga kontakter, gällande ett specifikt hälsoproblem, med en
+leverantörs vårdresurser under en avgränsad tid.
+
+Vårdvalsservice: Servicefunktion mot vårdenheter och invånare.
+
+<!-- sida 59 -->
+
+Uppdragsbeskrivning för Vårdval Halland – specialiserad öppenvård 2023 Sida 59 av 70
+
+Förfrågningsunderlag enligt LOV
+
+14 Bilagor/Blanketter
+
+14.1 Ansökan om  godkännande  för Vårdval Halland
+
+14.2 Avtalsmall
+
+<!-- sida 60 -->
+
+Ansökan om  godkännande  för Vårdval Halland
+
+Specialitet: [Ange specialitet]
+
+Den sökande har tagit del av hela innehållet i Uppdragsbeskrivning och förfrågningsun-
+derlag för Vårdval Halland 2020 och kommer i sin ansökan att visa att den nya vården-
+heten uppfyller samtliga skallkrav och att verksamheten kommer att arbeta i enlighet
+med Region Hallands mål för hälso- och sjukvården.
+
+Huvudman/juridisk person [Ange huvudman/juridisk person]
+
+Adress: [Ange adress]
+
+Telefon: [Ange telnr]
+
+E-post: [Ange e-post]
+
+Organisationsnummer: [Ange orgnr]
+
+Beräknad driftstart: [Ange datum]
+
+Datum: [Ange datum]
+
+Underskrift av behörig företrädare för juridiska personen
+
+[Namnförtydligande]
+
+[Ange ställning i företaget]
+
+<!-- sida 61 -->
+
+Avtalsmall
+
+Vårdavtal enligt lag om  valfrihetssystem
+
+§ 1 Avtalets omfattning
+
+I detta Avtal regleras Leverantörens bedrivande av vårdval inom
+
+\<ange specialitet> (”Uppdraget”) vid:
+
+\<ange namn>, \<ange organisationsnummer> och \<ange adress för mottagningen/område>.
+Med Avtalet förstås bestämmelserna i detta Vårdavtal, Uppdragsbeskrivning och förfråg-
+
+ningsunderlag och dess bilagor (”Avtalet”).
+
+§ 2 Avtalet
+
+Leverantören åtar sig (”Åtagandet”) att utföra Uppdraget enligt Avtalet och den årligen fast-
+ställda ”Uppdragsbeskrivning och förfrågningsunderlag för Vårdval Halland”.
+
+Detta Avtal ersätter tidigare avtal mellan parterna avseende anslutning till valfrihetssyste-
+met. Villkoren för Leverantörens utförande av Uppdraget framgår av Avtalet och gällande
+Uppdragsbeskrivning och förfrågningsunderlag för Vårdval Halland. Båda parter förbinder
+sig att följa gällande villkor i Avtalet.
+
+Avtalet utgörs av nedanstående handlingar vilka kompletterar varandra. Förekommer mot
+varandra stridande bestämmelser i handlingarna gäller handlingarna i följande ordning, så-
+
+vida inte omständigheterna i det aktuella fallet uppenbarligen föranleder en annan ordnings-
+följd
+1\) Detta avtal
+2\) Gällande Uppdragsbeskrivning och förfrågningsunderlag för Vårdval Halland
+3\) Övriga bilagor, t.ex. kring gemensamma system, rapportering av verksamhetsdata etc.
+
+§ 3 Definitioner
+
+Befrielsegrund
+
+Parts (Beställarens och Leverantörens) möjlighet att bli befriad från påföljd för underlåten-
+het att fullgöra viss förpliktelse enligt Avtalet till följd av särskild omständighet som precise-
+ras i § 9 ”Force majeure”.
+
+Beställare
+Region Halland genom Regionstyrelsen, org.nr: 232100-0115.
+
+<!-- sida 62 -->
+
+Driftstart
+Den dag Leverantören enligt Avtalet ska inleda att utföra Uppdraget.
+
+Uppdrag
+Leverantören uppgift är att bedriva hälso- och sjukvård enligt detta Avtal och Uppdragsbe-
+
+skrivning och förfrågningsunderlag för Vårdval Halland.
+
+Leverantören
+Den person (juridisk eller enskild fysisk person) Beställaren tecknat Avtalet med, se inled-
+ningen av Avtalet.
+
+Åtagande
+Leverantörens löfte att utföra Uppdraget enligt Avtalet.
+
+Ändringsmeddelade
+Skriftligt meddelande från Beställaren till Leverantören med information om ändringar i Upp-
+
+dragsbeskrivning och förfrågningsunderlag som enligt Avtalet blir bindande för Leverantö-
+ren.
+
+§ 4 Avtalsperiod
+
+Avtalet träder i kraft från och med den dag båda parter undertecknat det. Avtalet gäller där-
+efter i tio (10) år. Om avtalet inte har sagts upp av någon part skriftligen senast tolv måna-
+
+der före avtalsperiodens slut förlängs avtalet med två år i taget med tolv månaders uppsäg-
+ning. Regler för förtida upphörande finns i § 8. Utförande av Uppdraget inleds vid Driftstart.
+Driftstart för detta Avtal är den \<ange datum fr.o.m.>. Avtalet gäller till och med \<ange da-
+tum t.o.m.> Före Driftstarten äger Leverantören inte rätt att utföra vård enligt detta Avtal.
+
+Förkortad avtalsperiod i visst fall
+Oaktat vad som stadgas ovan om avtalsperiod och uppsägningstid, gäller följande:
+För det fallet att Avtalet tecknas efter det att Beställaren sagt upp samtliga andra avtal inom
+vårdvalsområdet från en och samma tidpunkt, upphör även detta Avtal vid denna tidpunkt.
+
+§ 5 Ändrade ägarförhållanden
+
+Väsentliga förändringar avseende ägarförhållandena hos Leverantören eller hos Leverantö-
+rens eventuella moderbolag, ska utan dröjsmål skriftligen anmälas till Beställaren. På begä-
+ran av Beställaren ska Leverantören lämna ytterligare information om de nya ägarförhållan-
+dena och om Leverantörens framtida möjligheter att uppfylla Avtalet.
+
+Beställaren ska därefter pröva om Avtalet ska fortsätta att gälla eller om Avtalet ska sägas
+upp jämlikt § 8 nedan. Beställaren kommer bland annat att värdera om Leverantören med
+den nya ägaren uppfyller kraven för godkännande för att teckna vårdavtal. Beställaren ska
+
+skriftligen meddela Leverantören om sitt beslut avseende Avtalets fortsatta giltighet. Över-
+går avtalet till ny juridisk person ska avtalet skrivas om.
+
+§ 6 Överlåtelse
+
+<!-- sida 63 -->
+
+Ingen av parterna äger rätt att överlåta eller pantsätta Avtalet eller någon rättighet eller skyl-
+dighet enligt Avtalet utan den andra partens skriftliga samtycke.
+
+Leverantör äger inte, utan Beställarens skriftliga tillåtelse, överlåta fordringar eller andra
+krav (inklusive bl. a krav på skadestånd) hänförliga till detta avtal till någon tredje part.
+
+Leverantör äger inte, utan Beställarens skriftliga tillåtelse, överlåta fordringar eller andra rät-
+tigheter genom kommissionsavtal eller fusion till någon tredje part.
+
+§ 7 Brister i utförande av Åtagandet
+
+Beställaren följer att Leverantören uppfyller sitt Åtagande och vidmakthåller den kvalitet i
+utförande av Uppdraget som följer av Avtalet. Om Beställaren konstaterar att Leverantören
+brister i sitt Åtagande kan Beställaren avkräva Leverantören en åtgärdsplan. Beställaren
+har också rätt att innehålla ersättning, sätta ned ersättning, på Leverantörens bekostnad
+avhjälpa brister i Leverantörens Åtagande samt en rätt till skadestånd. Vid avtalsbrott, som
+Beställaren bedömer som allvarligt, kan ovan angivna rättigheter som tillkommer Beställa-
+ren brukas utan att en åtgärdsplan upprättats.
+
+Åtgärdsplan
+
+När Leverantören inte utför sina Åtaganden enligt Avtalet har Beställaren rätt att begära Le-
+verantörens rättelse samt upprättande av åtgärdsplan inom skälig tid alternativt inom av Be-
+ställaren angiven tid. Åtgärdsplan ska upprättas efter att Beställaren skriftligen, i den ut-
+sträckning detta är möjligt, har preciserat hur Leverantören brister i uppfyllandet av sina
+
+åtaganden. Om Leverantörens bristande avtalsuppfyllelse innebär att Beställaren eller Le-
+verantörens patienter utsätts för betydande risker ska Leverantören påbörja sammanställ-
+ningen av en åtgärdsplan utan att Beställaren skriftligen preciserat hur Leve-rantören brister
+i sina åtaganden.
+
+I åtgärdsplanen ska Leverantören ange i vilken utsträckning denne brister i uppfyllandet av
+sina åtaganden, identifiera de risker som förknippas med brister i avtalsuppfyllelsen, ange
+vilka åtgärder som ska vidtas för att säkerställa framtida uppfyllelse av avtalet, uppge när i
+tiden åtgärderna för att rätta den bristande avtalsuppfyllelsen ska utföras samt när åtgär-
+derna kan förväntas vara genomförda.
+
+Åtgärdsplanen ska kommuniceras med Beställaren så snart Leverantören färdigställt pla-
+nen. Beställaren fastställer, av Leverantören, inlämnad åtgärdsplan om planen kan förvän-
+tas leda till att den bristande uppfyllelsen av Avtalet upphör inom skälig tid med beaktande
+
+av de risker som är förknippade med den bristande uppfyllelsen av Åtagandet. Kan inte åt-
+gärdsplanen förväntas leda till att den bristande uppfyllelsen av Åtagandet upphör inom
+skälig tid ska Beställaren informera Leverantören om att planen inte kommer att fastställas
+och skälen för detta. Leverantören ska fullfölja fastställd åtgärdsplan.
+
+Om Beställaren av Leverantören inte erhåller åtgärdsplan inom skälig tid, alternativt den tid
+Beställaren angivit, Leverantörens åtgärdsplan inte kan fastställas, Leverantören inte följer
+av Beställaren fastställd åtgärdsplan eller bristerna i Leverantörens uppfyllelse av Åtagan-
+det, av Beställaren, bedöms vara av sådant slag att annan påföljd än upprättande/fullföl-
+jande av åtgärdsplan är nödvändig för att i första hand säkerställa fullgörelse av Åtagandet
+
+<!-- sida 64 -->
+
+och i andra hand avtalsrelationens upphörande har Beställaren rätt att innehålla samt ned-
+sätta ersättning, utfå skadestånd, avhjälpa bristen på Leverantörens bekostnad samt säga
+upp avtalet för upphörande i förtid.
+
+Rätt att innehålla samt nedsätta ersättning till Leverantören
+
+Om Leverantören inte utför sitt Åtagande, inte upprättar en åtgärdsplan, medverkar till att
+en åtgärdsplan kan fastställas eller följer fastställd åtgärdsplan har Beställaren rätt att från
+framtida utbetalningar av ekonomisk ersättning till leverantören för avtalets uppfyllande in-
+nehålla belopp som efter bedömning av avtalsbrottets art, varaktighet samt medicinska- och
+ekonomiska konsekvenser skäligen kan förväntas leda till Leverantörens rättelse.
+
+Om Leverantören inte inom skälig tid åtgärdar den bristande avtalsuppfyllelse eller Leve-
+rantörens avtalsbrott som ligger till grund för innehållandet av ersättning av beställaren be-
+
+döms vara av allvarlig art har Beställaren rätt att nedsätta Leverantörens rätt till ersättning
+utan att detta inverkar på Beställarens rätt till skadestånd.
+
+Rätt till avhjälpande på Leverantörens bekostnad
+
+Om Leverantören brister i uppfyllelse av detta avtal eller till avtalet tillhörande bilagor ge-
+nom att underlåta att utge betalning för de tjänster som Leverantören har en skyldighet att
+hålla sig med enligt Åtagandet har Beställaren rätt att på Leverantörens bekostnad avhjälpa
+bristen och från framtida utbetalning av ekonomisk ersättning samt avräkna ett belopp som
+svarar mot avhjälpandekostnaden.
+
+Leverantörs skadeståndsskyldighet vid bristande uppfyllelse av Avtalet
+
+Utan begränsning av annan rätt enligt detta Avtal ska Leverantören ersätta Beställaren för
+samtliga kostnader och förluster som Beställaren åsamkas med anledning av Leverantö-
+rens bristande avtalsuppfyllelse. Med skada avses bland annat den merkostnad uppsäg-
+ningen orsakar Beställaren.
+
+Leverantörens ansvar för krav från tredje man
+
+Leverantören ansvarar för all skada och alla förluster som kan komma att orsakas vid Le-
+verantörens fullgörelse av sitt Åtagande. Leverantören ska hålla Beställaren skadelös om
+krav väcks mot Beställaren till följd av Leverantörens handlande eller underlåtenhet. Ansva-
+ret gäller under avtalets giltighetstid och därefter under en period av tre år, utom i fall av
+
+uppsåt eller grov vårdslöshet, då ansvaret gäller till dess preskription inträder.
+
+Beställaren ska omgående underrätta Leverantören om krav framställs mot Beställaren
+som avses i föregående stycke. Beställaren ska inte utan Leverantörens medgivande träffa
+uppgörelse gällande sådant krav som avses i föregående stycke om medgivandet kan på-
+verka Leverantörens ersättningsskyldighet. Utan påverkan av ovanstående är Be-ställaren
+skyldig att vidta åtgärder för att begränsa sin skada i händelse av att krav riktas mot Bestäl-
+laren som omfattas av Leverantörens ersättningsskyldighet.
+
+Brister i rapportering
+
+Leverantören ansvarar för all sin rapportering till Beställaren. Leverantören ska ha rutiner
+för att säkerställa att rapporteringen är korrekt. Om Leverantören är osäker på Beställarens
+
+<!-- sida 65 -->
+
+rapporteringsinstruktioner är det Leverantörens ansvar att införskaffa tillräcklig information
+för att rapporteringen ska vara korrekt.
+
+Om det finns fel i rapporteringen som innebär att för höga ersättningskrav ställs eller för hög
+utbetalning sker äger Beställaren rätt att reducera ersättningen på kommande utbetalningar
+till Leverantören med det belopp som felaktigt betalats ut. Beställaren ska skriftligen under-
+rätta Leverantören om felet. Leverantören ska vidta de åtgärder som behövs för att felet
+inte ska upprepas. Vid återkommande fel i rapporteringen har Beställaren rätt att tillämpa
+innehålla och sätta ned ersättningen.
+
+§ 8 Förtida upphörande
+
+Allmänt om uppsägning
+
+Uppsägning ska alltid ske skriftligen och utan oskäligt uppehåll efter det att den omständig-
+het som åberopas som uppsägningsgrund blivit känd för den uppsägande parten.
+
+Uppsägning ska anses ha nått motparten senast en (1) vecka efter det att uppsägningen
+avsänts med rekommenderad försändelse till motparten.
+
+Om Avtalet sägs upp på grund av fel eller brister i Åtagandet är den part som brustit i Åta-
+gandet skyldig att till den andra parten utge skadestånd för den skada denna part lidit i en-
+lighet med allmänna avtalsrättsliga principer, med undantag för utebliven vinst och annan
+indirekt skada. Detta gäller dock inte vid Force majeure enligt § 9.
+
+Rätten till uppsägning av avtalet är ömsesidig och var och en av parterna har rätt att säga
+upp Avtalet till omedelbart upphörande eller den senare dag som anges vid uppsägningen
+utifrån vad som stadgas nedan.
+
+I § 9 regleras parts rätt att säga upp Avtalet om Befrielsegrund föreligger enligt Force ma-
+jeure.
+
+Beställarens rätt att säga upp avtalet i förtid
+
+Beställaren äger säga upp avtalet i förtid till omedelbart upphörande, eller till upphörande
+
+vid datum som Beställaren anger om Leverantören väsentligen åsidosätter sina skyldig-
+heter enligt avtalet. Som väsentligt åsidosättande räknas bland annat när:
+
+Leverantören brister i uppdragets utförande och rättelse ej sker utan dröjsmål efter
+o
+erinran av Beställaren.
+Leverantören försätts i konkurs eller i likvidation, är under tvångsförvaltning, är un-
+o
+derkastad näringsförbud eller annat liknande förfarande, är föremål för ackord eller
+har tillsvidare inställt sina betalningar eller annars på goda grunder kan befaras vara
+på obestånd eller inte fullgör sina skyldigheter avseende redovisning, svenska skat-
+ter eller socialavgifter eller årsredovisning till Bolagsverket,
+Leverantören är föremål för ansökan om konkurs, tvångslikvidation, ackord eller an-
+o
+nat liknande förfarande,
+
+<!-- sida 66 -->
+
+en förändring sker direkt eller indirekt avseende ägandet av en majoritet av aktierna
+o
+i Leverantören, eller annars det bestämmande inflytandet över Leverantören föränd-
+ras direkt eller indirekt, på ett sätt som Beställaren inte skäligen kan godta,
+det framkommer att Leverantören i sin ansökan lämnat oriktiga uppgifter eller på an-
+o
+nat sätt i samband med det ansökningsförfarande som har föregått tecknande av
+detta avtal,
+verksamhetschef eller annan person i ledande ställning hos Leverantören eller per-
+o
+son verksam hos Leverantören enligt lagakraftvunnen dom dömts för brott som av-
+ser yrkesutövningen eller dömts för annat brott ägnat att allvarligt rubba Beställa-
+rens eller allmänhetens förtroende för Leverantören, eller Leverantörens lämplighet
+att fullfölja avtalet, och Leverantören inte vidtar erforderliga åtgärder för att skilja ve-
+derbörande från uppdrag som omfattas av avtalet,
+företrädare för Leverantören har gjort sig skyldig till allvarligt fel i yrkesutövningen
+o
+eller
+Socialstyrelsen/Inspektionen för vård och omsorg eller allmän förvaltningsdomstol
+o
+genom lagakraftvunnet beslut helt eller delvis förbjudit Leverantörens verksamhet
+enligt Patientsäkerhetslagen. Detta gäller under förutsättning att den förbjudna verk-
+samheten inverkar på Avtalets fullgörande.
+Ej uttömmande uppräknat grundar följande omständigheter rätt enligt första punkten
+o
+för Beställaren att säga upp avtalet i förtid om Beställaren konstaterar att:
+Leverantören inte upprätthåller enligt detta Avtal överenskommen kvalitet
+­
+och tillgänglighet, vilket föranleder att patientsäkerheten hotas.
+Leverantören uppfyller inte – vid uppdragets utförande – gällande medi-
+­
+cinska krav på undersökning, vård och behandling samt krav avseende
+bemötande av patienter,
+Leverantören bryter mot lagar, författningar, föreskrifter, beslut och riktlin-
+­
+jer som denne har att iaktta i sin verksamhet,
+Leverantören brister ifråga om organisation, ledning och intern kontroll,
+­
+exempelvis avseende verksamhetschef och ansvar för enskilda lednings-
+uppgifter,
+kraven i Patientdatalagen avseende hantering av patientuppgifter tillgo-
+­
+doses inte av Leverantören,
+Leverantören utför Uppdraget med risker för patientsäkerheten vad gäller
+­
+antalet vårdpersonal i förhållande till förväntade patientvolymer (underbe-
+manning) och/eller nödvändig formell och reell kompetens hos vårdper-
+sonalen,
+Leverantören söker genom ett illojalt eller otillbörligt agerande tillför-
+­
+skansa sig ekonomiska fördelar i avtalsrelationen med Beställaren eller
+Leverantören agerar på ett sätt som riskerar att medföra att Beställarens
+­
+renommé eller allmänhetens förtroende för Beställaren försämras och/el-
+ler Leverantören agerar på ett sätt som medför att Beställarens förtro-
+ende för Leverantören allvarligt rubbas.
+I händelse av att Avtalet sägs upp med stöd av någon av i ovan punkter nämnda
+o
+grunder, ska Leverantören ersätta Beställaren för uppkommen skada, bland annat
+den merkostnad uppsägningen orsakat Beställaren.
+
+<!-- sida 67 -->
+
+Beställaren kan antingen säga upp avtalet med omedelbar verkan eller säga upp det till en
+viss tidpunkt.
+
+Leverantören har även efter avtalets upphörande ansvar för de kostnader som uppstått un-
+der verksamhetstiden och som Leverantören haft kostnadsansvar för enligt avtalet.
+
+Förtida upphörande av avtal på grund av kontraktsbrott kan medföra skadestånd i enlighet
+med allmänna avtalsrättsliga principer, med undantag för utebliven vinst och annan indirekt
+skada.
+
+Leverantörens rätt att säga upp avtalet
+
+Leverantören äger rätt att säga upp avtalet till förtida upphörande utan angivande av sär-
+skilt skäl. Avtalet upphör att gälla tolv (12) månader efter det att den skriftliga uppsägelsen
+har inkommit till Beställaren.
+
+Leverantör har rätt att säga upp avtalet om Leverantören inte accepterar de förändrade vill-
+koren i uppdragsbeskrivningen och förfrågningsunderlaget som Beställaren beslutat om,
+inom 60 dagar efter det att ändringar tillkänna gjorts. Avtalet upphör i sådant fall att gälla 12
+månader efter utgången av 60-dagarsfristen. Under den återstående avtalstiden gäller för-
+utsättningarna i detta Avtal i sin lydelse före ändringarna.
+
+Leverantören har rätt att säga upp avtalet för en verksamhet senast sex veckor före avtalat
+startdatum. Leverantören ansvarar för direktinformation till invånare som skickat in valblan-
+kett, till remittenter, vårdgrannar samt till allmänheten om tillbakadragandet.
+
+Leverantören har rätt att säga upp detta avtal till omedelbart upphörande, om Beställaren är
+i dröjsmål med betalning och inte erlägger betalning till Leverantören senast trettio (30) da-
+
+gar efter skriftligen uppmaning därom.
+Region Halland äger rätt att när som helst under avtalstiden säga upp Avtalet till upphö-
+
+rande i förtid efter politiskt beslut om tillbakadragande av upphandling enligt LOV. Sådan
+uppsägning ska vara skriftlig och uppsägningstiden är tolv (12) månader.
+
+Leverantören har även efter avtalets upphörande ansvar för de kostnader som uppstått un-
+der verksamhetstiden och som Leverantören haft kostnadsansvar för enligt Avtalet.
+
+§ 9 Force majeure
+
+Part är befriad från påföljd för underlåtenhet att fullgöra viss förpliktelse enligt Avtalet, om
+underlåtenheten har sin grund i krig, strejk, lockout, brand, översvämning, knapphet på
+transporter eller energi, myndighets åtgärd, nytillkommen eller ändrad lagstiftning eller an-
+
+nan omständighet som ligger utanför ifrågavarande parts kontroll och omständigheten för-
+hindrar eller försenar fullgörandet av förpliktelsen (”Befrielsegrund”).
+
+Part som påkallar Befrielsegrund enligt stycket ovan ska utan dröjsmål skriftligen meddela
+den andra parten därom. Part ska vidta skäliga ansträngningar för att mildra omfattningen
+och effekten av Befrielsegrund.
+
+Part ska återuppta fullgörandet av de förpliktelser som förhindrats eller försenats så snart
+det praktiskt kan ske. För det fall Befrielsegrunden varar mer än två månader, har den
+
+<!-- sida 68 -->
+
+andra parten rätt att skriftligen säga upp Avtalet till omedelbart upphörande. Vid sådan upp-
+sägning har ingen av parterna rätt till ersättning av den andra parten.
+
+Leverantören är dock skyldig att fortsätta utföra Uppdraget under bl.a. kris- och katastrofbe-
+redskap.
+
+§ 10 Försäkringar
+
+Leverantören ska förbinda sig att teckna och vidmakthålla ansvars- och företagsförsäk-
+ringar efter vedertagna normer, som håller RH skadelös vid eventuell skada.
+
+Leverantören ska hålla Beställaren skadeslös om krav väcks mot Beställaren som en följd
+av Leverantörens handlande, eller underlåtenhet att handla. Ansvaret gäller under avtalets
+giltighetstid och därefter under en period av tre år, utom i fall av uppsåt eller grov vårdslös-
+het, då ansvaret gäller till dess preskription inträder.
+
+Beställaren ska snarast underrätta Leverantören om krav framställs mot vårdgivare som
+omfattas av föregående stycke. Beställaren ska inte utan Leverantörens samtycke göra
+medgivanden eller träffa uppgörelser avseende sådant krav. Beställaren är därtill skyldig att
+vidta alla rimliga åtgärder för att begränsa sin skada i händelse av att krav mot Beställaren
+framförs som omfattas av Leverantörens ersättningsskyldighet.
+
+§ 11 Kontaktpersoner
+
+Parterna ska utse var sin kontaktperson. När part byter kontaktperson eller kontaktuppgif-
+ter, ska detta skriftligen meddelas den andra parten utan dröjsmål.
+
+§ 12 Meddelanden
+
+Meddelanden i anledning av Avtalet ska skickas till respektive parts kontaktperson med e-
+post. Meddelandet ska anses ha kommit till mottagaren tre arbetsdagar efter att det skick-
+ats.
+
+§ 13 Tillämplig lag och tvister
+
+Avtalet ska tolkas och tillämpas i enlighet med svensk rätt.
+
+Tvist i anledning av Avtalet ska avgöras av allmän domstol med Halmstad tingsrätt som
+första instans.
+
+Tvister mellan Beställaren och leverantörer som ingår i region Hallands förvaltningsorgani-
+sation löses via interna regler.
+
+§ 14 Efter Avtalets upphörande
+
+Leverantören ska vid Avtalets upphörande samråda med Beställaren kring hantering av pa-
+tientjournaler, patientlistor, lokaler, utrustning och personal samt information till patienter
+
+och allmänhet för att övergången till annan vårdgivare ska kunna ske utan avbrott eller bris-
+ter i utförande av vården. Leverantören är skyldig att samverka med andra vårdgivare som
+kommer att ta över Leverantörens patientansvar.
+
+<!-- sida 69 -->
+
+När Leverantören upphör att utföra Uppdraget enligt Avtalet ska patientjournalerna överfö-
+ras till annan av Beställaren anvisad hälso- och sjukvårdspersonal som framöver ska svara
+för patientens vård och behandling. Om journalen finns hos Beställaren ska istället en kopia
+av journalen överföras. Patientens medgivande till överföring ska finnas. Leverantören ska
+hantera patientjournaler, arkivmaterial och annan information i sin verksamhet avseende
+uppdraget i enlighet med gällande författningar och Beställarens riktlinjer för bevarande och
+
+gallring. Vid upphörande av Uppdraget ska Leverantören stå för kostnader som kan upp-
+komma i samband med överlämnandet av handlingar. Leverantören ska svara för att doku-
+mentation upprättas vid överföring av patientjournal så att journal kan följas.
+
+För utförda tjänster enligt Avtalet gäller Avtalets bestämmelser i tillämpliga delar även efter
+det att Avtalet upphört att gälla.
+
+§ 15 Uppföljning inför Driftstart
+
+Beställaren kommer ca två veckor före Driftstart att genomföra en uppföljning av om Leve-
+rantören är färdig och förberedd att utföra Åtagandet. Uppföljningen kommer att ske på
+plats där Uppdraget ska bedrivas. Leverantören ska delta i detta möte.
+
+Beställaren kommer vid detta möte att följa upp att Leverantören vidtagit alla åtgärder som
+behövs för att Uppdraget ska kunna bedrivas enligt Avtalet.
+
+Beställaren äger ensidigt rätt att besluta om en senare Driftstart eller att säga upp Avtalet till
+förtida upphörande om Beställaren bedömer att Leverantören saknar förutsättningar att ut-
+föra Åtagandet från Driftstart.
+
+Leverantören äger inte rätt till någon form av ersättning till följd av Beställarens beslut. Be-
+ställaren äger rätt till ersättning från Leverantören för kostnader Beställaren haft till följd av
+
+Leverantörens brister.
+
+§ 16 Förändrade villkor
+
+Beställaren har vid varje tidpunkt rätt att ändra i Uppdragsbeskrivning och förfrågningsun-
+derlag för Vårdval Halland och därmed i villkoren för Avtalet. Förändringarna gäller vanligt-
+vis från varje årsskifte i samband med att uppdaterad Uppdragsbeskrivning och förfråg-
+ningsunderlag för Vårdval Halland träder i kraft och blir bindande för Leverantören.
+
+Så snart Beställaren har fattat beslut om ändring av villkoren i Avtalet inklusive dess bila-
+gor, ska Beställaren skriftligen informera Leverantören om dessa ändringar. Om Leverantö-
+
+ren inte accepterar de ändrade villkoren, har Leverantören rätt att säga upp avtalet i enlig-
+het med § 8 (Leverantörs rätt att säga upp avtalet).
+
+§ 17 Övrigt
+
+Leverantören ska utföra Uppdraget enligt Avtalet som en självständig aktör och äger inte
+rätt att företräda Beställaren utöver vad som framgår av Avtalet.
+
+Parts försummelse att vid ett eller flera tillfällen göra gällande rättighet enligt Avtalet eller att
+påtala förhållande som är hänförligt till Avtalet innebär inte att part avstått från rätten att vid
+senare tillfälle göra gällande eller påtala rättighet eller förhållande av ifrågavarande slag.
+
+<!-- sida 70 -->
+
+Om någon bestämmelse i Avtalet skulle vara ogiltig innebär det inte att Avtalet i sin helhet
+ska anses ogiltigt. Om sådan ogiltighet väsentligt påverkar någon av parterna äger denna
+part rätt till skälig jämkning av Avtalet.
+
+Avtalet har upprättats i två likalydande exemplar av vilka parterna tagit var sitt.
+
+Halmstad den \<datum>          \<ort>, den \<datum>
+
+Region Halland                \<Leverantörens namn>
+Hälso- och sjukvårdsförvaltningen
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\<ange namn>                   \<namn behörig avtalstecknare>
+
+Hälso- och sjukvårdsutvecklingsdirektör \<titel>
