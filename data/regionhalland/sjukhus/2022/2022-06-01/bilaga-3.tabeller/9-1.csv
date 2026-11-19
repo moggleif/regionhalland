@@ -1,0 +1,9 @@
+Handlingsslag,Bevaras/Gallras,Anmärkning
+Tidböcker/tidbokning,Vid inaktualitet,
+Tracing,,Ingår i patientjournal
+Utlåtanden från speciallaboratorier,,Ingår i patientjournal
+"Utlåtanden, preliminära",Vid inaktualitet,"Om preliminärutlåtande avviker från det
+slutliga utlåtandet skall båda bevaras i
+journalen"
+"Utlåtanden, slutliga",,Ingår i patientjournal
+Utredningar,,Ingår i patientjournal

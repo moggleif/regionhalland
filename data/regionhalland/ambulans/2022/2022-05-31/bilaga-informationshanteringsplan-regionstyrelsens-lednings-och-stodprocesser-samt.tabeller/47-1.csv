@@ -1,0 +1,56 @@
+"Process-
+beteckning
+Kod","Process
+Handlingsslag/
+Handlingstyp","Registrering
+Diarieförs
+Systematisk
+förvaring","Medium
+för
+bevarande
+eller
+Format för
+långsiktigt
+bevarande","Bevaras/
+Gallras","Hantering/Tjänst
+Förvaringsplats/
+System","GDPR/
+Person-
+uppgifter
+Ja/Nej","Informationens
+säkerhets-
+klassning
+1 = Lindrig skada
+2 = Kännbar skada
+3 = Allvarlig skada
+4 = Skada för rikets
+säkerhet, samhälls-
+viktig funktion",,,"Anmärkning
+(Hantering, lagrum, personuppgifter,
+m.m)"
+1.1.5,Redovisning till myndighet,,,,,,,,,
+1.1.5.1,Lämna räkenskapssammandrag till Statistiska Centralbyrån (SCB),,,,,,,,,
+1.1.5.1,"Begäran om
+räkenskapssammandrag
+från SCB",Diarieförs,,Bevaras,Ärendeakt/Platina,Nej,,,,
+1.1.5.1,"Sammanställt
+räkenskapssammandrag
+överlämnad till SCB",Diarieförs,,Bevaras,"SCB:s
+uppgiftslämnarportal/
+Ärendeakt/Platina",Nej,,,"Kopia av slutgiltiga utgående
+datafiler till SCB sänds i PDF-
+format till diariet för
+registrering.",
+1.1.5.1.,"Statistik, underlag",,,"Gallras vid
+inaktualitet",,Nej,,,"Underlag för statistik, ej
+bearbetningsbar och/eller av
+kortvarig betydelse.",
+1.1.5.2,Lämna övriga uppgifter till Statistiska Centralbyrån (SCB),,,,,,,,,
+1.1.5.2,Begäran om statistiska uppgifter,Diarieförs,,Bevaras,Ärendeakt/Platina,Nej,,,"Avser t ex kvartalssammandrag
+för regioner.",
+1.1.5.2,"Sammanställd statistik överlämnad
+till SCB",Diarieförs,,Bevaras,"SCB:s
+uppgiftslämnarportal/
+Ärendeakt/Platina",Nej,,,"Kopia av slutgiltiga utgående
+datafiler till SCB sänds i PDF
+till diariet för registrering.",

@@ -1,0 +1,25 @@
+,,,,,,,,,,,,,,,
+Avgiftstypregister,,,,,,,,,,,,,,,Innehåller uppgifter om vilka
+,,,,,,,,,,,,,,,"avgiftstyper som finns i VAS,"
+,,,,,,,,,,,,,,,samt om de ger rätt till
+,,,,,,,,,,,,,,,kompensation för utebliven
+,,,,,,,,,,,,,,,patientavgift.
+,,,,,,,,,,,,,,,
+Betalsättsregister,,,,,,,,,,,,,,,Innehåller uppgifter om vilka
+,,,,,,,,,,,,,,,betalsätt som är giltiga i VAS
+,,,,,,,,,,,,,,,- vissa av betalsätten ger 0 kr
+,,,,,,,,,,,,,,,"i avgift för patienten, men ger"
+,,,,,,,,,,,,,,,verksamheten kompensation
+,,,,,,,,,,,,,,,för utebliven avgift.
+,,,,,,,,,,,,,,,
+Register för,,,,,,,,,,,,,,,Innehåller uppgifter om
+kassaidentitet,,,,,,,,,,,,,,,kassanummer och vilken
+,,,,,,,,,,,,,,,avstämningsgrupp kassan
+,,,,,,,,,,,,,,,tillhör.
+,,,,,,,,,,,,,,,
+Register för momskod,,,,,,,,,,,,,,,Innehåller uppgifter om hur
+,,,,,,,,,,,,,,,momssatsen är på en viss
+,,,,,,,,,,,,,,,artikel eller tjänst. Är
+,,,,,,,,,,,,,,,beroende på vilken kod som
+,,,,,,,,,,,,,,,är kopplad till tjänsten eller
+,,,,,,,,,,,,,,,artikeln.

@@ -1,0 +1,6 @@
+Handling,"Typ av informationsbärare. Kan i detta sammanhang vara i pappersform, en datafil eller databas."
+Medium,Avser i vilket format informationen finns lagrad. Här i papper eller digitalt/datafil.
+Förvaring/sortering,Avser var informationen finns lagrad och sorterad.
+Bokföringsidentitet,Informationens unika identitet i systemet.
+Gallring,Handlingen ska efter angiven tid förstöras. Anger hur länge informationen ska sparas innan den får gallras ut.
+Anmärkning,Övrig information rörande aktuellt dokument/datafil.
