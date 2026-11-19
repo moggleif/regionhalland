@@ -107,7 +107,7 @@ indikatorer.
 Motionerna har fullmäktiges beslut där beslutet finns bland nämndens
 handlingar; resten kommer när regionfullmäktige är hämtat.
 Gemensam nämnd för hemsjukvård och hjälpmedel har sidorna för de år poolen
-har hämtat, 2017–2021 och 2023–2026: överenskommelserna med kommunerna
+har hämtat, 2017–2026 utom första halvan av 2022: överenskommelserna med kommunerna
 (hemsjukvården, samverkansavtalet, trygg och effektiv utskrivning och
 betalningsmodellen), redovisningarna (hjälpmedelsuppdraget och
 indikatorrapporterna), initiativärendena och granskningarna. Nämnden fick
