@@ -1,0 +1,63 @@
+Risk,Kontrollmoment,
+"Risk att
+chefer/medarbetare saknar
+tillräcklig kunskap om
+dataskydd
+(personuppgiftsbehandling)
+för att kunna leva upp till
+lagkraven i
+dataskyddsförordningen
+(GDPR).","Kontrollera i kompetensportalen att alla
+chefer/medarbetare genomfört dataskyddsutbildning. Vid
+inträffade personuppgiftsincidenter, kontrollera och följa
+upp att rutiner följts och är kända samt vid behov
+uppdatera dessa.",
+,"Resultat: Antalet chefer/medarbetare på RK som under
+2021 avklarat dataskyddsutbildning är 60 st (på
+miniminivå) och 15 st (på medelnivå), av totalt 513
+personer.
+Antalet personuppgiftsincidenter som inkommit samt
+anmälts under 2021 där RK var det felande
+verksamhetsområdet är två stycken.
+Åtgärd krävs (alla RK chefer ska ansvara för att sina
+medarbetare genomför dataskyddsutbildning, och att
+utbildningen ingår i grundutbildningarna, och att rutiner
+och processer på intranätet uppmärksammas)",
+"Risk att
+personuppgiftsbiträdesavtal
+(PUB-avtal) saknas/är
+inaktuella mellan Region
+Halland och de
+leverantörer av
+tjänster/produkter som
+behandlar Region Hallands
+personuppgifter.","Kontrollera vilka tjänster/leverantörer som används
+på respektive enhet. Sortera ut de tjänster/leverantörer
+som hanterar personuppgifter. Kontrollera om det finns
+aktuella PUB-avtal för dessa.",
+,"Resultat: Antalet PUB avtal som i dagsläget finns för
+Regionstyrelsen är 69 stycken där de är PUA
+(ansvariga) och 143 stycken där de är PUB (biträden).
+Åtgärd krävs (fortsatt och fördjupat arbete med den
+tidigare skapade processen för PUB-avtal)",
+"Risk att driftstopp eller
+informationsläckage sker i
+administrativa system","Analys kritiska incidenter per system i IT:s
+incidentrapportering.",
+,"Resultat: RK har haft totalt 3 st incidenter av typ 1or eller
+2or fördelade enligt: januari - Självservice omstart av
+server, februari - Servicedesk Plus tjänst som behövde
+startas om, april - regionhalland.se ligger nere orsak
+certifikat som gått ut.
+Kommentar för den i april är att: ”Ett certifikat gått ut bör
+objektet haft koll på kan man tycka. De två övriga kan
+anses vara incidenter som beror på svårförutsägbara
+omständigheter. De är ”normala” alltså.
+Åtgärd krävs (säkerställa att rutin för certifikatens
+livscykel inom RK IT och digitaliserings grunduppdrag
+följs upp)",
+,Analys rapporterade dataskyddsärenden,
+,"Resultat: RK har rapporterat två personuppgifts-
+incidenter under 2021. Incidenterna har omhändertagits
+enligt gällande rutin.
+Åtgärd krävs inte",
