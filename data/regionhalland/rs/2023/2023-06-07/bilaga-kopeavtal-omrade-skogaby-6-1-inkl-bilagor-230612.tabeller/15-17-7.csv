@@ -1,0 +1,126 @@
+TAXERINGSINFORMATON,,,
+Taxeringsenhet,,,Taxeringsår
+"OBEBYGGD LANTBRUKSENHET. (110)
+101774-9",,,2020
+"Taxeringsdel som omfattar hel registerfastighet och ingår i en
+sammanföring.",,,
+Taxvärde,Taxvärde byggnad,Taxvärde mark,Areal
+150 141 000 SEK,,150 141 000 SEK,14758637 kvm
+Ingående värden,Värde,Areal,
+Skogsmark,148 587 000 SEK,1184 ha,
+Skogsimpediment,826 000 SEK,262 ha,
+Åkermark,454 000 SEK,6 ha,
+Betesmark,274 000 SEK,10 ha,
+Övrig mark,,16 ha,
+Samtaxering för registerenheter,,,
+"LAHOLM MÄSTOCKA 1:21
+LAHOLM BÅLLALT 1:19
+LAHOLM KÄLLSHULT 1:10
+LAHOLM KÄLLSHULT 1:18
+LAHOLM KÄLLSHULT 1:14
+LAHOLM UDDARED 2:1
+LAHOLM TORSAKULLA 2:2
+LAHOLM MÄSTOCKA 1:20
+LAHOLM SKOGABY 10:1
+LAHOLM KATTARP 1:22
+LAHOLM MÄSTOCKA 2:12
+LAHOLM KÄLLSHULT 1:16
+LAHOLM TORSAKULLA 1:4
+LAHOLM KÄLLSHULT 1:11
+LAHOLM BÅLLALT 2:9
+LAHOLM MÄSTOCKA 1:19
+LAHOLM SKOGABY 6:1
+LAHOLM TORSAKULLA 2:3",,,
+Taxerad ägare,Andel,Ägartyp,Juridisk form
+"232100-0115
+REGION HALLAND
+BOX 517
+301 80 HALMSTAD",1/1,"Lagfaren ägare /
+Tomträttsinnehavare",Landsting
+Värderingsenhet betesmark 92110169,,,
+Taxvärde,Areal,Riktvärdeområde,
+274 000 SEK,10 ha,13017,
+Värde före ev. justering,Beskaffenhet,,
+330 000 SEK,"(4) 30 % lägre avkastning och
+kvalitet än normalt i
+värdeområdet",,
+Värderingsenhet åkermark 92109169,,,
+Taxvärde,Areal,Riktvärdeområde,
+454 000 SEK,6 ha,13017,
+Värde före ev. justering,Brukningsvärde,Dränering,
+547 000 SEK,(5) Mycket sämre än normalt,(3) Otillfredsställande,
+Värderingsenhet skogsimpediment 92108169,,,
+Taxvärde,Areal,Riktvärdeområde,
+826 000 SEK,262 ha,1310,
+Värde före ev. justering,Beskaffenhetsklass,,
+995 000 SEK,,,
+Värderingsenhet skog 92107169,,,
+Taxvärde,Areal,Riktvärdeområde,
+148 587 000 SEK,1184 ha,1310,
+Värde före ev. justering,Bonitet,,
+179 000 000 SEK,8.6,,
+"Virkesförråd, barr","Virkesförråd, löv",Godhetsklass,
+286 kbm/ha,28 kbm/ha,(C) Normal godhet,
+Taxeringsenhet,,,Taxeringsår
+"INDUSTRIENHET, GATU-/PARKMARK (498)
+143297-9
+Taxeringsdel som utgör taxeringsenhet och omfattar byggnad
+på ofri grund.",,,2019
+Taxvärde,,,Areal
+,,,0 kvm
+Taxerad ägare,Andel,Ägartyp,Juridisk form
+"202100-2817
+SVERIGES LANTBRUKSUNIVERSITET
+SLU
+Box 7070
+750 07 UPPSALA",1/1,Ägare till byggnad å,Statliga enheter
+Taxeringsenhet,,,Taxeringsår
+"ELPRODUKTIONSENHET, VINDKRAFTVERK (734)
+728780-0
+Taxeringsdel som utgör taxeringsenhet och omfattar byggnad
+på ofri grund.",,,2019
+Taxvärde,Taxvärde byggnad,Taxvärde mark,Areal
+9 282 000 SEK,9 282 000 SEK,,0 kvm
+Taxerad ägare,Andel,Ägartyp,Juridisk form
+"556875-6976
+CapViva Wind Skogaby AB
+BOX 808
+301 18 HALMSTAD",1/1,Ägare till byggnad å,Övriga aktiebolag
+Värderingsenhet byggnad på övrigt kraftverk 301091165,,,
+Taxvärde,Justeringsorsak,,
+9 282 000 SEK,"Avvikande drifttid för
+vindkraftverk",,
+Nybyggnadsår,Värdeår,Installerad effekt,
+2013,2013,6050000 kW,
+Återanskaffningskostnad till nyproduktionsstandard,,,
+Taxeringsenhet,,,Taxeringsår
+"ELPRODUKTIONSENHET, TOMT TILL VINDKRAFTVERK
+(718)
+728781-0
+Taxeringsdel som utgör taxeringsenhet och omfattar del av
+registerfastighet.",,,2019
+Taxvärde,Taxvärde byggnad,Taxvärde mark,Areal
+191 000 SEK,,191 000 SEK,250 kvm
+Taxerad ägare,Andel,Ägartyp,Juridisk form
+"232100-0115
+REGION HALLAND
+BOX 517
+301 80 HALMSTAD",1/1,"Lagfaren ägare /
+Tomträttsinnehavare",Landsting
+Värderingsenhet mark på övrig kraftverk 301114668,,,
+Taxvärde,Justeringsorsak,,
+191 000 SEK,,,
+Taxeringsenhet,,,Taxeringsår
+"HYRESHUSENHET, UNDANTAG FRÅN SKATTEPLIKT
+ENLIGT 3 KAP 4 PAR FTL (381)
+729990-0
+Taxeringsdel som utgör taxeringsenhet och omfattar byggnad
+på ofri grund.",,,2019
+Taxvärde,,,Areal
+,,,0 kvm
+Taxerad ägare,Andel,Ägartyp,Juridisk form
+"802457-1153
+VEINGE JAKTSKYTTEKLUBB
+c/o CARL-OLA OLSSON
+ÖRINGE 202
+312 91 LAHOLM",1/1,Ägare till byggnad å,Ideella föreningar

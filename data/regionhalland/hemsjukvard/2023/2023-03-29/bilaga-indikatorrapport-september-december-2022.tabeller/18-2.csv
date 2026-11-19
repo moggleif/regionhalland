@@ -1,0 +1,20 @@
+"A. Antal
+utskrivningar","Antal vårdtillfällen per utskrivningsdatum.
+Beräknas för HS och PiH Används som nämnare
+för att beräkna andelar.",Antal,Region Hallands journalsystem VAS,
+"B. Antal
+inskrivningar","Antal vårdtillfällen per inskrivningsdatum.
+Beräknas för HS och PiH Används som nämnare
+för att beräkna andelar.",Antal,Region Hallands journalsystem VAS,
+"B. Utskrivningsklara
+patienter på sjukhus","Utskrivningsklar är en patient när hälsotillståndet
+är sådant att behandlande läkare bedömer att
+patienten inte längre behöver vård vid en enhet
+inom den slutna vården.",Dagar i genomsnitt,"Väntetid i vården – Sveriges kommuner och regioner,
+SKR
+https://www.vantetider.se/Kontaktkort/Hallands/Utskri
+vningsklara
+Uppdaterad länk, nu:
+https://www.vantetider.se/vantetiderivarden/vantetids
+statistik/specialiseradvard/utskrivningsklarapatienter.54
+395.html",

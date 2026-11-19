@@ -1,0 +1,62 @@
+Riskkategori,Riskområde,Risk,Beskrivning av risk,Sannolikhet,Konsekvens
+"Huvudprocess /
+Verksamhets-
+process","Utförd hälso- och sjukvård,
+primärvårdsnivå","Risk att omställningen mot en mer proaktiv, förebyggande Hög belastning, och fokus på att hantera omedelbara vårdbehov kan begränsa verksamhetens möjligheter att arbeta långsiktigt med
+och hälsofrämjande vård inte genomförs i tillräcklig förebyggande och hälsofrämjande insatser enligt intentionerna i God och Nära vård. Hög Kännbar
+omfattning, enligt God och nära vård",,,
+,,"Risk att inkommande remisser och provsvar inte bevakas Provsvar och remisser som försenas eller missas att omhändertas kan leda till försenad diagnos och behandling av patient.
+vid frånvaro eller personalomsättning på grund av otydlig Medel Allvarlig
+ansvarsfördelning",,,
+,,"Risk att felaktiga intyg eller förskrivningar leder till Felaktiga intyg, medicinska utlåtanden eller förskrivningar kan medföra att ersättningar, stöd, läkemedel eller hjälpmedel beviljas
+otillbörligt nyttjande av välfärdssystem eller läkemedel utan tillräcklig grund. Det kan exempelvis gälla sjukskrivningsintyg som används som underlag för ersättning eller förskrivning av Medel Allvarlig
+narkotikaklassade läkemedel utan medicinskt behov. Det kan leda till att gemensamma resurser används felaktigt, att patienter med
+större behov trängs undan och att läkemedel används på ett sätt som kan orsaka skada.",,,
+Ledningsprocess,"Efterlevnad av författning
+och politiska beslut","Risk för bristande egen tillsyn och egenkontroller utan Om egenkontroller inte genomförs finns risk att brister i verksamheten inte upptäcks och därför inte åtgärdas. Det kan exempelvis
+uppföljande åtgärd i verksamheter enligt SOSFS 2011:9 gälla journalgranskning, läkemedelshantering, vårdhygien och informationssäkerhet, med möjliga konsekvenser för Hög Kännbar
+patientsäkerheten och kvaliteten i vården.",,,
+,"Styrning, resursfördelning
+och uppföljning","Risk att effekten av föreslagna ekonomiska åtgärder är Om planerade ekonomiska åtgärder ger inte önskad effekt kan det i sin tur medföra fortsatta ekonomiska utmaningar och behov av
+otillräcklig ytterligare åtgärder för att nå budget i balans Hög Kännbar",,,
+,Ledningssystematik,"Risk att medarbetare inom Vårdcentralen Halland inte Styrande dokument finns på flera ställen vilket försvårar att hitta rätt och kan leda till att inaktuella eller lokala arbetssätt används.
+hittar och följer aktuella styrande dokument Medel Allvarlig",,,
+,,"Risk att nya och reviderade styrande dokument inte Otydligt ansvar och otillräckliga arbetssätt för granskning, kommunikation och införande kan medföra att nya eller ändrade rutiner
+kvalitetssäkras och införs i verksamheten på ett inte är tillräckligt förankrade eller får avsedd effekt. Hög Kännbar
+ändamålsenligt sätt",,,
+,"Kommunikation och
+varumärke","Risk att inte nå ut med snabb information till vissa I ett allt mer digitalt samhälle och ökad risk för cyberattacker finns risk för att samtliga digitala kommunikationssystem slås ut vilket
+målgrupper vid omfattande störning eller kris kommer omöjliggöra en effektiv och samordnad informationsinsats. Medel Allvarlig",,,
+Stödprocess,"Systematiskt
+patientsäkerhetsarbete","Risk att utredningar av allvarliga avvikelser inte identifierar Bristande kunskap om händelseanalys hos dem som leder eller deltar i utredningen kan medföra att bakomliggande orsaker till
+bakomliggande orsaker, vilket kan leda till att dessa inte allvarliga avvikelser inte identifieras. Då riskerar åtgärderna att bli otillräckliga och liknande händelser kan inträffa igen. Enligt Medel Allvarlig
+åtgärdas regional rutin för utredning av allvarlig vårdskada ska händelseanalys användas vid inträffad eller risk för allvarlig vårdskada.",,,
+,"Säkerhet (fysisk säkerhet
+för medarbetare)","Risk att medarbetare utsätts för hot och våldssituationer Bristande kännedom om rutiner, otillräcklig övning och avsaknad av lokala arbetssätt och interna larm kan försvåra medarbetarnas
+möjligheter att förebygga och hantera hot och våld Medel Allvarlig",,,
+,Informationssäkerhet,"Risk att personuppgifter och andra sekretessbelagda Bristande kunskap, otydliga rutiner eller otillräckliga säkerhetsåtgärder kan medföra att personuppgifter och andra sekretessbelagda
+uppgifter röjs för obehöriga eller hanteras utan tillräckligt uppgifter blir åtkomliga för obehöriga. Det kan exempelvis ske när datorer lämnas olåsta med SITHS-kortet kvar, handlingar skickas Hög Kännbar
+skydd till fel mottagare eller uppgifter lämnas ut och bokningar ändras utan tillräcklig identitetskontroll. Det kan leda till intrång i den
+enskildes integritet och minskat förtroende för verksamheten.",,,
+,,"Risk att medarbetare inte har tillräcklig kunskap om Bristande kunskap och riskmedvetenhet hos medarbetare kan öka sårbarheten för dataintrång och digitala bedrägerier. Det kan
+dataintrång/bedrägeri exempelvis handla om att öppna skadliga länkar eller bilagor eller att använda arbetsutrustning för privata ändamål på ett sätt som Hög Allvarlig
+medför säkerhetsrisker. Detta kan leda till att obehöriga får tillgång till känsliga uppgifter, att information går förlorad eller förändras
+och att verksamhetens IT-system inte kan användas. Följden kan bli störningar i vård och tandvård samt försämrad informations- och
+patientsäkerhet.",,,
+,"Krisberedskap och kritiska
+försörjningssystem (gas,
+vatten, el, ventilation)","Risk att verksamheter inte kan bedriva hälso- och sjukvård Verksamheterna är beroende av fungerande el, vatten, IT och andra kritiska försörjningssystem. Vid avbrott kan vård och tandvård
+vid kris eller avbrott i kritiska försörjningssystem behöva begränsas eller ställas in. Otillräckliga reservlösningar och bristande planering för samverkan mellan enheter kan försvåra Hög Allvarlig
+möjligheten att upprätthålla nödvändig vård, med risk för fördröjd behandling och försämrad patientsäkerhet.",,,
+,"Kompetensförsörjning
+(attrahera, rekrytera,
+introducera,
+kompetensutveckla och
+behålla medarbetare och
+chefer)","Risk att svårigheter att rekrytera och tillgodose Brist på rätt kompetens kan begränsa tillgängligheten, kontinuiteten och möjligheten att utveckla verksamheten. Det kan exempelvis
+kompetensbehovet begränsar verksamhetens förmåga att försvåra utvecklingen av teamtandvård och möjligheten för patienter att träffa samma läkare över tid på vårdcentralen. Det kan också Medel Allvarlig
+fullgöra uppdraget leda till fördröjd vård och ökad arbetsbelastning för befintliga medarbetare.",,,
+,"Arbetsmiljö och
+arbetsgivaransvar","Risk att Närsjukvårdens systematiska arbetsmiljöarbete Om arbetsmiljörisker inte identifieras, åtgärdas och följs upp kan brister kvarstå eller återkomma utan att arbetsmiljön förbättras. Det
+inte leder till förbättringar och lärande gäller exempelvis om resultat från arbetsmiljöronder och medarbetarenkäter inte omsätts i åtgärder eller om åtgärdernas effekt inte Medel Allvarlig
+utvärderas. Det kan leda till ohälsa, arbetsskador och ökad sjukfrånvaro samt försvåra verksamhetens lärande.",,,

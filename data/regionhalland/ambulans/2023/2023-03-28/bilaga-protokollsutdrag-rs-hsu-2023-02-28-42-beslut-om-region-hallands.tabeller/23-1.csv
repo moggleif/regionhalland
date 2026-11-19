@@ -1,0 +1,25 @@
+Egenkontroll,Omfattning,Källa
+"Journalgranskning
+Sjuksköterska
+ambulanssjukvård (AC)",4 journaler/månad,Följs idag inte upp
+Avvikelser,Löpande under året,Avvikelsehanteringssystemet
+Journalgranskning Stab (MLA),Löpande under året,"APT, enskilda samtal"
+Tillgänglighet vid prio 1 larm,1 gång per månad,Paratus/Business Objects
+Tillgänglighet sjukresor,1 gång per månad,SOS Alarm
+"Patientens klagomål och
+synpunkter",Löpande under året,"Patientnämnden, IVO,
+avvikelsehanteringssystemetNationell
+patientenkät"
+"Svenska Hjärt- och
+Lungräddningsregistret",Löpande under året,Kvalitetsregistret
+"Samtalsuppföljningar
+sjuksköterskor 1177",2 samtal/10 veckor,Protokoll
+Loggkontroller rådgivningsstöd,2 sjuksköterskor/veck,Rapport
+Journalgranskning 1177 (AB),"10 samtal per år per
+medarbetare dessa journaler
+granskas","Rapport, enskilda samtal"
+Basal hygien (MLA),"Löpande kontroller av AC
+gällande korrekt klädsel,
+smycken, klockor och naglar.","STRATSYS varje månad bekräftar
+AC att arbetet genomförts."
+SMS-livräddning,Uppföljning månadsvis.,STRATSYS

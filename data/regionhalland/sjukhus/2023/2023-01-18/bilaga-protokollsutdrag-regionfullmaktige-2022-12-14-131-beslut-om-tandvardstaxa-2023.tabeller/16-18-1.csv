@@ -1,0 +1,142 @@
+406S,"Tanduttagning, övertalig tand",,1 520,1 520
+407S,Övrig kirurgi eller plastik,,2 820,2 820
+408S,"Preprotetisk friläggning med lambå, omfattande",,5 890,5 890
+409S,"Kirurgiskt avlägsnande av tand i annan kvadrant i samband med parodontalkirurgiska åtgärder, tilläggsåtgärd",,2 180,2 180
+410S,"Tanduttagning, ytterligare när flera tanduttagningar utförs under samma dag eller i samband med lambåoperation",,1 225,1 125
+420S,"Implantat, per styck, tilläggsåtgärd",,3 060,Enligt faktura/listpris
+421S,"Operation avseende käkbensförankrade implantat, ett implantat",,4 325,6 472
+422S,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,,2 025,2 210
+423S,"Operation avseende käkbensförankrade implantat, två eller tre implantat",,6 310,7 292
+424S,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,,2 290,2 433
+425S,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",,8 510,10 142
+426S,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,,3 105,3 324
+427S,Benaugmentation med egen vävnad i en kvadrant,,5 505,6 823
+427S1,"Benaugmentation med egen vävnad i en kvadrant, omfattande",,5 505,11 867
+428S,Benaugmentation med benersättningsmaterial i en kvadrant,,6 275,8 790
+428S1,"Benaugmentation med benersättningsmaterial i en kvadrant, omfattande",,6 275,14 020
+429S,Kirurgiskt avlägsnande av implantat,,5 435,5 435
+430S,Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i annan kvadrant eller implant,,2 165,2 702
+431S,Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperation i annan k,,3 270,3 562
+432S,"Benaugmentation med benersättningsmaterial i samband med implantatinstallation, per kvadrant, tilläggsåtgärd",,2 440,2 955
+433S,"Sinuslyft utan autologt ben eller benersättningsmaterial i samband med implantatinstallation,per kv,tilläggsåtgärd",,1 520,2 955
+435S,Avlägsnande av ett implantat,,,1 380
+436S,"Avlägsnande av ett implantat, enkel",,1 040,1 100
+446S,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd",,2 165,2 165
+446S1,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, omfattande",,2 165,2 636
+447S,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd",,1 460,1 460
+447S1,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, omfattande",,1 460,2 361
+448S,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd",,1 070,2 441
+451S,Parodontalkirurgi i en kvadrant eller inom tandposition 3-3,,4 825,4 825
+451S1,"Parodontalkirurgi i en kvadrant eller inom tandposition 3-3, en tand",,4 825,4 064
+452S,Parodontalkirurgi i flera kvadranter eller omfattande parodontalkirurgi i en kvadrant eller inom tandposition 3–3,,6 630,6 630
+453S,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i en kvadrant eller inom tand,,p 5 075,5 075
+453S1,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i en kvadrant eller inom tand,,p 5 075,4 264
+454S,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i flera kvadranter eller omfatt,,6 630,6 630
+500 Endodontiska åtgärder,,,,
+501S,"Rensning och rotfyllning, en rotkanal",,4 655,5 135
+502S,"Rensning och rotfyllning, två rotkanaler",,5 635,5 775
+503S,"Rensning och rotfyllning, tre rotkanaler",,7 095,7 543
+504S,"Rensning och rotfyllning, fyra eller fler rotkanaler",,7 725,8 257
+520S,"Akut endodontisk behandling, annan behandlare",,1 270,1 382
+521S,Akut trepanation och kavumexstirpation,,1 130,1 255
+522S,Komplicerad kanallokalisation,,1 135,1 135
+523S,Stiftborttagning,,1 665,1 665
+541S,Apikalkirurgisk behandling,,5 150,5 160
+541S2,"Apikalkirurgisk behandling, per operationstillfälle, två rötter",,5 150,5 805
+541S3,"Apikalkirurgisk behandling, per operationstillfälle, tre rötter",,5 150,6 450
+541S4,"Apikalkirurgisk behandling, per operationstillfälle, fyra rötter",,5 150,7 242
+541S5,"Apikalkirurgisk behandling, per operationstillfälle, fem rötter",,5 150,9 018
+542S,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle, tilläggsåtgärd",,1 445,1 445
+600 Bettfysiologiska åtgärder,,,,
+601S,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",,5 305,5 411
+602S,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",,5 305,5 411
+603S,"Reponeringsskena, per skena",,7 420,7 876
+604S,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologisk indikation, per skena",,2 805,3 208
+606S,Motorisk aktivering,,715,715
+607S,Bettslipning för ocklusal stabilisering,,1 075,1 075
+800 Protetiska åtgärder,,,,
+800S,"Permanent tandstödd krona, en per käke",,7 560,8 061
+800S1,"Permanent tandstödd krona, en per käke. Material: Zirkonia, helkeram, porslinsinlägg",,7 560,8 834
+800S2,"Permanent tandstödd krona, en per käke. Material: Guld",,7 560,Enligt faktura
+800S3,"Permanent tandstödd krona, en per käke. Material: Helkeram - i estetiska zonen",,7 560,10 327
+801S,"Permanent tandstödd krona, flera i samma käke",,5 880,8 061
+801S1,"Permanent tandstödd krona, flera i samma käke. Material Zirkonia, helkeram",,5 880,8 834
+801S2,"Permanent tandstödd krona, flera i samma käke. Material: Guld",,5 880,Enligt faktura
+801S3,"Permanent tandstödd krona, flera i samma käke. Material: Helkeram - i estetiska zonen",,5 880,10 327
+802S,Laboratorieframställd pelare med intraradikulärt stift,,4 195,4 318
+802S1,"Laboratorieframställd pelare med intraradikulärt stift. Material: Zirkonia, helkeram",,4 195,5 137
+802S2,Laboratorieframställd pelare med intraradikulärt stift. Material: Guld,,4 195,Enligt faktura
+803S,Klinikframställd pelare med intraradikulärt stift,,2 090,2 058
+804S,"Hängande led vid tandstödd protetik, per led",,2 635,3 503
+804S1,"Hängande led vid tandstödd protetik, per led. Material: Zirkonia, helkeram",,2 635,4 197
+804S2,"Hängande led vid tandstödd protetik, per led. Material: Guld",,2 635,Enligt faktura
+804S3,"Hängande led vid tandstödd protetik, per led. Material: Helkeram - i estetiska zonen",,2 635,5 365
+805S,"Emaljretinerad konstruktion, laboratorieframställd, per stöd",,2 415,2 482
+805S1,"Emaljretinerad konstruktion, laboratorieframställd, per stöd - särskilt tidskrävande",,2 415,3 221
+806S,Radikulärförankring vid avtagbar protes,,4 490,4 786
+807S,"Semipermanent krona eller hängande led, per led",,3 105,3 587
+808S,Innerkrona för teleskop- eller konuskonstruktion,,4 415,4 570
+809S,"Långtidstemporär laboratorieframställd krona eller hängande led, per led",,1 325,1 502
+811S,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd",,820,820
+811S1,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd, adhesiv cementering",,820,1 189
+812S,"Reparation av krona eller bro, utan tandteknisk insats",,2 120,2 120
+813S,Broreparation med tandteknisk insats,,6 165,6 176
+814S,"Broreparation med tandteknisk insats, omfattande",,10 490,12 109
+815S,Sadelkrona,,6 790,8 168
+822S,"Partiell protes, utan metallskelett eller för temporärt bruk, en till tre tänder",,4 735,4 755
+823S,"Partiell protes, utan metallskelett eller för temporärt bruk, fyra eller fler tänder",,6 610,6 977
+824S,"Partiell protes med metallskelett, klammerförankrad",,13 625,16 082
+825S,"Komplicerad partiell protes med metallskelett som förankras med stöd av urtagskrona, innerkrona eller attachment",,16 315,19 000
+826S,"Attachments, per styck",,105,Enligt faktura/listpris
+827S,Hel underkäksprotes,,12 735,13 767
+828S,Hel överkäksprotes,,12 735,13 767
+829S,"Immediatprotes, hel käke",,8 930,11 163
+831S,Justering av avtagbar protes,,540,617
+832S,Lagning av protes eller tillsättning av protestand,,1 615,1 951
+833S,Rebasering av protes,,3 350,3 798
+834S,Lagning av protes där avtryck krävs,,2 495,2 922
+835S,Rebasering och lagning av protes,,3 930,4 344
+836S,Komplicerad lagning av protes,,4 760,5 000
+837S,Komplicerad lagning av protes där uppvaxning och gjutning av ny del utförs vilken svetsas till befintlig protes.,,8 265,8 347
+839S,Inmontering av förankringselement,,3 875,4 273
+845S,Ocklusionskorrigerande bettslipning,,2 620,2 625
+846S,"Skena, hel eller cementerad i sektioner, för vertikal platsberedning eller bettstabilisering",,5 590,5 799
+847S,Klammerplåt,,5 190,5 353
+848S,"Betthöjning eller uppbyggnad för ocklusal stabilisering med fyllningsmaterial, per tandposition",,790,790
+850S,"Implantatstödd krona, en per käke.",,10 330,11 330
+850S1,"Implantatstödd krona, en per käke. Material: Zirkonia, helkeram",,10 330,12 138
+852S,"Implantatstödd krona, flera i samma käke",,7 970,10 053
+852S1,"Implantatstödd krona, flera i samma käke. Material: Zirkonia/helkeram",,7 970,10 917
+853S,Hängande led vid implantatstödd bro,,2 635,3 494
+853S1,"Hängande led vid implantatstödd bro. Material: Zirkonia, helkeram",,2 635,4 293
+854S,"Semipermanent implantatstödd krona eller hängande led, per led",,2 705,2 705
+854S1,"Semipermanent implantatstödd krona, eller hängande led per led, omfattande",,2 705,4 525
+855S,"Fästskruv/broskruv och cylinder vid semipermanent implantatstödd krona, per implantat",,580,Enligt faktura/listpris
+856S,"Långtidstemporär laboratorieframställd implantatstödd krona eller hängande led, per led",,1 870,1 870
+856S1,"Långtidstemporär laboratorieframställd implantatstödd krona eller hängande led, per led, omfattande",,1 870,4 493
+857S,"Fästskruv/broskruv och cylinder vid långtidstemporär laboratorieframställd implantatstödd krona, per implantat",,525,Enligt faktura/listpris
+858S,"Distans inklusive distansskruv, per styck",,1 365,1 402
+858S1,"Distans inklusive distansskruv, per styck. Material: Helkeram alternativt individuell distans",,1 365,3 258
+858S2,"Distans inklusive distansskruv, per styck. Kostnad enligt faktura/listpris",,1 365,Enligt faktura/listpris
+859S,"Integrerad distans/kopplingskomponent vid separat implantatstödd krona, per styck, tilläggsåtgärd",,1 165,1 165
+861S,Implantatstödd bro i överkäke på fyra implantat,,38 215,55 219
+861S1,Implantatstödd bro i överkäke på fyra implantat. Material: Metall/keramik,,38 215,57 312
+861S2,Implantatstödd bro i överkäke på fyra implantat. Material: Zirkonia,,38 215,58 447
+862S,Implantatstödd bro i överkäke på fem implantat,,40 335,56 566
+862S1,Implantatstödd bro i överkäke på fem implantat. Material: Metall/keramik,,40 335,60 124
+862S2,Implantatstödd bro i överkäke på fem implantat. Material: Zirkonia,,40 335,61 777
+863S,Implantatstödd bro i överkäke på sex eller fler implantat,,41 970,61 750
+863S1,Implantatstödd bro i överkäke på sex eller fler implantat. Material: Metall/keramik,,41 970,65 162
+863S2,Implantatstödd bro i överkäke på sex eller fler implantat. Material: Zirkonia,,41 970,66 863
+865S,Implantatstödd bro i underkäke på fyra eller fler implantat,,36 700,55 151
+865S1,Implantatstödd bro i underkäke på fyra eller fler implantat. Material: Metall/keramik,,36 700,57 239
+865S2,Implantatstödd bro i underkäke på fyra eller fler implantat. Material: Zirkonia,,36 700,58 373
+871S,"Implantatstödd täckprotes i överkäke på två implantat, eller implantatstödd täckprotes i underkäke på implantat o",,21 560,25 042
+872S,Implantatstödd täckprotes i överkäke på tre implantat,,23 950,29 051
+873S,Implantatstödd täckprotes i överkäke på fyra implantat eller fler,,26 705,31 554
+874S,Tillägg för alveolarbar på två implantat,,5 130,5 184
+874S1,Tillägg för alveolarbar på två implantat. Fräst bar inklusive skruvar,,5 130,10 125
+875S,Tillägg för alveolarbar på tre implantat,,5 975,6 028
+875S1,Tillägg för alveolarbar på tre implantat. Fräst bar inklusive skruvar,,5 975,11 189
+876S,Tillägg för alveolarbar på fyra implantat,,7 830,8 778
+876S1,Tillägg för alveolarbar på fyra implantat. Fräst bar inklusive skruvar,,7 830,12 078

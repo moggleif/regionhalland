@@ -1,0 +1,30 @@
+"Inkommande/Utgåend
+e remisser enligt
+Socialstyrelsen",Vårdcentral 1,Vårdcentral 2,Vårdcentral 3
+"Inkommande remisser
+1. vem eller vilka inom
+verksamheten som får
+utfärda inkommande
+svar",Ja,Nej,Nej
+"2. hur remisserna skall
+registreras och sändas",Ja,Ja,Ja
+"3. bevakning av att
+remissvar kommer in
+inom godtagbar tid",Ja,Nej,Nej
+"4.vilka åtgärder som
+skall vidtas om svaret
+på en remiss dröjer eller
+uteblir",Ja,Nej,Nej
+"Utgående remisser
+1. vem eller vilka inom
+verksamheten som får
+utfärda remisser",Nej,Nej,Nej
+"2. hur remisserna skall
+registreras och sändas",Nej,Nej,Nej
+"3.bevakning av att
+remissvar kommer in
+inom godtagbar tid",Ja,Nej,Nej
+"4. vilka åtgärder som
+skall vidtas om svaret
+på en remiss dröjer eller
+uteblir",Ja,Nej,Nej

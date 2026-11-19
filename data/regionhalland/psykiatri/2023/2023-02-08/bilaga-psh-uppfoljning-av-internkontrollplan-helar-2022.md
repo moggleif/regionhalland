@@ -1,0 +1,111 @@
+---
+kommun: regionhalland
+organ: psykiatri
+datum: 2023-02-08
+lopnr: null
+typ: bilaga
+namn: psh-uppfoljning-av-internkontrollplan-helar-2022
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-psykiatri/mote-2023-02-08/agenda/psh-uppfoljning-av-internkontrollplan-helar-2022pdf-29891
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-psykiatri/mote-2023-02-08/agenda/psh-uppfoljning-av-internkontrollplan-helar-2022pdf-29891?downloadMode=open
+sha256: 7a285c26bdf471a5db9b5a466f4fdac249508097c8af39c330ffdf7aefc71cb1
+bytes: 80196
+sidor: 5
+hamtad: 2026-11-19T01:36:45+00:00
+konverterad: 2026-11-19T01:36:47+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
+fel: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok]
+tal_obekraftade: []
+figurer: [1]
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+Uppföljning                     av
+
+internkontrollplan                                -
+
+helår          2022
+
+Psykiatrin Halland
+Helår 2022
+
+<!-- sida 2 -->
+
+Innehållsförteckning
+
+1 Uppföljning av kontrollmoment .....................................................................................................3
+1.1   Risk att patientsäkerhetsarbetet inte bedrivs systematiskt i hela förvaltningen ..................3
+
+1.2   Risk att verksamheten brister i tillämpande av tvångsvårdslagstiftning ..............................3
+1.3   Risk att systematiskt arbetsmiljöarbete inte bedrivs enligt gällande rutiner i hela
+förvaltningen ......................................................................................................................................3
+
+1.4   Risk att utbildning i hot och våld inte genomförs enligt rutin ................................................4
+1.5   Risk att rutiner för hantering av personuppgifter brister.......................................................4
+1.6   Risk att regler för upphandling och inköp inte följs ..............................................................5
+
+<!-- sida 3 -->
+
+1 Uppföljning   av  kontrollmoment
+
+1.1 Risk att patientsäkerhetsarbetet inte bedrivs systematiskt i hela
+förvaltningen
+
+1.2 Risk att verksamheten brister i tillämpande av tvångsvårdslagstiftning
+
+1.3 Risk att systematiskt arbetsmiljöarbete inte bedrivs enligt gällande rutiner
+i hela förvaltningen
+
+[Tabell 3-1](bilaga-psh-uppfoljning-av-internkontrollplan-helar-2022.tabeller/3-1.csv)
+
+| Kontrollmoment | Resultat av genomförd kontroll |
+| --- | --- |
+| Att rutiner finns och följs<br>Beskrivning av metod<br>Stickprov & statistikuppföljning | Systematisk inventering vid varje vårdenhet sker<br>regelbundet inom alla verksamheterna genom årligen<br>återkommande patientsäkerhetsronder. Övergripande<br>uppföljning på förvaltningsnivå genomförs i<br>förvaltningens styrgrupp för patientsäkerhet och<br>kvalitet där chefläkaren är sammankallande och<br>verksamhetscheferna deltar. |
+
+[Tabell 3-2](bilaga-psh-uppfoljning-av-internkontrollplan-helar-2022.tabeller/3-2.csv)
+
+| Kontrollmoment | Resultat av genomförd kontroll |
+| --- | --- |
+| Att rutiner finns och följs<br>Beskrivning av metod<br>Stickprov & statistikuppföljning | Rutiner kring tvångsvård finns fastställda i Psykiatrins<br>ledningssystem. Kontinuerlig kvalitetsgranskning sker. |
+
+[Tabell 3-4-3](bilaga-psh-uppfoljning-av-internkontrollplan-helar-2022.tabeller/3-4-3.csv)
+
+| Kontrollmoment | Resultat av genomförd kontroll |
+| --- | --- |
+| Att rutiner finns och följs<br>Beskrivning av metod<br>Stickprov & statistikuppföljning | Det systematiska arbetsmiljöarbetet pågår<br>kontinuerligt.<br>Riskanalyser genomförs och kvaliteten förbättras<br>kontinuerligt. I de flesta fallen genomförs riskanalysen<br>tillsammans med samverkansgrupp och skyddsombud.<br>Samtliga verksamheter har genomfört<br>Arbetsmiljöronder enligt regional plan.<br>Processen avseende tillbuds och arbetsskadeanmälan |
+|  | utvecklas kontinuerligt genom att förkorta<br>handläggningstid samt förfina återkoppling till berörda<br>medarbetare, APT samt skyddskommité.<br>Följsamheten till processen avseende upprepad<br>korttidssjukfrånvaro kan utvecklas ytterligare genom<br>fortsatt arbete med att införa ett riskorienterat<br>arbetssätt. Följsamheten till processen för<br>långtidssjukskrivna är god. Stöd från olika funktioner<br>inom HR bedöms fungera tillfredsställande. |
+
+<!-- sida 4 -->
+
+1.4 Risk att utbildning i hot och våld inte genomförs enligt rutin
+
+1.5 Risk att rutiner för hantering av personuppgifter brister
+
+[Tabell 4-1](bilaga-psh-uppfoljning-av-internkontrollplan-helar-2022.tabeller/4-1.csv)
+
+| Kontrollmoment | Resultat av genomförd kontroll |
+| --- | --- |
+| Att medarbetare går utbildning i hot<br>och våld<br>Beskrivning av metod<br>Stickprov & statistikgranskning | Samtlig personal i Psykiatrin Halland skall genomgå<br>utbildning i hot- och våld. Förvaltningen har vissa<br>utmaningar med uppföljning av exakt antalet<br>genomförda utbildningar p.g.a. att uppföljning i nuläget<br>inte följs upp på ett samlat sätt. Arbete med integrering<br>i Kompetensportalen för förbättrad uppföljning pågår<br>och förväntas vara genomfört inom kort.<br>Samtliga medarbetare inom vuxenpsykiatrins<br>heldygnsvård har genomgått utbildning under året.<br>Inom Öppenvården och Bup har ett antal medarbetare<br>ännu inte gått utbildningen i år men utbildning för<br>dessa medarbetare är planerade. |
+
+[Tabell 4-5-2](bilaga-psh-uppfoljning-av-internkontrollplan-helar-2022.tabeller/4-5-2.csv)
+
+| Kontrollmoment | Resultat av genomförd kontroll |
+| --- | --- |
+| Att rutiner finns och följs<br>Beskrivning av metod<br>Stickprov & Statistikgranskning | Region Halland har sedan GDPR-direktivet byggt upp<br>en central dataskyddsorganisation som hanterar frågor<br>kopplat till GDPR, PDL och OSL för samtliga<br>förvaltningar. Psykiatrin är även representerade i<br>Regionens informationssäkerhetsnätverk där frågor<br>kopplat till integritet och IT-säkerhet hanteras.<br>Psykiatrins representant har regelbundna möten med<br>IT-samordnare i verksamheten för att bland annat |
+|  | sprida kunskap, identifiera förbättringsområden med<br>mera kopplat till IT och informationssäkerhetsfrågor.<br>Rutiner kopplat till informationssäkerhet finns<br>tillgängliga för samtliga medarbetare i<br>ledningssystemet. |
+
+<!-- sida 5 -->
+
+1.6 Risk att regler för upphandling och inköp inte följs
+
+[Tabell 5-1](bilaga-psh-uppfoljning-av-internkontrollplan-helar-2022.tabeller/5-1.csv)
+
+| Kontrollmoment | Resultat av genomförd kontroll |
+| --- | --- |
+| Att rutiner finns och följs<br>Beskrivning av metod<br>Stickprov & statistikgranskning | Upphandlingar sker i samarbete med<br>upphandlingsavdelningen och köptrohet till avtal sker i<br>stor utsträckning. Ett identifierat förbättringsområde<br>under året är att ytterligare strukturera upp<br>dokumentation gällande direktupphandlingar. I övrigt<br>har stickprov inte visat några avvikelser. |
