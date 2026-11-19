@@ -1,0 +1,10 @@
+Vårdpersonal,Patient/Anhöriga,Antal besök
+1 vårdpersonal,1 patient,1 besök
+1 vårdpersonal,1 anhörig,1 besök
+1 vårdpersonal,1 patient + 2 anhöriga,1 besök
+1 vårdpersonal,Flera anhöriga till samma patient,1 besök
+2 vårdpersonal,1patient,1 besök
+2 vårdpersonal,3 patienter/anhöriga till olika patienter,3 besök
+1 vårdpersonal,2 patienter/anhöriga till olika patienter,2 besök
+1 vårdpersonal,1 patient + 1 anhörig + 1 vårdgranne,1 besök
+1 vårdpersonal,1 vårdgranne,0 besök
