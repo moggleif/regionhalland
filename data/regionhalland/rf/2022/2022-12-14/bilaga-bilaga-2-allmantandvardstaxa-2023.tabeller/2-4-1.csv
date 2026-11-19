@@ -1,0 +1,142 @@
+301,"Sjukdoms- eller smärtbehandling, mindre omfattande",,445,475
+302,Sjukdoms- eller smärtbehandling,,830,870
+303,"Sjukdoms- eller smärtbehandling, omfattande",,1 230,1 245
+304,"Sjukdoms- eller smärtbehandling, särskilt tidskrävande",,1 840,1 890
+311,Information eller instruktion vid munhälsorelaterade sjukdomar eller problem,,475,560
+312,Uppföljande information eller instruktion vid munhälsorelaterade sjukdomar eller problem,,190,240
+313,"Beteendemedicinsk behandling, 60 minuter eller mer",,1 200,1 230
+314,Beteendemedicinsk behandling,,555,575
+321,Icke-operativ behandling av kariessjukdom,,480,570
+322,Stegvis exkavering,,1 225,1 275
+341,"Behandling av parodontal sjukdom eller periimplantit, mindre omfattande",,590,645
+342,"Behandling av parodontal sjukdom eller periimplantit, omfattande",,1 150,1 165
+343,"Behandling av parodontal sjukdom eller periimplantit, särskilt tidskrävande",,1 735,1 755
+362,"Lustgassedering, per gång",,900,1 005
+400 Kirurgiska åtgärder,,,,
+401,"Tanduttagning, en tand",,1 160,1 235
+402,"Tanduttagning, när separation eller friläggning krävs, en tand",,1 655,2 020
+403,"Tanduttagning, enkel",,460,495
+404,Kirurgiskt avlägsnande av en eller flera tänder eller annan vävnad i samma kvadrant,,3 415,3 790
+405,Omfattande dentoalveolär kirurgi,,4 555,5 255
+406,"Tanduttagning, övertalig tand",,1 160,1 495
+407,Övrig kirurgi eller plastik,,2 250,2 305
+408,"Preprotetisk friläggning med lambå, omfattande",,4 550,4 570
+409,"Kirugisk avlägsnande av tand i annan kvandrant i samband med parodontalkirurgiska åtgärder, tillägsåtgärd",,1 670,1 680
+410,"Tanduttagning, ytterliggare när flera tanduttagningar utförs under samma dag eller i samband med lambåoperation, tillägså",,905,965
+420,"Implantat, per styck, tillägsåtgärd",,3 060,4 220
+420.1,"Implantat, per styck. Faktiskt kostnad",,3 060,Faktiskt kostnad
+421,"Operation avseende käkbensförankrade implantat, ett implantat",,3 430,4 870
+422,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,,1 645,1 870
+423,"Operation avseende käkbensförankrade implantat, två eller tre implantat",,4 995,6 125
+424,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,,1 845,2 080
+425,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",,6 910,8 775
+426,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,,2 465,2 760
+427,Benaugmentation med egen vävnad i en kvadrant,,4 350,4 480
+428,Benaugmentation med benersättningsmaterial i en kvadrant,,5 250,5 475
+429,Kirurgiskt avlägsnande av implantat,,4 290,4 770
+430,Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i annan kvadrant eller implantatoperati,,1 655,1 675
+431,"Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperation i annan kvadrant,",,2 760,2 795
+432,"Benaugmentation med benersättningsmaterial i samband med implantatoperation, per kvadrant tilläggsåtgärd",,2 055,2 075
+433,"Sinuslyft utan autologt ben eller benersättningsmaterial i samband med implantatinstallation,per kv,tilläggsåtgärd",,1 135,1 135
+436,"Avlägsnande av ett implantat, enkel",,800,860
+446,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd",,1 975,1 995
+447,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd,",,1 335,1 350
+448,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd",,815,830
+451,Parodontalkirurgi i en kvadrant eller inom tandposition 3–3,,3 555,3 570
+452,Parodontalkirurgi i flera kvadranter eller omfattande parodontalkirurgi i en kvadrant eller inom tandposition 3–3,,4 915,4 940
+453,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i en kvadrant eller inom tandposition 3,,3 745,3 765
+454,Kirurgisk behandling av periimplantit och i förekommande fall tänder med parodontit i flera kvadranter eller omfattande kiru,,4 915,4 940
+480,"Sjukvårdskontakt för att säkerställa koagulation, tilläggsåtgärd",,355,375
+500 Rotbehandling,,,,
+501,"Rensning och rotfyllning, en rotkanal",,3 710,4 270
+502,"Rensning och rotfyllning, två rotkanaler",,4 475,4 730
+503,"Rensning och rotfyllning, tre rotkanaler",,5 615,6 205
+504,"Rensning och rotfyllning, fyra eller fler rotkanaler",,6 120,6 780
+520,"Akut endodontisk behandling, annan behandlare",,990,1 005
+521,Akut trepanation och kavumextirpation,,875,890
+522,Komplicerad kanallokalisation,,880,970
+523,Stiftborttagning,,1 280,1 375
+541,Apikalkirurgisk behandling,,4 000,4 135
+542,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle, tilläggsåtgärd",,1 125,1 155
+600 Bettfysiologiska åtgärder,,,,
+601,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",,3 825,4 025
+602,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",,3 825,4 025
+603,"Reponeringsskena, per skena",,6 085,6 235
+604,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologisk indikation, per skena",,2 295,2 730
+604.1,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologisk indikation, per skena",,2 295,3 740
+606,Motorisk aktivering,,585,605
+607,Bettslipning för ocklusal stabilisering,,820,835
+700 Reparativa åtgärder,,,,
+701,Fyllning av en yta på framtand eller hörntand,,665,750
+702,Fyllning av två ytor på framtand eller hörntand,,1 050,1 165
+703,Fyllning av tre eller flera ytor på framtand eller hörntand,,1 290,1 415
+704,Fyllning av en yta på molar eller premolar,,850,945
+705,Fyllning av två ytor på molar eller premolar,,1 245,1 390
+706,Fyllning av tre eller flera ytor på molar eller premolar,,1 660,1 820
+707,"Krona i plastiskt material, klinikframställd",,1 885,2 125
+708,"Stiftförankring i rotkanal vid fyllningsterapi,tilläggsåtgärd",,600,685
+800 Protetiska åtgärder,,,,
+800,"Permanent tandstödd krona, en per käke",,6 255,6 875
+800.1,"Permanent tandstödd krona, en per käke",,6 255,7 185
+801,"Permanent tandstödd krona, flera i samma käke",,4 855,6 150
+801.1,"Permanent tandstödd krona, flera i samma käke",,4 855,6 445
+802,Laboratorieframställd pelare med intraradikulärt stift,,3 430,3 905
+803,Klinikframställd pelare med intraradikulärt stift,,1 645,1 920
+804,"Hängande led vid tandstödd protetik, per led",,2 375,2 530
+804.1,"Hängande led vid tandstödd protetik, per led",,2 375,2 650
+805,"Emaljretinerad konstruktion, laboratorieframställd, per stöd",,2 035,2 215
+806,Radikulärförankring vid avtagbar protes,,3 720,4 475
+807,"Semipermanent krona eller hängande led, per led",,2 660,2 745
+808,Innerkrona för teleskop- eller konuskonstruktioner,,3 650,4 070
+809,"Långtidstemporär laboratorieframställd krona eller hängande led, per led",,1 135,1 430
+811,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd",,630,855
+812,"Reparation av krona eller bro, utan tandteknisk insats",,1 610,1 680
+813,Broreparation med tandteknisk insats,,4 895,5 065
+814,"Broreparation med tandteknisk insats, omfattande",,8 450,10 270
+815,Sadelkrona,,5 640,5 890
+822,"Partiell protes ,utan metallskelett eller för temporärt bruk, en till tre tänder",,3 970,4 475
+823,"Partiell protes,utan metallskelett eller för temporärt bruk, fyra eller fler tänder",,5 590,6 350
+824,"Partiell protes med metallskelett, klammerförankrad",,11 845,14 475
+825,"Komplicerad partiell protes med metallskelett som förankras med stöd av urtagskrona, innerkrona eller attachments",,13 400,16 580
+826,"Attachments, per styck",,105,105
+827,Hel underkäksprotes,,10 065,11 600
+828,Hel överkäksprotes,,10 065,11 600
+829,"Immediatprotes, hel käke",,7 535,8 775
+831,Justering av avtagbar protes,,410,425
+832,Lagning av protes eller tillsättning av protestand,,1 360,1 455
+833,Rebasering av protes,,2 775,3 220
+834,Lagning av protes där avtryck krävs,,2 115,2 265
+835,Rebasering och lagning av protes,,3 295,3 605
+836,Komplicerad lagning av protes,,4 120,4 625
+837,Komplicerad lagning av protes där uppvaxning och gjutning av ny del utförs vilken svetsas till befintlig protes,,7 120,7 955
+839,Inmontering av förankringselement,,3 240,3 755
+845,Ocklusionskorrigerande bettslipning,,2 110,2 285
+846,"Skena, hel eller cementerad i sektioner, för vertikal platsberedning eller bettstabilisering",,4 700,5 360
+847,Klammerplåt,,4 300,4 410
+848,"Betthöjning eller uppbyggnad för ocklusal stabilisering med fyllningsmaterial, per tandposition",,600,620
+850,"Implantatstödd krona, en per käke",,8 790,9 545
+852,"Implantatstödd krona, flera i samma käke",,6 815,8 735
+853,Hängande led vid implantatstödd bro,,2 375,2 640
+854,"Semipermanent krona eller hängande led på implantat, per led",,2 325,2 465
+855,"Fästskruv/broskruv och cylinder vid semipermanent krona på implantat, per implantat",,580,605
+856,"Långtidstemporär laboratorieframställd implantatstödd krona eller hängande led , per led",,1 615,1 725
+857,"Fästskruv/broskruv och cylinder vid långtidstemporär laboratorieframställd implantatstödd krona, per implantat",,525,560
+858,"Distans inklusive distansskruv, per styck",,1 365,2 595
+859,"Integrerad distans/kopplingskomponent vid separat implantatstödd krona, per styck, tillägsåtgärd",,1 165,2 080
+861,Implantatstödd bro i överkäke på fyra implantat,,34 375,49 640
+862,Implantatstödd bro i överkäke på fem implantat,,36 490,51 810
+863,Implantatstödd bro i överkäke på sex eller fler implantat,,38 130,55 975
+865,Implantatstödd bro i underkäke på fyra eller fler implantat,,33 245,49 590
+871,"Implantatstödd täckprotes i överkäke på två implantat, eller implantatstödd täckprotes i underkäke på implantat oavsett ant",,18 820,23 800
+872,Implantatstödd täckprotes i överkäke på tre implantat,,21 210,27 625
+873,Implantatstödd täckprotes i överkäke på fyra implantat eller fler,,23 965,30 100
+874,Tillägg för alveolarbar på två implantat,,4 745,5 135
+875,Tillägg för alveolarbar på tre implantat,,5 590,6 065
+876,Tillägg för alveolarbar på fyra implantat,,7 445,9 060
+877,"Implantatstödd täckprotes, exklusive distanser och förankringselement",,15 600,18 400
+878,"Förankringselement täckprotes, per styck",,305,305
+881,"Reparation av fast implantatstöd konstruktion, mindre omfattande",,1 210,1 280
+883,Reparation/ombyggnad av fast implantatstödd konstruktion med tandteknisk insats,,3 250,4 160
+884,Reparation/ombyggnad av implantatstödd bro där omfattande tandteknisk insats krävs,,7 960,8 840
+888,"Fästskruv/broskruv, per styck",,190,215
+889,"Distansskruv, per styck",,400,Faktiskt kostnad

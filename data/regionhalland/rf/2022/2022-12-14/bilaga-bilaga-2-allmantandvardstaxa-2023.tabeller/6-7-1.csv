@@ -1,0 +1,58 @@
+908,"Tandreglering, båda käkar, aktiv behandling mer än 2 år",,44 185,49 395
+,,,,
+019,"Tillägg för lingualortodonti, en käke. Mindre omfattande behandling",,,17 140
+020,"Tillägg för lingualortodonti, en käke.",,,25 580
+021,"Tillägg för lingualortodonti, två käkar. Minde omfattande behandling",,,25 705
+022,"Tillägg för lingualortodonti, två käkar.",,,38 365
+023,"Tillägg för invisalign, en eller två käkar. Mindre omfattande behandling",,,21 965
+024,"Tillägg för invisalign, en eller två käkar",,,33 130
+Frisktandvård,,,,
+AB01,"Frisktandvård 1, per år",,,1 130
+AB02,"Frisktandvård 2, per år",,,1 440
+AB03,"Frisktandvård 3, per år",,,1 915
+AB04,"Frisktandvård 4, per år",,,2 560
+AB05,"Frisktandvård 5, per år",,,3 410
+AB06,"Frisktandvård 6, per år",,,4 395
+AB07,"Frisktandvård 7, per år",,,5 715
+AB08,"Frisktandvård 8, per år",,,7 200
+AB09,"Frisktandvård 9, per år",,,8 665
+AB10,"Frisktandvård 10, per år",,,10 645
+Kostnader och behandlingar som inte ersätts av det statliga tandvårdsstödet,,,,
+KF,"Kostnadsförslag till annan betalare. Skriftligt intyg till försäkringsbolag, rättsintyg osv.",,,935
+003,Idrottsskydd exkl. teknikerkostnad/material,,,1 355
+004,Sömnapnéskena Mono-block,,,11 025
+004.1,Sömnapnéskena Bi-block,,,12 280
+005,Lingualskena,,,2 550
+005.1,Essixskena,,,1 710
+005.2,Retainer inkl. labkostnad,,,3 275
+005.3,Rebonding av retainer,,,955
+006,Material utöver grundpris enl faktura eller inköpspris,,,‐
+007,Tandtekniskt faktura,,,‐
+008,Timtaxa tandläkare,,,2 610
+009,Timtaxa tandhygienist,,,1 320
+011,"Psykodonti, hypnos - timpris",,,2 610
+012,"Tandblekning, en käke inkl material. Priset inkluderar moms.",,,3 055
+013,"Tandblekning, två käkar inkl material. Priset inkluderar moms.",,,4 770
+014,"Tandblekning på klinik,en eller två käkar inkl material. Priset inkluderar moms.",,,5 920
+015,Fastsättning av tandsmycke. Smyckepris tillkommer. Priset inkluderar moms.,,,700
+016,Guld- eller kristallsmycke. Priset inkluderar moms.,,,335
+017,Guldsmycke med diamant. Priset inkluderar moms.,,,500
+B4ASYLR,Asylarvode,,,50
+008-S,"Timtaxa tandläkare, specialisttandvård",,,2 840
+Nark,Narkosbehandling,,,3 070
+EB,Estetiska Brackets/käke,,,2 350
+Estest 1,"Krona eller skalfasad av estetiskt skäl, en per käke inkl moms",,,8 345
+Estest 2,"Krona eller skalfasad av estetiskt skäl, flera per käke, per st inkl moms",,,7 925
+Deb-tapp,"Förstörd eller borttappad tandregleringsapparatur, vid andra och efterföljande tillfällen",,,860
+SED,"Sedering med bensodiazepiner, per tillfälle",,,870
+Uteblivande,,,,
+UBA,"Uteblivande eller sent återbud från behandling, barn. Allmäntandvård",,,300
+UBS,"Uteblivande eller sent återbud från behandling, barn. Specialisttandvård",,,300
+,,,,‐
+UB1,"Uteblivande eller sent återbud från behandling, vuxentandvård upp till 30 minuter",,,500
+UB2,"Uteblivande eller sent återbud från behandling, vuxentandvård mer än 30 minuter",,,1 000
+UBN,Uteblivande eller sent återbud från narkos,,,2 400
+Särskilda tandvårdsstödet,,,,
+S1,Sjukvårdstaxa tandläkare,,,200
+S2,Sjukvårdstaxa hygienist,,,100
+S3,Sjukvårdstaxa specialist,,,300

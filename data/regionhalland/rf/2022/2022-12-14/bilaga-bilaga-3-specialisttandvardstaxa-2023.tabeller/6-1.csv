@@ -1,0 +1,31 @@
+905,"Tandreglering, båda käkar, aktiv behandling 6 månader till 1 år",,26 750,32 845
+906,"Tandreglering, båda käkar, aktiv behandling 1 år till 1,5 år",,31 610,35 480
+907,"Tandreglering, båda käkar, aktiv behandling 1,5 år till 2 år",,36 475,43 045
+908,"Tandreglering, båda käkar, aktiv behandling mer än 2 år",,44 185,49 395
+,,,,
+019,"Tillägg för lingualortodonti, en käke. Mindre omfattande behandling",,,17 140
+020,"Tillägg för lingualortodonti, en käke",,,25 580
+021,"Tillägg för lingualortodonti, två käkar. Mindre omfattande behandling",,,25 705
+022,"Tillägg för lingualortodonti, två käkar",,,38 365
+023,"Tillägg för invisalign, en eller två käkar. Mindre omfattande behandling",,,21 965
+024,"Tillägg för invisalign, en eller två käkar",,,33 130
+Behandlingar och kostnader som inte ersätts av det statliga tandvårdsstödet,,,,
+006,"Material utöver grundpris, enligt faktura eller listpris",,,Enligt faktura/listpris
+007,Tandteknisk faktura,,,Enligt faktura
+008S,"Timtaxa tandläkare, specialisttandvård",,,2 900
+008S1,"Timtaxa kirurgi, specialisttandvård",,,4 732
+MtrkigS,"Material utöver grundpris vid kirurgi, enligt faktura eller listpris",,,Enligt faktura/listpris
+Nark,"Narkos, per tillfälle",,,3 150
+KFA,"Kostnadsförslag till annan betalare. Skriftligt intyg till försäkringsbolag, rättsintyg osv",,,914
+4,Sömnapnéskena,,,12 105
+SED,"Sedering med bensodiazepiner, per tillfälle",,,850
+Uteblivande,,,,
+UBA,"Uteblivande eller sent återbud från behandling, barn, allmäntandvård",,,300
+UBS,"Uteblivande eller sent återbud från behandling, barn, specialisttandvård",,,300
+UB1,"Uteblivande eller sent återbud från behandling, vuxen, upp till 30 minuter",,,500
+UB2,"Uteblivande eller sent återbud från behandling, vuxen, mer än 30 minuter",,,1 000
+UBN,Uteblivande eller sent återbud från narkostillfälle,,,2 400
+Särskilda tandvårdsstödet,,,,
+S1,Sjukvårdstaxa tandläkare,,,200
+S2,Sjukvårdstaxa hygienist,,,100
+S3,Sjukvårdstaxa specialist,,,300
