@@ -1,0 +1,60 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)
+inte hantera behov
+av variation","K =
+1-4","S =
+1-4","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+,,,,,,,,,
+,"Risk att anbudet inte
+täcker alla våra
+behov – tandvård
+och kommuner","Alla våra behov
+tillfredsställs inte","2,5","2,5",6,,,,
+,"Varken Skåne eller
+VGR har samma
+system som Region
+Halland","Vi får inte så bra
+vårdflöden som vi
+önskar, om Cambio
+och Skåne samt
+VGR inte
+samarbetar och
+följer gemensamma
+standarder
+Vårdpersonalen
+som flyttar får större
+startsträcka",1,1,1,,,,
+Framtid,"Risk att
+Leverantören inte
+driver någon egen","Systemet halkar
+efter i utvecklingen",4,"2,5",10,,,,

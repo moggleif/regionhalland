@@ -1,0 +1,47 @@
+201S,Information eller instruktion vid risk för munhälsorelaterade sjukdomar eller problem,500,430
+300 Sjukdomsbehandlande / Smärtstillande åtgärder,,,
+301S,"Sjukdoms- eller smärtbehandling, mindre omfattande",520,520
+302S,Sjukdoms- eller smärtbehandling,990,990
+303S,"Sjukdoms- eller smärtbehandling, omfattande",1 470,1 470
+304S,"Sjukdoms- eller smärtbehandling, särskilt tidskrävande",2 195,2 195
+311S,Information eller instruktion vid munhälsorelaterade sjukdomar eller problem,430,430
+312S,Uppföljande information eller instruktion vid munhälsorelaterade sjukdomar (cid:10)eller problem,175,175
+313S,"Beteendemedicinsk behandling, 60 minuter eller mer",2 235,2 235
+314S,Beteendemedicinsk behandling,1 030,1 030
+321S,Icke-operativ behandling av kariessjukdom,435,435
+322S,Stegvis ecxavering,1 135,1 135
+341S,"Behandling av parodontal sjukdom eller periimplantit, mindre omfattande(cid:10)",735,735
+342S,"Behandling av parodontal sjukdom eller periimplantit, omfattande(cid:10)",1 880,1 880
+343S,"Behandling av parodontal sjukdom eller periimplantit, särskilt tidskrävande",4 170,4 170
+400 Kirurgiska åtgärder,,,
+401S,"Tanduttagning, en tand",1 340,1 340
+402S,"Tanduttagning, när separation eller friläggning krävs, en tand",2 205,2 205
+403S,"Tanduttagning, tillkommande enkel",240,240
+404S,Kirurgiskt avlägsnande av en eller flera tänder i samma kvadrant och/eller annan vävnad,3 980,3 980
+405S,Omfattande dentoalveolär kirurgi,4 650,5 315
+405S1,Omfattande dentoalveolär kirurgi,5 315,5 315
+406S,"Tanduttagning, övertalig tand",1 340,1 340
+407S,Övrig dentoalveolär kirurgi eller plastik,2 575,2 575
+408S,"Protetisk friläggning med lambod, omfattande",5 365,5 365
+409S,"Kirugisk avlägsnande av tand i annan kvandrant i samband med parodontlogiska åtgärder, tillägs åtgärd",1 985,1 985
+420S,"Implantat, per styck, tillägs åtgärd",Enligt listpris,2 855
+421S,"Operation avseende käkbensförankrade implantat, ett implantat",6 000,4 045
+422S,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,2 025,1 855
+423S,"Operation avseende käkbensförankrade implantat, två eller tre implantat",6 665,5 770
+424S,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,2 255,2 095
+425S,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",9 280,7 785
+426S,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,3 035,2 835
+427S,Benaugmentation med egen vävnad i en kvadrant,6 220,5 020
+427S1,Benaugmentation med egen vävnad i en kvadrant,10 815,5 020
+428S,Benaugmentation med benersättningsmaterial i en kvadrant,8 058,5 755
+428S1,"Benaugmentation med benersättningsmateriali en kvadrant ,omfattande",12 852,5 755
+429S,Kirurgiskt avlägsnande av implantat,4 960,4 960
+430S,Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i annan kvadrant eller imp,lantatoperation i sam2 m46a0k,"vadrant,per kvadrant, tilläg1g s9å7tg0ä"
+431S,Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperation i ann,"an kvadrant, ,per kva3d 3r1an6t",", tilläggsåtgärd 3 060"
+432S,"Benaugmentation med benersättningsmaterial i samband med implantatoperation, per kvadrant tilläggsåtgärd",2 714,2 240
+435S,Avlägsnande av ett implantat,1 340,1 340
+436S,"Avlägsnande av ett implantat, enkel",240,240
+Paradontalkirugiska åtgärder,,,
+446S,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, per operationstillfälle, tilläggsåtgärd,",956,2 005
+446S1,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, per operationstillfälle, tilläggsåtgärd,",2 005,2 005
+446S2,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, per operationstillfälle, tilläggsåtgärd,",2 440,2 005

@@ -1,0 +1,80 @@
+---
+kommun: regionhalland
+organ: kultur
+datum: 2019-11-14
+lopnr: null
+typ: bilaga
+namn: bilaga-1-regionala-medel-till-kulturverksamhet-2020
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-kultur-och-skola/mote-2019-11-14/agenda/bilaga-1-regionala-medel-till-kulturverksamhet-2020pdf
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-kultur-och-skola/mote-2019-11-14/agenda/bilaga-1-regionala-medel-till-kulturverksamhet-2020pdf?downloadMode=open
+sha256: eefb6c2b6d3df26903488eb8777b7fa5c132d7f6e0019bf0c82e73f38e5a54aa
+bytes: 170955
+sidor: 1
+hamtad: 2026-11-20T11:31:15+00:00
+konverterad: 2026-11-20T11:31:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
+fel: null
+kvalitet_per_sida: [ok]
+tal_obekraftade: []
+figurer: []
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+Bilaga 1
+
+[Tabell 1-1](bilaga-bilaga-1-regionala-medel-till-kulturverksamhet-2020.tabeller/1-1.csv)
+
+| Kultur i Halland | 2020 |  | 2019 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Region Halland | Kommentarer - förändringar jämfört med 2019 | Region Halland | Statsbidrag | Totalt 2019 |
+| Förvaltningsgemensamma kostnader |  |  |  |  |  |
+| Kultur - stab, gemensamt, DNKS | 9 000 000 | Höjning avser budget för löneökningar 2020 | 8 680 505 | 0 | 8 680 505 |
+| Kulturutveckling | 4 400 000 | Höjning 155 tkr | 4 245 000 | 0 | 4 245 000 |
+| Regional museiverksamhet |  |  |  |  |  |
+| Stiftelsen Hallands länsmuseer | 20 750 000 | Höjning 2,5% samt 300 tkr till utbyggnad Konstmuseet | 19 950 000 | 6 911 000 | 26 861 000 |
+| Laholms kommun/ Teckningsmuseet Laholm | 550 000 |  | 550 000 | 0 | 550 000 |
+| Falkenbergs kommun/ RIAN (Falkenbergs museum) | 650 000 | Höjning 50 tkr | 600 000 | 0 | 600 000 |
+| Kungsbacka kommun/ Tjolöholms slott | 500 000 |  | 500 000 | 0 | 500 000 |
+| Varbergs kommun/ Varbergs fästning & Grimeton | 550 000 |  | 550 000 | 0 | 550 000 |
+| Halmstad kommun/ Mjellby konstmuseum | 550 000 |  | 550 000 | 0 | 550 000 |
+| Hylte kommun/Bonadsmuseet | 250 000 |  | 250 000 | 0 | 250 000 |
+| Regional teater-, dans- och musikverksamhet |  |  |  |  |  |
+| Regional scenkonstutveckling inkl barn och unga | 7 600 000 | Minskning pga Danssamverkan sydsverige | 7 914 442 | 10 310 000 | 18 224 442 |
+| Teater Halland | 9 100 000 | Höjning 3,2% | 8 815 000 | 5 850 000 | 14 665 000 |
+| Riksteatern Halland | 1 360 000 |  | 1 330 000 | 311 000 | 1 641 000 |
+| Isildurs Bane | 700 000 |  | 690 000 | 0 | 690 000 |
+| Teater Albatross | 340 000 |  | 335 000 | 0 | 335 000 |
+| Kulturverket | 340 000 |  | 335 000 | 0 | 335 000 |
+| Västsvensk Turnerande Sommarteater | 340 000 |  | 335 000 | 0 | 335 000 |
+| Hallands Spelmansförbund | 510 000 |  | 500 000 | 0 | 500 000 |
+| Operation Opera | 260 000 |  | 255 000 | 0 | 255 000 |
+|  |  |  |  |  |  |
+| Art Inside Out | 1 975 000 |  | 1 873 069 | 1 270 000 | 3 143 069 |
+|  |  |  |  |  |  |
+| Regional biblioteks- & litteraturutveckling inkl kultur<br>och social hållbarhet | 6 525 000 | Minskning pga ändrad införandeplan för Språkstart Halland | 7 824 480 | 2 360 000 | 10 184 480 |
+| Regional konst och kulturutveckling |  |  |  |  |  |
+| Regional konst- och kulturutveckling | 4 820 000 | Höjning avser 1 ny tjänst fördelat på avdelningschef/<br>internationalisering samt bild- och formutvecklare | 4 232 089 | 1 830 000 | 6 062 089 |
+| Region Hallands konst | 1 225 000 | Höjning avser medel underhåll befintlig konst | 937 250 | 0 | 937 250 |
+| Konst i Halland | 1 480 000 |  | 1 445 000 | 0 | 0 |
+| Hart Art Lab | 240 000 |  | 235 000 | 0 | 235 000 |
+| Garnisonsmuseet | 78 000 |  | 75 000 | 0 | 75 000 |
+| Konstliv | 102 000 |  | 100 000 | 0 | 100 000 |
+| Konsthallen Hishult | 260 000 |  | 255 000 | 0 | 255 000 |
+|  |  |  |  |  |  |
+| Regional arkivverksamhet | 1 600 000 | Höjning 6% | 1 510 000 | 500 000 | 2 010 000 |
+| Regional bildnings- och kulturfrämjande verksamhet |  |  |  |  |  |
+| Hallands bildningsförbund | 6 200 000 |  | 6 050 000 | 0 | 6 050 000 |
+| Studieförbund | 10 100 000 |  | 9 950 000 | 0 | 9 950 000 |
+| SISU | 1 800 000 |  | 1 760 000 | 0 | 1 760 000 |
+| Ungdomsorganisationer | 2 400 000 |  | 2 400 000 | 0 | 2 400 000 |
+| Pensionärsförbund | 530 000 |  | 520 000 | 0 | 520 000 |
+| Hallands Idrottsförbund | 3 680 000 |  | 3 590 000 | 0 | 3 590 000 |
+| Hallands Parasportsförbund | 520 000 |  | 510 000 | 0 | 510 000 |
+|  |  |  |  |  |  |
+| Totalt | 101 285 000 |  | 99 651 835 | 29 342 000 | 128 993 835 |
