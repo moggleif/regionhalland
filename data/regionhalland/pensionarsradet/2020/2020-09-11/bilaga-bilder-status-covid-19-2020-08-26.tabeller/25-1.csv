@@ -1,0 +1,12 @@
+Vecka 34,Typ av boende,Falkenberg,Halmstad,Hylte,Kungsbacka,Laholm,Varberg,Halland,
+"Totalt antal boenden
+(anläggningar)",Särskilt boende,10,13,3,11,8,15,60,
+,LSS boende,25,56,3,32,10,20,146,
+,Korttidsboende,1,5,1,2,1,2,12,
+,Alla typer av boende,36,74,7,45,19,37,218,
+,,,,,,,,,
+"Antal boenden (anläggningar)
+med konstaterad covid-19",Särskilt boende,0,0,0,0,0,1,1,
+,LSS boende,1,0,0,0,0,0,1,
+,Korttidsboende,0,0,0,0,0,0,0,
+,Alla typer av boende,1,0,0,0,0,1,2,"0,9%"
