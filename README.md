@@ -138,5 +138,17 @@ inget protokoll i poolen, och protokollet från 2024-09-04 ligger som
 bilaga. Hjälpmedelsuppdraget som nämnden utför står hos Gemensam nämnd för
 hemsjukvård och hjälpmedel och skrivs inte av här.
 
+Driftnämnden Hallands sjukhus har sidorna för 2019–2026. Målen står för
+2020–2026 ur verksamhetsplanerna, med utfallet för 2024 ur årsredovisningen
+och prognosen för 2025 ur uppföljningsrapport 2, som ligger som bilagor.
+Övriga år står utan utfall, eftersom uppföljningarna inte finns i poolen.
+Lokaler och investeringar har utrustning, lokaler och sjukhusstrukturen i
+Halland med regionstyrelsens och fullmäktiges beslut. Initiativärendena har
+nämndens initiativ och motionerna med fullmäktiges beslut, granskningarna
+revisorernas grundläggande granskning av nämnden med nämndens svar.
+Mötena 2021-09-01 och 2023-09-06 har inget protokoll i poolen, och
+fullmäktiges beslut om sjukhusstrukturen 2023-12-06 saknas eftersom
+protokollet inte finns där.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
