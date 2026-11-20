@@ -1,0 +1,124 @@
+"Variabel-
+namn","XSD attribut
+(ska
+kompletteras)","Uppföljnings-
+kriterier",Format,"Antal
+tecken","Mätpunkt,
+fasta val,
+kodverk",Beskrivning
+Mätperiod,DatatGallerFor,Obl,,,,"Mätperioden är
+kalendermånad.
+Utförda prover
+rapporteras
+efterföljande månad"
+"Beslut att
+framställa
+vårdbegäran","BeslutOmVardb
+egaran",F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Avser den tidpunkt
+när remittent fattar
+beslut om att skriva
+remiss för
+patologi/cytologi för
+en patients räkning
+(klockslag är inte
+nödvändigt här men
+kanske enklast att
+detta skickas när
+övriga datum/tid
+poster innehåller
+detta)"
+Provtagning,Provtagning,Obl,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Mätpunkt 1
+Datum,
+klockslag","Avser den tidpunkt
+då celler eller vävnad
+avlägsnas som
+underlag för
+diagnostik."
+"Ankomstregi
+strering","Ankomstregistre
+ring",Obl,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Mätpunkt 2
+Datum,
+klockslag","Avser den tidpunkt
+när
+fullständig/nöjaktig
+remiss och samtliga
+tillhörande prover tas
+emot på utförande
+enhet"
+"Påbörja
+preparering",StartPreparering,F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Avser den tidpunkt
+när preparering av
+inkommet
+prov/inkomna prover
+startar"
+"Utlämning
+av underlag
+för
+diagnostik","UtlamningUnde
+rlag",Obl,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Mätpunkt 3
+Datum,
+klockslag","Tidpunkt när prov är
+godkänt och klart för
+utlämning inför
+diagnostik/skanning"
+"Digitaliserat
+underlag","DigitaliseratUnd
+erlag",F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Avser den tidpunkt
+när provet är scannat
+för digital diagnostik"
+Diagnostik,Diagnostik,F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Avser tidpunkten när
+den diagnostiska
+undersökningen
+(analysen är avslutad)"
+"Beslut om
+komplettera
+nde
+diagnostik","BeslutKomplett
+erandeDiagnosti
+k",F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Tidpunkt när beslut
+fattas om
+kompletterande
+undersökningar som
+krävs för ett
+kompletterande
+provsvar"
+"Svar klart
+för signering",SvarKlart,F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Tidpunkt när svar är
+klart för signering"
+Svar skickat,SvarSkickat,Obl,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Mätpunkt 4
+Datum,
+klockslag","Tidpunkt när svar
+skickas till remittent"
+"Svar
+bekräftas",SvarBekraftas,O,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Mätpunkt 5
+Datum,
+klockslag","Tidpunkt när svar
+vidimeras av
+remittent"
+"Multidicipli
+när
+konferens,
+MDK","Multidiciplinar
+Konferens",F,"ÅÅÅÅ-MM-
+DDThh:mm:ss",19,"Datum,
+klockslag","Tidpunkt när
+konferensanteckning
+signeras eller MDK
+är genomförd"

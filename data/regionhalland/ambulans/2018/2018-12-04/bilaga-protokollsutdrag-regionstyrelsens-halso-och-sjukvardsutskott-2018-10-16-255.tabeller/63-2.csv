@@ -1,0 +1,28 @@
+Kategori,Kategori_text
+VA9,SVF Huvud- och halscancer
+VB0,SVF Matstrups- och magsäckscancer
+VB2,SVF Tjock- och ändtarmscancer
+VB3,SVF Analcancer
+VB4,SVF Levercancer
+VB5,SVF Gallblåsecancer
+VB6,SVF Bukspottkörtelcancer
+VC0,SVF Lungcancer
+VE0,SVF Melanom
+VG9,SVF Bröstcancer
+VH2,SVF Livmoderhalscancer
+VH3,SVF Livmoderkroppscancer
+VH4,SVF Äggstockscancer
+VJ1,SVF Prostatacancer
+VJ2,SVF Testikelcancer
+VJ10,SVF Peniscancer
+VK0,SVF Njurcancer
+VK1,SVF Urinblåse- och urinvägscancer
+VL2,SVF Hjärntumörer
+VM0,SVF Sköldkörtelcancer
+VN0,SVF Lymfom
+VN0/VN5,SVF Lymfom och KLL
+VN2,SVF Myelom
+VN6,SVF Akut myeloisk leukemi
+VP5,SVF Skelett- och mjukdelssarkom
+VP8,"SVF Allvarliga, ospecifika symtom"
+VP9,SVF Okänd primärtumör (CUP)

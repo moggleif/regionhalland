@@ -1,0 +1,17 @@
+"Variabel-
+namn","XSD attribut
+(ska
+kompletteras)","Uppföljnings-
+kriterier",Format,"Antal
+tecken","Mätpunkt,
+fasta val,
+kodverk",Beskrivning
+Remittent,Remittent,O,,,HSA-id,"Identifierare för
+remitterande enhet.
+Remitterande
+verksamhets HSA-id"
+"Utförande
+enhet",UtforandeEnhet,Obl,,,HSA-id,"Identifierare för
+utförande enhet.
+Utförande
+verksamhets HSA-id"
