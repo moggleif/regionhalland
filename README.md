@@ -231,5 +231,18 @@ om regionkontorets och styrelsens årsrapporter, uppföljningsrapporter och
 verksamhetsplaner. Fullmäktiges mål och Region Hallands samlade
 årsredovisning står inte här.
 
+Regionstyrelsens övriga spår går 2019–2026: styrelsens egna initiativärenden
+(motionerna hör till fullmäktige), revisionens granskningar och styrelsens
+svar, styrelsens egna remissvar, avtal och överenskommelser, fastigheter som
+styrelsen köper eller säljer, regionala strategier och planer och de
+återkommande redovisningarna om beslutens genomförande, uppsiktsplikten över
+bolagen och patientsäkerhetsberättelsen. När styrelsen bereder eller beslutar
+i en fråga som redan har ett spår hos en driftnämnd, till exempel
+vårdvalens förfrågningsunderlag, överenskommelsen om utskrivning,
+fastighetsinvesteringar, biblioteksplanen, trafikförsörjningsprogrammet eller
+utredningarna efter motionerna om könsstympning och sexuellt våld, står
+styrelsens steg i nämndens spår och inte en gång till hos styrelsen.
+Investeringsplanen, budgeten och delegeringsbesluten står inte med.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
