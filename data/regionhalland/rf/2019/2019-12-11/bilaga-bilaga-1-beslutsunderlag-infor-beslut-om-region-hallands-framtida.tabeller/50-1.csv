@@ -1,0 +1,64 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)
+Ekonomi","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)
+Risk att förseningar
+av projektet innebär
+ökade kostnader","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)
+Ökade kostnader","K =
+1-4
+2,5","S =
+1-4
+4","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras
+10",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+,,,,,10,,,,
+,"Risk att vi får betala
+mer för utvecklingen
+då Cambio
+(internationellt sett)
+är en mindre
+leverantör","Ökade utvecklings-
+kostnader","2,5",1,"2,5",,,,
+,"Det finns kostnader
+som vi idag inte fullt
+har koll på, utöver
+systemförvaltningen,
+som inte tagits med i
+projektbudgeten som
+till exempel vissa
+driftskostnader (ex
+resurser i
+verksamheten)","Ökade kostnader
+som vi inte räknat
+med",1,2,2,,,,
+,"Vi vet inte hur stor
+verksamhetens",,1,1,1,,,,

@@ -1,0 +1,56 @@
+Område,Risk - Vad?,"Sanno-
+likhet
+(0-4)","Konse-
+kvens
+(0-4)","Risk-
+värde
+(S*R)",Frekvens - När?,Metod - Hur?,Kontrollansvarig,"Uppföljnings-
+ansvarig"
+Ekonomi,"Att regler för upphandling och
+direktupphandling inte följs",3,3,9,Vid delårsbokslut,"Stickprov, statistikgranskning",Ekonomichef,Förvaltningschef
+Informationssäkerhet,"Att rutiner för hantering av
+personuppgifter enligt
+Dataskyddsförordningen, PDL
+och OSL brister",3,4,12,Vid UR2,Stickprov,"Informationssäkerhets-
+samordnare",Förvaltningschef
+Informationssäkerhet,"Att patienters integritetsskydd
+hotas",3,4,12,Vid UR2,"Regelbundna loggkontroller
+enligt RH:s rutiner",Verksamhetschef,Förvaltningschef
+"Patientsäkerhet och
+kvalitet","Att klagomål och synpunkter från
+patienter/anhöriga inte tas
+omhand och inte leder till lärande",4,4,16,månatligen,"Månatlig uppföljning i PLG,
+redovisning per kvartal till
+nämnden. Bas: rapport från
+Patientnämnden",Verksamhetschef,Chefläkare
+"Patientsäkerhet och
+kvalitet","Att internutredningar inte görs i
+tillräckligt stor omfattning och
+med tillräckligt god kvalitet",4,3,12,"Vid UR2 och
+helår","Redovisa internutredningar
+avseende antal och kvalitet",Chefläkare,Förvaltningschef
+Lagar och andra krav,"Att verksamheten inte följer
+tvångsvårdlagstiftningen -
+myndighetsutövning",2,4,8,"Vid UR2 och
+helår","Stickprov av journal
+tillhörande tvångsvårdade
+patienter",Chefsöverläkare,Chefläkare
+Arbetsmiljö,"Att systematiskt arbetsmiljöarbete
+inte bedrivs enligt rutin",3,4,12,Vid UR2,"Mäta antalet skyddsronder
+inrapporterade i E Smaker",Verksamhetschef,Personalchef
+Arbetsmiljö,"Att utbildning i hot och våld inte
+genomförs",2,4,8,Vid årsbokslut,"Redovisning från avd.
+cheferna",Avdelningschef,Verksamhetschef
+,,,,,,,,
+"Ansvar och
+befogenheter","Att formalia kring
+kommunalrättslig delegation inte
+följs",2,4,8,Vid UR2,"Kontrollera följsamhet till
+befintliga rutiner genom
+stickprov",Nämndsekreterare,Förvaltningschef
+"Hälso- och
+sjukvårdsstrategin","Att förändringar av egen
+verksamhet genomförs utan
+hänsynstaganden till hälso-och
+sjukvårdsstrategin",4,4,16,månatligen,"Beakta i samband med
+direktiv till förändringsarbete",Nämndsekreterare,Förvaltningschef

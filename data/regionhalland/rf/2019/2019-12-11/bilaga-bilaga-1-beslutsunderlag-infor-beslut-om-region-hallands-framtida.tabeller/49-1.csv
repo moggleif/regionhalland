@@ -1,0 +1,4 @@
+Klassning av risk,,Risktal,Behov av åtgärd
+R1,Låg - Försumbar risk,"1,2",Ej behov av åtgärd
+R3,Medel - Viss risk,"3,4,5,6",Åtgärdas så långt som rimligt
+R5,Hög - Mycket allvarlig risk,"8,12,16",Åtgärda direkt
