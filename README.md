@@ -114,6 +114,17 @@ indikatorrapporterna), initiativärendena och granskningarna. Nämnden fick
 egna mål först i verksamhetsplanen för 2025; årsredovisningen följer inte
 upp dem mål för mål, så de står utan utfall. Stegen tar med beslut i andra
 organ när de gäller nämndens överenskommelser.
+Driftnämnden Psykiatri har sidorna för 2019–2026. Målen står för
+2021–2026: utfallet ur årsredovisningarna 2021–2025, målen ur
+verksamhetsplanerna 2022–2026 (planen för 2021 finns inte i poolen) och
+prognosen för 2026 ur uppföljningsrapport 2. Årsredovisningarna för 2019 och
+2020 följer inte upp målen ett och ett, så de åren står utan mål.
+Handlingsplanerna har den regionala handlingsplanen för suicidprevention,
+åtgärderna för ekonomi i balans, digitaliseringsplanen och
+kompetensförsörjningsplanen. Motionerna har fullmäktiges beslut, och
+granskningarna revisorernas bedömning där den står i rapporten.
+Regionstyrelsens och fullmäktiges beslut står med när de gäller nämndens
+lokaler, planer, remisser och motioner.
 
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
