@@ -1,0 +1,37 @@
+"Under rubriken Indikation ska alltid ett och endast ett alternativ markeras med kryss.
+Under rubrikerna Topografi, Anamnes och Status ska ett eller flera alternativ markeras.",
+Screening,"Prov tas från symtomfri patient som ej ingår i särskilt uppföljningsprogram
+på gynmottagning. Bör endast tas som s.k. kompletterande screening"
+Symtom,"Prov tas från patient pga. symtom eller makroskopiska fynd (som
+specificeras under rubrikerna Anamnes och Status på remissblanketten),
+främst som del i undersökning för att utesluta invasiv, symtomgivande
+cervixcancer."
+"Kontroll/utredning av
+atypi","Prov tas som led i utredning av tidigare påvisad atypi, som (ännu) ej har
+föranlett behandling."
+"Uppföljning av
+obedömbart prov","Nytt prov tas därför att föregående prov ej hade tillfredsställande
+bedömbarhet vid laboratoriet."
+"Peroperativ
+cervixdiagnostik","Cytologiskt prov tas för diagnostik av ev. kvarvarande förändringar i
+endocervix efter dysplasibehandling. Ersätter därmed cervixabrasio."
+Senaste mens,Senaste menstruationens första dag.
+Gravid vecka,"Patienten är gravid. Antalet veckor kan valfritt vara ingångna veckor eller
+fullbordade veckor."
+Partus,Ifylls om patienten har fött barn senaste året.
+Menopaus,12 månaders frånvaro av menstruation hos kvinna i klimakterieåldern
+Hormonbehandling,"Innefattar p-piller, minipiller, p-spruta, p-stav och all klimakteriebehandling
+i form av medelpotent eller lågpotent östrogen, inklusive receptfritt
+östrogen såsom Ovesterin. Innefattar ej hälsokostpreparat och
+östrogenreceptor-modulerare såsom Nolvadex och Evista."
+Blödningsrubbning,"Vaginal blödning som avviker från mönster som är normalt för ålder och
+tillstånd (t.ex. graviditet)."
+Blödning,"Pågående eller påtagligt lättprovocerad blödning från livmoderhalsen vid
+undersökningen."
+Avvikande flytning,"Flytning som med lukt, konsistens, färg och/eller mängd avviker från det
+som är normalt för ålder och tillstånd (graviditet, ovulation etc.)."
+Atrofi,Klinisk bedömning att slemhinnan är påtagligt atrofisk.
+Typ av TZ,"Transformationszon typ 1, 2 eller 3. Se nationellt vårdprogram."
+"Låggradigt/höggradigt
+atypisk",Kolposkopi motsvarar LSIL resp. HSIL.
+Swedescore,Scoringsystem för kolposkopi. 0–10 p. Se nationellt vårdprogram.

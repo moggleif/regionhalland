@@ -1,0 +1,56 @@
+Normalt prov HPV F02B33,"Besked + information om värdet av att delta
+även vid nästa provtagningstillfälle."
+"Normalt prov Cyt M00110 (även med
+diagnosen Endocervikala celler saknas
+M09019)","Besked om normalt fynd + information om värdet
+av att delta även vid nästa provtagningstillfälle.
+Undantag: Kvinna i kontrollfil. Se nedan."
+Ej bedömbart prov Cyt M09010 Första gången,"Besked + kallelse till nytt GCK-prov; detta
+handläggs via kallelsesystemet eller laboratoriet."
+Ej bedömbart prov Cyt M09010 Andra gången,"Besked + kallelse till utredning vid
+gynmottagning."
+"Ej bedömbart prov HPV M09024
+(Gäller även om endast en av kategorierna
+HPV16, HPV18 eller HPV non16/18 är
+obedömbar)","Besked + kallelse till nytt GCK-prov; detta
+handläggs via kallelsesystemet efter information
+från laboratoriet."
+"HPV-positiv HPV 16 M091A6, E33416/
+normal cytologi M00110","Besked + överföring till Kontrollfil HPV16 →
+kallelse till nytt prov efter 18 månader enligt
+vårdprogrammet."
+"HPV-positiv HPV 18 M091A6, E33418/
+normal cytologi M00110","Besked + överföring till Kontrollfil HPV18 →
+kallelse till nytt prov efter 18 månader enligt
+vårdprogrammet."
+"HPV-positiv HPV non16/18 M091A6, E33990/
+normal cytologi M00110","Besked + överföring till Kontrollfil HPV non16/18
+→ kallelse till nytt prov efter 3 år enligt
+vårdprogrammet."
+"HPV16-positiv M091A6, E33416 hos kvinna
+som funnits i Kontrollfil HPV16 i 12 månader",Besked + kallelse till gynmottagning.
+"HPV18-positiv M091A6, E33418 hos kvinna
+som funnits i Kontrollfil HPV18 i 12 månader",Besked + kallelse till gynmottagning.
+"HPV non16/18-positiv M091A6, E33990 hos
+kvinna som funnits i Kontrollfil HPV non16/18 i
+30 månader",Besked + kallelse till gynmottagning.
+"ASCUS M69710 eller LSILcyt M80770/HPV-
+negativ F02B33","Besked + kallelse till nytt GCK-prov. Undantag:
+Vid första registrerade provet efter 40 års ålder
+gäller: besked + kallelse till gynmottagning."
+"ASCUS M69710 eller LSILcyt M80770/HPV-
+positiv M091A6","Besked + kallelse till utredning vid
+gynmottagning."
+"Alla nedan, oavsett HPV-status:
+Misstänkt höggradig skivepitellesion/ASC-H
+M69719
+Höggradig intraepitelial skivepitellesion/HSILcyt
+M80772
+Misstanke om skivepitelcancer M80701
+Körtelcellsatypi M69720
+Adenocarcinoma in situ eller misstanke om
+adenocarcinom M81401
+Atypi i cell av oklar typ/annan celltyp M69700
+Maligna celler av oklar celltyp/annan celltyp
+M80009","Besked + kallelse för utredning vid
+gynmottagning"

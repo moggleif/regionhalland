@@ -1,0 +1,33 @@
+"Diagnos
+Normalt/benignt cellprov","SNOMED
+M00110","Kvalitetsmål/acceptansnivå
+cervixcytologi
+<96%"
+Ej bedömbart prov,,<1 %
+Endocervikala celler saknas,,<10%
+"Andel prover med atypi eller
+dysplasi","(M69710, M69719,
+M80770, M80772,
+M80701, M69720,
+M81401 och
+M69700)",4–8%
+"Atypiska skivepitelceller med
+osäker innebörd/ ASCUS",M69710,"Av de prover som besvaras som M69710
+och bör mellan 50–70% visa förekomst
+av högrisk-HPV."
+Misstänkt höggradig dysplasi,M69719,">50% HSIL, AIS eller malignitet på PAD
+vid uppföljning. Antalet prover besvarade
+med denna diagnoskod bör hållas lågt."
+"Låggradig intraepitelial
+skivepitellesion/LSIL-cyt.",M80770,"Av de prover som besvaras som M80770
+bör mellan 50–70% visa förekomst av
+högrisk-HPV."
+"Höggradig intraepitelial
+skivepitellesion/HSIL-cyt.",M80772,"0,4–1,0 %
+>80% HSIL, AIS eller malignitet på PAD
+vid uppföljning"
+Skivepitelcancer,M80703,Få fall. Ingen rekommendation
+Körtelcellsatypi,M69720,"0,1–0,2 %"
+Adenocarcinom,M81403,Få fall Ingen rekommendation
+"Oklar atypi i cell av
+osäker/annan celltyp",M69700,"<0,5 %"

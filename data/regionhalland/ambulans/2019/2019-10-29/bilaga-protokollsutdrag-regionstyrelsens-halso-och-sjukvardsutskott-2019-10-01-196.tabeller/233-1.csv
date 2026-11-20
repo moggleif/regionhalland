@@ -1,0 +1,49 @@
+"Område
+Laboratorier","Variabel
+Ackreditering?","Typ
+av
+mått
+S",Mätmetod,"Anmärkning Målnivå
+Är laboratoriet Ja
+ackrediterat vid
+SWEDAC?",
+,"Diagnostiken följer
+nationell nomenklatur i
+enlighet med det
+nationella
+vårdprogrammet",S,"Kvalitets-
+register",,Ja
+,Tid till svar,P,,"Screeningprover samt
+triage-tester. Dagar från
+prov-tagning till provsvar
+skickas ut från lab.
+edianvärde och
+målvärde redovisas.","90 % ≤ 28
+dagar"
+,Diagnostisk profil,P,,"Endast screeningprover.
+Vid svar med flera
+diagnoser räknas
+“värsta” diagnosen.
+Andel avvikelser (100
+minus andel benigna
+prover) redovisas totalt
+och per åldersklass",-
+,"Histopatologi inom
+12 mån. efter
+höggradiga
+cellförändringar",P,"Kvalitets-
+register","För alla cytologprov
+redovisas i korstabell
+andelen som har
+histopatologiskt prov från
+cervix inom 12 mån.
+samt diagnos vid PAD.
+Dessutom redovisas
+fördelning av diagnoser i
+PAD begränsat till de
+prov som är uppföljda
+med PAD.",-
+,"Andel ASCUS/LSILcyt
+som följts upp med
+HPV-test",P,"Kvalitets-
+register",,-
