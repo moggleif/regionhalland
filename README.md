@@ -244,6 +244,17 @@ utredningarna efter motionerna om könsstympning och sexuellt våld, står
 styrelsens steg i nämndens spår och inte en gång till hos styrelsen.
 Investeringsplanen, budgeten och delegeringsbesluten står inte med.
 
+Regionfullmäktige har målen för 2021–2026 ur Region Hallands
+årsredovisningar 2021–2025, med utfallet, och prognosen för 2026 ur
+uppföljningsrapport 2. För 2021 och 2022 är målen fullmäktiges fokusområden;
+från 2023 står målen under fokusområdena, och det är målen som står här.
+Målen har slaget kommunmål, slaget för fullmäktiges mål. Årsredovisningarna
+för 2019 och 2020 finns inte i poolen. Uppföljningarna har fullmäktiges
+beslut om årsredovisningarna och uppföljningsrapporterna 2019–2026, och
+granskningarna revisionsberättelsen och ansvarsprövningen år för år. När
+revisorerna presenterar en granskning i fullmäktige står steget hos
+regionstyrelsen, som svarar för granskningen.
+
 Regionfullmäktige har motionerna 2019–2026 på sidan Initiativ och motioner:
 när motionen anmäldes i fullmäktige, med avsändaren, och fullmäktiges beslut.
 Motioner som anmäldes före 2019, eller vid sammanträdet 2023-12-06 vars
