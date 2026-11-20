@@ -163,5 +163,22 @@ grundläggande granskning och de fördjupade granskningarna med nämndens svar.
 Lokaler som nämnden tar fram åt sjukhusen och ambulansen står hos de
 nämnderna.
 
+Driftnämnden Kollektivtrafik har sidorna för 2023–2026; nämnden tog över
+verksamheten från Hallandstrafiken AB 2023. Målen står för 2023 och 2025–2026
+ur verksamhetsplanerna, med utfallet för 2025 ur årsredovisningen. Planen för
+2024 finns inte i poolen, så 2024 står med prognosen ur uppföljningsrapport 2,
+och 2023 följs bara upp med indikatorer. Handlingsplanerna har
+kollektivtrafikplanerna år för år och det regionala
+trafikförsörjningsprogrammet 2026–2030 fram till fullmäktiges beslut,
+överenskommelserna trafikavtalen för Öresundstågen, Västtågen och Pågatågen,
+Krösatågen, principerna för kommunala tillköp av biljetter och upphandlingen
+av busstrafiken i Kungsbacka. Lokaler och investeringar har bussdepån i
+Halmstad och nästa generation Öresundståg. Remisser och yttranden har
+regionens yttranden över kommunernas detaljplaner, som är avstämda med
+Hallandstrafiken, och svaret till Kungsbacka kommun om busstrafiken.
+Initiativärendena har motionerna med fullmäktiges beslut. Protokollet från
+2023-09-28 ligger som bilaga, och 2026-09-30 och 2026-11-19 har inget
+protokoll i poolen än.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
