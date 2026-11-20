@@ -150,5 +150,18 @@ Mötena 2021-09-01 och 2023-09-06 har inget protokoll i poolen, och
 fullmäktiges beslut om sjukhusstrukturen 2023-12-06 saknas eftersom
 protokollet inte finns där.
 
+Driftnämnden Regionservice har sidorna för 2019–2026. Målen står för
+2020–2026 ur verksamhetsplanerna, med utfallet för 2024 ur årsredovisningen
+och prognosen för 2026 ur uppföljningsrapport 2. Övriga år följer upp målen
+med symboler som inte går att läsa ur poolen och står utan utfall. Lokaler
+och investeringar har kök, kontorslokaler, beredskapslager och centrallagret
+i Halmstad, överenskommelserna serviceöverenskommelserna,
+livsmedelsprinciperna och café- och butiksverksamheten. Redovisningarna har
+bland annat den framtida kost- och måltidsförsörjningen, initiativärendena
+motionerna med fullmäktiges beslut och granskningarna revisorernas
+grundläggande granskning och de fördjupade granskningarna med nämndens svar.
+Lokaler som nämnden tar fram åt sjukhusen och ambulansen står hos de
+nämnderna.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
