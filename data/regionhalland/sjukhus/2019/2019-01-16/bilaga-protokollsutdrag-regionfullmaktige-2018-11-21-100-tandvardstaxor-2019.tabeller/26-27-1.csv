@@ -1,0 +1,139 @@
+406S,"Tanduttagning, övertalig tand",kr1 300,kr1 300
+407S,"Övrig dentoalveolär kirurgi eller plastik, per operationstillfälle",kr2 505,kr2 505
+420S,"Implantat, per styck",enligt listpris,kr2 815
+421S,"Operation avseende käkbensförankrade implantat, ett implantat",kr6 000,kr4 380
+422S,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,kr1 975,kr1 805
+423S,"Operation avseende käkbensförankrade implantat, två eller tre implantat",kr6 665,kr5 835
+424S,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,kr2 200,kr2 040
+425S,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",kr9 280,kr8 025
+426S,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,kr2 955,kr2 755
+427S,Benaugmentation med egen vävnad i en kvadrant,kr6 085,kr4 885
+427S1,"Benaugmentation med egenvävn ad, omfattande",kr10 500,kr4 885
+428S,Benaugmentation med benersättningsmaterial i en kvadrant,kr7 900,kr5 615
+428S1,"Benaugmentation med benersättningsmateriali en kvadrant ,omfattande",kr12 600,kr5 615
+429S,"Kirurgiskt avlägsnande av implantat, per operationstillfälle",kr4 820,kr4 820
+,,,
+,Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i annan kvadrant eller implantatoperation i,,
+430S,"samma kvadrant,tilläggsåtgärd,per kvadrant",kr2 405,kr1 915
+431S,"Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperation i annan kvadrant,",kr3 219,kr2 985
+,"tilläggsåtgärd,per kvadrant",,
+432S,"Benaugmentation med benersättningsmaterial i samband med implantatoperation, tilläggsåtgärd per kvadrant",kr2 635,kr2 185
+435S,Avlägsnade av ett implantat,kr1 300,kr1 300
+436S,"Avlägsnade av ett implantat, enkel",kr235,kr235
+,Parodontalkirugiska åtgärder,,
+,"Parodontalkirurgisk behandling vid en eller två tänder eller kirurgisk behandling av periimplantit vid ett implantat, per",kr3 135,kr3 135
+441S,operationstillfälle,,
+441S1,"Parodontalkirurgisk behandling vid en eller två tänder eller kirurgisk behandling av periimplantit vid ett implantat, per",kr3 950,kr3 135
+,"operationstillfälle, omfattande",,
+442S,"Parodontalkirurgisk behandling vid tre till sex tänder, per operationstillfälle",kr4 961,kr4 485
+443S,"Kirurgisk behandling av periimplantit vid två till fyra implantat, per operationstillfälle",kr4 961,kr4 265
+444S,"Omfattande parodontalkirurgisk behandling vid sju tänder eller fler, eller vid tre tänder eller fler i kombination med annan operation,",kr6 250,kr5 850
+,per operationstillfällle,,
+445S,"Omfattande kirurgisk behandling av periimplantit vid fem implantat eller fler, eller vid tre implantat eller fler i kombination med annan",kr6 250,kr5 850
+446S,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, per operationstillfälle",kr2 009,kr1 965
+446S1,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, per operationstillfälle, mindre",kr956,kr1 965
+446S2,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, per operationstillfälle, omfattande",kr2 400,kr1 965
+,,kr1 350,kr1 325
+447S,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, per operationstillfälle",,
+,,kr2 168,kr1 325
+447S1,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, per operationstillfälle, omfattande",,
+448S,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd, per operationstillfälle",kr2 195,kr945
+480,"Kontroll av koagulation,tilläggsåtgärd",kr325,kr325
+,,,
+500 Endodontiska åtgärder,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser 2019
+01-15"
+501S,"Rensning och rotfyllning, en rotkanal",kr4 550,kr4 135
+502S,"Rensning och rotfyllning, två rotkanaler",kr5 113,kr5 000
+503S,"Rensning och rotfyllning, tre rotkanaler",kr6 685,kr6 295
+504S,"Rensning och rotfyllning, fyra eller fler rotkanaler",kr7 315,kr6 860
+520S,"Akut endodontisk behandling, annan behandlare",kr1 227,kr1 125
+521S,Akut trepanation och kavumextirpation,kr1 110,kr1 000
+522S,Komplicerad kanallokalisation,kr1 005,kr1 005
+523S,Stiftborttagning,kr1 470,kr1 470
+541S,"Apikalkirurgisk behandling, per operationstillfälle",kr4 560,kr4 560
+541S2,"Apikalkirurgisk behandling, per operationstillfälle, två rötter",kr5 140,kr4 560
+541S3,"Apikalkirurgisk behandling, per operationstillfälle, tre rötter",kr5 700,kr4 560
+541S4,"Apikalkirurgisk behandling, per operationstillfälle, fyra rötter",kr6 400,kr4 560
+541S5,"Apikalkirurgisk behandling, per operationstillfälle, fem rötter",kr7 970,kr4 560
+542S,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle, tilläggsåtgärd",kr1 280,kr1 280
+,,,
+600 Bettfysiologiska åtgärder,,,
+Åtgärd,Typ av behandling,"Arvode kronor 2019-
+01-15","Referenspriser 2019
+01-15"
+601S,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",kr4 835,kr4 755
+602S,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",kr4 755,kr4 755
+603S,"Reponeringsskena, per skena",kr7 415,kr6 650
+604S,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologiska indikationer, per skena",kr2 860,kr2 510
+606S,Motorisk aktivering,kr625,kr625
+607S,Bettslipning för ocklusal stabilisering,kr950,kr950
+,,,
+800 Protetiska åtgärder,,,
+Åtgärd,Typ av behandling,"Arvode kronor 2019-
+01-15","Referenspriser 2019
+01-15"
+800S,"Permanent tandstödd krona, en per käke",kr7 200,kr6 780
+800S1,"Permanent tandstödd krona, en per käke. Material: Zirkonia, helkeram, inlägg",kr7 890,kr6 780
+800S2,"Permanent tandstödd krona, en per käke. Material: Guld",enligt faktura,6780
+801S,"Permanent tandstödd krona, flera i samma käke",kr7 200,kr5 275
+801S1,"Permanent tandstödd krona, flera i samma käke. Material: Zirkonia, helkeram",kr7 890,kr5 275
+801S2,"Permanent tandstödd krona, flera i samma käke. Material: Guld",enligt faktura,kr5 275
+802S,Laboratorieframställd pelare med intraradikulärt stift,kr3 850,kr3 755
+802S1,"Laboratorieframställd pelare med intraradikulärt stift. Material: Zirkonia, helkeram",kr4 580,kr3 755
+802S2,Laboratorieframställd pelare med intraradikulärt stift. Material: Guld,enligt faktura,kr3 755
+803S,Klinikframställd pelare med intraradikulärt stift,kr1 855,kr1 855
+804S,"Hängande led vid tandstödd protetik, per led.",kr3 200,kr2 405
+804S1,"Hängande led vid tandstödd protetik, per led. Material: Zirkonia, helkeram",kr3 835,kr2 405
+804S2,"Hängande led vid tandstödd protetik, per led. Material: Guld",enligt faktura,kr2 405
+805S,"Emaljretinerad konstruktion, laboratorieframställd, per stöd",kr2 235,kr2 175
+806S,Radikularförankring vid avtagbar protes,kr4 300,kr4 030
+807S,"Semipermanent krona eller hängande led, per led",kr3 250,kr2 805
+808S,Innerkrona för teleskop- och konuskonstruktioner,kr4 080,kr3 960
+809S,"Långtidstemporär laboratorieframställd krona eller hängande led, per led",kr1 360,kr1 195
+811S,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd",kr710,kr710
+811S1,"Cementering av lossnad protetisk konstruktion, per stöd. Adhesiv teknik",kr1 040,kr710
+812S,"Reparation av krona eller bro, utan tandteknisk insats",kr1 870,kr1 870
+813S,Broreparation med tandteknisk insats,kr5 490,kr5 490
+814S,"Broreparation med tandteknisk insats, omfattande",kr10 780,kr9 360
+815S,Sadelkrona,kr7 300,kr6 095
+822S,"Partiell protes för temporärt bruk, en till tre tänder",kr4 260,kr4 260
+823S,"Partiell protes för temporärt bruk, fyra eller fler tänder",kr6 255,kr5 955
+824S,"Partiell protes med metallskelett , klammerförankrad",kr14 650,kr12 375
+825S,"Komplicerad partiell protes med metallskelett som förankras med stöd av urtagskrona, innerkrona eller attachments",kr17 500,kr14 805
+827S,Hel underkäksprotes,kr12 255,kr11 385
+828S,Hel överkäksprotes,kr12 230,kr11 385
+829S,"Immediatprotes, hel käke",kr10 100,kr8 050
+831S,Justering av avtagbar protes,kr545,kr475
+832S,Lagning av protes eller tillsättning av protestand,kr1 490,kr1 455
+833S,Rebasering av protes,kr3 005,kr3 005
+834S,Lagning av protes där avtryck krävs,kr2 320,kr2 250
+835S,Rebasering och lagning av protes,kr3 755,kr3 535
+836S,Komplicerad lagning av protes,kr4 540,kr4 310
+837S,Komplicerad lagning av protes där upppvaxning och gjutning av ny del utförs vilken svetsas till befintlig protes,kr7 575,kr7 475
+839S,"Inmontering av förankringselement, per käke",kr3 860,kr3 485
+845S,Ocklusionskorrigerande bettslipning,kr2 335,kr2 335
+846S,"Skena, hel eller cementerad i sektioner, för vertikal platsberedning eller bettstabilisering",kr5 755,kr5 755
+847S,Klammerplåt,kr4 785,kr4 660
+848S,"Betthöjning eller uppbyggnad för ocklusal stabilisering med fyllningsmaterial, per tandposition",kr698,kr695
+850S,"Implantatförankrad krona, en per käke",kr10 225,kr9 315
+850S1,"Implantatförankrad krona, en per käke. Material: Zirkonia, helkeram",kr10 990,kr9 315
+852S,"Implantatförankrad krona, flera i samma käke",kr9 112,kr7 195
+852S1,"Implantatförankrad krona, flera i samma käke. Material: Zirkonia, helkeram",kr9 896,kr7 195
+853S,Hängande led vid implantatförankrad bro,kr3 192,kr2 405
+853S1,"Hängande led vid implantatförankrad bro. Material: Zirkonia, helkeram",kr3 923,kr2 405
+854S,"Semipermanent hängande led på implantat, per led",kr2 445,kr2 445
+854S1,"Semipermanent krona på implantat, per led",kr2 445,kr2 445
+855,"Fästskruv/broskruv och cylinder vid semipermanent krona på implantat, per implantat",enligt faktura,kr540
+856S,"Långtidstemporärt laboratorieframställt hängande led på implantat, per led",kr1 490,kr1 490
+856S1,"Långtidstemporär laboratorieframställd krona på implantat, per led",kr1 490,kr1 490
+857S,"Fästskruv/broskruv och cylinder vid långtidstemporär laboratorieframställd krona på implantat, per implantat",enligt faktura,kr490
+858S,"Distans inklusive distansskruv, per styck",kr1 285,kr1 255
+858S1,"Distans inklusive distansskruv, per styck. Material: Helkeram, individuell distans",kr2 985,kr1 255
+858S2,"Distans inklusive distansskruv, per styck. Kostnad enligt faktura alternativt specialbeställning",enligt faktura,kr1 255
+861S,"Implantatförankrad bro, överkäke, fyra implantat - Metall/akryl",kr50 442,kr34 875
+861S1,"Implantatförankrad bro, överkäke, fyra implantat - Metall/keramik",kr52 353,kr34 875
+861S2,"Implantatförankrad bro, överkäke, fyra implantat - Zirkonia",kr53 389,kr34 875
+862S,"Implantatförankrad bro, överkäke, fem implantat - Metall/akryl",kr51 722,kr36 855
+862S1,"Implantatförankrad bro, överkäke, fem implantat - Metall/keramik",kr54 975,kr36 855
+862S2,"Implantatförankrad bro, överkäke, fem implantat - Zirkonia",kr56 486,kr36 855
