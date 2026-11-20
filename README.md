@@ -204,5 +204,22 @@ till förvaltningen och de återkommande verksamhetsberättelserna.
 Granskningarna har revisorernas grundläggande granskning och de fördjupade
 granskningarna med nämndens svar.
 
+Patientnämnden Halland har sidorna för 2019–2026. Målen står för 2020 och
+2023–2026 ur verksamhetsplanerna; planerna för 2019, 2021 och 2022 finns inte
+i poolen. Utfallet står för 2025 ur årsrapporten, och för 2023 står målen som
+årsrapporten följer upp dem, utan bedömning. Redovisningarna har nämndens
+analyser av klagomålen, till exempel den årliga analysen tillsammans med
+Inspektionen för vård och omsorg, med driftnämndernas, regionstyrelsens och
+fullmäktiges mottagande, kvartalsrapporterna och redogörelserna till
+inspektionen. Initiativärendena har ett initiativ om nämndens organisation
+och motionen om att redovisa nämndens ärenden för fullmäktige,
+granskningarna den grundläggande granskningen och granskningen av
+följsamheten till lagen om stöd vid klagomål med nämndens svar, och
+överenskommelserna reglementet och samverkansavtalet med kommunerna.
+Handlingsplanerna har informationshanterings- och kommunikationsplanen.
+Enskilda patientärenden står inte med. Mötena 2020-04-15, 2020-12-02,
+2021-12-09 och 2026-09-18 har inget protokoll i poolen, utom 2021-12-09 och
+2026-09-18 där protokollet ligger som bilaga.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
