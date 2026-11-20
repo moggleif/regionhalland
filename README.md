@@ -180,5 +180,16 @@ Initiativärendena har motionerna med fullmäktiges beslut. Protokollet från
 2023-09-28 ligger som bilaga, och 2026-09-30 och 2026-11-19 har inget
 protokoll i poolen än.
 
+Driftnämnden Kultur och skola har målen för 2019–2026: utfallet ur
+årsredovisningarna 2019–2025, målen ur verksamhetsplanerna 2020–2026 och
+prognosen för 2026 ur uppföljningsrapport 2. För 2019 står målen bara som
+årsredovisningen följer upp dem, utan bedömning. Mål som bytt ordalydelse
+mellan plan och årsredovisning, eller mellan åren, står ihop i ett spår.
+Uppföljningarna har nämndens beslut om årsredovisningar och
+uppföljningsrapporter och dragningarna inför verksamhetsplanen. Mötena
+2019-10-02, 2020-12-14, 2023-02-15, 2023-10-12, 2025-09-18 och 2026-10-23
+har protokollet som bilaga, och 2021-03-18 och 2024-12-31 har inget
+protokoll i poolen.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
