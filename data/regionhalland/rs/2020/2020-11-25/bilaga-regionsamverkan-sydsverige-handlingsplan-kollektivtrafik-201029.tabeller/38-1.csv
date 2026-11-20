@@ -1,0 +1,31 @@
+"Relation mellan
+tillväxtmotorer",,Restid (min),,,"Medelhastighet
+(km/tim)",
+,Trafik1,2019,"RSS
+2040","2019-
+2040",2019,"RSS
+2040"
+Köpenhamn-Malmö,Ötåg,35,35,0%,70,70
+Malmö-Lund,Ötåg,11,10,-9%,90,99
+Lund-Helsingborg,Ötåg,27,20,-26%,118,159
+Helsingborg-Halmstad2,Ötåg,55,40,-27%,91,125
+Halmstad-Varberg,Ötåg,32,25,-22%,135,173
+Varberg-Göteborg,Ötåg,40,30,-25%,113,150
+Lund-Växjö2,Ötåg,105,90,-14%,104,121
+Växjö-Kalmar,Ötåg,68,45,-34%,100,151
+Lund-Kristianstad,Ötåg,54,35,-35%,107,165
+Kristianstad-Karlskrona,Ötåg,93,75,-19%,83,102
+Helsingör-Helsingborg,Båt,20,5,-75%,18,72
+Helsingborg-Kristianstad,Ptåg,85,45,-47%,76,143
+Kristianstad-Halmstad,Ptåg,145,70,-52%,-,103
+Kristianstad-Växjö,Ötåg,85,70,-18%,102,124
+Halmstad-Växjö,Buss,155,110,-29%,51,71
+Halmstad-Jönköping,Ktåg,165,140,-15%,69,81
+Varberg-Borås,Vtåg,80,50,-38%,64,102
+Växjö-Borås,SJ,110,90,-18%,91,111
+Växjö-Jönköping,Ktåg,110,70,-36%,81,127
+Växjö-Karlskrona,Ötåg+Ktåg,85,60,-29%,80,113
+Karlskrona-Kalmar,Ötåg+Ktåg,77,60,-22%,89,114
+Kalmar-Linköping,Kpil,185,120,-35%,77,119
+Jönköping-Linköping,SJ+Ktåg,100,80,-20%,99,124
+Jönköping-Borås,Buss,105,80,-24%,48,63
