@@ -104,8 +104,8 @@ eftersom planen inte finns i poolen, och för 2024 också nämndens egna
 utvecklingsområden ur beslutsförslaget; 2026 ur planen nämnden fick i
 oktober 2025). Utfallet står för 2020–2025; 2018–2019 följs bara upp med
 indikatorer.
-Motionerna har fullmäktiges beslut där beslutet finns bland nämndens
-handlingar; resten kommer när regionfullmäktige är hämtat.
+Motionerna har fullmäktiges beslut, ur nämndens handlingar eller
+fullmäktiges protokoll.
 Gemensam nämnd för hemsjukvård och hjälpmedel har sidorna för 2017–2026:
 överenskommelserna med kommunerna
 (hemsjukvården, samverkansavtalet, trygg och effektiv utskrivning och
@@ -243,6 +243,18 @@ fastighetsinvesteringar, biblioteksplanen, trafikförsörjningsprogrammet eller
 utredningarna efter motionerna om könsstympning och sexuellt våld, står
 styrelsens steg i nämndens spår och inte en gång till hos styrelsen.
 Investeringsplanen, budgeten och delegeringsbesluten står inte med.
+
+Regionfullmäktige har motionerna 2019–2026 på sidan Initiativ och motioner:
+när motionen anmäldes i fullmäktige, med avsändaren, och fullmäktiges beslut.
+Motioner som anmäldes före 2019, eller vid sammanträdet 2023-12-06 vars
+protokoll inte finns i poolen, står med beslutet men utan anmälan. En
+motion som fick bifall i en del och avslag i en annan har båda stegen.
+Motioner som ännu inte har besvarats står med anmälan. Driftnämndernas spår
+har fullmäktiges beslut om de motioner nämnden yttrat sig över.
+Interpellationer och frågor står inte med: de besvaras i en debatt utan
+beslut och har inget förlopp, som i Kungsbacka. Redovisningarna har de
+återkommande redovisningarna av ej färdigbehandlade motioner och av
+verkställigheten av uppdrag och bifallna motioner.
 
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
