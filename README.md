@@ -199,10 +199,10 @@ kulturstödet. Överenskommelserna har kultursamverkansmodellen med
 statsbidragen år för år och överenskommelserna om regional
 kulturverksamhet. Lokaler och investeringar har folkhögskolornas,
 naturbruksgymnasiets och Teater Hallands lokaler, remisserna nämndens
-yttranden till staten och
-kommunerna och redovisningarna nämndens uppdrag till förvaltningen och de
-återkommande verksamhetsberättelserna. Granskningarna har revisorernas
-grundläggande granskning och de fördjupade granskningarna med nämndens svar.
+yttranden till staten och kommunerna och redovisningarna nämndens uppdrag
+till förvaltningen och de återkommande verksamhetsberättelserna.
+Granskningarna har revisorernas grundläggande granskning och de fördjupade
+granskningarna med nämndens svar.
 
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
