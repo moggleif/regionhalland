@@ -125,6 +125,18 @@ kompetensförsörjningsplanen. Motionerna har fullmäktiges beslut, och
 granskningarna revisorernas bedömning där den står i rapporten.
 Regionstyrelsens och fullmäktiges beslut står med när de gäller nämndens
 lokaler, planer, remisser och motioner.
+Driftnämnden Ambulans, diagnostik och hälsa har sidorna för 2019–2026.
+Målen står för 2020–2026: nämndens utvecklingsområden ur
+verksamhetsplanerna 2020–2026, utfallet ur årsredovisningarna 2022–2025 och
+prognosen för 2026 ur uppföljningsrapport 2. Årsredovisningarna för 2019–2021
+finns inte i poolen, så 2020 och 2021 står utan utfall. Handlingsplanerna
+har åtgärdsplanerna för ekonomi i balans och kompetensförsörjningsplanen,
+initiativärendena tre initiativ från 2022 och motionerna med fullmäktiges
+beslut, och investeringarna nämndens och regionstyrelsens beslut om
+röntgen, laboratorier och lokaler. Mötena 2020-03-31 och 2025-04-02 har
+inget protokoll i poolen, och protokollet från 2024-09-04 ligger som
+bilaga. Hjälpmedelsuppdraget som nämnden utför står hos Gemensam nämnd för
+hemsjukvård och hjälpmedel och skrivs inte av här.
 
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
