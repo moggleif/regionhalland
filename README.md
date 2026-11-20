@@ -191,5 +191,18 @@ uppföljningsrapporter och dragningarna inför verksamhetsplanen. Mötena
 har protokollet som bilaga, och 2021-03-18 och 2024-12-31 har inget
 protokoll i poolen.
 
+Kultur och skolas övriga sidor går över 2019–2026. Initiativärendena har
+motionerna med fullmäktiges beslut och ett initiativärende om
+musikutbildningar. Handlingsplanerna har kulturplanerna, kulturstrategierna
+och biblioteksplanerna med fullmäktiges beslut, och kriterierna för
+kulturstödet. Överenskommelserna har kultursamverkansmodellen med
+statsbidragen år för år och överenskommelserna om regional
+kulturverksamhet. Lokaler och investeringar har folkhögskolornas,
+naturbruksgymnasiets och Teater Hallands lokaler, remisserna nämndens
+yttranden till staten och
+kommunerna och redovisningarna nämndens uppdrag till förvaltningen och de
+återkommande verksamhetsberättelserna. Granskningarna har revisorernas
+grundläggande granskning och de fördjupade granskningarna med nämndens svar.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
