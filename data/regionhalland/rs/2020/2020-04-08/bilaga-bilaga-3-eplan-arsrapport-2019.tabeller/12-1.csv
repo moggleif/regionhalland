@@ -1,0 +1,43 @@
+Aktiviteter,Kommentar
+,"detalj. I fortsättningen får det hanteras löpande i
+grunduppdraget. Aktiviteten stängs i Stratsys."
+"Riskanalys ska vara genomförd för IT-
+komponenter med högt SLA","Riskanalys för eFrikort är genomförd, inga allvarliga
+risker identifierades.
+Möte är bokat för genomgång med OÄ av åtgärder
+från riskanalys av VAS och E-arkiv i juni."
+"Kontinuitetsplan ska vara framtagen för IT-
+komponenter med högt SLA","Kontinuitetsplanering för VAS ses över i planering av
+plattformsbyte 2020."
+"Minst 2 OS IT ska ha kompetens på IT-
+komponenter","Vi har nu minst 2 OS IT som har kompetens på
+systemen."
+Förteckning över certifikat ska finnas,"Väntar på återkoppling om vi kan testa
+certifikatsmodul i PMP."
+Backup av logghistorik ska gå snabbare,"Möte bokat 191213 för att planera införande av
+inkrementell backup av VAS logghistorik. Införande
+Q1 2020."
+"Inloggning på VAS- servrar skall göras med
+personliga konton","Lösning är klar och de som arbetar på TIeto
+applikationsdrift använder nu sina personliga konton.
+Återstår genomgång med supportpersonal på
+Tieto/TVO samt uppdatera VAS
+systemdokumentation med rutiner."
+Rutin patchning VAS servrar,"Patchning är genomförd på VAS servrar. Ny rutin är
+att patcha 2 ggr/år och om det inte är för stor risk görs
+patchning i samband med leverans av ny version av
+VAS."
+"Vidareutveckla riktade utbildningspaket för VAS-
+utbildningar (verksamhetsnära utbildningar)",Ny plan för 2020
+Vidareutveckla konceptet för på platsstöd,Ny plan för 2020.
+"Fortsatt arbeta för att e-Learning ska vara ett
+alternativ för VAS- utbildningar",Kontinuerliga webutbildningar planeras.
+"Tillse att den gemensamma behovsfasen i VAS
+utvecklingsprocess följs och blir kommunicerad till
+användare i Region Halland",Klar
+"Kommunicera VAS femåriga strategiplan till
+användare i Region Halland",Pågående.
+"Följa gemensam med Norrbotten VAS
+verksamhetsplan för 2019",Klart.
+"Uppgradering av Kibi Base till version som
+använder .NET 4.*",

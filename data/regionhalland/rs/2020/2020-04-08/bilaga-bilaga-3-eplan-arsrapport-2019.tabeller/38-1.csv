@@ -1,0 +1,51 @@
+Aktiviteter,Kommentar
+"Definiera mätvärden kopplade till objektens
+leverans. För samtliga leveranser ska det finnas
+mätvärden som kan följas upp. Dessa ska redovisas
+månadsvis.","Vi avslutar denna aktivitet då objektet ska göras om
+vid årsskiftet och det är bättre att detta diskuteras i de
+nya konstellationerna."
+Löpande redovisa tillgängligheten i våra system,"Klar utifrån Objekt Kommunikation. Om någon ska ta
+detta vidare så är det Plattformsobjektet"
+"Säkerställa dokumentation inom områdena,
+teknisk dokumentation och specifikationer samt
+innehållshantering inkl. gallring och bevarande","Dokumentation är klar utifrån Objekt Kommunikation,
+men bör tas vidare av gränssnittsobjektet"
+"Vidareutveckla samverkan med
+kommunikationsverksamheten och det digitala labbet","Kommer att utvecklas vidare när objektet görs om vid
+årsskiftet. Stänger därför aktiviteten."
+"Implementera rutiner för drift, övervakning,
+uppdateringar etc.","Klar, men behöver löpande uppdateras av
+plattformsobjektet"
+"Säkerställa kontinuitet och tillgänglighet till
+information","De nya webbplatserna vi sätter upp är
+lastbalanserade så om den ena servern går ner så tar
+den andra vid. Detta hjälper dock inte om hela nätet
+går ner, men det är en fråga som behöver tas om
+hand utanför objektet."
+"Implementera arbetssätt kopplat till drift av
+molntjänster",Allt är flyttat från molnet nu
+"Genomföra regelbundna användarundersökningar
+på intranät, respektive www.regionhalland.se kring
+supporten","Tas med över till arbetsplatsobjektet, men formuleras
+om att gälla enbart samarbetsfunktionalitet"
+"Arrangera utbildningar vid behov hos
+verksamheten","Klar för 2019, men ska följa med över till
+arbetsplatsobjektet."
+"Genomföra en release per månad av ny
+funktionalitet på våra webplatser. Se aktivitetsplan","Klar för 2019. Kan sättas upp som en ny aktivitet för
+gränssnittsobjektet"
+"Vidareutveckla tillgängligheten till befintlig och ny
+samarbetsfunktionalitet/Sammarbetsfunktonalitet i
+O365 som ersätter nuvarande samarbetsplatser på
+intranätet","Klart så långt det går, men arbetsplatsobjektet
+kommer att arbeta vidare med detta under 2020"
+"En webplattform byggd i Wordpress som ersätter
+nuvarande CMS som används för intranät och
+www.regionhalland.se","Intranätet kommer att ersättas under 2020 och tas
+med i planeringen där"
+"Ett ramverk/webbplattform för CMS och sök som
+är skalbart och förvaltningsbart.",Det grundläggande ramverket är på plats
+"Förvalta befintliga webbplatser intranät och
+regionhalland.se- endast nödvändiga förändringar för","Förvaltningen av befintligt intranätet tas med över till
+arbetsplatsobjektet"

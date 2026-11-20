@@ -1,0 +1,25 @@
+Vecka 34,Typ av boende,Falkenberg,Halmstad,Hylte,Kungsbacka,Laholm,Varberg,Halland,
+Totalt antal platser,Särskilt boende,468,815,122,668,212,529,2814,
+,LSS boende,126,340,16,211,56,126,875,
+,Korttidsboende,34,71,10,62,14,53,244,
+,Alla typer av boende,628,1226,148,941,282,708,3933,
+,,,,,,,,,
+"Antal brukare i ordinärt
+boende",Hemtjänst EJ hemsjukvård,907,1056,288,1005,438,562,4256,
+,Hemsjukvård EJ hemtjänst,127,644,5,150,134,138,1198,
+,Hemtjänst OCH hemsjukvård,515,1087,136,621,263,576,3198,
+,Personlig assistans,51,151,22,111,20,100,455,
+,Alla med ordinärt boende,1600,2938,451,1887,855,1376,9107,
+,,,,,,,,,
+"Antal brukare med
+konstaterad covid-19",Särskilt boende,1,0,0,0,0,1,2,
+,LSS boende,0,0,0,0,0,0,0,
+,Korttidsboende,0,0,0,0,0,0,0,
+,Alla typer av boende,1,0,0,0,0,1,2,"0,1%"
+,,,,,,,,,
+"Antal brukare med
+konstaterad covid-19",Hemtjänst EJ hemsjukvård,0,0,0,0,0,0,0,
+,Hemsjukvård EJ hemtjänst,0,0,0,0,0,0,0,
+,Hemtjänst OCH hemsjukvård,0,0,0,0,0,0,0,
+,Personlig assistans,0,0,0,0,0,0,0,
+,Alla med ordinärt boende,0,0,0,0,0,0,0,"0,0%"

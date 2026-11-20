@@ -1,0 +1,729 @@
+---
+kommun: regionhalland
+organ: kultur
+datum: 2020-09-17
+lopnr: null
+typ: bilaga
+namn: 35-aterrapportering-forstudie-gallande-ny-idrottshall-pa-katrinebergs
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-kultur-och-skola/mote-2020-09-17/agenda/ss35-aterrapportering-forstudie-gallande-ny-idrottshall-pa-katrinebergs-folkhogskola-dalsgard-136pdf-1
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-kultur-och-skola/mote-2020-09-17/agenda/ss35-aterrapportering-forstudie-gallande-ny-idrottshall-pa-katrinebergs-folkhogskola-dalsgard-136pdf-1?downloadMode=open
+sha256: 57aafd736b2a0cef451b7494537b64102fc38612afde459b8fc6a01f0c50251b
+bytes: 1096331
+sidor: 19
+hamtad: 2026-11-20T01:45:22+00:00
+konverterad: 2026-11-20T01:45:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
+fel: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: []
+figurer: [3, 8, 18]
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+Protokoll
+Sammanträdesdatum
+2020-06-17
+
+Regionfullmäktige
+
+§35
+
+Återrapportering förstudie gällande ny idrottshall på Katrinebergs
+folkhögskola, Dalsgård 1:36
+RS200262
+
+Beslut
+Regionfullmäktige beslutar att
+
+  ge Regionfastigheter i uppdrag att genomföra nybyggnation av idrottshall på
+Katrinebergs folkhögskola enligt genomförd förstudie
+
+  godkänna tidigareläggning från 2021 till 2020 av investeringsmedel upptagna i
+Mål och budget 2021 till en summa av 6 000 000 kronor
+
+Ärendet
+Vid utredning gällande eventuell installation av solceller på idrottshallen på
+Katrinebergs folkhögskola så upptäcktes rötskador på bärande pelare samt tydliga
+indikationer på att takkonstruktionen har brister i hållfastheten. Regionfastigheter tog
+då omedelbart beslut om att stänga idrottshallen i väntan på ytterligare utredningar
+
+då personsäkerheten inte kunde garanteras. Ytterligare utredningar bekräftar detta
+och beslut togs därför i samråd med representanter för kultur- och skola om att
+påbörja en förstudie gällande nybyggnation av en idrottshall.
+
+Idrottshallen är väldigt viktig för skolan då den krävs för att kunna bedriva utbildning.
+Hallen fyller också en viktig samhällsfunktion då den också hyrs av lokala
+idrottsföreningar.
+
+Förstudien visar på en möjlighet att bygga en ny hall som också kan tillgodose
+
+verksamhetens ytterligare behov av exempelvis rum för yoga samt möjlighet till att
+sätta solceller på taket. Verksamheten ska enligt upprättad tidplan kunna börja
+använda den nya idrottshallen f o m höstterminen 2021.
+
+Förslag till beslut
+Regionstyrelsen föreslår regionfullmäktige besluta att
+
+  ge Regionfastigheter i uppdrag att genomföra nybyggnation av idrottshall på
+Katrinebergs folkhögskola enligt genomförd förstudie
+  godkänna tidigareläggning från 2021 till 2020 av investeringsmedel upptagna i
+
+Mål och budget 2021 till en summa av 6 000 000 kronor
+
+Ordförandes sign     Justerares sign      Utdragsbestyrkande
+
+1(2)
+
+<!-- sida 2 -->
+
+Protokoll
+Sammanträdesdatum
+2020-06-17
+
+Regionfullmäktige
+
+Beslutsunderlag
+  Paragraf 99 - Återredovisning förstudie gällande ny idrottshall på Katrinebergs
+folkhögskola, Dalsgård 1-36
+  Tjänsteskrivelse Återrapportering förstudie gällande ny idrottshall på
+Katrinebergs folkhögskola
+  Förstudierapport Katrinebergs folkhögskola, nybyggnation av idrottshall
+
+Expedieras till
+Driftnämnden för kultur och skola
+
+Ordförandes sign     Justerares sign      Utdragsbestyrkande
+
+2(2)
+
+<!-- sida 3 -->
+
+Förstudierapport
+
+Kat rine  ber  gs   f olkhö  g skola
+
+Nybyggnation   av  idrottshall
+
+2020-05-04
+
+<!-- sida 4 -->
+
+Innehållsförteckning
+
+SAMMANFATTNING ................................................................................................................................. 4
+UPPDRAG ................................................................................................................................................. 5
+
+BAKGRUND .............................................................................................................................................. 5
+FÖRSTUDIEORGANISATION ...................................................................................................................... 6
+
+VERKSAMHETSBESKRIVNING ................................................................................................................... 6
+
+NULÄGE ........................................................................................................................................................ 6
+FRAMTID & BEHOV .......................................................................................................................................... 7
+
+KONSEKVENSER OCH FÖRÄNDRINGAR .................................................................................................................. 7
+MÅLGRUPPER ................................................................................................................................................. 8
+
+INTRESSENTER ................................................................................................................................................ 8
+
+Interna ................................................................................................................................................... 8
+Externa................................................................................................................................................... 8
+
+FÖRSLAG PÅ NYBYGGNATION .................................................................................................................. 8
+ALLMÄNT....................................................................................................................................................... 8
+
+PLANLÖSNING OCH SAMBAND ............................................................................................................................ 9
+BYGG ............................................................................................................................................................ 9
+
+TEKNISKA INSTALLATIONER .............................................................................................................................. 10
+
+SAMMANSTÄLLNING STYRANDE DOKUMENT ................................................................................................ 10
+ENERGI OCH MILJÖ................................................................................................................................. 10
+
+SOLCELLER ................................................................................................................................................... 10
+GENOMFÖRANDE ................................................................................................................................... 11
+
+HUVUDTIDPLAN ............................................................................................................................................ 11
+
+EKONOMI ............................................................................................................................................... 11
+HYRESKOSTNAD ............................................................................................................................................ 12
+
+Bilagor:
+Beräkningsdokumentation stomme                       Bilaga 1
+
+Lokalprogram                                         Bilaga 2
+
+A-ritningar                                          Bilaga 3
+
+2
+
+<!-- sida 5 -->
+
+3
+
+<!-- sida 6 -->
+
+SAMMANFATTNING
+
+Katrinebergs Folkhögskolas idrottshall är efter besiktning ej användbar och en
+förstudie ska ta fram alternativ lösning. Förstudien kommer att visa på ett
+
+nybyggnadsalternativ som täcker framtida lokalbehov och skapar en god
+arbetsmiljö för elever och personal. Föreslagen byggnadsyta är större än tidigare
+vilket innebär att avsteg mot detaljplanen kommer att behöva göras.
+
+Den nya idrottshallen på Katrinebergs Folkhögskola är tänkt som en modern och
+hållbar byggnad som möjliggör för verksamheten att bedriva utbildning på ett
+effektivt sätt. Den nya idrottshallen innehåller bland annat ett utrymme som är
+
+kombinerat för utbildning och yoga/dans som kan användas även när den stora
+hallen är upptagen. Anslutning till omklädningsrum direkt utifrån är också möjligt
+då delar av verksamheten bedrivs utomhus.
+
+4
+
+<!-- sida 7 -->
+
+UPPDRAG
+
+Detta uppdrag avser att utföra en förstudie gällande nybyggnad av idrottshall på
+Katrinebergs folkhögskola i Falkenbergs kommun. Förstudien startades akut upp
+
+eftersom idrottshallen stängdes av på grund av att brister i konstruktionen
+upptäcktes. Syftet med förstudien är att på så kort tid som möjligt säkerställa så
+att skolan kan fortsätta bedriva sin verksamhet.
+
+BAKGRUND
+
+Det finns idag en idrottshall på Katrinebergs folkhögskola som färdigställdes 1995.
+
+I december 2019 gjordes en konstruktionsmässig analys av byggnadens stomme
+(bilaga 1). Analysen visade på att stommens utnyttjande var för hög och att hallen
+krävde omfattande förstärkningar.
+
+Stommen utgörs av pelare, takstolar, och takåsar i limträ. Taket består av bärande
+plåt. Sedan ett tag tillbaka har taket tilläggsisolerats med träullsskivor som hängts
+
+på insidan. Dessa är tunga och deformationer i takåsarna är tydligt synliga inifrån
+hallen. På gavlarna och ena långsidan av hallen utgör de bärande limträpelarna
+en del av fasaden. De är utsatta för väder och vind och det finns synliga rötskador
+i nedre delen av pelarna.
+
+Med den konstruktionsmässiga analysen, deformationerna, och skadorna i
+stommen tog Regionfastigheter beslutet att stänga av idrottshallen eftersom
+
+personsäkerhet inte längre kunde garanteras.
+
+5
+
+<!-- sida 8 -->
+
+Figur 1. Översikt Katrinebergs folkhögskola, idrottshall markerad i blått.
+
+FÖRSTUDIEORGANISATION
+
+Projektledare:       Alexandra Larsson
+Biträdande projektledare: Stefan Berntsson
+Fastighetsförvaltare: Marcus Vennersten
+
+Funktionsplanerare:  Madeleine Jönsson
+Rektor:              Peter Carlsson
+Drifttekniker:       Mats Westerberg
+Arkitekt:            János Fuchs
+
+VERKSAMHETSBESKRIVNING
+
+NULÄGE
+
+Idrottshallen är i dagsläget avstängd på grund av personsäkerhetsrisk. Tidigare
+har den använts av skolan för diverse idrottsaktiviteter och utbildning dagtid. Under
+höstterminen används den dagligen och under vårterminen något mindre på grund
+av att PT-linjen inte går och att idrottsaktiviteter kan hållas utomhus.
+
+Uthyrning av hallen har skett året runt. Den har hyrts ut till olika föreningar, och
+företag under kvällstid och helger. Även andra skolor har hyrt in sig för idrottsdagar
+
+och liknande. Exempel på föreningar som har nyttjat hallen är Hallands
+
+6
+
+<!-- sida 9 -->
+
+fotbollsförbund, Hallands idrottsförbund, handikapprörelsen, Jujutsu-förbundet,
+särskolan som har hyrt hallen till läger, tävlingar, och andra aktiviteter.
+
+Det finns i skolans område goda möjligheter till övernattning, även övernattning i
+idrottshallen har förekommit.
+
+FRAMTID & BEHOV
+Hallen kommer i fortsättningen att användas som tidigare. Den behöver vara
+
+fullstor då följande sporter kommer att utövas:
+  Basket
+
+  Volleyboll
+  Innefotboll
+  Badminton
+
+  Tennis
+  Innebandy
+  Handboll
+
+  Dans
+  Gymnastik
+
+Hallen kommer också att användas för teaterföreställningar och skolavslutningar.
+Det behöver finnas fast utrustning för gymnastik som bommar, ribbstolar, linor,
+m.m. Redskapsförråd behövs i anslutning till hallen. Omklädningsrum med separat
+
+in/utgång, dusch, toalett, och bastu. Utöver detta även teorisal, publikplats,
+städförråd, pentry, och kombinerat lärarrum/incidentrum.
+
+Måttboken SKR (Sveriges Kommuner och Regioner) ligger till grund för
+dimensionering och måttsättning för den nya idrottshallen. Tävlingsnivå ska vara
+nationell nivå med följande noterande avvikelser:
+
+  Inom gymnastik (trampets, rytmisk gymnastik)
+  Fotboll (plan 42x63 meter)
+
+Idrottshallen dimensioneras också efter Region Hallands lokalprogram, daterat
+2020-04-09 (bilaga 2).
+
+I den nya idrottshallen ska det finnas övernattningsmöjlighet.
+
+KONSEKVENSER  OCH FÖRÄNDRINGAR
+
+Eftersom idrottshallen i dagsläget är avstängd blir utbildning utebliven och inga
+idrottsaktiviteter inomhus kan hållas. Utan idrottshallen påverkas i första hand
+eleverna på skolan. Skolan och dess idrottshall fyller också en stor funktion för
+många av invånarna i Vessigebro då ett antal idrottsföreningar också hyr in sig i
+
+hallen vilket främjar både barn- och vuxenidrotten i regionen. Skolans utbud
+
+7
+
+<!-- sida 10 -->
+
+minskar och i det stora hela har det även en negativ inverkan på Region Hallands
+vision och mål om kultur.
+
+Nybyggnad av idrottshall ger möjligheten att anpassa en hall för nuvarande och
+framtida behov, med nya funktioner och ytor.
+
+MÅLGRUPPER
+För alla olika åldrar och för alla människor med olika behov.
+
+INTRESSENTER
+
+INTERNA
+
+  Elever
+  Personal skola
+
+  Driftpersonal
+  Städpersonal
+  Förvaltare
+
+EXTERNA
+
+  Föreningar
+  Företag
+
+  Konferensgäster
+
+FÖRSLAG     PÅ  NYBYGGNATION
+
+ALLMÄNT
+
+Den nya idrottshallen ska uppföras enligt dagens krav och behov som
+verksamheten har fastställt inför genomförandet av förstudien.
+
+Utöver tidigare funktioner som entré, hall med fullstor spelplan, omklädning, förråd,
+m.m. ska den nya byggnaden inkludera en sal för teoriundervisning, dans och yoga
+samt ett tillhörande förråd. Med hänsyn till tillgänglighet ska det finnas ett flexibelt
+
+tillgänglighetsanpassat omklädningsrum med HWC/dusch med möjlighet att byta
+om enskilt. Separata omklädningsrum med dusch och WC skall finnas för män och
+kvinnor.
+
+Själva hallen ska följa dagens krav på mått för nationella tävlingar för de flesta
+bollsporter dock med avsteg på antal platser för besökare.
+
+8
+
+<!-- sida 11 -->
+
+PLANLÖSNING OCH SAMBAND
+Efter rivning av den befintliga hallen kommer den nya idrottshallen uppföras på
+
+samma plats med orientering av entré mot norr, som tidigare.
+Det centrala navet i byggnaden är entrén, varifrån alla funktioner kan nås med
+
+korta avstånd. Från entrén finns det en direkt koppling till själva hallen via glasade
+dörrar.
+
+I hallen finns det en spelplan med mått godkända för nationella tävlingar i handboll,
+innebandy, futsal, basketboll, volleyboll, badminton, tennis, dans och gymnastik.
+Längs med väggen mot entrén finns det plats för sittbänkar för idrottare och fällbara
+
+läktare för ca 40 besökare.
+Hallen är delbar med en ridåvägg för att skapa större flexibilitet i användningen.
+
+De båda halldelarna har ett eget redskapsförråd. Hallen kan även användas till
+teaterföreställningar, skolavslutningar, och övernattning vid t.ex. sommarläger
+som är en del av skolans utbud.
+
+Den stora salen för undervisning i teori, dans och yoga ansluter direkt till entrén
+vilket utgör en bra samnyttjande effekt. Olika typer av aktiviteter kan tänkas här,
+oberoende av bokningen i själva hallen. Med förrådet intill blir salen flexibelt
+
+användbar och kan möbleras om efter behov, med stolar, yogamattor m.m.
+En korridor längs med hallen leder till omklädningsrummen för elever och personal,
+
+städutrymmet är placerat med direkt access till hallen.
+Omklädningsrummen är dimensionerade för upp till 20 personer. I omklädningen
+
+ingår en toalett, bastu, ett gemensamt duschutrymme, samt ett enskilt
+duschutrymme i bås. I omklädningen för personal/domare finns det skrivbord för
+lärare och brits för akuta incidenter.
+
+För att underlätta skötsel av fotbollsplanen utomhus, finns det ett separat förråd
+som nås utifrån och innehåller utrustning för linjeringsmaskinen.
+
+Teknikutrymmet är det enda rummet som är placerat på plan 2 och nås via en
+spiraltrappa från entrén.
+
+På plan 1 finns också två stycken toaletter tillgängliga från entrén samt ett mindre
+pentry som möjliggör försäljning av dryck, kaffe, godis mm. via en glasad lucka
+
+mot utsidan.
+För planritningar, sektionsritningar, fasadritningar och situationsplan, se bilaga 3.
+
+BYGG
+
+Den nya idrottshallen ska passa in harmoniskt i den omgivande miljön som till
+största delen består av byggnader med träfasader i röd kulör.
+
+9
+
+<!-- sida 12 -->
+
+Konstruktionen av fasaden delas upp i en stor hallvolym och en lägre funktionsdel
+med entré, omklädning etc.
+
+Tanken är att bygga upp fasaden på hallbyggnaden med större fält/paneler för att
+förminska skalan, medan funktionsdelen får en fasad av stående träpanel.
+
+Ytor mellan fönster och glaspartier utförs t.ex. med liggande träpanel för att binda
+samman öppningarna och skapa en större helhet i fasaderna.
+
+Taket på själva hallen ska vara sadeltak, på funktionsdelen pulpettak.
+Konstruktion av stommen är ej fastställd i förstudien, dock skulle en stomme av
+
+t.ex. limträ vara angeläget, särskilt med tanke på hållbarhet.
+I likhet med den befintliga hallens interiör skulle det vara önskvärt att använda
+
+stora träpaneler som skapar en bra inomhusmiljö och samtidigt dämpar bullernivån
+i hallen.
+
+TEKNISKA INSTALLATIONER
+I teknikrummet på plan 2 placeras ventilationsaggregat och övrig teknisk utrustning
+
+som elcentral m.m. Värmekulvert från skolans apparatrum planeras att användas.
+
+SAMMANSTÄLLNING  STYRANDE DOKUMENT
+
+  Detaljplan
+  PTS
+  Måttboken SKR
+  Lokalprogram 2020-04-09
+
+  Behovsanalys (verksamhetsbeskrivning 2020-03-09)
+
+ENERGI    OCH   MILJÖ
+
+Region Hallands klimat och miljöpolicy samt riktlinjer för det interna klimat-och
+miljöarbete kommer att efterföljas i projektet. Vid val av teknik och utrustning ska
+hänsyn tas till Regionens energimål och LCC- beräkning ska genomföras. Under
+
+projektering och produktion ska samtliga produkter registreras i SundaHus
+miljödata. För att undvika framtida fuktproblem ska projektering och produktion ske
+med hög fuktsäkerhet, fuktsäkerhetsplan tas fram under projekteringen.
+
+SOLCELLER
+
+Ca 400 m2 solcellspaneler kan monteras på tak.
+
+10
+
+<!-- sida 13 -->
+
+GENOMFÖRANDE
+
+Förstudien föreslår totalentreprenad som entreprenadform med samarbetsform
+Partnering. En samverkan där alla medverkande arbetar mot gemensamma mål
+
+under hela projektet. Målet är att göra processen effektivare och ledtiderna kortare
+samtidigt som man får större kontroll på ekonomin.
+
+HUVUDTIDPLAN
+
+Baserad på föreslagen entreprenadform och samarbetsform.
+
+Projekt tidplan 2020-04-20
+År              2020                       2021
+
+Aktivitet Månad 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 4 5 6 7 8 9 10 11 12
+Förstudie
+
+Projektering
+Bygglov
+
+Upphandling
+Produktion
+
+Inflyttning
+
+EKONOMI
+
+Kostnadsuppskattning baserad på byggfakta samt utfall på slutkostnad i utförd
+idrottshall 2009 i Varbergs kommun (uppräknad med index). Totalkostnad
+
+nybyggnad är kalkylerat i 2020 års kostnadsläge till 24 374 tkr. Kostnaden fördelas
+enligt tabell:
+
+Kostnader som inte har beräknats är lös inredning som ligger på verksamheten
+
+enligt gränsdragningslistan. Omfattningen kommer att beräknas efter det att en
+
+11
+
+[Tabell 13-1](bilaga-35-aterrapportering-forstudie-gallande-ny-idrottshall-pa-katrinebergs.tabeller/13-1.csv)
+
+| Kategori | % av tot. | Kostnad, TKR |
+| --- | --- | --- |
+| Byggherrekostnader | 8 | 1 950 |
+| Projektering | 9 | 2 194 |
+| Produktion | 83 | 20 230 |
+| Total kostnad nybyggnad |  | 24 374 |
+
+<!-- sida 14 -->
+
+inventering av vad som går att använda i befintlig idrottshall gjorts. Utöver
+utrustning likvärdigt vad som finns i dagens idrottshall så har verksamheten ett
+antal ytterligare önskemål, exempelvis klättervägg samt romerska ringar.
+Beräkningar för dessa investeringar tas eventuellt fram i ett senare skede efter
+
+beslut av verksamheten.
+
+HYRESKOSTNAD
+
+Nuvarande hyreskostnad 865 152 SKR/år. Exkl. moms.
+
+Beräknad ny hyreskostnad 1 169 729 SKR/år. Exkl. moms. I hyran ingår media,
+drift och underhåll.
+
+Ökad hyreskostnad 304 577 SKR/år. Exkl. moms.
+
+Regionfastigheter       Katrineberg           Kultur och skola
+
+Sara Jacobsson          Peter Carlsson        Anette Johansson
+
+Fastighetschef          Rektor                Stabschef
+
+12
+
+<!-- sida 15 -->
+
+Regionstyrelsen - Utdrag ur protokoll
+Sammanträdesdatum
+2020-06-03
+
+§99
+Återrapportering förstudie gällande ny idrottshall på Katrinebergs
+
+folkhögskola, Dalsgård 1:36
+RS200262
+
+Beslut
+Regionstyrelsen beslutar att
+  föreslå regionfullmäktige besluta att ge Regionfastigheter i uppdrag att
+genomföra nybyggnation av idrottshall på Katrinebergs folkhögskola enligt
+genomförd förstudie till en kostnad av 24 500 000 kronor
+  godkänna tidigareläggning från 2021 till 2020 av investeringsmedel upptagna i
+Mål och budget 2021 till en summa av 6 000 000 kronor
+
+Ärendet
+Vid utredning gällande eventuell installation av solceller på idrottshallen på
+Katrinebergs folkhögskola så upptäcktes rötskador på bärande pelare samt tydliga
+indikationer på att takkonstruktionen har brister i hållfastheten. Regionfastigheter tog
+då omedelbart beslut om att stänga idrottshallen i väntan på ytterligare utredningar
+då personsäkerheten inte kunde garanteras. Ytterligare utredningar bekräftar detta
+och beslut togs därför i samråd med representanter för kultur- och skola om att
+påbörja en förstudie gällande nybyggnation av en idrottshall.
+
+Idrottshallen är väldigt viktig för skolan då den krävs för att kunna bedriva utbildning.
+Hallen fyller också en viktig samhällsfunktion då den också hyrs av lokala
+idrottsföreningar.
+
+Förstudien visar på en möjlighet att bygga en ny hall som också kan tillgodose
+verksamhetens ytterligare behov av exempelvis rum för yoga samt möjlighet till att
+sätta solceller på taket. Verksamheten ska enligt upprättad tidplan kunna börja
+
+använda den nya idrottshallen f o m höstterminen 2021.
+
+Förslag till beslut
+Regionstyrelsens arbetsutskott föreslår regionstyrelsen besluta att
+  föreslå regionfullmäktige besluta att ge Regionfastigheter i uppdrag att
+genomföra nybyggnation av idrottshall på Katrinebergs folkhögskola enligt
+genomförd förstudie till en kostnad av 24 500 000 kronor
+  godkänna tidigareläggning från 2021 till 2020 av investeringsmedel upptagna i
+Mål och budget 2021 till en summa av 6 000 000 kronor
+
+Beslutsunderlag
+  Tjänsteskrivelse Återrapportering förstudie gällande ny idrottshall på
+Katrinebergs folkhögskola
+
+  Förstudierapport Katrinebergs folkhögskola, nybyggnation av idrottshall
+
+<!-- sida 16 -->
+
+Expedieras till
+Driftnämnden för kultur och skola
+
+Vid protokollet
+Maria Fransson
+
+Justering av protokollet sker vecka 24
+Mikaela Waltersson                  Lise-Lotte Bensköld Olsson
+
+<!-- sida 17 -->
+
+1 (3)
+
+Regionkontoret                        Tjänsteskrivelse
+Ekonomi
+Marcus Vennersten                     Datum      Diarienummer
+Fastighetsförvaltare                  2020-05-13 RS200262
+
+Regionstyrelsen
+
+Tjänsteskrivelse Återrapportering förstudie gällande ny
+idrottshall på Katrinebergs folkhögskola, Dalsgård 1:36
+
+Förslag till beslut
+
+Regionstyrelsen beslutar att
+
+\-  föreslå regionfullmäktige besluta att ge Regionfastigheter i uppdrag att genomföra
+nybyggnation av idrottshall på Katrinebergs folkhögskola enligt genomförd
+förstudie till en kostnad av 24 500 000 kr.
+
+\-  godkänna tidigareläggning från 2021 till 2020 av investeringsmedel upptagna i Mål
+och budget 2021 till en summa av 6 000 000 kronor
+
+Sammanfattning
+
+Vid utredning gällande eventuell installation av solceller på idrottshallen på Katrinebergs
+folkhögskola så upptäcktes rötskador på bärande pelare samt tydliga indikationer på att
+takkonstruktionen har brister i hållfastheten. Regionfastigheter tog då omedelbart beslut
+om att stänga idrottshallen i väntan på ytterligare utredningar då personsäkerheten inte
+kunde garanteras. Ytterligare utredningar bekräftar detta och beslut togs därför i samråd
+med representanter för kultur- och skola om att påbörja en förstudie gällande nybyggnation
+
+av en idrottshall.
+Idrottshallen är väldigt viktig för skolan då den krävs för att kunna bedriva utbildning.
+Hallen fyller också en viktig samhällsfunktion då den också hyrs av lokala idrottsföreningar.
+Förstudien visar på en möjlighet att bygga en ny hall som också kan tillgodose
+verksamhetens ytterligare behov av exempelvis rum för yoga samt möjlighet till att sätta
+solceller på taket. Verksamheten ska enligt upprättad tidplan kunna börja använda den nya
+idrottshallen f o m höstterminen 2021.
+
+<!-- sida 18 -->
+
+2 (3)
+
+Bakgrund
+
+Idrottshallen på Katrinebergs folkhögskola är byggd 2005. Skolan används idag så gott som
+dagligen i undervisningen, bland annat så bedriver skolan en utbildning till personlig
+
+tränare.
+Hösten 2019 påbörjades en projektering för att sätta solceller på idrottshallens fasad. I
+samband med projekteringen upptäckes rötskador på idrottshallens bärande konstruktion.
+Då även tydliga indikationer visar på att takkonstruktionen har brister så togs ett
+omedelbart beslut om att hallen skulle stängas i väntan på vad en ytterligare
+
+konstruktionsutredning skulle visa.
+Utförd utredning visar på mycket omfattande renoveringsbehov för att säkra hallens
+funktion och hållfasthet. Utredningen omfattande även en grov kostnadskalkyl för dessa
+åtgärder alternativt att ersätta befintlig hall med en nyproducerad. Dessa alternativ
+presenterades sedan för ansvariga på förvaltningen för kultur- och skola. På detta möte
+bestämdes vilket alternativ som var det mest fördelaktiga att titta vidare på. Detta alternativ
+presenterades för RSAU den 25/2. Beslutet var att en förstudie skulle genomföras där man
+tittar närmre på förslaget om en nybyggnation.
+
+Förstudien visar på möjligheten att producera en ny hall som möter dagens krav ur ett
+konstruktions- samt miljöhänseende där vi nu bland annat kan installera ca 800 m2 solceller
+på idrottshallens tak. En nyproduktion ger också möjlighet till att anpassa hallen utifrån
+verksamhetens behov för att möta dagens undervisning, exempelvis kompletteras hallen
+med en teorisal som även går att utöva dans och yoga. Andra fördelar med en
+nyproduktion är en kortare produktionstid vilket från verksamheten har framförts som en
+viktig faktor då en avstängd idrottshall får effekter såsom utebliven utbildning och inga
+idrottsaktiviteter inomhus kan hållas. Utan idrottshallen påverkas i första hand eleverna på
+skolan. Skolan och dess idrottshall fyller också en stor funktion för många av invånarna i
+Vessigebro då ett antal idrottsföreningar också hyr in sig i hallen vilket främjar både barn-
+och vuxenidrotten i regionen. Skolans utbud minskar och i det stora hela har det även en
+negativ inverkan på Region Hallands vision och mål om kultur. Tidplanen för att kunna
+färdigställa en ny idrottshall är att skolan ska kunna utnyttja den från och med
+höstterminen 2021.
+
+Förslag på yttre gestaltning:
+
+<!-- sida 19 -->
+
+3 (3)
+
+Ekonomiska   konsekvenser    av beslutet
+
+Investeringar:
+
+Fastighetsinvestering:              24 500 000 kr
+Totalt:                             24 500 000 kr
+
+Utrustning som betalas av verksamheten kommer att inventeras i befintlig hall och kommer
+att återanvändas i så stor mån som möjligt. Kostnader för kompletteringar av denna
+utrustning är ej med i beräknad hyreskostnad.
+
+Preliminär hyresberäkning för hyresgäst:
+
+Förutsättningar:
+Internhyresregler tillämpas.
+Avskrivningstid: 20-55 år, Internränta: 1,25% baserat på 2021 års nivå.
+
+Ny bashyra/år (exkl. utrustning):    889 729 kr
+Driftskostnad/år (media, drift, underhåll) 280 000 kr
+Total hyra/år:                      1 169 729 kr
+
+Hyra nuvarande hall kr/år:           856 152 kr
+Beslut om utökad hyreskostnad tas i DN Kultur- och skola den 28/5.
+Uppskattad förändring av hyreskostnaden har verifierats och godkänts kontinuerlig under
+
+förstudiens gång av representanter för förvaltningen kultur- och skola.
+
+Regionkontoret
+
+Jörgen Preuss      Per Karlsson
+Regiondirektör     Tf ekonomidirektör
+
+Bilaga:
+Förstudierapport: Katrinebergs folkhögskola, nybyggnation av idrottshall
+
+Styrelsens/nämndens beslut delges
+Driftnämnden Kultur och skola

@@ -1,0 +1,41 @@
+Aktiviteter,Kommentar
+Integrationer ska vara dokumenterade,"Dokumentation för Carita är klar övriga system
+hanteras och måste kommenteras av MT."
+"IT- komponenter ska vara supporterade och
+driftas i supporterad servermiljö","Alla Windows 2008-servrar är avvecklad. Inga andra
+kända komponenter är osupporterade."
+"Test- och produktionsmiljöer ska likna varandra så
+att tester som genomförs i testmiljön skall vara
+trovärdiga","En ny testmiljö ""Gamma"" skapad, kopia av
+produktion, avidentifierad. klar i dec 2019"
+"Riskanalys ska vara genomförd för IT-
+komponenter med högt SLA","Riskanalys genomförd för Carita. Övriga system
+hanteras av MT. Aktiviteten stängs."
+"Kontinuitetsplan ska vara framtagen för IT-
+komponenter med högt SLA",Plan är att införa redundans för Carita Q1 2020.
+"Minst 2 OS IT ska ha kompetens på IT-
+komponenter",Vi har nu 2 OS IT som kan på Carita.
+Förteckning över certifikat ska finnas,
+"IT- komponenter ska vara supporterade och
+driftas i supporterad servermiljö","Det mesta är supporterat. Det som inte är supporterat
+ersätts vid driftsättning av KIBI och Interinfo."
+"Samtliga användare skall ha genomgått
+grundutbildning i samband med VAS/Caritainförandet
+eller utbildning för nyanställda","Riskanalys genomförd på Carita. Övriga system
+hanteras av MT. Aktiviteten stängs i stratsys."
+Manualer och Guider skall hållas uppdaterade,pågår löpande
+"Telesupport IT- hjälpen Folktandvården skall
+finnas tillgängligt må-fre. mellan kl. 8-15","IT-hjälpen heter numera Verksamhetsstöd
+Folktandvården Halland, detta innebär att bla
+telefonsupporten är bättre bemannad från 1 juni, fler
+personer involverade"
+"Carita- uppdateringar, nya versioner planeras till 2
+ggr/år, en på våren och en på hösten",Uppgradering sker 10/12 till version 02.29.03
+"Mindre buggrättningar i Carita kan förekomma
+däremellan",Årets sista lev lades ut 10 dec
+"Utbildning för nyanställda skall erbjudas
+regelbundet","4 dec (testade endagarsutb med uppföljning)
+MJ+ENN"
+"Repetitionsutbildningar för all personal klinikvis vid
+behov",inget under dec
+Filmer för nyanställda som första introduktion,Vi har inte resurser just nu att starta denna aktivitet.

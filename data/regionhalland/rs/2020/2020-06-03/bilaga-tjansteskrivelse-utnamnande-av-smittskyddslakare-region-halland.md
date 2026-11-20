@@ -1,0 +1,104 @@
+---
+kommun: regionhalland
+organ: rs
+datum: 2020-06-03
+lopnr: null
+typ: bilaga
+namn: tjansteskrivelse-utnamnande-av-smittskyddslakare-region-halland
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/regionstyrelsen/mote-2020-06-03/agenda/tjansteskrivelse-utnamnande-av-smittskyddslakare-region-hallandpdf
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/regionstyrelsen/mote-2020-06-03/agenda/tjansteskrivelse-utnamnande-av-smittskyddslakare-region-hallandpdf?downloadMode=open
+sha256: db9976c39dd85739609cfd8bf7cfed57af9d6263b04592070f62706ea282c229
+bytes: 84857
+sidor: 2
+hamtad: 2026-11-20T02:14:23+00:00
+konverterad: 2026-11-20T02:14:26+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
+fel: null
+kvalitet_per_sida: [ok, ok]
+tal_obekraftade: []
+figurer: []
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+1 (2)
+
+Regionkontoret                        Tjänsteskrivelse
+Välj verksamhetsområde
+Jeanette Törnqvist                    Datum      Diarienummer
+Verksamhetschef/-utveckl              2020-05-19 RS200379
+
+Regionstyrelsen
+
+Tjänsteskrivelse  Utnämnande   av  smittskyddsläkare
+
+Region  Halland
+
+Förslag till beslut
+
+Regionstyrelsens arbetsutskott föreslår att Regionstyrelsen beslutar att
+-utse Maria Ryberg Mo till smittskyddsläkare i Region Halland fr o m 1 september 2020
+
+Sammanfattning
+
+Nuvarande tillförordnad smittskyddsläkare, Maria Löfgren, lämnar sitt uppdrag 31 augusti
+2020\. Maria Ryberg Mo föreslås som ny smittskyddsläkare from 1 september 2020.
+
+Beslutet medför inga ekonomiska konsekvenser
+
+Bakgrund
+
+I varje Region ska det enligt smittskyddslagen (2004:168) finnas en smittskyddsläkare (1
+kap, 9 §). En smittskyddsläkare utses av sådan nämnd som avses i 7 kap 1 § hälso- och
+sjukvårdslagen (2017:30). I frågor som inte gäller smittskyddsläkarens myndighetsutövning
+ska denne verka under nämnden.
+
+Maria Löfgren innehar idag tjänsten som tillförordnad smittskyddsläkare i Region Halland.
+Hon har som önskemål att återgå till tjänst som biträdande smittskyddsläkare from 1
+september 2020. Tjänsten som ny smittskyddsläkare har utannonserat och nu föreslås att
+Marie Ryberg Mo tillträder tjänsten som smittskyddsläkare i Region Halland from 1
+september 2020.
+
+Enligt smittskyddslagen får smittskyddsläkaren uppdra åt annan erfaren läkare vid en
+smittskyddsenhet eller vid en infektionsklinik att fullgöra uppgifter som smittskyddsläkaren
+har enligt denna lag. Sålunda åligger det smittskyddsläkaren själv att utse ersättare vid
+eventuella ledigheter
+
+<!-- sida 2 -->
+
+2 (2)
+
+Ekonomiska   konsekvenser    av beslutet
+
+Beslutet medför inga ekonomiska konsekvenser
+
+Regionkontoret
+
+Jörgen Preuss      Martin Engström
+Regiondirektör     Hälso- och sjukvårdsdirektör
+
+Styrelsens/nämndens beslut delges
+Driftnämnden Halland sjukhus
+Driftnämnden Psykiatrin
+Driftnämnden Ambulans, diagnostik och hälsa
+Driftnämnden Närsjukvård
+
+Driftnämnden Regionservice
+Privata vårdgivare i Vårdval Halland
+Länsstyrelsen
+Sveriges Kommuner och Regioner (SKR)
+Folkhälsomyndigheten
+Halmstads kommun
+Laholms kommun
+Hylte kommun
+Varbergs kommun
+Kungsbacka kommun
+Falkenbergs kommun
+Södra sjukvårdsregionen
+Västra sjukvårdsregionen
+Maria Löfgren

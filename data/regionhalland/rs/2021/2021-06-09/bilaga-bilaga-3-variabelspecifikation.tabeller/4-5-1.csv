@@ -1,0 +1,43 @@
+Variabel,Beskrivning,Exempel
+PatientID,Personnummer för invånare,(personnummer borttaget)
+OfferName,"Namn på erbjudandet som använts.
+(Källa LaboratoryOrder)","Covid-19 PCR: Hemtest för dig
+som är sjuk
+(Kod/beställningsnyckel fås i
+appen ""Alltid öppet"")"
+OfferID,"Id på erbjudandet som använts (Källa
+LaboratoryOrder)",474
+"OfferValidForReside
+ntsCountyCode","Erbjudandets länskod. Det län som
+erbjudandet tillhör. (Källa
+LaboratoryOrder)",01
+"OrderCreatedDateTi
+me","Datum och klockslag när beställningen
+gjordes av invånaren. (Källa
+LaboratoryOrder)",2020-11-17 11:02:03
+HandledDateTime,"Tidsstämpel när beställningen hämtades
+av provtagningssystemet. (Källa
+LaboratoryOrder)",2020-11-17 18:12:38
+MaterialHandling,"Om det är en beställning av typen
+Hemtest eller Provtagning på
+provtagningsenhet (Källa
+LaboratoryOrder)",Hemtest
+"MaterialHandlingLab
+Name","Namn på system/lab som hämtat
+beställningen från EP. (Källa
+LaboratoryOrder)",
+ReportingLabUnitID,"HSAID på Laboratoriet som skapat
+svaret. Utgår från senaste labsvaret.
+(Källa LaboratoryResult)",SE2321000016-DQSS
+"SampleDrawDateTim
+e","Provtagningstid. Hämtas från labsvaret.
+Utgår från senaste labsvaret. (Källa
+LaboratoryResult)",2020-11-17 18:12:38
+"AnswerArrivedFromL
+abDateTime","Tidpunkt när laboratoriet skickade
+svaret. Utgår från senaste labsvaret.
+(Källa LaboratoryResult)",2020-11-17 18:12:38
+InsightResult (1),"Labsvarets insiktsresultat (ex
+Negativt/Positivt/Tekniskt fel)",Positivt
+InsightResult (2),"Labsvarets insiktsresultat om rapporten
+innehåller flera insikter",Positivt
