@@ -221,5 +221,15 @@ Enskilda patientärenden står inte med. Mötena 2020-04-15, 2020-12-02,
 2021-12-09 och 2026-09-18 har inget protokoll i poolen, utom 2021-12-09 och
 2026-09-18 där protokollet ligger som bilaga.
 
+Regionstyrelsen har målen för 2023–2026. Styrelsens egna mål eller
+utvecklingsuppdrag står ur verksamhetsplanerna (för 2023 regionkontorets
+plan), utfallet ur styrelsens årsredovisningar 2023–2025 och prognosen för
+2026 ur uppföljningsrapport 2. Verksamhetsplanerna för 2019–2022 listar
+regionkontorets aktiviteter under fullmäktiges mål och bedömer dem bara område
+för område, så de åren står utan mål. Uppföljningarna har styrelsens beslut
+om regionkontorets och styrelsens årsrapporter, uppföljningsrapporter och
+verksamhetsplaner. Fullmäktiges mål och Region Hallands samlade
+årsredovisning står inte här.
+
 Lokalbehov, detaljplaner och projekt används inte: de följer en kommuns
 lokalplan och planmonopol.
