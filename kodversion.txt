@@ -1,1 +1,1 @@
-git+https://github.com/moggleif/kungsbackakommun@ac56c680253bbeaad547e8f5728854235742dfcb
+git+https://github.com/moggleif/kungsbackakommun@c34866e932c77ff42bc9caf5b83b6dba6f4c6794
