@@ -1,0 +1,64 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)
+Risk att
+implementationerna
+för de andra SUSSA
+kunder gör att vårt
+försenas.","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)","K =
+1-4
+4","S =
+1-4
+2,5
+(5 gula)","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras
+10",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+,,,,,10,,,,
+,"Risk att införande
+kommer efter de
+nuvarande Cambio
+kunderna.",,4,1,4,,,,
+,"Risk att Sussa
+samverkan inte
+”fungerar” så som
+det är
+tänkt/överenskommit.
+Förvaltningen av
+systemet inte på
+plats.",,4,1,4,,,,
+Kvalitet,"Risk att leverantören
+inte har tillräckligt
+med resurser för att
+utveckla den
+utlovade produkten.","Vi får inte den
+funktionalitet som är
+kravställd och
+utlovad.",3,4,12,,,,

@@ -1,0 +1,16 @@
+Alternativ,Symbol,Motivering
+SUSSA,,"Enligt upphandlingskrav finns att leverantören ska medverka till
+kontinuerlig utveckling men vi blir beroende av en större
+leverantör, där av gul markering."
+Egen upphandling,,"I en egen upphandling har vi möjlighet att definiera samma
+upphandlingskrav som ovan SUSSA alternativ men osäkerheten
+om vilken leverantör som blir aktuell ger en gul markering."
+VAS utveckling,,"Möjliggör att vi själva styr önskad utveckling och vi kan minimera
+leverantörsberoende. Vi har valt att skriva ett rött kryss pga. att
+det finns endast ett fåtal utvecklare i Sverige som kan VAS. Det
+finns en risk att Tieto som företag inte önskar fortsätta
+utvecklingen av VAS."
+Egen utveckling,,"Minimera leverantörsberoende och möjlighet att påverka
+kostnadsutveckling i system men stor risk att en lokal
+utvecklingsorganisation inte hänger med i den tuffa
+utvecklingstakt som sker över tid."

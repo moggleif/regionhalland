@@ -1,0 +1,13 @@
+Alternativ,"Kostnad
+5 år","Kostnad
+10 år","Tid
+realisering",Livslängd,"Ekonomisk
+risk","Kontroll
+val
+system"
+1. Option SUSSA,300 mnkr,600 mnkr,Medel,Lång,Mellan,Känd*
+"2. Egen
+upphandling",>300 mnkr,>=600 mnkr,Lång,Lång,Hög,Okänd
+"3. Utveckla VAS
+själva",<300 mnkr,>=600 mnkr,Lång,?,Mkt hög,Känd
+4. Egen utveckling,>300 mnkr,>=600 mnkr,Kort-lång,?,Mkt hög,Känd

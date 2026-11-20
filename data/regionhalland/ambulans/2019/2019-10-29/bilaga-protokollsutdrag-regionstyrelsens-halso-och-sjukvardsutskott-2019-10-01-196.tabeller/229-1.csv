@@ -1,0 +1,14 @@
+Nr,Namn
+0,Målgrupp för inbjudan till screeningprogrammet
+1,Andel kallade kvinnor
+2,Andel kvinnor som efter kallelse deltagit i screening för livmoderhalscancer
+3,Täckningsgrad av gynekologisk cellprovtagning inom ett screeningintervall
+4,Andel kvinnor med positiva cellprov
+5,Andel obedömbara cellprover
+6,Andel cellprov utan endocervikala celler
+7,Andel kvinnor med normalt cytologiprov efter positivt HPV-test.
+8,Andel kvinnor med positiva cellprov som utretts vidare
+9,"Andel HPV-positiva kvinnor med normal cytologi som tar ett nytt cellprov inom
+3,5 år"
+10,Andel kvinnor med falskt negativa cellprover
+11,Väntetid från provtagning till besked om provsvar skickats

@@ -1,0 +1,59 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)","K =
+1-4","S =
+1-4","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+HANLINGSALTERNATIV 2,,,,,,,,,
+Ekonomi,"Risk att vara egen
+motpart till leverantör
+kräver en egen stor
+organisation",Ökad kostnad,4,4,16,,,,
+,"Risk att egen
+upphandling blir
+resurskrävande",Ökad kostnad,4,4,16,,,,
+,"Risk att det blir dyrt
+att köpa driva och
+utveckla det själva.
+7/24 support kan bli
+väldigt dyrt själva",Ökad kostnad,4,3,12,,,,
+,"Vi vet inte vilken
+leverantör vi får- risk
+att en stor leverantör
+ger liten insyn","Begränsad
+påverkansmöjlighet",3,"2,5",7,,,,
+,Vi vet ej pris,"Osäker ekonomisk
+effekt","2,5","2,5",6,,,,
+Tid,"Svårt att bedöma
+tidplanen, vi kan inte
+förutse allt","Egen upphandling
+kan dra ut på tiden
+Överklagan",4,4,16,,,,

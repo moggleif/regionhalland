@@ -1,0 +1,24 @@
+Alternativ,Bedömning,Motivering
+SUSSA,,"Inom SUSSA finns krav på leverantören beträffande support och
+förvaltning samtidigt som vi själva bygger upp en organisation
+för regional drift. Här kan vi även dra nytta av ett SUSSA-nätverk
+för samarbete och kravställning mot leverantör. Det finns dock
+risk för att vi kommer behöva lokala variationer vid uppsättning
+av systemmiljöer samt lokal kunskap om organisation som inte
+stöds via den gemensamma driften med SUSSA. Oavsett
+samverkan med SUSSA kommer vi hursomhelst välja ett system
+som vi inte är ensamma om på marknaden och kan då få hjälp
+av andra att upptäcka fel och brister som åtgärdas löpande."
+Egen upphandling,,"Samma krav ställs på leverantör som i SUSSA. Vi kommer
+troligen upphandla ett system som används av fler regioner och
+landsting."
+VAS utveckling,,"Fortsatt utveckling av VAS ställer stora krav internt att sköta all
+drift och förvaltning. Som enda installation av ett verktyg i denna
+storlek ser vi då stora svårigheter i att kunna garantera
+långsiktigt säker drift och förvaltning. Detta gäller i ännu större
+omfattning vidareutveckling av VAS vars äldre tekniska grund
+med största sannolikhet inte kommer stödjas av morgondagens
+IT-miljöer."
+Egen utveckling,,"Egen drift och förvaltning av ett verktyg i denna storlek ställer
+omfattande interna krav på IT-organisationen. Vi ser stora
+utmaningar i att uppnå säker drift och förvaltning."

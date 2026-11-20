@@ -1,0 +1,63 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)
+stark
+produktutveckling","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)","K =
+1-4","S =
+1-4","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+,,,,,,,,,
+,"Risk att leverantör
+blir uppköpt","Leverantörens
+förutsättningar
+förändras",3,3,9,,,,
+,"Risk att orken
+försvinner från
+regionerna och
+leverantören efter
+införande","Systemet halkar
+efter i utvecklingen.
+Om fem år har
+andra produkter
+utvecklats mer än
+FVIS har att erbjuda
+vid det tillfället","2,5",3,"7,5",,,,
+Övrigt,"Ägarstrukturen
+osäker – vinstkrav
+från aktieägarna
+riskerar ge
+obehagliga
+överraskningar",,4,2,8,,,,
+,"Risk med att vi ligger
+efter i införandet","Vi ser till andra och
+det kan förenkla
+eller försvåra vår
+implementation","2,5","2,5",6,,,,

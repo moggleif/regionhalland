@@ -1,0 +1,378 @@
+,Röntgen,,
+121,Röntgenundersökning av enskild tand,65,55
+123,"Röntgenundersökning, helstatus",935,805
+124,Panoramaröntgenundersökning,635,525
+125,"Röntgenundersökning, extraoral",600,515
+126,"Röntgenundersökning, omfattande",1 150,985
+127,"Röntgenundersökning, delstatus",340,335
+128,"Röntgenundersökning, större delstatus",985,985
+,,,
+,Övriga åtgärder vid undersökning och diagnostik,,
+141,"Studiemodeller, för behandlingsplanering",645,595
+161,Salivsekretionsmätning,630,600
+162,Laboratoriekostnader vid mikrobiologisk undersökning,325,300
+163,Biopsi,1110,980
+164,Laboratoriekostnader vid patologanatomisk diagnostik (PAD),560,545
+,,,
+200 Sjukdomsförebyggande åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+201,Information eller instruktion vid risk för munhälsorelaterade sjukdomar eller problem,470,415
+204,"Profylaxskena, per skena",830,795
+205,Fluorbehandling kortare behandlingstid,180,170
+206,Fluorbehandling,350,340
+207,Mekaniskt avlägsnande av supragingival tandsten,275,270
+208,"Mekaniskt avlägsnande av supragingival tandsten, omfattande",505,500
+209,"Mekaniskt avlägsnande av supragingival tandsten, särskilt tidskrävande",800,795
+,,,
+300 Sjukdomsbehandlande / Smärtstillande åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+301,"Sjukdoms- eller smärtbehandling , mindre omfattande",430,405
+302,Sjukdoms- eller smärtbehandling,790,760
+303,"Sjukdoms- eller smärtbehandling, omfattande",1130,1125
+304,"Sjukdoms- eller smärtbehandling, särskilt tidskrävande",1720,1685
+311,Information eller instruktion vid munhälsorelaterade sjukdomar eller problem,485,415
+,Uppföljande information eller instruktion vid munhälsorelaterade sjukdomar,,
+312,eller problem,205,165
+313,"Beteendemedicinsk behandling, 60 minuter eller mer",1055,1035
+314,Beteendemedicinsk behandling,495,480
+321,Icke operativ behandling av kariessjukdom,490,420
+322,Stegvis exkavering,1155,1115
+341,"Behandling av parodontal sjukdom eller periimplantit, mindre omfattande",540,500
+341.1,Behandling av parodontal sjukdom eller peri-implantit,820,500
+341.2,"Behandling av parodontal sjukdom eller peri-implantit, i samband med undersökning",210,500
+342,"Behandling av parodontal sjukdom eller periimplantit, omfattande",1020,1015
+342.1,"Behandling parodontal sjukdom eller peri-implantit, utökad omfattning",1205,1015
+343,"Behandling av parodontal sjukdom eller periimplantit, särskilt tidskrävande",1510,1505
+362,"Lustgassedering, per gång",915,825
+,,,
+400 Kirurgiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+401,"Tanduttagning, en tand",1080,1025
+402,"Tanduttagning, när separation eller friläggning krävs, en tand",1880,1690
+403,"Tanduttagning, tillkommande, enkel",200,185
+,"Kirurgiskt avlägsnande av en eller flera tänder i samma kvadrant och/eller annan vävnad,",,
+404,per operationstillfälle,3430,3120
+405,Omfattande dentoalveolär kirurgi,4760,4160
+406,"Tanduttagning, övertalig tand",1310,1025
+407,"Övrig dentoalveolär kirurgi eller plastik, per operationstillfälle",2090,2055
+,,,
+,Implantatkirurgiska åtgärder,,
+420,"Implantat, per styck",3850,2815
+420.1,"Implantat, per styck. Faktisk kostnad",faktisk kostnad,2815
+421,"Operation avseende käkbensförankrade implantat, ett implantat",4585,3620
+422,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,1690,1505
+423,"Operation avseende käkbensförankrade implantat, två eller tre implantat",5770,4830
+424,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,1885,1690
+425,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",8075,6665
+426,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,2500,2255
+427,"Benaugmentation med egen vävnad, i en kvadrant",4060,3975
+428,"Benaugmentation med benersättningsmaterial, i en kvadrant",4965,4805
+429,"Kirurgiskt avlägsnande av implantat, per operationstillfälle",4320,3920
+,,,
+,Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i,,
+430,"annan kvadrant eller implantatoperation i samma kvadrant, tilläggsåtgärd, per kvadrant",1515,1510
+,Benaugmentation med benersättningsmaterial i samband med benaugmentation eller,,
+431,"implantatoperation i annan kvadrant, tillägsåtgärd, per kvadrant",2540,2530
+,"Benaugmentation med benersättningsmaterial i samband med implantatinstallation,",,
+432,"tilläggsåtgärd, per kvadrant",1890,1885
+435,Avlägsnande av ett implantat,1030,1025
+436,"Avlägsnande av ett implantat, enkel",200,185
+,,,
+,Parodontalkirurgiska åtgärder,,
+441,"Parodontalkirurgisk behandling vid tre till sex tänder, per operationstillfälle",2545,2535
+442,"Parodontalkirurgisk behandling vid tre till sex tänder, per operationstillfälle",4420,3585
+443,"Kirurgisk behandling av periimplantit vid två till fyra implantat, per operationstillfälle",4425,3415
+,"Omfattande parodontalkirurgisk behandling vid sju tänder eller fler, eller vid tre tänder",,
+444,"eller fler i kombination med annan operation, per operationstillfälle",6250,4650
+,"Omfattande kirurgisk behandling av periimplantit vid fem implantat eller fler, eller vid tre",,
+445,"implantat eller fler i kombination med annan operation, per operationstillfälle",6250,4650
+,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd,",,
+446,per operationstillfälle,1820,1815
+,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, per",,
+447,operationstillfälle,1230,1225
+448,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd, per operationstillfälle",750,745
+480,"Kontroll av koagulation, tilläggsåtgärd",345,325
+,,,
+500 Rotbehandling,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+501,"Rensning och rotfyllning, en rotkanal",3875,3395
+502,"Rensning och rotfyllning, två rotkanaler",4290,4095
+503,"Rensning och rotfyllning, tre rotkanaler",5620,5135
+504,"Rensning och rotfyllning, fyra eller fler rotkanaler",6155,5600
+520,"Akut endodontisk behandling, annan behandlare",910,905
+521,Akut trepanation och kavumextripation,805,800
+522,Komplicerad kanallokalisation,880,805
+523,Stiftborttagning,1245,1170
+541,"Apikalkirurgisk behandling, per operationstillfälle",3755,3660
+542,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle tilläggsåtgärd",1050,1030
+,,,
+600 Bettfysiologiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+601,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",3680,3530
+602,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",3680,3530
+603,"Reponeringsskena, per skena",5695,5605
+,,,
+604,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologiska indikationer, per skena",2490,2110
+604.1,"Elastomerskena utförd på bettfysiologisk indikation, per skena",3415,2110
+606,Motorisk aktivering,525,510
+607,Bettslipning för ocklusal stabilisering,755,750
+,,,
+700 Reparativa åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+701,Fyllning av en yta på framtand eller hörntand,675,605
+702,Fyllning av två ytor på framtand eller hörntand,1060,960
+703,Fyllning av tre eller flera ytor på framtand eller hörntand,1250,1145
+704,Fyllning av en yta på molar eller premolar,855,775
+705,Fyllning av två ytor på molar eller premolar,1265,1140
+706,Fyllning av tre eller flera ytor på molar eller premolar,1645,1515
+707,"Krona i plastiskt material, klinikframställd",1925,1725
+708,"Stiftförankring i rotkanal vid fyllningsterapi,tilläggsåtgärd",615,545
+,,,
+800 Protetiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+800,"Permanent tandstödd krona, en per käke",5950,5755
+800.1,"Laboratorieframställd krona. Material: Zirconium, helkeram,porslinsinlägg",6140,5755
+801,"Permanent tandstödd krona, flera i samma käke",5610,4470
+801.1,Flera permanenta keramiska kronor,5880,4470
+802,Laboratorieframställd pelare med intraradikulärt stift,3555,3150
+803,Klinikframställd pelare med intraradikulärt stift,1740,1505
+804,"Hängande led vid tandstödd protetik, per led",2330,2205
+804.1,"Hängande led vid tandstödd protetik, per led. Material: Zirconium, helkeram",2440,2205
+805,"Emaljretinerad konstruktion, laboratorieframställd, per stöd",2020,1875
+806,Radikulärförankring vid avtagbar protes,4085,3425
+807,"Semipermanent krona eller hängande led, per led",2510,2455
+808,Innerkrona för teleskop- eller konuskonstruktion,3715,3360
+809,"Långtidtemporär laboratorieframställd krona eller hängande led, per led",1310,1050
+,,,
+,Reparation av tandstödd protetik,,
+,,,
+811,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd",575,560
+812,"Reparation av krona eller bro, utan tandteknisk insats",1520,1470
+813,Broreparation med tandteknisk insats,4605,4490
+814,"Broreparation med tandteknisk insats, omfattande",9350,7760
+815,Sadelkrona,5375,5195
+,,,
+,Avtagbar protetik,,
+822,"Partiell protes för temporärt bruk, en till tre tänder",4090,3660
+823,"Partiell protes för temporärt bruk, fyra eller fler tänder",5815,5160
+824,"Partiell protes med metallskelett, klammerförankrad",13290,10975
+,Komplicerad partiell protes med med metallskelett som förankras med stöd av,,
+825,"urtagskrona, innerkrona eller attachment",15230,12420
+826,"Attachments, per styck",enligt faktura,95
+827,Hel underkäksprotes,10590,9270
+828,Hel överkäksprotes,10590,9270
+829,"Immediatprotes, hel käke",8020,6950
+,,,
+,Reparation av avtagbar protes,,
+831,Justering av avtagbar protes,390,375
+832,Lagning av protes eller tillsättning av protestand,1330,1255
+833,Rebasering av protes,2940,2555
+834,Lagning av protes där avtryck krävs,2075,1950
+835,Rebasering och lagning av protes,3295,3035
+836,Komplicerad lagning av protes,4245,3810
+,Komplicerad lagning av protes där uppvaxning och gjutning av ny del utförs vilken,,
+837,svetsas till befintlig protes.,7280,6575
+839,"Inmontering av förankringselement, per käke",3425,2985
+,,,
+,Övriga åtgärder i samband med protetisk behandling,,
+845,Ocklusionskorrigerande bettslipning,2075,1935
+846,"Skena, hel eller cementerad i sektioner, för vertikal platsberedning eller bettstabilisering",5160,5055
+847,Klammerplåt,4030,3960
+,"Betthöjning eller uppbyggnad för ocklusal stabilisering med fyllningsmaterial, per",,
+848,tandposition,560,545
+,,,
+,Implantatprotetiska åtgärder,,
+850,"Implantatförankrad krona, en per käke",8730,8105
+852,"Implantatförankrad krona, flera i samma käke",7985,6285
+853,Hängande led vid implantatförankrad bro,2430,2205
+854,"Semipermanent krona eller hängande led på implantat, per led",2255,2145
+855,"Fästskruv/broskruv och cylinder vid semipermanent krona på implantat, per implantat",560,540
+856,"Långtidstemporär laboratorieframställd krona eller hängande led på implantat, per led",1370,1290
+,Fästskruv/broskruv och cylinder vid långtidstemporär laboratorieframställd krona på,,
+857,"implantat, per implantat",520,490
+858,"Distans inklusive distansskruv, per styck",2365,1255
+858.1,"Distans inklusive distansskruv, per styck, material Keramik",3140,1255
+859,Integrerad distans/kopplingskomponent,2365,1075
+861,"Implantatförankrad bro, överkäke, fyra implantat",45605,31860
+862,"Implantatförankrad bro, överkäke, fem implantat",47625,33840
+863,"Implantatförankrad bro, överkäke, sex implantat eller fler",51465,35370
+865,"Implantatförankrad bro, underkäke, fyra implantat eller fler",45585,30830
+,"Implantatstödd täckprotes, överkäke, två implantat, eller implantatstödd täckprotes,",,
+871,"underkäke, oavsett antal implantat",21750,17350
+872,"Implantatstödd täckprotes, överkäke, tre implantat",25245,19555
+873,"Implantatstödd täckprotes, överkäke, fyra implantat, eller fler",27525,22105
+874,"Tillägg för alveolarbar, på två implantat",4450,4145
+875,"Tillägg för alveolarbar, på tre implantat",5055,4700
+876,"Tillägg för alveolarbar, på fyra implantat",6765,5605
+877,"Implantatstödd täckprotes, exklusive distanser och förankringselement",16825,14390
+878,"Förankringselement täckprotes, tillägg, per styck",enligt faktura,280
+,,,
+,Reparation av implantat och implantatstödd protetik,,
+,,,
+880,Av- och återmontering av implantatförankrade konstruktioner på ett till två implantat,2 255,2 125
+881,"Reparation av fast implantatförankrad konstruktion, mindre omfattande",1 160,1 105
+,Av- och återmontering av implantatförankrade konstruktioner på sammanlagt tre eller,,
+882,flera implantat,3 225,2 900
+,,,
+883,Reparation/ombyggnad av fast implantatförankrad konstruktion med tandteknisk insats,7 440,5 615
+,Reparation/ombyggnad av implantatförankrad bro där omfattande tandteknisk insats,,
+884,krävs,14 940,10 355
+888,"Fästskruv/broskruv, per styck",205,180
+889,"Distansskruv, per styck",700,370
+,,,
+,Utbytesåtgärder,,
+921,"Utbytesåtgärd. Krona i stället för ersättningsberättigande fyllning, fram- eller hörntand",6020,1145
+,"Utbytesåtgärd. Krona i stället för ersättningsberättigande fyllning, fram- eller hörntand.",,
+921.1,"Material: Zirconium, helkeram",6180,1145
+922,"Utbytesåtgärd. Krona i stället för ersättningsberättigande fyllning, molar eller premolar",6000,1515
+922.1,"Utbytesåtgärd. Krona i stället för ersättningsberättigande fyllning, molar eller premolar.",6185,1515
+,"Material: Zirconium, helkeram",,
+,Utbytesåtgärd.Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+925,"tandstödd bro, kirurgisk del/implantatoperation",8575,4470
+,Utbytesåtgärd.Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+925.1,"tandstödd bro, kirurgisk del/implantatoperation",10155,4470
+,Utbytesåtgärd.Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+925.2,"tandstödd bro, kirurgisk del/implantatoperation",9625,4470
+,Utbytesåtgärd.Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+925.3,"tandstödd bro, kirurgisk del/implantatoperation",11215,4470
+926,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,9065,6675
+,"tandstödd bro, protetisk del/implantatförankrad krona",,
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+926.1,"tandstödd bro, protetisk del/implantatförankrad krona",10510,6675
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+926.2,"tandstödd bro, protetisk del/implantatförankrad krona",11250,6675
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+928,"stödtänderna som utbytet beräknas på, kirurgisk del/implantatoperation",8490,2205
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+928.1,"stödtänderna som utbytet beräknas på, kirurgisk del/implantatoperation",10055,2205
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+928.2,"stödtänderna som utbytet beräknas på, kirurgisk del/implantatoperation",9530,2205
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+928.3,"stödtänderna som utbytet beräknas på, kirurgisk del/implantatoperation",11100,2205
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+929,"stödtänderna som utbytet beräknas på, protetisk del/implantatförankrad krona",9100,4470
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+929.1,"stödtänderna som utbytet beräknas på, protetisk del/implantatförankrad krona",10550,4470
+,Utbytesåtgärd. Implantatbehandling i entandslucka istället för ersättningsberättigande,,
+,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en eller båda,,
+929.2,"stödtänderna som utbytet beräknas på, protetisk del/implantatförankrad krona",11405,4470
+940,tandstödd bro,Enligt ortodontitaxan,11145
+941,tandstödd bro när åtgärd 800 eller 801 har utförts inom två år på en av stödtänderna,Enligt ortodontitaxan,6675
+,,,
+,,,
+900 Tandreglering,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,"Referenspriser 2019-
+01-15"
+,,,
+107S,"Omfattande kompletterande eller akut undersökning, utförd av tandläkare",1600,1575
+108S,"Utredning inklusive undersökning, utförd av tandläkare",2550,2510
+115S,Konsultation specialisttandvård,935,920
+115S1,Konsultation specialisttandvård,1355,920
+116S,"Konsultation specialisttandvård, omfattande",1875,1845
+116S1,"Konsultation specialisttandvård, omfattande",2650,1845
+,,,
+900,"Tandreglering, aktiv behandling högst 6 månader",11325,11295
+901,"Tandreglering, en käke, aktiv behandling 6 månader till 1 år",17800,16965
+902,"Tandreglering, en käke, aktiv behandling 1 år till 1,5 år",22265,21240
+903,"Tandreglering, en käke, aktiv behandling 1,5 år till 2 år",26030,25115
+904,"Tandreglering, en käke, aktiv behandling mer än 2 år",35920,31245
+905,"Tandreglering, båda käkar, aktiv behandling 6 månader till 1 år",28825,23680
+906,"Tandreglering, båda käkar, aktiv behandling 1 år till 1,5 år",31100,27950
+907,"Tandreglering, båda käkar, aktiv behandling 1,5 år till 2 år",37700,32225
+908,"Tandreglering, båda käkar, aktiv behandling mer än 2 år",43215,38995
+,"Tillägg för lingualortodonti, en käke. Mindre omfattande behandling.",15 005,
+,"Tillägg för lingualortodonti, en käke",22 390,
+,"Tillägg för lingualortodonti, två käkar. Mindre omfattande behandling.",22 495,
+,"Tillägg för lingualortodonti, två käkar",33 575,
+,"Tillägg för invisalign, en eller två käkar. Mindre omfattande behandling.",19 220,
+,"Tillägg för invisalign, en eller två käkar",28 990,
+,,,
+,,,
+,Frisktandvård,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,
+,,,
+,"Frisktandvård 1, per år.",985,
+,"Frisktandvård 2, per år.",1260,
+,"Frisktandvård 3, per år.",1675,
+,"Frisktandvård 4, per år.",2240,
+,"Frisktandvård 5, per år.",2985,
+,"Frisktandvård 6, per år.",3845,
+,"Frisktandvård 7, per år.",5005,
+,"Frisktandvård 8, per år.",6295,
+,"Frisktandvård 9, per år.",7585,
+,"Frisktandvård 10, per år.",9315,
+,,,
+,,,
+,Kostnader och behandlingar som inte ersätts av det statliga tandvårdsstödet,,
+Åtgärd,Typ av behandling,Arvode kr 2019-01-15,
+,,,
+,"Kostnadsförslag till annan betalare. Skriftligt intyg till försäkringsbolag, rättsintyg osv.",815,
+,Idrottsskydd exkl. teknikerkostnad/material,1185,
+,Sömnapnéskena Mono-block,9650,
+,Sömnapnéskena Bi-block,10745,
+,Lingualskena,2230,
+,Essixskena,1545,
+,Material utöver grundpris enl faktura eller inköpspris,enligt faktura,
+,Tandteknisk faktura,enligt faktura,
+,Timtaxa tandläkare,2290,
+,Timtaxa tandhygienist,1150,
+,"Psykodonti, hypnos - timpris",2300,
+,"Tandblekning, en käke inkl material. Priset inkluderar moms.",2670,
+,"Tandblekning, två käkar inkl material. Priset inkluderar moms.",4180,
+,"Tandblekning på klinik,en eller två käkar inkl material. Priset inkluderar moms.",5185,
+,Fastsättning av tandsmycke. Smyckepris tillkommer. Priset inkluderar moms.,610,
+,Guld- eller kristallsmycke. Priset inkluderar moms.,295,
+,Guldsmycke med diamant. Priset inkluderar moms.,435,
+,Asylarvode,55,
+,"Timtaxa tandläkare, specialisttandvård",2675,
+,Narkosbehandling,2600,
+,Estetiska Brackets/käke,2055,
+,"Krona eller skalfasad av estetiskt skäl, en per käke inkl moms",7670,
+,"Krona eller skalfasad av estetiskt skäl, flera per käke, per st inkl moms",7290,
+,"Förstörd eller borttappad tandregleringsapparatur, vid andra och efterföljande tillfällen",800,
+,,,
+,Uteblivande,,
+Åtgärd,Typ av behandling,,
+,,,
+,"Uteblivande eller sent återbud från behandling, barn. Allmäntandvård",300,
+,"Uteblivande eller sent återbud från behandling, barn. Specialisttandvård",300,
+,,,
+,"Uteblivande eller sent återbud från behandling, vuxentandvård upp till 30 minuter",500,
+,"Uteblivande eller sent återbud från behandling, vuxentandvård mer än 30 minuter",1000,
+,Uteblivande eller sent återbud från narkos,2400,
+,,,
+,,,
+,,,
+,Särskilda tandvårdsstödet,,
+Åtgärd,Typ av behandling,,
+,Sjukvårdstaxa tandläkare,150,
+,Sjukvårdstaxa hygienist,100,
+,,,

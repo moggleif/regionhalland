@@ -1,0 +1,15 @@
+Alternativ,Bedömning,Motivering
+VAS utveckling,,"Vi bedömer det ej möjligt att bygga om VAS på ett sätt så att
+effekten kan uppnås. Det krävs alltför grundläggande
+ombyggnad i kärnan av systemet för att göra det
+processorienterat och strukturerat. Troligtvis går det inte att
+byggas ihop med kringliggande system på ett sätt så att det
+uppfattas som en helhetslösning."
+Egen utveckling,,"I ett egenutvecklat system skulle vi ha möjligheten att ställa
+samma krav som i SUSSA allternativet. Vi ser dock en risk i att
+vi internt inte kan ta fram krav motsvarande de som större IT-
+leverantörerna tagit emot från en stor kundbas under flera års
+tid. Vi ser inte heller att vi själva skulle kunna utveckla alla de
+funktionsstöd som kommer att krävas, utan kanske snarare
+bygger kärnan själva och kompletterar med andra produkter
+upptill. Svårigheter att få ihop detta till en helhetslösning."

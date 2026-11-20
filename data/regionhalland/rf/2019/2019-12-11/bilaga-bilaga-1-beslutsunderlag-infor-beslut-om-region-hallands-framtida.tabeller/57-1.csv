@@ -1,0 +1,62 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)
+Kan behöva göra
+om upphandlingen","K =
+1-4","S =
+1-4","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+,,,,,,,,,
+,"Om vi inte avropar
+optionen och
+Norrbotten lämnar
+VAS före oss blir vi
+ensamma kvar.","Svårt att få lev. Vi
+kan stå utan hjälp
+om det händer ngt.
+Stora kostnader
+som vi får bära själv
+Implementationen
+försenas – vi står
+kvar själva med
+VAS och måste
+underhålla det.",4,4,16,,,,
+Kvalitet,"Risk att vi blir en liten
+kund i utvecklings-
+sammanhang om vi
+är ensamma med
+systemet och
+utvecklings-
+kostnaderna","Mindre påverkan,
+blir bortprioriterade",3,4,12,,,,
+,"Risk att vi inte får
+den leverantör vi
+önskar",,4,3,12,,,,

@@ -1,0 +1,22 @@
+Cytologisk nomenklatur och diagnostext,"SNOMED-kodning av
+cytologiska diagnoser"
+Provets kvalitet,
+Provets kvalitet är tillfredsställande,
+Ej bedömbart prov,M09010
+Endocervikala celler påvisas,
+Endocervikala celler saknas,M09019
+Cellprov utan påvisade förändringar,
+Normalt/benignt cellprov,M00110
+Förändringar i skivepitelet,
+Atypiska skivepitelceller – osäker innebörd/ASC-US,M69710
+Misstänkt höggradig skivepitellesion/ASC-H,M69719
+Låggradig intraepitelial skivepitellesion/LSILcyt,M80770
+Höggradig intraepitelial skivepitellesion/HSILcyt,M80772
+Misstanke om skivepitelcancer,M80701
+Förändringar i körtelepitelet,
+Körtelcellsatypi,M69720
+"Adenocarcinoma in situ (AIS) eller misstanke om
+adenocarcinom.",M81401
+Förändringar i celler av oklar/annan celltyp,
+Atypi i celler av oklar/annan celltyp,M69700
+Maligna celler av oklar celltyp/annan celltyp,M80009

@@ -1,0 +1,90 @@
+"Begrepp/
+Term",Variabel,"Tecken/
+Variabler/
+Tillåtna värden",Övrigt
+Personid-nummer,Pidnr,"Alfanumeriskt, 12 tecken
+Personnummer: ÅÅÅÅMMDDNNNK
+Samordningsnummer: ÅÅÅÅMM(DD+60)NNNK
+Reservnummer: Befintlig struktur i labbsystem",
+"Personid, sort",Pidsort,1 tecken,"Anger vilken sorts personid-nummer som
+levererats Värden:
+P = Personnummer
+S = Samordningsnr
+R = Reservnummer"
+Namn,Namn,"Fritext, 40 tecken","Efternamn, Förnamn eller
+Förnamn Efternamn"
+Provtagningsdatum,Provdat,"8 tecken, ÅÅÅÅMMDD",
+Registreringsdatum,regdat,8 tecken ÅÅÅÅMMDD,"Datum då provet registrerades vid laboratoriet
+där analysen gjordes"
+Provtagningsenhet,provstnkod,Fritext 64 tecken,"Vårdenhet där provet tagits. Om möjligt, HSA-
+id för enheten."
+Leveransdatum,levdat,8 tecken ÅÅÅÅMMDD,Datum då posten levererats
+Virologlab,Vlabkod,2 tecken,"Förteckning finns i senare kapitel i detta
+dokument."
+Cytologlab,Labkod,3 tecken,"Cytologlab som tar emot eller levererar
+posten.
+Enligt cancerregistret Ex SU = 507.
+Förteckning finns i senare kapitel i detta
+dokument."
+Provid,Provid,Fritext 40 tecken,"Provets identitet, labspecifikt"
+Posttyp,posttyp,"R = Raderad post i labsystemet
+Blankt fält = Post som skall läsas in","För att t.ex. hantera poster som raderats ur
+labsystemet. Så att de kan raderas från
+mottagande system."
+Remissid,remid,Fritext 40 tecken,"Id från cytologlab. För att kunna koppla ihop
+HPV-provet med cytprov."
+HPV test,hpv_test,"VA = Amplicore (Roche)
+VB = HybridCapture II (Digene)
+VC = mRNA (NorChip)
+VD = General primer PCR (In-House)
+VE = Typspecifik PCR (In-House)
+VF = Abbot Real Time High RISK HPV
+VG = Roche Cobas 4800
+VX=Annat","Laboratorier som använder andra HPV-test
+uppmanas höra av sig till WHO HPV
+Referenslab för att få en kod tilldelad."
+"Typnings
+metod",hpv_typn,"A = ingen
+B = Linear array (Roche)
+C = Luminex (In-house)
+D = DNA-sekvensering
+X = Annan","Laboratorier som använder andra HPV-
+typningsmetoder uppmanas höra av sig till
+WHO HPV Referenslab för att få en kod
+tilldelad."
+Provmaterial,hpv_provmaterial,"A = Konventionellt cytologprov/Cellprov från cervix
+eller vagina
+B = ThinPrep-vätska",
+,,"C = SurePath-vätska
+D = Biopsi
+E = Hemtest kit
+F = Kondylom
+G = ÖNHPapillom
+H = Hudskrap
+I = Blåssekret
+K = Formalin-fixerat, paraffin-inbäddat
+material
+L = Genitalt sekret
+X = Övrigt",
+Resultat,hpv_resultat,"N = Negativ
+H = Positiv högrisk
+AH = Annan högrisk än 16 eller 18
+L = Positiv lågrisk
+E = Ej godkänd testkvalité/Inkonklusivt
+X= HPV-typ annan än etablerad typ.
+6 = HPV6
+11 = HPV11
+16 = HPV16
+18 = HPV18
+osv","Alla värden 1 – 113 är tillåtna för de
+etablerade HPV-typerna.
+För övriga HPV-typer kan antingen “X” eller ett
+GenBank Accession Number anges. Inga
+isolatnamn eller dylikt får anges.
+Vid flera resultat åtskiljs dessa av
+kommatecken."
+Enhetsinformation,provstninfo,"Fritext, 256 tecken","Namn och kontaktuppgifter till
+enheten som tagit provet."
+Resultattext,hpv_resultattxt,"Text, läsbart, ej rtf eller liknande. Får ej
+innehålla semikolon.","Kan skickas om systemet tillhandahåller
+textfält för inmatning av hpvresultatet"

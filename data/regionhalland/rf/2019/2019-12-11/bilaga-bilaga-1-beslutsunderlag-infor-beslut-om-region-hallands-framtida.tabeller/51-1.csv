@@ -1,0 +1,62 @@
+STEG 1,,,,,,STEG 2,,,STEG 3
+HANLINGSALTERNATIV 1,,,,,,,,,
+"Process
+Aktivitet
+(Ange området
+risken tillhör)","Risk
+(Ange vad det är för
+risk du ser inom detta
+område)
+kostnader blir vid en
+implementation","Konsekvens
+(Ange vilken
+konsekvens det blir
+om risken inträffar)","K =
+1-4","S =
+1-4","R= Åtgärds-
+förslag
+K x S
+…….
+Färg-
+mar-
+keras",,"Beslut om
+åtgärd,
+Ange
+namn/sign
+datum","Ansvarig
+för genom-
+förande.
+Datum när åtg.
+ska vara
+genomförd.","Uppföljning/
+utvärdering/
+resultat
+Ange
+namn/sign
+datum"
+,,,,,,,,,
+,"Cambio ägs av ett
+investmentsbolag
+vilket skapar en
+osäkerhet. Vinstkrav
+från aktieägarna kan
+ge obehagliga
+överraskningar i
+framtiden","Ökade kostnader.
+Sämre villkor",1,1,1,,,,
+Tid,"Risk att Införandet
+tar längre tid än
+planerat då
+leverantören och
+regionerna inte har
+den kapacitet som
+behövs för att följa
+tidplanen","Implementationen
+försenas – vi står
+kvar själva med
+VAS och måste
+underhålla det.",4,3,12,,,,
+,"Risk att den utlovade
+utvecklingen inte
+genomförs inom
+utsatt tid.",,4,"2,5",10,,,,

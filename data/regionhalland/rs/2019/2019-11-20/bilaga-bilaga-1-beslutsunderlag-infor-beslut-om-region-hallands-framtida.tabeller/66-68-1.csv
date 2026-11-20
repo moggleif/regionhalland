@@ -1,0 +1,52 @@
+Kapitel (Område),Beskrivning
+Vårdverksamhetens behov,
+"3.1 Strukturerad
+information","Presentationsvyer, Uppmärksamhet, Basdata,
+Scanning, Utskrifter, nolltolerans för
+dubbeldokumentation"
+3.2 Processtöd,"Processtöd med integrerat kunskap- och kliniskt
+beslutsstöd"
+3.3 Vårdbegäran,"Vårdbegäran, planering, bokning, kallelser mm"
+"3.5 Läkemedel och
+Cytostatika (kap 4)","Läkemedel, ordination, administrering, mm"
+3.6 Monitorerad data,"Kommunikation o integration med medicinsk
+utrustning"
+"3.7 Partnerskap med
+invånare/patient","Kommunikation via e-tjänster
+Hälsodeklaration via nätet"
+Vårdverksamhetens behov specialområde,
+4.1 Tillväxt,Tillväxtkurva
+4.2 Bildhantering,"Bildhantering, rörlig, stillbilder, annan typ av
+multimedia"
+"4.3 Samordnad
+vårdplanering",SVP (nuvarande LifeCare)
+"4.4 Beställning och
+Svar",Provbunden diagnostik
+"4.5
+Operationsplanering","Pre- och postoperativ fas, uppföljning av kvalitet o
+produktion"
+"4.6 Anestesi och
+intensivvård","Översikt, övervakning, bedömning mm"
+"4.7 Obstetrik och
+förlossning","Mödravård under graviditet, förlossning, mm"
+Övriga område,
+"1 och 12. Drift, Teknik,
+underhåll och support","Krav på drift, maskinvara, klienter, Servicenivåer,
+mm"
+2.Övergripande behov,"Nationella tjänster, mobilitet, utveckling, öppna
+gränssnitt"
+"5. Arkitektur och
+säkerhet","Arkitektur, Identitet och åtkomst (IAM),
+Informationssäkerhet, Arkivering"
+"6 Uppföljning och
+verksamhetsstyrning","Spårbarhet, Analys och uppföljning, Datauttag,
+Kvalitetsregister"
+7 Ekonomi,"Fakturering, ekonomisk uppföljning"
+"8 Användbarhet o
+tillgänglighet","Design, Användbarhet, Verksamhet och
+patientnytta, Stöd för användarens behov"
+"9 Styrning och
+samverkan","Implementation, samverkan"
+10 Utbildning,"Utbildning, kompetensutveckling"
+"11 Implementation av
+kärnsystem","Implementation, delaktighet, mm"

@@ -1,0 +1,37 @@
+"Område
+Kallelse","Variabel
+Fler språk tillgängliga
+i kallelsen","Typ
+av
+mått
+S","Mätmetod
+Enkät",Anmärkning,"Målnivå
+Ja"
+,"Andel kvinnor
+aktuella för kallelse
+som får kallelse",P,"Kvalitets-
+register","Första mätpunkt är
+24 år. Övre mätgräns
+är 50 år. Mäts som
+andel kvinnor som
+inbjuds ≥ 3 år efter
+föregående cellprov.
+Variationsintervall
++/- 3 mån.","100 %. Pilotunder-
+sökning görs."
+"Del-
+tagande","Bestämd tidpunkt
+erbjuds i kallelsen",S,Enkät,,"Ja: >90% av kvin-
+norna får en förbokad
+fast tid"
+,"Webbombokning till
+bestämd tidpunkt",S,Enkät,"Provtagning vid
+specificerat datum
+och tidpunkt ska
+erbjudas.",Ja
+,"Enkel webb-
+ombokning med
+engångskod som fås
+med inbjudan",S,Enkät,,Ja
+,"Påminnelse (kallelse)
+varje år",S,Enkät,,Ja

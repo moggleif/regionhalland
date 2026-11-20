@@ -1,0 +1,121 @@
+"Begrepp/
+Term",Variabel,"Tecken/
+Variabler/
+Tillåtna värden",Övrigt,XML-tagg
+Personid-nummer,pidnr,"Alfanumeriskt, 12 tecken
+Personnummer:
+ÅÅÅÅMMDDNNNK
+Samordningsnummer:
+ÅÅÅÅMM(DD+60)NNNK
+Reservnummer: Befintlig struktur i
+labbsystem",,"<pidnr>
+</pidnr>"
+"Personid, sort",pidsort,1 tecken,"Anger vilken sorts personid-nummer
+som levererats Värden:
+P = Personnummer
+S = Samordningsnr
+R = Reservnummer","<pidsort>
+</pidsort>"
+Namn,namn,"Fritext, 40 tecken","Efternamn, Förnamn eller
+Förnamn Efternamn","<namn>
+</namn>"
+Provtagningsdatum,provdat,"8 tecken, ÅÅÅÅMMDD",Datum då provet togs från patienten,"<provdat>
+</provdat>"
+Registreringsdatum,regdat,8 tecken ÅÅÅÅMMDD,"Datum då provet registrerades vid
+laboratoriet där analysen gjordes","<regdat>
+</regdat>"
+Provtagningsenhet,provstnkod,Fritext 64 tecken,"Vårdenhet där provet
+tagits. Om möjligt,
+HSA-id för enheten.","<provstnkod>
+</provstnkod>"
+Leveransdatum,levdat,8 tecken ÅÅÅÅMMDD,Datum då posten levererats,"<levdat>
+</levdat>"
+Virologlab,Vlabkod,2 tecken,"Förteckning finns i senare kapitel i
+detta dokument.","<vlabkod>
+</vlabkod>"
+Cytologlab,Labkod,3 tecken,"Cytologlab som tar emot eller
+levererar posten.
+Enligt cancerregistret Ex SU = 507.
+Förteckning finns i senare kapitel i
+detta dokument.",<labkod> </labkod>
+Provid,provid,Fritext 40 tecken,"Provets identitet,
+labspecifikt. Id-begrepp
+på labbet",<provid></provid>
+Posttyp,posttyp,"R = Raderad post i labsystemet
+Blankt fält = Post som skall läsas in","För att t.ex. hantera
+poster som raderats ur
+labsystemet. Så att de
+kan raderas från
+mottagande system.",<posttyp></posttyp>
+Remissid,remid,Fritext 40 tecken,"Id från cytologlab. För
+att kunna koppla ihop
+HPV-provet med
+cytprov.",<remid></remid>
+HPV test,hpv_test,"VA = Amplicore (Roche)
+VB = HybridCapture II (Digene)
+VC = mRNA (NorChip)
+VD = General primer PCR (In-House)
+VE = Typspecifik PCR (In-House)","Laboratorier som använder andra
+HPV-test uppmanas höra av sig till
+WHO HPV Referenslab för att få en
+kod tilldelad.","<hpvtest >
+</hpvtest >"
+,,"VF = Abbot Real Time High RISK
+HPV
+VG = Roche Cobas 4800
+VX = Annat",,
+"Typnings
+Metod",hpv_typn,"A = ingen
+B = Linear array (Roche)
+C = Luminex (In-house)
+D = DNA-sekvensering
+X = Annan","Laboratorier som använder andra
+HPV-typningsmetoder uppmanas höra
+av sig till WHO HPV Referenslab för
+att få en kod tilldelad.","<hpvtypn>
+</hpvtypn>"
+Provmaterial,hpv_provmaterial,"A = Konventionellt
+cytologprov/Cellprov från cervix eller
+vagina
+B = ThinPrep-vätska
+C = SurePath-vätska
+D = Biopsi
+E = Självtest kit
+F = Kondylom
+G = ÖNHPapillom
+H = Hudskrap
+I = Blåssekret
+K = Formalin-fixerat, paraffin-inbäddat
+material
+L = Genitalt sekret
+X = Övrigt",,"<hpvmed>
+</hpvmed>"
+Resultat,hpv_resultat,"N = Negativ
+H = Positiv högrisk","Typnummer 1 – 113 är tillåtna för de
+etablerade HPV-typerna.","<hpvresultat>
+<resultat>"
+,,"AH = Annan högrisk än 16 eller 18
+L = Positiv lågrisk
+E = Ej godkänd testkvalité/Inkonklusivt
+X= HPV-typ annan än etablerad typ.
+6 = HPV6
+11 = HPV11
+16 = HPV16
+18 = HPV18
+osv","För övriga HPV-typer kan antingen “X”
+eller ett GenBank Accession Number
+anges. Inga isolatnamn eller dylikt får
+anges.
+Varje resultat (typ) placeras mellan
+<resultat></resultat> och endast ett
+resultat får finnas inom varje.","</resultat>
+</hpvresultat>"
+Resultattext,hpv_resultattxt,"Text, läsbart, ej rtf eller liknande","Skickas om systemet
+tillhandahåller textfält
+för inmatning av hpvresultatet","<hpvresultattxt></hpvresu
+ltattxt>"
+Enhetsinformation,provstninfo,"Fritext, 256 tecken","Namn och
+kontaktuppgifter till
+enheten som tagit
+provet.","<provstninfo></provstninf
+o>"

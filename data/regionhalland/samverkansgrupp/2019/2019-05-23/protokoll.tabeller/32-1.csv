@@ -1,0 +1,17 @@
+Alternativ,Bedömning,Motivering
+,,"utdatalösningar samt rapportering till myndigheter och
+kvalitetsregister. Vi bör även kunna samverka inom SUSSA för
+att bygga gemensamma utdatalösningar i de fall vi har samma
+behov."
+Egen upphandling,,"De IT-system som finns på marknaden idag är samtliga byggda
+och/eller anpassade för att kunna möjliggöra flexibla
+utdatalösningar samt rapportering till myndigheter och
+kvalitetsregister."
+VAS utveckling,,"Vi ser stora svårigheter att klara detta eftersom VAS är
+begränsat av en databas som i grunden är dåligt anpassad för
+utdata. Samtidigt är grundimplementation alltför tillåtande vad
+gäller ostrukturerad data, något som bedöms svårt att bygga
+bort från systemet."
+Egen utveckling,,"Ett egenutvecklat system skulle kunna byggas för att möjliggöra
+flexibla utdatalösningar samt rapportering till myndigheter och
+kvalitetsregister."

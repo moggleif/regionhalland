@@ -1,0 +1,10 @@
+Diagnos,Kod
+LSIL,M80770
+HSIL,M80772
+HSIL uppdelas dessutom för kvinnor ≤ 27 år med följande tilläggskoder:,
+CIN 2,M74007
+CIN 3,M80702
+Adenocarcinoma in situ,M81402
+Kodningen för HSIL för patienter ≤ 27 år blir då:,
+HSIL (CIN 2) M80772 och M74007,
+eller HSIL (CIN 3) M80772 och M80702.,
