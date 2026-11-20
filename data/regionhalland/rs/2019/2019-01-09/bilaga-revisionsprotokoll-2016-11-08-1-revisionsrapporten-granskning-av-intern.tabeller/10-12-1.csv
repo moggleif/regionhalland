@@ -1,0 +1,383 @@
+Ref,Område,Identifierad brist,Risk,"PwC:s
+rekommendation","Priorit
+et"
+4.1,"Policys och riktlinjer
+för inköp","Det saknas en rutin
+för att se över och
+uppdatera styrande
+dokument vid behov
+för att säkerställa att
+dessa är aktuella.","Risk för att styrande
+dokument inte följer
+regler och lagkrav
+när dessa ändras
+med tiden.","Region Halland bör
+skapa en rutin för
+regelbunden översyn
+och uppdatering ex
+årligen eller vid större
+förändringar av
+styrande dokument
+eller processer.",Medel
+4.2,Upplägg av leverantör,"Det krävs inget
+godkännande vid
+upplägg av en ny
+leverantör, och det
+görs inte heller
+någon regelbunden
+genomgång av
+leverantörsregistret
+för att säkerställa att
+uppgifterna är
+korrekta och
+aktuella.","Risk för att felaktig
+registrering av
+leverantörer i
+systemet.","Region Halland bör
+införa en kontroll för
+uppföljning av att
+uppgifter har
+registrerats korrekt i
+systemet. Denna
+kontroll bör utföras av
+någon annan än den
+som registrerar
+uppgifterna i systemet.",Medel
+4.2,Upplägg av leverantör,"Det görs ingen
+uppföljning av
+logglistan avseende
+ändrade
+leverantörsuppgifter
+.","Risk för att felaktiga
+eller otillbörliga
+ändringar inte
+upptäcks i tid, eller
+inte upptäcks alls.","Vi rekommenderar att
+Region Halland
+identifierar vilka
+ändringar som kan
+betraktas som känsliga
+och därefter införa en
+rutin som säkerställer
+att loggen över
+känsliga ändringar
+följs upp och
+analyseras.",Medel
+4.3,"Godkännande av
+inköp och
+investeringar","Det finns ingen
+beloppsgräns vid
+beställning, vilket
+innebär att personer
+med behörighet att
+göra beställningar
+kan göra
+obegränsade inköp.","Risk för att felaktiga
+inköp görs.","Region Halland bör
+undersöka
+möjligheten till att
+införa en beloppsgräns
+för inköp för att
+minska risken för
+felaktiga inköp.",Hög
+4.3,"Godkännande av
+inköp och
+investeringar","Attest sker först vid
+betalningstillfället,
+vilket innebär att
+felaktiga inköp i de
+flesta fall inte går att
+returnera.","Risk för att felaktiga
+inköp görs.","Vi rekommenderar
+Region Halland att
+undersöka
+möjligheten till att
+införa en attest redan
+vid
+beställningstillfället
+för att minska risken
+för felaktiga inköp.",Medel
+4.4,"Ankomstregistrering
+av faktura","Avstämningen av
+fakturainläsningen
+från S4F Progress
+till Agresso
+dokumenteras inte.","Risk för att det
+interna
+kontrollarbetet inte
+utförs eller inte
+utförs i tillräcklig
+omfattning eller på
+rätt sätt.","Region Halland bör
+dokumentera den
+avstämning som görs
+av inläsningen från
+S4F Progress till
+Agresso.",Låg
+4.4,"Ankomstregistrering
+av faktura","Det görs ingen
+kontroll av
+fullständigheten i","Risk för att fel i
+dataöverföringen till
+Agresso inte","Vi rekommenderar att
+Region Halland
+undersöker",Medel
+,,"den fil som avser
+inläsning av e-
+fakturor till Agresso.
+Det görs inte heller
+någon kontroll av
+fullständigheten i de
+filinläsningar som
+görs från
+försystemen
+Sjukresor, Vårdval
+Halland och Tears
+till Agresso.","upptäcks och
+åtgärdas, vilket
+medför att Agresso
+inte uppdateras rätt
+och riktigt.","möjligheten att införa
+en kontroll för att
+säkerställa att
+dataöverföringen från
+försystemen har skett
+på ett korrekt och
+fullständigt sätt.",
+4.4,"Ankomstregistrering
+av faktura","Vid den manuella
+registreringen av
+ersättning för
+sjukresor i
+försystemet
+Sjukresor samt för
+specialistvård i
+försystemet Vårdval
+Halland krävs ingen
+kontroll av en
+ytterligare person
+för att säkerställa att
+registreringen har
+blivit korrekt
+inmatad. Det krävs
+inte heller någon
+attest i Agresso
+innan betalningarna
+signeras på banken.","Risk för att felaktiga
+uppgifter matas in i
+systemet, vilket i sin
+tur kan leda till
+felaktiga
+utbetalningar.","Region Halland bör
+överväga att förbättra
+den interna kontrollen
+i processen för
+utbetalningar av
+sjukresor, antingen
+genom en ytterligare
+attest för att
+säkerställa att
+uppgifter avseende
+ersättning för
+sjukresor blir korrekt
+registrerade i Agresso
+eller genom
+stickprovskontroll av
+utbetalningar
+avseende sjukresor.",Hög
+4.5,Ankomstkontroll,"Det görs i dagsläget
+ingen uppföljning av
+att arbetssättet i
+samband med
+ankomstkontroll
+följer de
+kontrollåtgärder
+som framgår av
+attestordningen. Det
+finns inte heller
+någon gemensam
+rutin för hur
+uppföljning av
+avvikelser i samband
+med
+ankomstkontroll ska
+göras.","Risk för att det
+interna
+kontrollarbetet inte
+utförs eller inte
+utförs i tillräcklig
+omfattning eller på
+rätt sätt.","Region Halland bör
+införa en kontroll för
+övervakning av att de
+framtagna
+kontrollåtgärderna
+efterlevs, samt tar
+fram en gemensam
+rutin för hur
+avvikelser vid
+ankomstkontroll ska
+följas upp och
+dokumenteras",Låg
+4.6,Attest,"Attest av
+leverantörsfakturor
+saknar
+beloppsgränser och
+styrs enbart på
+ansvar.","Risk för felaktiga
+utbetalningar då
+personer med
+attesträtt i systemet
+har möjlighet att
+attestera betalningar
+till obegränsade
+belopp.","Region Halland bör ta
+ställning till
+införandet av
+beloppsgränser
+kopplade till attest av
+leverantörsfakturor.
+Detta kan regleras i
+attestreglementet
+och/eller systemet.",Medel
+4.7,"Uppföljning av ej
+attesterade fakturor","Uppföljning av
+fakturor som ej har
+blivit attesterade ska
+följas upp av","Risk för att det
+interna
+kontrollarbetet inte
+utförs eller inte","Vi rekommenderar
+Region Halland att
+utforma kontrollen på
+ett sätt som gör det",Låg
+,,"förvaltningsekonom
+er/controllers
+månadsvis, men det
+görs ingen central
+uppföljning av att
+denna kontroll
+faktiskt utförs.","utförs i tillräcklig
+omfattning eller på
+rätt sätt, vilket i
+detta fall kan leda
+till att fakturor som
+inte har blivit
+attesterade inte följs
+upp på regelbunden
+bas vilket främst är
+viktigt i samband
+med bokslut.","möjligt att följa upp att
+den faktiskt utförs på
+rätt sätt och vid rätt
+tidpunkt.",
+4.8,Betalning,"Godkännande av
+betalning på banken
+görs inte av två i
+förening utan det
+räcker med att en
+person signerar
+betalfilen.","Risk för att
+felaktigheter inte
+upptäcks samt att
+otillbörliga
+betalningar kan
+göras då endast en
+person kontrollerar
+den slutgiltiga
+utbetalningen.","Vi rekommenderar att
+Region Halland inför
+krav på att utbetalning
+sker två i förening.",Medel
+4.10,"Behörigheter till
+relevanta system","Det görs ingen
+uppföljning för att
+säkerställa att
+kontrollåtgärden för
+att följa upp inaktiva
+användare görs av
+förvaltningsekonom
+er/controllers varje
+månad.","Risk för att det
+interna
+kontrollarbetet inte
+utförs eller inte
+utförs i tillräcklig
+omfattning eller på
+rätt sätt, vilket i
+detta fall kan leda
+till att användare
+ligger kvar som inte
+längre bör ha
+tillgång till systemet.","Region Halland bör
+överväga att utforma
+kontrollen på ett sätt
+som gör det möjligt att
+följa upp att den
+faktiskt utförs på rätt
+sätt och vid rätt
+tidpunkt.",Låg
+4.10,"Behörigheter till
+relevanta system","Det finns ingen
+formell
+behörighetsprocess
+för försystemet
+Sjukresor.","Risk för
+felaktigheter i
+tilldelningen av
+behörigheter samt
+svårigheter i
+spårbarhet vid
+uppföljning och
+kontroll av
+behörigheter.","Vi rekommenderar
+Region Halland att
+formalisera processen
+för upplägg/ändring
+av behörigheter i
+försystemet för
+sjukresor. Då det inte
+finns tillräcklig intern
+kontroll i processen
+för utbetalningar av
+sjukresor blir
+behörighetsprocessen
+av extra vikt.",Medel
+4.12,"Dataanalys av
+utbetalningar","Arbetssättet i Inyett
+är inte formaliserat
+fullt ut, vilket gör att
+det inte går att
+säkerställa att
+samtliga varningar
+följs upp och
+åtgärdas.","Risk för att felaktiga
+utbetalningar inte
+upptäcks innan
+betalning görs.","Region Halland bör
+formalisera sitt
+arbetssätt med Inyett
+för att säkerställa att
+samtliga varningar
+följs upp, åtgärdas och
+dokumenteras. Utöver
+detta bör
+uppsättningen av
+Inyett samt
+versionshanteringen
+dokumenteras för att
+säkerställa att inga
+obehöriga ändringar i
+inställningarna görs.",Medel
+4.12,"Dataanalys av
+utbetalningar","Granskning av nio
+stycken fakturor
+som avser
+utbildning/konferen","Risk för felaktig
+hantering av
+leverantörsfakturor
+som avser","Vi rekommenderar att
+Region Halland ser
+över hanteringen av
+fakturor som avser
+utbildning/konferense",Medel

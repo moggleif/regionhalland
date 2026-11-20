@@ -1,0 +1,36 @@
+INKADM,Inköpsadministration,"Skapa elektroniska varukorgar
+baserat på återkommande inköp
+och kan skicka ut till rekvirenter
+som ett användarstöd. (17 st
+användare)"
+INKATT,"Inköp, attestant","Avdelningschefer som har
+beslutsattest. (4 st användare)"
+INKREKV,"Inköp, rekvirent",Beställare. (16 st användare)
+SLUSSEN,Slussen,"Felhantering av
+leverantörsupplägg, felaktiga
+fakturor. Behörighet att lägga upp
+leverantörsuppgifter. (15 st
+användare)"
+SU-BAS,Basroll Leverantörsreskontra,"Behörighet att registrera manuella
+utbetalningar samt söka
+information och ändra
+förfallodatum. (29 st användare)"
+SU-FFD,"Ändra förfallodatum i
+leverantörsreskontran","Behörighet att ändra
+förfallodatum på
+leverantörsfakturor. (3 st
+användare)"
+SYSTEM,SYSTEM,"Systemadministratörsroll.
+Behörighet att göra allt i Agresso,
+ex. göra ändringar i användares
+behörigheter. Däremot har ingen
+av dessa behörighet att signera
+betalfilen på banken. (4 st
+användare + 1 anonym användare"
+,,"som ej är kopplad till en specifik
+person, dock är det endast
+systemsamordnaren som har
+tillgång till den anonyma
+användaren)."
+UTBET,Utbetalningar,"Hanterar endast utbetalningar. (6
+st användare)"
