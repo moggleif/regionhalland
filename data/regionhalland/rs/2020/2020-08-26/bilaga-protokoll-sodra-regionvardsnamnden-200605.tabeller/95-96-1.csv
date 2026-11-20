@@ -1,0 +1,39 @@
+Ort,Målort,Avstånd (km),Restid
+Lund,,,
+Lund,Uppsala Ackis,530,2h20min
+Lund,Sthlm-Karolinska,500,2h10min
+Lund,Ringsted,90,30min
+Lund,Linköpings US,350,1h35min
+Lund,Kallinge fpl,140,40min
+Lund,Växjö,165,50min
+Lund,Helsingborg,50,20min
+Lund,CSK Kristianstad,70,25min
+Lund,"Blekingesjukhuse
+t Karlskrona",160,45min
+Lund,Ystad,50,20min
+Lund,Bornholm/Rønne,120,35min
+Lund,Szczecin,270,1h15min
+Lund,Greifswald,180,50min
+Lund,Hamburg,320,1h25min
+"Bornholm
+/Rønne",,,
+Bornholm,Ystad,70,25min
+Bornholm,Lund,120,35min
+Bornholm,Rigshospital/Kbh,150,45min
+Bornholm,CSK Kristianstad,110,35min
+Bornholm,Everöds flygplats,100,30min
+Bornholm,Sturup,100,30min
+Bornholm,Ringsted,190,55min
+Bornholm,Blekingesjukhus,130,40min
+Bornholm,Greifswald,140,40min
+Ringsted,,,
+Ringsted,Helsingborg,90,30min
+Ringsted,"TplLandskronaS
+/E6",90,30min
+Ringsted,Trelleborg,90,30min
+Ringsted,Sturups flygplats,100,30min
+Ringsted,Ystad,130,40min
+Ringsted,CSK Kristianstad,160,45min
+Ringsted,Växjö,250,1h10min
+Ringsted,"Blekingesjukhuse
+t Karlskrona",250,1h10min
