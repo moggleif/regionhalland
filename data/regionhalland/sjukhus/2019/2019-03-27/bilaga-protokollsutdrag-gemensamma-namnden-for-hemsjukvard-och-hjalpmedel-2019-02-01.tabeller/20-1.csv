@@ -1,0 +1,26 @@
+Indikator,Mått
+"Vårdtillfällen med
+inskrivningsmeddelanden",Andel/antal
+"Vårdtillfällen som leder till
+samordnad individuell planering",Andel/antal
+Vårdtid som utskrivningsklar,Antal dagar som utskrivningsklar
+"Vårdplatser belagda med
+utskrivningsklara patienter",Antal
+"Oplanerad återinskrivning inom 1-
+30 dagar",Antal dagar
+"Meddelande med prel datum för
+utskrivning som är sänt inom 24
+timmar r/t datum och tid för
+inskrivningsmeddelande",Andel/antal
+Diff prel datum och slutligt,Genomsnittligt antal dagar
+Fast vårdkontakt utsedd,Antal per vårdcentral
+"Tid mellan kallelse för SIP möte och
+datum för mötet",Genomsnittligt antal dagar
+"Uppföljning genomförd enligt
+plan",Ja/nej
+Inskrivna i hemsjukvård,Andel/antal
+Inskrivna äldre (80+),Åldersfördelning & könsfördelning
+Flöde hemsjukvård,Andel nyinskrivna/mån
+Enstaka hembesök,Antal invånare
+Enstaka hembesök,Åldersfördelning & könsfördelning
+Kvalitet i palliativ vård,4 kvalitetsindikatorer över tid
