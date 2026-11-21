@@ -19,11 +19,6 @@ jobs:
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
+      - run: echo inget OCR i visningen
       - run: pip install pypdfium2 numpy pillow
-      - run: python prov/prov_bild.py prov/urval.json
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: prov-ut
-          path: prov-ut/
+      - run: python prov/visa.py prov/urval.json
