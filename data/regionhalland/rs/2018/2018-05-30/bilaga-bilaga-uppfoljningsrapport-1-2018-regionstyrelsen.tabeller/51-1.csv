@@ -1,0 +1,47 @@
+,Aktiviteter,Kommentar
+,Logganalys,"Alla förberedelser gjorda. Avvaktar produktionssättning av lösningen i
+1177/journal via nätet som objektet eHälsa arbetar med. (Region Halland)"
+,"Utdata
+primärvårdsindikatorer",
+,"SVF och generella
+vårdprocesser","Vi har under några år nu satsat väldigt stor andel av våra resurser på detta
+och också kommit en bra bit. 31 SVFer stöds nu. Vi har också investerat tid i
+att bygga ett konfigureringsgränssnitt som gör att förvaltningen skall kräva
+mindre IT-resurser. Diskussion i styrgrupp och objekt om hur mycket vidare
+satsning på detta under Q3-Q4 2018. Prioritering behövs i förhållande till
+andra önskemål.
+(Region Halland)"
+,Konsolidering BI-miljö,"Ökat tempot under Q1-Q3 2018 för att hinna med så mycket som möjligt.
+Svårt att estimera total tidsåtgång då utredningen/förstudien är mer än halva
+jobbet. (Region Halland)"
+,Koppling utdata Stratsys,
+,"RK rapporter & statistik,
+regiongemensam
+månadsrapport över
+volymer etc",
+,Ekonomi version 2,"Försenat men är nu snart klar. Ny teknisk lösning med Microsoft kub ger
+möjlighet att köra Excel direkt mot ekonomidata. Nya uppdaterade universe i
+Business Objects. Efter sommaren behöver denna nya lösning synkas med
+hur vi använder Qlikview mot Agresso (ny aktivitet, rimligen inom ramen för
+förvaltning). (Region Halland)"
+,"KPP migrering från
+Ecomed till Prodacapo","Pågår. Steg 1 är att göra 2017 års KPP i gamla verktyget Ecomed, steg 2 är
+att göra KPP 2017 i nya verktyget ProDacapo. Därefter behöver SHARP
+också uppdateras med justerad KPP-data baserad på TDABC-principerna
+och kompletterat med KPP för primärvård. (Region Halland)"
+,Fritext sök journal,"Endast förstudie för val av IT-lösning har gjorts. Avvaktar färdigställande av
+logg-analys då liknande teknik/principer kommer att användas. (Region
+Halland)"
+,"VIND-rapporter
+(verksamhetsindikatorer)","Förenklade varianter (utan vårdvolymer) implementeras nu på RK och RGS.
+Diskussion kring VINDs förhållande till Stratsys-rapportering och
+regiongemensam månadsrapport. Behöver utvärderas/tänkas igenom inför
+framtiden. (Region Halland)"
+,"Primärvårdskvalitet. Egen
+lösning + rapportering till
+SKL",
+,HR-information ver 2,"Behov av uppdatering/konsolidering. Avvaktar prioriteringsdiskussion i
+styrgrupp. (Region Halland)"
+,"Befolkning och vårdval
+ver 2","Behov av uppdatering/konsolidering. Avvaktar prioriteringsdiskussion i
+styrgrupp. (Region Halland)"
