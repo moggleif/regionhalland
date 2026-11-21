@@ -1,0 +1,29 @@
+# Tillfälligt prov: känns bildsidor igen? Körs bara på provgrenen och tas
+# bort när provet är klart. Ändrar inget i poolen.
+name: Prov av bildsidor
+
+on:
+  push:
+    branches: [claude/project-thread-y1d0wz]
+    paths: [prov/**, .github/workflows/prov-bild.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  prov:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
+      - run: pip install pypdfium2 numpy pillow
+      - run: python prov/prov_bild.py prov/urval.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: prov-ut
+          path: prov-ut/
