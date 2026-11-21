@@ -1,0 +1,140 @@
+---
+kommun: regionhalland
+organ: rf
+datum: 2018-04-18
+lopnr: null
+typ: bilaga
+namn: tjansteskrivelse-resultathantering-for-2017
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/regionfullmaktige/mote-2018-04-18/agenda/tjansteskrivelse-resultathantering-for-2017pdf
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/regionfullmaktige/mote-2018-04-18/agenda/tjansteskrivelse-resultathantering-for-2017pdf?downloadMode=open
+sha256: a4c488e083377f87d05a93f5f0835d47be102365d161f8c936356099bb98b4b4
+bytes: 237809
+sidor: 3
+hamtad: 2026-11-21T01:13:26+00:00
+konverterad: 2026-11-21T01:13:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
+fel: null
+kvalitet_per_sida: [ok, ok, ok]
+tal_obekraftade: []
+figurer: [1]
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+TJÄNSTESKRIVELSE
+
+Datum      Diarienummer
+2018-03-04 RS160154
+
+Regionkontoret
+Ekonomi
+Louise Lindstedt
+Tf ekonomidirektör
+
+Regionstyrelsen
+
+Resultathantering för 2017
+
+Förslag till beslut
+Regionstyrelsen föreslår Regionfullmäktige besluta att
+
+Endast balansera nämnders genererade överskott mot eget kapital i 2017 års
+resultathantering enligt bilaga 1 med undantag av de verksamheter som är
+
+konkurrensutsatta
+
+Ge Driftsnämnden Närsjukvård i uppdrag att återställa det negativa egna kapitalet
+gällande Vårdval Halland på -6 mnkr genom att redovisa motsvarande överskott i
+redovisningen senast år 2020.
+
+Balansera uppkomna underskott för 2017 för Vårdval Hud och Vårdval Psykiatri i
+
+enlighet med bilaga 1
+
+Regionstyrelsen beslutar att
+
+Uppdra åt Driftsnämnden Närsjukvård, Driftsnämnden Psykiatri och Driftsnämnden
+Hallands sjukhus att till regionstyrelsen redovisa åtgärdsplaner med syfte att kunna
+
+åstadkomma balanserade resultat i sina respektive delar av Vårdval Halland och
+Vårdval Specialiserad vård.
+
+Återredovisning ska ske senast i samband med uppföljningsrapport 2.
+
+Uppdra åt regionkontoret att medverka i arbetet med åtgärdsplanerna.
+
+Sammanfattning
+Principen för resultathantering är att styrelser/nämndernas samlade över- och
+underskott balanseras till nästkommande år i ambitionen att medverka till ett
+
+<!-- sida 2 -->
+
+effektivare resursutnyttjande. Styrelsernas/nämndernas resultat, efter analys av hur
+förväntade mål och produktionskrav uppfyllts och därmed sammanhängande
+eventuell resultatjustering, balanseras och tillförs eget kapital. Om negativt eget
+kapital uppkommer skulle detta täckas genom motsvarande överskott i redovisningen
+helst året efter eller senast tre år efter.
+
+Syftet med resultathanteringen har främst varit att ta ett ansvar över tiden för
+
+konkurrensutsatt verksamhet, medan för övrig verksamhet har syftet varit att hantera
+mindre resultatdifferenser mellan åren.
+
+Hantering av större ackumulerade underskott ska ske inom budgetprocessen och så
+även med större överskott då det annars kan ge en direkt felaktigt bild av att det finns
+annan finansieringsmöjlighet utöver budget. Att finansiera något med eget kapital är
+det samma som att medge ett underskott och försämra resultatet. Detta förfaringssätt
+
+med tilläggsanslag finansierade med eget kapital ifrågasätts av revisionen då man
+anser att det strider mot det lagstadgade balanskravet och att besluten inte är
+finansierade.
+
+En grundförutsättning för den ekonomiska styrningen är att nämnderna håller sina
+budgetramar.
+
+Regionstyrelsen har fattat beslut om särskilda principer för att hantera över- och
+underskott som uppkommer under det att det regionövergripande framtidsarbetet
+framskrider. Uppkomna över- och underskott hanteras i detta fall i
+resultathanteringen i samband med årsredovisningen. Över- och underskott
+uppkomna av andra orsaker ska även dessa hanteras i resultathanteringen i
+samband med årsredovisningen.
+
+Inom vårdval specialiserad öppenvård finns ett årligt budgeterat kostnadstak. Inom
+vårdval hud har produktionen överstigit kostnadstaket, vilket innebär reducerad
+ersättning till vårdenheterna. All vård inom hud ska dessutom täckas inom vårdvalet,
+dvs det finns ingen separat budget för vårdgarantin. Den egna verksamheten inom
+vårdval hud visar på ett underskott enligt bilaga 1 vilket delvis beror på ovanstående.
+
+Utfallet för egna verksamheten inom Vårdval Psykiatri 2017 är osäkert då verkliga
+kostnader inte har allokerats till Vårdvalet. Kostnaderna utgörs av en schablon som
+tagit sin utgångspunkt i Psykiatri öppenvård. I genomlysning och flera rapporter av
+ersättningsmodellen i Vårdval Halland specialiserad öppenvård har det framkommit
+att den är komplex, speciellt vad gäller registrering av vårdepisoderna. Från och med
+1 mars 2018 har en förenklad modell för registrering av episoder tagits i drift och som
+förväntas ge bättre förutsättningar för den administrativa hanteringen för
+
+leverantörerna samt ge bättre kvalité på utbetalningarna.
+
+Ekonomiska  konsekvenser av beslutet
+
+Driftsnämnden Närsjukvård ska redovisa ett överskott i redovisningen på 6 mnkr
+senast år 2020.
+
+<!-- sida 3 -->
+
+Regionkontoret
+
+Jörgen Preuss                    Louise Lindstedt
+Tf regiondirektör                Tf ekonomidirektör
+
+Bilaga:
+
+Resultathantering 2017 bilaga 1
+
+Beslutet ska skickas till
+Samtliga nämnder
