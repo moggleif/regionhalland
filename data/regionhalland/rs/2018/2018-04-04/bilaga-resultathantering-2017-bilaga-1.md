@@ -1,0 +1,70 @@
+---
+kommun: regionhalland
+organ: rs
+datum: 2018-04-04
+lopnr: null
+typ: bilaga
+namn: resultathantering-2017-bilaga-1
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/regionstyrelsen/mote-2018-04-04/agenda/resultathantering-2017-bilaga-1pdf
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/regionstyrelsen/mote-2018-04-04/agenda/resultathantering-2017-bilaga-1pdf?downloadMode=open
+sha256: d9a9cbdc4e47d7633753aa38ed834678a331cff044c9f0ae50014ab653138339
+bytes: 87083
+sidor: 1
+hamtad: 2026-11-21T01:20:28+00:00
+konverterad: 2026-11-21T01:20:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
+fel: null
+kvalitet_per_sida: [ok]
+tal_obekraftade: []
+figurer: [1]
+tolkade: []
+granskad: null
+---
+
+<!-- sida 1 -->
+
+1(1)
+
+Datum        Diarienummer
+2018-03-04   RS160154
+
+Regionkontoret
+Louise Lindstedt
+Tf Ekonomidirektör
+
+Bilaga 1
+Resultathantering  för 2017
+
+BALANSERING AV EGET KAPITAL (MnKr)
+Konkurrens- Balanserat
+utsatt    eget              Balanserat
+verksamhet   kapital  Resultat eget kapital Förslag
+Nämnd/styrelse               UB 2016  UB 2016       2017     U B 2017  UB 2017
+
+[Tabell 1-1](bilaga-resultathantering-2017-bilaga-1.tabeller/1-1.csv)
+
+| Halmstadnämnden |  | 4,0 | 0,6 | 4,6 | 4,6 |
+| --- | --- | --- | --- | --- | --- |
+| Varbergsnämnden |  | 2,6 | 0,2 | 2,8 | 2,8 |
+| Laholmsnämnden |  | 3,1 | 0,4 | 3,5 | 3,5 |
+| Hyltenämnden |  | 3,1 | 0,3 | 3,4 | 3,4 |
+| Falkenbergsnämden |  | 3,4 | 0,2 | 3,6 | 3,6 |
+| Kungsbackanämnden |  | 4,0 | 0,4 | 4,4 | 4,4 |
+| Närsjukvård Region Halland |  | 30,9 | -9,3 | 21,6 | 21,6 |
+| därav Folktandvården | 22,4 | 22,4 | 5,8 | 28,2 | 28,2 |
+| därav Vårdval Halland | 9,1 | 9,1 | -15,1 | -6,0 | -6,0 |
+| Hallands Sjukhus |  | -1,6 | -212,3 | -2,8 | -2,8 |
+| därav Vårdval Hud | -1,6 | -1,6 | -1,2 | -2,8 | -2,8 |
+| Ambulans, diagnostik och hälsa |  | 27,9 | 12,0 | 39,9 | 39,9 |
+| Psykiatrin i Halland |  | -31,3 | -36,8 | -43,7 | -43,7 |
+| därav Vårdval Psykiatri | -31,3 | -31,3 | -12,4 | -43,7 | -43,7 |
+| Regionservice |  | 37,2 | -3,9 | 37,2 | 37,2 |
+| Hjälpmedelsnämnden |  | 3,7 | 0,0 | 3,7 | 3,7 |
+| Skola |  | 1,3 | 2,1 | 3,4 | 3,4 |
+| Kultur |  | 4,1 | 1,9 | 6,0 | 6,0 |
+| RS Hälso- och sjukvård |  | 5,3 | 19,1 | 24,4 | 24,4 |
+| RS egen verksamhet |  | 521,6 | 238,3 | 759,9 | 759,9 |
+| Total | -1,4 | 619,3 | 13,2 | 871,9 | 871,9 |
