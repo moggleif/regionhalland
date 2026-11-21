@@ -1,0 +1,10 @@
+Vägtyp,Benämning av vägtyp,Längd (km),Procent (%)
+Vägtyp 1,Vägar i storstadsområde,480,0.5
+Vägtyp 2,"Vägar som bildar större
+sammanhängande stråk",7990,8.1
+Vägtyp 3,"Vägar för dagliga resor och
+arbetspendling",19850,20.2
+Vägtyp 4,Övriga för näringslivet viktiga vägar,29780,30.2
+Vägtyp 5,Vägar som är viktiga för landsbygden,*,*
+Vägtyp 6,Lågtrafikerade vägar,40400,41.0
+Totalt,,98500,100

@@ -1,0 +1,20 @@
+Åtgärd,Typ av behandling
+103S,"kompletterandeeller akut undersökning, utförd av tandläkare"
+107S,"Omfattande, kompletterande eller akut undersökning, utförd av tandläkare"
+108S,"Utredning inklusive undersökning, utförd av tandläkare"
+113S,"Akut eller annan undersökning, utförd av tandhygienist"
+114S,Kompletterande parodontal undersökning eller kariesutredning utförd av tandhygienist
+115S,Konsultation specialisttandvård
+115S1,Konsultation specialisttandvård
+116S,"Konsultation specialisttandvård, omfattande"
+116S1,"Konsultation specialisttandvård, omfattande"
+121S,Röntgenundersökning av enskild tand
+122S,"Röntgenundersökning, delstatus"
+123S,"Röntgenundersökning, helstatus"
+124S,Panoramaröntgenundersökning
+125S,"Röntgenundersökning, extraoral"
+126S,"Röntgenundersökning, omfattande"
+131S,"Tomografiundersökning, en kvadrant eller tandposition 3-3"
+132S,"Tomografiundersökning, två kvadranter eller sinus"
+133S,"Tomografiundersökning, tre kvadranter eller käkleder"
+134S,"Tomografiundersökning, fyra kvadranter"

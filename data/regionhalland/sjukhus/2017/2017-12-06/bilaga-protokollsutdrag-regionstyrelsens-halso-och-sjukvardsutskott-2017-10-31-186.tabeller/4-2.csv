@@ -1,0 +1,11 @@
+Karpaltunnelsyndrom,G56.0,Dekompression av n. medianus,ACC51
+Radial handledstenosynovit (Mb de Quervain),M65.4,Tenolys eller tenosynovektomi vid handled eller i hand,NDL59
+Ganglion i handled/hand,M67.4D,Excision av ganglion i handled eller hand,NDM39
+Triggerfinger,M65.3,Klyvning av senskida i handled eller hand,NDM49
+Ulnarisentrapment i handled eller hand,G56.2D,Dekompression av n. ulnaris,ACC53
+"Primär artros i första karpometakarpalleden, ensidig eller UNS",M18.1,"Interpositionsartroplastik i hand- eller fingerled, första karpometakarpalled",NDG12
+Dupuytrens kontraktur,M72.0,Partiell eller total excision av fascia i handled eller hand,NDM19
+Primär artros övrig i handled/hand,M19.0D,"Artrodes av hand- eller fingerled med intern fixation, ospecificerad led i hand,",NDG4y
+Mekanisk komplikation av inre ledprotes,T84.8,"Andra specificerade komplikationer av inre ortopediska proteser, implantat och transplantat",NCU49
+Dupuytrens kontraktur,M72.0,"Injektion av diagnostisk eller terapeutisk substans i led, handled eller hand (i)",TND11 + M09AB02
+Dupuytrens kontraktur,M72.0,Perkutan fasciotomi (i),TND03

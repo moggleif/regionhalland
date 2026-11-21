@@ -1,0 +1,11 @@
+Bantyp,Benämning av bantyp,Längd (spår-km),Procent (%)
+Bantyp 1,Banor i storstadsområden,1470,10.5
+Bantyp 2,"Banor som bildar större
+sammanhängande stråk",4450,31.8
+Bantyp 3,"Banor med omfattande godstransporter
+och resandetrafik",4240,30.3
+Bantyp 4,"Banor för dagliga resor och
+arbetspendling",2200,15.7
+Bantyp 5,Övriga för näringslivet viktiga banor,1540,11.0
+Bantyp 6,Banor med ringa eller ingen trafik,100,0.7
+Totalt,,14000,100
