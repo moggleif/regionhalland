@@ -1,0 +1,87 @@
+301,"Sjukdoms- eller smärtbehandling , mindre omfattande",425,400
+302,Sjukdoms- eller smärtbehandling,775,745
+303,"Sjukdoms- eller smärtbehandling, omfattande",1110,1105
+304,"Sjukdoms- eller smärtbehandling, särskilt tidskrävande",1685,1650
+311,Information eller instruktion vid munhälsorelaterade sjukdomar eller problem,485,450
+312,Uppföljande information eller instruktion vid munhälsorelaterade sjukdomaer l(cid:10)ler problem,200,160
+313,"Beteendemedicinsk behandling, 60 minuter eller mer",1000,980
+314,Beteendemedicinsk behandling,470,455
+321,Icke operativ behandling av kariessjukdom,490,485
+322,Stegvis exkavering,1135,1095
+341,"Behandling av parodontal sjukdom eller periimplantit, mindre omfattande",515,475
+341.1,Behandling av parodontal sjukdom eller peri-implantit,780,475
+341.2,"Behandling av parodontal sjukdom eller peri-implantit, i samband med undersökning",200,475
+342,"Behandling av parodontal sjukdom eller periimplantit, omfattande",965,960
+342.1,"Behandling parodontal sjukdom eller peri-implantit, utökad omfattning",1140,960
+343,"Behandling av parodontal sjukdom eller periimplantit, särskilt tidskrävande",1430,1425
+362,"Lustgassedering, per gång",915,825
+,,,
+400 Kirurgiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2018-01-15"
+,,,
+401,"Tanduttagning, en tand",1060,1005
+402,"Tanduttagning, när separation eller friläggning krävs, en tand",1845,1660
+403,"Tanduttagning, tillkommande, enkel",195,180
+404,"Kirurgiskt avlägsnande av en eller flera tänder i samma kvadrant och/eller annan vävnad, per operatio",nstillfälle 3365,3060
+405,Omfattande dentoalveolär kirurgi,4670,4080
+406,"Tanduttagning, övertalig tand",1285,1005
+407,"Övrig dentoalveolär kirurgi eller plastik, per operationstillfälle",2045,2010
+,,,
+,Implantatkirurgiska åtgärder,,
+420,"Implantat, per styck",3585,2620
+420.1,"Implantat, per styck. Faktisk kostnad",faktisk kostnad,2620
+421,"Operation avseende käkbensförankrade implantat, ett implantat",4465,3525
+422,Kirurgisk friläggning av ett implantat vid tvåstegsteknik,1645,1465
+423,"Operation avseende käkbensförankrade implantat, två eller tre implantat",5610,4695
+424,Kirurgisk friläggning av två eller tre implantat vid tvåstegsteknik,1835,1645
+425,"Operation avseende käkbensförankrade implantat, fyra eller fler implantat",7850,6480
+426,Kirurgisk friläggning av fyra eller fler implantat vid tvåstegsteknik,2435,2195
+427,"Benaugmentation med egen vävnad, i en kvadrant",3960,3875
+428,"Benaugmentation med benersättningsmaterial, i en kvadrant",4820,4665
+429,"Kirurgiskt avlägsnande av implantat, per operationstillfälle",4230,3840
+430,Benaugmentation med egen vävnad i en kvadrant i samband med benaugmentation i annan kvadrant,eller implantatopera1t4io8n0i,"1475
+samma kvadrant, till"
+431,Benaugmentation med benersättningsmaterial i samband med benaugmentation eller implantatoperati,"on i annan kvadran2t,4t6ill0ä","2450
+gsåtgärd, per kvadran"
+432,"Benaugmentation med benersättningsmaterial i samband med implantatinstallation, tilläggsåtgärd, per",kvadrant 1830,1825
+435,Avlägsnande av ett implantat,1010,1005
+436,"Avlägsnande av ett implantat, enkel",195,180
+,,,
+,Parodontalkirurgiska åtgärder,,
+441,"Parodontalkirurgisk behandling vid tre till sex tänder, per operationstillfälle",2495,2485
+442,"Parodontalkirurgisk behandling vid tre till sex tänder, per operationstillfälle",4335,3515
+443,"Kirurgisk behandling av periimplantit vid två till fyra implantat, per operationstillfälle",4340,3350
+444,"Omfattande parodontalkirurgisk behandling vid sju tänder eller fler, eller vid tre tänder eller fler i kombi",nation med annan o6p1e3r0a,"4560
+tion, per operationstill"
+445,"Omfattande kirurgisk behandling av periimplantit vid fem implantat eller fler, eller vid tre implantat eller",fler i kombination m6e1d3 0a,"4560
+nnan operation, per o"
+446,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, per operations",tillfälle 1810,1805
+447,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, per operationstillfälle",1225,1220
+448,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd, per operationstillfälle",740,735
+480,"Kontroll av koagulation, tilläggsåtgärd",335,315
+,,,
+500 Rotbehandling,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2017-01-15"
+,,,
+501,"Rensning och rotfyllning, en rotkanal",3795,3325
+502,"Rensning och rotfyllning, två rotkanaler",4195,4005
+503,"Rensning och rotfyllning, tre rotkanaler",5505,5030
+504,"Rensning och rotfyllning, fyra eller fler rotkanaler",6030,5485
+520,"Akut endodontisk behandling, annan behandlare",895,890
+521,Akut trepanation och kavumextripation,790,785
+522,Komplicerad kanallokalisation,860,785
+523,Stiftborttagning,1225,1150
+541,"Apikalkirurgisk behandling, per operationstillfälle",3685,3590
+542,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle tilläggsåtgärd",1030,1010
+,,,
+600 Bettfysiologiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2018-01-15"
+,,,
+601,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",3565,3420
+602,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",3565,3420
