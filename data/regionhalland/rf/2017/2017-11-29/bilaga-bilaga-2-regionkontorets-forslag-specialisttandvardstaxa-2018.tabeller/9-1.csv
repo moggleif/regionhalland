@@ -1,0 +1,26 @@
+541S4,"Apikalkirurgisk behandling, per operationstillfälle, fyra rötter"
+541S5,"Apikalkirurgisk behandling, per operationstillfälle, fem rötter"
+542S,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle, tilläggsåtgärd"
+,
+600 Bettfysiologiska åtgärder,
+Åtgärd,Typ av behandling
+601S,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena"
+602S,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena"
+603S,"Reponeringsskena, per skena"
+604S,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologiska indikationer, per skena"
+606S,Motorisk aktivering
+607S,Bettslipning för ocklusal stabilisering
+,
+800 Protetiska åtgärder,
+Åtgärd,Typ av behandling
+800S,"Permanent tandstödd krona, en per käke"
+800S1,"Permanent tandstödd krona, en per käke. Material: Zirkonia, helkeram, inlägg"
+800S2,"Permanent tandstödd krona, en per käke. Material: Guld"
+801S,"Permanent tandstödd krona, flera i samma käke"
+801S1,"Permanent tandstödd krona, flera i samma käke. Material: Zirkonia, helkeram"
+801S2,"Permanent tandstödd krona, flera i samma käke. Material: Guld"
+802S,Laboratorieframställd pelare med intraradikulärt stift
+802S1,"Laboratorieframställd pelare med intraradikulärt stift. Material: Zirkonia, helkeram"
+802S2,Laboratorieframställd pelare med intraradikulärt stift. Material: Guld
+803S,Klinikframställd pelare med intraradikulärt stift
+804S,"Hängande led vid tandstödd protetik, per led."

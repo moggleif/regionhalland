@@ -1,0 +1,12 @@
+Åtgärd,Typ av behandling
+501S,"Rensning och rotfyllning, en rotkanal"
+502S,"Rensning och rotfyllning, två rotkanaler"
+503S,"Rensning och rotfyllning, tre rotkanaler"
+504S,"Rensning och rotfyllning, fyra eller fler rotkanaler"
+520S,"Akut endodontisk behandling, annan behandlare"
+521S,Akut trepanation och kavumextirpation
+522S,Komplicerad kanallokalisation
+523S,Stiftborttagning
+541S,"Apikalkirurgisk behandling, per operationstillfälle"
+541S2,"Apikalkirurgisk behandling, per operationstillfälle, två rötter"
+541S3,"Apikalkirurgisk behandling, per operationstillfälle, tre rötter"

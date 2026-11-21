@@ -1,0 +1,113 @@
+446,"Rekonstruktiv behandling med membran (GTR) eller emaljmatrixprotein, tilläggsåtgärd, per operationst",illfälle 1810,1805
+447,"Rekonstruktiv behandling med benersättningsmaterial, tilläggsåtgärd, per operationstillfälle",1225,1220
+448,"Fritt bindvävstransplantat vid lambåoperation, tilläggsåtgärd, per operationstillfälle",740,735
+480,"Kontroll av koagulation, tilläggsåtgärd",335,315
+,,,
+500 Rotbehandling,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2017-01-15"
+,,,
+501,"Rensning och rotfyllning, en rotkanal",3795,3325
+502,"Rensning och rotfyllning, två rotkanaler",4195,4005
+503,"Rensning och rotfyllning, tre rotkanaler",5505,5030
+504,"Rensning och rotfyllning, fyra eller fler rotkanaler",6030,5485
+520,"Akut endodontisk behandling, annan behandlare",895,890
+521,Akut trepanation och kavumextripation,790,785
+522,Komplicerad kanallokalisation,860,785
+523,Stiftborttagning,1225,1150
+541,"Apikalkirurgisk behandling, per operationstillfälle",3685,3590
+542,"Apikalkirurgisk behandling, ytterligare tand vid samma operationstillfälle tilläggsåtgärd",1030,1010
+,,,
+600 Bettfysiologiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2018-01-15"
+,,,
+601,"Bettskena i hård akrylat i överkäken, utförd på bettfysiologisk indikation, per skena",3565,3420
+602,"Bettskena i hård akrylat i underkäken, utförd på bettfysiologisk indikation, per skena",3565,3420
+603,"Reponeringsskena, per skena",5255,5170
+604,"Mjukplastskena, laboratorieframställd, utförd på bettfysiologiska indikationer, per skena",2490,2110
+604.1,"Elastomerskena utförd på bettfysiologisk indikation, per skena",3415,2110
+606,Motorisk aktivering,495,480
+607,Bettslipning för ocklusal stabilisering,740,735
+,,,
+700 Reparativa åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2018-01-15"
+,,,
+701,Fyllning av en yta på framtand eller hörntand,665,595
+702,Fyllning av två ytor på framtand eller hörntand,1045,945
+703,Fyllning av tre eller flera ytor på framtand eller hörntand,1230,1125
+704,Fyllning av en yta på molar eller premolar,840,760
+705,Fyllning av två ytor på molar eller premolar,1235,1115
+706,Fyllning av tre eller flera ytor på molar eller premolar,1620,1490
+707,"Krona i plastiskt material, klinikframställd",1890,1695
+708,"Stiftförankring i rotkanal vid fyllningsterapi,tilläggsåtgärd",610,540
+,,,
+800 Protetiska åtgärder,,,
+,,,
+Åtgärd,Typ av behandling,Arvode kronor,"Referenspriser
+2018-01-15"
+,,,
+800,"Permanent tandstödd krona, en per käke",5905,5710
+800.1,"Laboratorieframställd krona. Material: Zirconium, helkeram,porslinsinlägg",6090,5710
+801,"Permanent tandstödd krona, flera i samma käke",5515,4395
+801.1,Flera permanenta keramiska kronor,5780,4395
+802,Laboratorieframställd pelare med intraradikulärt stift,3495,3095
+803,Klinikframställd pelare med intraradikulärt stift,1700,1470
+804,"Hängande led vid tandstödd protetik, per led",2315,2190
+805,"Emaljretinerad konstruktion, laboratorieframställd, per stöd",1885,1750
+806,Radikulärförankring vid avtagbar protes,4020,3370
+807,"Semipermanent krona eller hängande led, per led",2405,2350
+808,Innerkrona för teleskop- eller konuskonstruktion,3650,3300
+809,"Långtidtemporär laboratorieframställd krona eller hängande led, per led",1235,990
+,,,
+,Reparation av tandstödd protetik,,
+811,"Cementering av lossnad tandstödd eller implantatstödd protetisk konstruktion, per stöd",565,550
+812,"Reparation av krona eller bro, utan tandteknisk insats",1495,1445
+813,Broreparation med tandteknisk insats,4540,4425
+814,"Broreparation med tandteknisk insats, omfattande",9215,7650
+815,Sadelkrona,5325,5145
+,,,
+,Avtagbar protetik,,
+822,"Partiell protes för temporärt bruk, en till tre tänder",4090,3680
+823,"Partiell protes för temporärt bruk, fyra eller fler tänder",5760,5110
+824,"Partiell protes med metallskelett, klammerförankrad",13165,10870
+825,"Komplicerad partiell protes med med metallskelett som förankras med stöd av urtagskrona, innerkrona",eller attachment 15065,12285
+826,"Attachments, per styck",enligt faktura,95
+827,Hel underkäksprotes,10375,9080
+828,Hel överkäksprotes,10375,9080
+829,"Immediatprotes, hel käke",7945,6885
+,,,
+,Reparation av avtagbar protes,,
+831,Justering av avtagbar protes,385,370
+832,Lagning av protes eller tillsättning av protestand,1315,1240
+833,Rebasering av protes,2900,2520
+834,Lagning av protes där avtryck krävs,2070,1945
+835,Rebasering och lagning av protes,3235,2980
+836,Komplicerad lagning av protes,4265,3830
+837,Komplicerad lagning av protes där uppvaxning och gjutning av ny del utförs vilken svetsas till befintlig,protes. 7210,6510
+839,"Inmontering av förankringselement, per käke",3380,2945
+,,,
+,Övriga åtgärder i samband med protetisk behandling,,
+845,Ocklusionskorrigerande bettslipning,2050,1910
+846,"Skena, hel eller cementerad i sektioner, för vertikal platsberedning eller bettstabilisering",5425,5315
+847,Klammerplåt,3900,3830
+848,"Betthöjning eller uppbyggnad för ocklusal stabilisering med fyllningsmaterial, per tandposition",550,535
+,,,
+,Implantatprotetiska åtgärder,,
+850,"Implantatförankrad krona, en per käke",8380,7780
+852,"Implantatförankrad krona, flera i samma käke",7625,6000
+853,Hängande led vid implantatförankrad bro,2415,2190
+854,"Semipermanent krona eller hängande led på implantat, per led",2300,2190
+855,"Fästskruv/broskruv och cylinder vid semipermanent krona på implantat, per implantat",450,435
+856,"Långtidstemporär laboratorieframställd krona eller hängande led på implantat, per led",1230,1160
+857,"Fästskruv/broskruv och cylinder vid långtidstemporär laboratorieframställd krona på implantat, per impl",antat 405,380
+858,"Distans inklusive distansskruv, per styck",2175,1155
+858.1,"Distans inklusive distansskruv, per styck, material Keramik",2890,1155
+861,"Implantatförankrad bro, överkäke, fyra implantat",45005,31440
+862,"Implantatförankrad bro, överkäke, fem implantat",47005,33400
+863,"Implantatförankrad bro, överkäke, sex implantat eller fler",50790,34905
+865,"Implantatförankrad bro, underkäke, fyra implantat eller fler",45000,30435
