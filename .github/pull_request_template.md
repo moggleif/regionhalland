@@ -9,7 +9,4 @@ Större arbete redovisar också faserna enligt AGENTS.md.
 
 ## Hur det kontrollerats
 
-<!--
-Datakontrollerna i CI, och jämförelsen med nuvarande läge i README när
-kodversionen, arbetsflödena eller en spårfil ändras: talen före och efter.
--->
+<!-- Det som "Grönt före merge" i AGENTS.md kräver, med resultatet. -->

@@ -28,9 +28,9 @@ koden. Format, regler och beslut står där:
 | `.github/workflows/nattkorning.yml` | Nattkörningen.                                              |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
-| `AGENTS.md` och `CLAUDE.md`         | Vägledningen för den som arbetar i repot.                   |
 | `.github/ISSUE_TEMPLATE/`           | Mallen för avvikelser i källan, med etiketten `avvikelse`.  |
 | `.github/pull_request_template.md`  | Mallen för en PR: vad som ändras och hur det kontrollerats. |
+| `AGENTS.md` och `CLAUDE.md`         | Vägledningen för den som arbetar i repot.                   |
 
 Saknas något i inställningsfilen görs koden i kommunhandlingar mer generell;
 här skrivs ingen egen kod.

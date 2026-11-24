@@ -24,7 +24,7 @@ där. Repot har inga egna tester; att en ändring inte ändrar något visas med
   beskriver.
 - **`kodversion.txt`** byts som [Körningen](README.md#körningen) beskriver.
 - **Inställningarna** (`kommuner/regionhalland.toml`, `hamtning.toml`) och
-  arbetsflödena i `.github/workflows/` ändras för hand.
+  arbetsflödena och mallarna i `.github/` ändras för hand.
 
 ## Grönt före merge
 
