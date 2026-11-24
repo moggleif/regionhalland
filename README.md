@@ -68,6 +68,44 @@ En ny version av kommunhandlingar tas in genom att byta commit i
 GitHub vägrar en pågående körning att pusha sin gren när workflow-filen på
 main har ändrats under tiden, och körningens arbete då går förlorat.
 
+### Jämförelse med nuvarande läge
+
+Repot har inga egna tester. Att en ändring inte ändrar något visas så här:
+
+- **Kodversionen:** webbplatsen byggs lokalt på samma commit av datat, före
+  och efter bytet i `kodversion.txt`, och de tre talen nedan ska vara samma.
+- **Arbetsflödena:** kontrollen körs av CI på varje PR. Webbplatsen byggs
+  efter merge, och dess artefakt `github-pages` ger samma tal med samma
+  kommandon i den uppackade `artifact.tar`.
+- **Nattkörningen** omfattas inte av jämförelsen. Den prövas med en
+  manuell körning som inte ska skriva om befintliga filer under `data/`.
+
+Kommandona körs från repots rot, i Linux. Avvikelsefilen lämnas tom, så att
+öppna issues inte spelar in.
+
+```sh
+rm -rf /tmp/jamfor /tmp/_site
+python3.12 -m venv /tmp/jamfor
+/tmp/jamfor/bin/pip install "$(cat kodversion.txt)"
+/tmp/jamfor/bin/pip freeze
+: > /tmp/avvikelser.jsonl
+/tmp/jamfor/bin/python -m kommunhandlingar.webbplats /tmp/_site \
+  https://github.com/moggleif/regionhalland /tmp/avvikelser.jsonl
+( cd /tmp/_site
+  find . -type f | wc -l
+  find . -type f | LC_ALL=C sort | sha256sum
+  find . -type f -print0 | LC_ALL=C sort -z \
+    | xargs -0 sed 's/Sidan byggdes [0-9-]* [0-9:]* UTC//' | sha256sum )
+```
+
+Talen är antalet filer, en kontrollsumma över filnamnen och en över
+innehållet utan byggtiden i sidfoten. Innehållet beror också på dagen,
+till exempel när ett protokoll räknas som saknat, så båda byggena görs
+samma dag (UTC). Beroendena i `pip freeze` ska vara desamma båda gångerna,
+utom kommunhandlingar. Talen jämförs alltid före och efter samma dag;
+[#59](https://github.com/moggleif/regionhalland/issues/59) visar att metoden
+ger samma tal som CI och mellan byggen.
+
 ## Webbplatsen
 
 Webbplatsen har samma sidor som Kungsbackas och byggs av samma version av
