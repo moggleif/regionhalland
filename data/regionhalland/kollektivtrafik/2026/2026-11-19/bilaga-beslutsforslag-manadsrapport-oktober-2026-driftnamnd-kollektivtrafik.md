@@ -5,16 +5,16 @@ datum: 2026-11-19
 lopnr: null
 typ: bilaga
 namn: beslutsforslag-manadsrapport-oktober-2026-driftnamnd-kollektivtrafik
-kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-kollektivtrafik/mote-2026-11-19/agenda/beslutsforslag-manadsrapport-oktober-2026-driftnamnd-kollektivtrafikpdf
-tidigare_kallnycklar: []
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-kollektivtrafik/mote-2026-11-19/agenda/beslutsforslag-manadsrapport-oktober-2026-driftnamnd-kollektivtrafikpdf-13422
+tidigare_kallnycklar: [meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-kollektivtrafik/mote-2026-11-19/agenda/beslutsforslag-manadsrapport-oktober-2026-driftnamnd-kollektivtrafikpdf]
 arenden: null
-kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-kollektivtrafik/mote-2026-11-19/agenda/beslutsforslag-manadsrapport-oktober-2026-driftnamnd-kollektivtrafikpdf?downloadMode=open
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-kollektivtrafik/mote-2026-11-19/agenda/beslutsforslag-manadsrapport-oktober-2026-driftnamnd-kollektivtrafikpdf-13422?downloadMode=open
 sha256: 9655352fca51156f7399573f555eed6d3e3e147eceb46265a0ce2dc7cca99609
 bytes: 110853
 sidor: 2
-hamtad: 2026-11-17T16:58:39+00:00
-konverterad: 2026-11-17T16:58:42+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-24T02:43:05+00:00
+konverterad: 2026-11-24T02:43:08+00:00
+pipeline: kommunhandlingar 0.14.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok]
