@@ -24,7 +24,8 @@ här också, med fasernas filer där. Det som skiljer:
 ## Vem skriver vad
 
 - **`data/` och `versioner/`** skrivs av koden, i första hand nattkörningen.
-  Ett dokument rättas för hand bara som en granskning enligt K34.
+  Ett dokument rättas för hand bara som en granskning enligt
+  [K34](https://github.com/moggleif/kungsbackakommun/blob/main/docs/02-KRAV.md#k34--dokument-granskas-för-hand-och-granskningen-står-kvar).
 - **Spårfilerna** (`mal/`, `uppfoljningar/` och de andra i
   [Sidorna över tid](README.md#sidorna-över-tid)) skrivs för hand ur
   handlingarna. Varje text ska stå på källans sida.
