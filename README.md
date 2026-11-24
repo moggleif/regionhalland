@@ -68,6 +68,35 @@ En ny version av kommunhandlingar tas in genom att byta commit i
 GitHub vägrar en pågående körning att pusha sin gren när workflow-filen på
 main har ändrats under tiden, och körningens arbete då går förlorat.
 
+### Jämförelse med nuvarande läge
+
+Repot har inga egna tester. En ändring av arbetsflödena eller
+`kodversion.txt` som inte ska ändra något visas i stället med att
+webbplatsbygget ger samma sidor som förut. Bygg webbplatsen på samma commit
+av datat, en gång före och en gång efter ändringen, samma dag, och jämför de
+tre talen. Kommandona körs från repots rot. Avvikelsefilen lämnas tom,
+så att öppna issues inte spelar in.
+
+```sh
+rm -rf /tmp/jamfor /tmp/_site
+python3.12 -m venv /tmp/jamfor
+/tmp/jamfor/bin/pip install "$(cat kodversion.txt)"
+: > /tmp/avvikelser.jsonl
+/tmp/jamfor/bin/python -m kommunhandlingar.webbplats /tmp/_site \
+  https://github.com/moggleif/regionhalland /tmp/avvikelser.jsonl
+cd /tmp/_site
+find . -type f | wc -l
+find . -type f | LC_ALL=C sort | sha256sum
+find . -type f -print0 | LC_ALL=C sort -z \
+  | xargs -0 sed 's/Sidan byggdes [0-9-]* [0-9:]* UTC//' | sha256sum
+```
+
+Talen är antalet filer, en kontrollsumma över filnamnen och en över
+innehållet utan byggtiden i sidfoten. Innehållet beror också på dagen,
+till exempel när ett protokoll räknas som saknat, och därför byggs båda
+gångerna samma dag. Utgångsläget, med körningarnas länkar, står i
+[#59](https://github.com/moggleif/regionhalland/issues/59).
+
 ## Webbplatsen
 
 Webbplatsen har samma sidor som Kungsbackas och byggs av samma version av
