@@ -72,7 +72,9 @@ Steg 2 går i delar om 15 minuter, och efter varje del kontrolleras det
 klara och pushas på körningens egen gren, så att ett fel kostar högst en
 del. Varje del blir en commit med datum och klockslag. Grenen får en PR,
 som mergas när kontrollen gått igenom, också när körningen fallit efter en
-sparad del. Det nyaste mötet hämtas först över alla organ.
+sparad del. Går det inte att fråga GitHub om grenen finns fälls jobbet, så
+att sparat data inte tyst blir utan PR. Det nyaste mötet hämtas först över
+alla organ.
 
 Delarna och incheckningen står som skript i `.github/nattkorning/`, med
 samma kod som kungsbackakommuns skript utom pushen: där pushar ett eget

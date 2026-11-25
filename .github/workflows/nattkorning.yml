@@ -58,14 +58,22 @@ jobs:
       - name: Upptäckt och steg 2, sparat var 15:e minut
         uses: ./.github/actions/levande
       # Också när körningen fallit: det som sparats har klarat kontrollerna.
+      # Kod 2 från ls-remote är "grenen finns inte", och bara den är inget
+      # nytt (K104, ADR-0127; samma som kungsbackakommuns
+      # .github/actions/grenen vid 201a598c, utom raden om grenen).
       - name: Grenen, om något sparats
         id: incheckning
         if: always()
         run: |
-          if git ls-remote --exit-code origin "refs/heads/$GREN" > /dev/null; then
+          kod=0
+          git ls-remote --exit-code origin "refs/heads/$GREN" > /dev/null || kod=$?
+          if [ "$kod" -eq 0 ]; then
             echo "gren=$GREN" >> "$GITHUB_OUTPUT"
-          else
+          elif [ "$kod" -eq 2 ]; then
             echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Gick inte att se om grenen \`$GREN\` finns; se loggen." >> "$GITHUB_STEP_SUMMARY"
+            exit "$kod"
           fi
       - name: Sammanfattning
         if: always()
