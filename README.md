@@ -47,13 +47,9 @@ Uppmätt 2026-11-15:
   också kommande. Regionstyrelsens utskott har ingen egen sida.
 - **Mötets sida** har kallelsen, protokollet och bilagorna under varje
   ärendepunkt, en PDF per bilaga. Zip-paketen läses inte.
-- **Samlingsmöten.** Före 2018 ligger regionfullmäktiges och
-  regionstyrelsens protokoll samlade i ett möte per år, daterat 1 januari,
-  med sammanträdets datum i filnamnet. De står i inställningsfilen.
-  Där står också tre andra möten daterade 1 januari, vars filer inte har
-  något datum i filnamnet och därför inte hämtas: plattformens manual
-  (Kultur och skola 2020), ett tomt möte (Regionservice 2024) och fem
-  revisionsrapporter (2022).
+- **Samlingsmöten.** Några möten rymmer flera sammanträdens filer, och
+  datumet läses då ur filnamnet. De står i inställningsfilen, med skälet
+  för varje möte som inte ger någon kandidat.
 - **`robots.txt`** stänger bara `/admin`.
 - **Omfånget.** Den första upptäckten gav 20 632 filer: 804 protokoll,
   742 kallelser och 19 086 bilagor, 2013–2026. Med två sekunder mellan
