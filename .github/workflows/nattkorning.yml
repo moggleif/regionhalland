@@ -52,14 +52,11 @@ jobs:
       # att pusha en gren vars workflow-fil skiljer sig från main, så en ny
       # version här mitt i en körning kastade körningens arbete.
       - uses: ./.github/actions/installera
-      # Delarna och incheckningen står i .github/nattkorning/ (K102, ADR-0125).
+      # Delarna och incheckningen står i .github/nattkorning/ (K102, ADR-0125),
+      # och att en källa som stoppar upptäckten inte fäller jobbet i
+      # .github/actions/levande (K103, ADR-0126).
       - name: Upptäckt och steg 2, sparat var 15:e minut
-        run: |
-          for kommunfil in kommuner/*.toml; do
-            python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
-              | tee -a "$RUNNER_TEMP/sammanfattning.txt"
-            .github/nattkorning/hamta_i_delar.sh "$kommunfil"
-          done
+        uses: ./.github/actions/levande
       # Också när körningen fallit: det som sparats har klarat kontrollerna.
       - name: Grenen, om något sparats
         id: incheckning
