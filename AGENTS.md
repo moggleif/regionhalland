@@ -28,10 +28,8 @@ där. Repot har inga egna tester; att en ändring inte ändrar något visas med
 
 ## Grönt före merge
 
-- Kontrollen **Datakontrollerna** på PR:en.
-- Ändras en spårfil: webbplatsen byggd lokalt med kommandona i
-  [jämförelsen](README.md#jämförelse-med-nuvarande-läge), utan fel, eftersom
-  bygget i CI prövar spårfilerna först efter merge.
+- Kontrollen **Datakontrollerna** på PR:en. Den bygger också webbplatsen
+  och prövar då spårfilerna, utom på nattkörningens PR.
 
 ## Agentfiler
 

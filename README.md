@@ -27,7 +27,7 @@ koden. Format, regler och beslut står där:
 | `kodversion.txt`                    | Versionen av kommunhandlingar som alla körningar använder.  |
 | `.github/workflows/nattkorning.yml` | Nattkörningen.                                              |
 | `.github/nattkorning/`              | Nattkörningens delar och incheckning, som skript.           |
-| `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
+| `.github/workflows/kontroll.yml`    | Datakontrollerna och ett bygge utan publicering, per PR.    |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
 | `.github/actions/installera/`       | Python och kodversionen, installerade för de tre flödena.   |
 | `.github/actions/levande/`          | Nattkörningens upptäckt och steg 2 för varje kommunfil.     |
@@ -94,7 +94,8 @@ Repot har inga egna tester. Att en ändring inte ändrar något visas så här:
 
 - **Kodversionen:** webbplatsen byggs lokalt på samma commit av datat, före
   och efter bytet i `kodversion.txt`, och de tre talen nedan ska vara samma.
-- **Arbetsflödena:** kontrollen körs av CI på varje PR. Webbplatsen byggs
+- **Arbetsflödena:** kontrollen körs av CI på varje PR och bygger
+  webbplatsen utan att publicera den, utom på nattkörningens PR. Den publicerade webbplatsen byggs
   efter merge, och dess artefakt `github-pages` ger samma tal med samma
   kommandon i den uppackade `artifact.tar`.
 - **Nattkörningen** omfattas inte av jämförelsen. Den prövas med en
@@ -139,7 +140,8 @@ Markdown-filen här, så att webbplatsen ryms under GitHub Pages gräns på 1 GB
 
 Varje driftnämnd kan få samma sidor över tid som Kungsbackas nämnder, och
 tre till som regionen behöver. Filerna skrivs för hand ur handlingarna, och
-bygget prövar att varje text står på källans sida. Formatet står i
+bygget prövar att varje text står på källans sida, redan i kontrollen på
+PR:en. Formatet står i
 [arkitekturen](https://github.com/moggleif/kungsbackakommun/blob/main/docs/03-ARKITEKTUR.md)
 och de nya slagen i
 [ADR-0085](https://github.com/moggleif/kungsbackakommun/blob/main/docs/decisions/0085-lokaler-remisser-och-overenskommelser-som-spar.md).

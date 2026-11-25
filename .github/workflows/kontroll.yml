@@ -26,3 +26,18 @@ jobs:
       - name: Datakontrollerna
         run: |
           if [ -d data ]; then python -m kommunhandlingar.datakontroll data; fi
+      # Bygget fälls av en rad i en spårfil som inte står på källans sida, så
+      # felet syns före merge (K106, ADR-0129 i kungsbackakommuns serie).
+      # Nattkörningens PR, från en gren i repot, hoppas över: den ändrar inga
+      # spårfiler, och ett fel i dess data ska som förut inte hålla tillbaka
+      # den. På main bygger webbplatsen ändå.
+      - name: Webbplatsen byggs, utan att publiceras
+        if: >
+          github.event_name == 'pull_request'
+          && !(github.event.pull_request.head.repo.full_name == github.repository
+          && startsWith(github.head_ref, 'nattkorning/'))
+        run: |
+          : > "$RUNNER_TEMP/avvikelser.jsonl"
+          python -m kommunhandlingar.webbplats "$RUNNER_TEMP/_site" \
+            "${{ github.server_url }}/${{ github.repository }}" \
+            "$RUNNER_TEMP/avvikelser.jsonl"
