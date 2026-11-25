@@ -57,7 +57,8 @@ Uppmätt 2026-11-15:
 - **`robots.txt`** stänger bara `/admin`.
 - **Omfånget.** Den första upptäckten gav 20 632 filer: 804 protokoll,
   742 kallelser och 19 086 bilagor, 2013–2026. Med två sekunder mellan
-  anropen och konverteringen tar det flera nätter innan poolen är ikapp.
+  anropen och konverteringen tog det flera nätter innan poolen var ikapp,
+  den 24 november 2026.
 
 ## Körningen
 

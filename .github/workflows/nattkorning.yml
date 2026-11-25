@@ -8,9 +8,6 @@ name: Nattkörning
 on:
   schedule:
     - cron: "41 1 * * *"
-    # Tills poolen är ikapp: tas bort när steg 2 inte längre har kandidater
-    # som väntar på nästa körning.
-    - cron: "41 13 * * *"
   workflow_dispatch:
 
 permissions:
