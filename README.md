@@ -80,7 +80,8 @@ Delarna och incheckningen står som skript i `.github/nattkorning/`, med
 samma kod som kungsbackakommuns skript utom pushen: där pushar ett eget
 jobb utan att läsa det hämtade, här pushar nattkörningen själv.
 PR-jobbet och steget Sammanfattning är kopior av kungsbackakommuns, och
-kommentaren vid dem säger var originalet står och varför de skiljer sig.
+kommentaren vid dem säger var originalet står och, för PR-jobbet, varför
+det skiljer sig.
 
 En ny version av kommunhandlingar tas in genom att byta commit i
 `kodversion.txt` i en PR. Versionen står inte i workflow-filen, eftersom
