@@ -12,7 +12,7 @@ Läs [kungsbackakommuns AGENTS.md](https://github.com/moggleif/kungsbackakommun/
 Huvudregeln, reglerna som inte förhandlas och arbetsflödet i faser gäller
 här också, med fasernas filer i
 [`.claude/`](https://github.com/moggleif/kungsbackakommun/tree/main/.claude)
-där. Repot har inga egna tester; att en ändring inte ändrar något visas med
+där. Att en ändring inte ändrar något visas med
 [jämförelsen](README.md#jämförelse-med-nuvarande-läge).
 
 ## Vem skriver vad
@@ -21,15 +21,15 @@ där. Repot har inga egna tester; att en ändring inte ändrar något visas med
   Ett dokument rättas för hand bara som en granskning enligt
   [K34](https://github.com/moggleif/kungsbackakommun/blob/main/docs/02-KRAV.md#k34--dokument-granskas-för-hand-och-granskningen-står-kvar).
 - **Spårfilerna** skrivs för hand, som [Sidorna över tid](README.md#sidorna-över-tid)
-  beskriver.
+  beskriver, och [TACKNING.md](TACKNING.md) följer med i samma ändring.
 - **`kodversion.txt`** byts som [Körningen](README.md#körningen) beskriver.
 - **Inställningarna** (`kommuner/regionhalland.toml`, `hamtning.toml`) och
   arbetsflödena och mallarna i `.github/` ändras för hand.
 
 ## Grönt före merge
 
-- Kontrollen **Datakontrollerna** på PR:en. Den bygger också webbplatsen
-  och prövar då spårfilerna, utom på nattkörningens PR.
+- Kontrollen **Datakontrollerna** på PR:en. När den körs står i
+  [README](README.md#innehåll).
 
 ## Agentfiler
 
