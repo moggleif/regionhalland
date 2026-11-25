@@ -1,0 +1,55 @@
+Grupp,Indikatorer
+"Målgrupp
+(invånare/patient)","Första kontakt, Väntande som väntat kortare än 60 dagar"
+,Specialiserad vård – andel genomförda första kontakt inom 60 dagar
+,"Vårdgaranti besök, antal patienter som hänvisats till vårdgaranti och fått
+vård av extern vårdgivare"
+,"Operation/åtgärd, Väntande som väntat kortare än 60 dagar"
+,"Operation/åtgärd, Genomförda som väntat kortare än 60 dagar"
+,"Vårdgaranti operation/åtgärd, antal patienter som hänvisats till
+vårdgaranti och fått vård av extern vårdgivare"
+,"Återbesök, Väntande inom måldatum"
+,Patientnämnden – svarstider från vårdgivare (Andel svar inom 4 veckor)
+"Verksamhet
+(produktion/kvalitet)",Akutmottagningsbesök
+,Besök i öppenvård exkl. Akutmottagningar
+,Planerade besök i öppenvård
+,Akuta besök i öppenvård exkl. Akutmottagningar
+,Andel distanskontakter av totala öppenvårdsbesök
+,Antal vårdtillfällen i slutenvård
+,Akuta vårdtillfällen i slutenvård
+,Planerade vårdtillfällen i slutenvård
+,Disponibla vårdplatser
+,Beläggningsgrad
+,Punktbeläggning
+,Medelvårdtid som utskrivningsklar
+,"Återinskrivningar, oplanerade inom 30 dagar alla åldrar"
+,Operationer på operationsavdelningarna
+,Mottagningsoperationer
+,SVF ledtid inom målvärde (välgrundad misstanke till behandling)
+,SVF inklusion (andel cancerpatienter som ingått i SVF)
+,Outskrivna diktat
+,Allvarliga patientavvikelser
+,Antal genomförda HLR-repetitionsutbildningar på sjukhuset
+,Antal certifierade utbildningsverksamma HLR-instruktörer
+Medarbetare,Personalomsättning – inklusive intern
+,Personalomsättning
+,Sjukfrånvaro
+,Sjukfrånvaro Kort
+,Övertidsarbete
+,HME-index (hållbart medarbetarengagemang)
+,OSA-index
+,HSE-index
+,Rapporterade tillbud
+,Rapporterade arbetsskador
+Ekonomi,Periodresultat
+,Ackumulerad budgetavvikelse
+,Prognos budgetavvikelse
+,Prognos investeringsbudgetavvikelse
+,Kostnader för inhyrd personal – sjuksköterskor och läkare
+,"Kostnader för inhyrd personal – sjuksköterskor och läkare i relation till
+egna personalkostnader"
+,Ackumulerad avvikelse – egen verksamhet
+,Prognos budgetavvikelse – egen verksamhet
+,Prognos budgetavvikelse – egna personalkostnader och hyrbemanning
+,Antal tillsvidareanställda
