@@ -30,6 +30,7 @@ koden. Format, regler och beslut står där:
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
 | `.github/actions/installera/`       | Python och kodversionen, installerade för de tre flödena.   |
+| `.github/actions/levande/`          | Nattkörningens upptäckt och steg 2 för varje kommunfil.     |
 | `.github/ISSUE_TEMPLATE/`           | Mallen för avvikelser i källan, med etiketten `avvikelse`.  |
 | `.github/pull_request_template.md`  | Mallen för en PR: vad som ändras och hur det kontrollerats. |
 | `AGENTS.md` och `CLAUDE.md`         | Vägledningen för den som arbetar i repot.                   |
@@ -63,6 +64,10 @@ Uppmätt 2026-11-15:
 Nattkörningen installerar kommunhandlingar på den commit som står i
 `kodversion.txt`, med samma action som kontrollen och webbplatsen, och
 kör samma upptäckt och steg 2 som för kommunerna, med samma tidsbudget.
+Stoppas upptäckten av källan, till exempel när en sida inte går att
+hämta, hoppas steg 2 över med en rad i sammanfattningen, jobbet fälls
+inte och nästa körning försöker igen; varje annat fel fäller jobbet. Det
+står i `.github/actions/levande`, med samma kod som kungsbackakommuns.
 Steg 2 går i delar om 15 minuter, och efter varje del kontrolleras det
 klara och pushas på körningens egen gren, så att ett fel kostar högst en
 del. Varje del blir en commit med datum och klockslag. Grenen får en PR,
