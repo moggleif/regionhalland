@@ -40,6 +40,7 @@ jobs:
         run: |
           {
             echo "START=$(date +%s)"
+            echo "DEL=moten"
             echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-${{ github.run_attempt }}"
           } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
@@ -51,33 +52,13 @@ jobs:
       # att pusha en gren vars workflow-fil skiljer sig från main, så en ny
       # version här mitt i en körning kastade körningens arbete.
       - uses: ./.github/actions/installera
-      # Varje del sparas för sig, så att ett fel kostar högst en del: kod 4
-      # betyder att delen tog slut och att kandidater väntar inom budgeten.
-      # Varje fel i kontrollerna eller pushen stoppar körningen (ADR-0088).
+      # Delarna och incheckningen står i .github/nattkorning/ (K102, ADR-0125).
       - name: Upptäckt och steg 2, sparat var 15:e minut
         run: |
-          spara() {
-            python -m kommunhandlingar.datakontroll data
-            git add -A
-            if git -c core.quotePath=false diff --cached --name-only | grep -Ev '^(data|versioner)/'; then exit 1; fi
-            if git diff --cached --numstat | grep '^-'; then exit 1; fi
-            git diff --cached --quiet && return 0
-            git -c user.name="github-actions[bot]" \
-              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
-              commit -q -m "Nattkörning $(date -u +%F)"
-            git push -q origin "HEAD:refs/heads/$GREN"
-          }
           for kommunfil in kommuner/*.toml; do
             python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
               | tee -a "$RUNNER_TEMP/sammanfattning.txt"
-            while :; do
-              kod=0
-              python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
-                --start "$START" --del 15 | tee -a "$RUNNER_TEMP/sammanfattning.txt" || kod=$?
-              [ "$kod" -eq 0 ] || [ "$kod" -eq 4 ] || exit "$kod"
-              spara
-              [ "$kod" -eq 4 ] || break
-            done
+            .github/nattkorning/hamta_i_delar.sh "$kommunfil"
           done
       # Också när körningen fallit: det som sparats har klarat kontrollerna.
       - name: Grenen, om något sparats
