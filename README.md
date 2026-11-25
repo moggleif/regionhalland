@@ -28,6 +28,7 @@ koden. Format, regler och beslut står där:
 | `.github/workflows/nattkorning.yml` | Nattkörningen.                                              |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
+| `.github/actions/installera/`       | Python och kodversionen, installerade för de tre flödena.   |
 | `.github/ISSUE_TEMPLATE/`           | Mallen för avvikelser i källan, med etiketten `avvikelse`.  |
 | `.github/pull_request_template.md`  | Mallen för en PR: vad som ändras och hur det kontrollerats. |
 | `AGENTS.md` och `CLAUDE.md`         | Vägledningen för den som arbetar i repot.                   |
@@ -59,12 +60,13 @@ Uppmätt 2026-11-15:
 ## Körningen
 
 Nattkörningen installerar kommunhandlingar på den commit som står i
-`kodversion.txt`, och kör samma upptäckt och steg 2 som för kommunerna, med
-samma tidsbudget. Steg 2 går i delar om 15 minuter, och efter varje del
-kontrolleras det klara och pushas på körningens egen gren, så att ett fel
-kostar högst en del. Grenen får en PR, som mergas när kontrollen gått
-igenom, också när körningen fallit efter en sparad del. Det nyaste mötet
-hämtas först över alla organ.
+`kodversion.txt`, med samma action som kontrollen och webbplatsen, och
+kör samma upptäckt och steg 2 som för kommunerna, med samma tidsbudget.
+Steg 2 går i delar om 15 minuter, och efter varje del kontrolleras det
+klara och pushas på körningens egen gren, så att ett fel kostar högst en
+del. Grenen får en PR, som mergas när kontrollen gått igenom, också när
+körningen fallit efter en sparad del. Det nyaste mötet hämtas först över
+alla organ.
 
 En ny version av kommunhandlingar tas in genom att byta commit i
 `kodversion.txt` i en PR. Versionen står inte i workflow-filen, eftersom
