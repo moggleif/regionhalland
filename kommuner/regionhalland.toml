@@ -103,7 +103,9 @@ grupp = "Regionfullmäktige och regionstyrelsen"
 adapter = "meetingsplus"
 # Möten som rymmer flera sammanträdens filer, oftast ett helt års
 # protokoll. Typ och datum läses ur filnamnet med mönstren nedan; en fil
-# utan datum i filnamnet blir ingen kandidat.
+# utan datum i filnamnet blir ingen kandidat och nämns bara i körningens
+# sammanfattning. Före 2018 ligger regionfullmäktiges och regionstyrelsens
+# protokoll så, ett möte per år daterat 1 januari.
 samlingsmoten = [
   "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2014-01-01",
   "https://politik.regionhalland.se/committees/regionfullmaktige/mote-2015-01-01",
@@ -114,10 +116,16 @@ samlingsmoten = [
   "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2015-01-01",
   "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2016-01-01",
   "https://politik.regionhalland.se/committees/regionstyrelsen/mote-2017-01-01",
+  # Ger ingen kandidat: mötets enda fil är plattformens manual, utan datum.
+  # Utan raden skulle manualen bli en bilaga daterad 1 januari 2020.
   "https://politik.regionhalland.se/committees/driftnamnden-kultur-och-skola-1/mote-2020-01-01",
-  "https://politik.regionhalland.se/committees/driftnamnden-regionservice/mote-2024-01-01",
+  # Ger ingen kandidat: fem revisionsrapporter utan datum i filnamnet.
+  # Utan raden skulle de bli bilagor med ett påhittat datum, 1 januari
+  # 2022. Att de inte syns som saknade i poolen är kungsbackakommun #513.
   "https://politik.regionhalland.se/committees/revisionsrapporter/mote-2022-01-01",
-  # Revisorernas äldre adress, länkad från revisionens organsida.
+  # Revisorernas äldre adress, länkad från revisionens organsida. Ett
+  # protokoll har datum i filnamnet; elva rapporter och protokoll har det
+  # inte och syns inte heller som saknade (kungsbackakommun #513).
   "https://politik.regionhalland.se/committees/regionens-revisorer/mote-2018-01-01",
 ]
 
