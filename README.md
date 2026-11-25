@@ -95,7 +95,7 @@ Repot har inga egna tester. Att en ändring inte ändrar något visas så här:
 - **Kodversionen:** webbplatsen byggs lokalt på samma commit av datat, före
   och efter bytet i `kodversion.txt`, och de tre talen nedan ska vara samma.
 - **Arbetsflödena:** kontrollen körs av CI på varje PR och bygger
-  webbplatsen utan att publicera den. Den publicerade webbplatsen byggs
+  webbplatsen utan att publicera den, utom på nattkörningens PR. Den publicerade webbplatsen byggs
   efter merge, och dess artefakt `github-pages` ger samma tal med samma
   kommandon i den uppackade `artifact.tar`.
 - **Nattkörningen** omfattas inte av jämförelsen. Den prövas med en
