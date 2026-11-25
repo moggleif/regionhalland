@@ -75,6 +75,8 @@ jobs:
             echo "Gick inte att se om grenen \`$GREN\` finns; se loggen." >> "$GITHUB_STEP_SUMMARY"
             exit "$kod"
           fi
+      # Samma steg som Sammanfattning i kungsbackakommuns
+      # .github/workflows/nattkorning.yml; håll dem lika (K105, ADR-0128).
       - name: Sammanfattning
         if: always()
         run: |
@@ -85,6 +87,15 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
   # En egen runner utan utcheckning, så att inget som hämtats kan nå token.
+  # En kopia av kungsbackakommuns .github/workflows/nattkorning-pr.yml vid
+  # 22ee0670 (ADR-0052, ADR-0077 där); håll dem lika (K105, ADR-0128):
+  # https://github.com/moggleif/kungsbackakommun/blob/main/.github/workflows/nattkorning-pr.yml
+  # Skillnader med skäl: ett jobb här och inte ett anropat flöde, eftersom
+  # hur token lämnas till ett annat repo avgörs i #58; ingen del i titeln,
+  # eftersom regionen bara har mötena; inga ADR-nummer i texterna, eftersom
+  # de syftar på kungsbackakommuns beslut. Där har PR-jobbet sedan dess
+  # fått prövningen av grenen och pushen ur en bundle (ADR-0115, ADR-0118);
+  # de hör hit först genom säkerhetsgenomgången i #58.
   pr:
     name: PR med automatisk merge
     needs: moten
