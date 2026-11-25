@@ -16,12 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
-        with:
-          python-version: "3.12"
       - name: Samma version som nattkörningen
-        run: |
-          pip install "$(cat kodversion.txt)"
+        uses: ./.github/actions/installera
       - name: Kommunfilen går att läsa
         run: |
           for kommunfil in kommuner/*.toml; do

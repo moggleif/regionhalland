@@ -45,15 +45,12 @@ jobs:
       - uses: actions/checkout@v7
         with:
           ref: main
-      - uses: actions/setup-python@v7
-        with:
-          python-version: "3.12"
       - name: Tesseract med svensk modell
         run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
       # Versionen står i kodversion.txt, inte här: GitHub vägrar körningen
       # att pusha en gren vars workflow-fil skiljer sig från main, så en ny
       # version här mitt i en körning kastade körningens arbete.
-      - run: pip install "$(cat kodversion.txt)"
+      - uses: ./.github/actions/installera
       # Varje del sparas för sig, så att ett fel kostar högst en del: kod 4
       # betyder att delen tog slut och att kandidater väntar inom budgeten.
       # Varje fel i kontrollerna eller pushen stoppar körningen (ADR-0088).

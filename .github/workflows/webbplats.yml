@@ -30,12 +30,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
-        with:
-          python-version: "3.12"
       - name: Samma version som nattkörningen
-        run: |
-          pip install "$(cat kodversion.txt)"
+        uses: ./.github/actions/installera
       # Bara issues från projektets egna konton, så att ingen utomstående
       # kan lägga ut text på webbplatsen (ADR-0054).
       - name: De öppna avvikelserna i källan, ett issue per rad

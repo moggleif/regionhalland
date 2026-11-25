@@ -1,0 +1,13 @@
+# Python och kommunhandlingar i den version som står i kodversion.txt, för
+# kontrollen, nattkörningen och webbplatsen (K101, ADR-0124 i
+# kungsbackakommuns serie). Kräver att repot är utcheckat.
+name: Kommunhandlingar
+description: Installerar Python 3.12 och kommunhandlingar på commiten i kodversion.txt.
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-python@v7
+      with:
+        python-version: "3.12"
+    - shell: bash
+      run: pip install "$(cat kodversion.txt)"
