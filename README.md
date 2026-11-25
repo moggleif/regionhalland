@@ -26,6 +26,7 @@ koden. Format, regler och beslut står där:
 | `mal/`, `uppfoljningar/` och spåren | Sidorna över tid, skrivna för hand ur handlingarna (nedan). |
 | `kodversion.txt`                    | Versionen av kommunhandlingar som alla körningar använder.  |
 | `.github/workflows/nattkorning.yml` | Nattkörningen.                                              |
+| `.github/nattkorning/`              | Nattkörningens delar och incheckning, som skript.           |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR.                               |
 | `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge.        |
 | `.github/actions/installera/`       | Python och kodversionen, installerade för de tre flödena.   |
@@ -64,9 +65,13 @@ Nattkörningen installerar kommunhandlingar på den commit som står i
 kör samma upptäckt och steg 2 som för kommunerna, med samma tidsbudget.
 Steg 2 går i delar om 15 minuter, och efter varje del kontrolleras det
 klara och pushas på körningens egen gren, så att ett fel kostar högst en
-del. Grenen får en PR, som mergas när kontrollen gått igenom, också när
-körningen fallit efter en sparad del. Det nyaste mötet hämtas först över
-alla organ.
+del. Varje del blir en commit med datum och klockslag. Grenen får en PR,
+som mergas när kontrollen gått igenom, också när körningen fallit efter en
+sparad del. Det nyaste mötet hämtas först över alla organ.
+
+Delarna och incheckningen står som skript i `.github/nattkorning/`, med
+samma kod som kungsbackakommuns skript utom pushen: där pushar ett eget
+jobb utan att läsa det hämtade, här pushar nattkörningen själv.
 
 En ny version av kommunhandlingar tas in genom att byta commit i
 `kodversion.txt` i en PR. Versionen står inte i workflow-filen, eftersom
