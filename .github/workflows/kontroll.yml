@@ -1,5 +1,6 @@
 # Datakontrollerna på varje PR och på main, med samma version av
-# kommunhandlingar som nattkörningen.
+# kommunhandlingar som nattkörningen. På PR:en byggs också webbplatsen,
+# som prövar sidorna över tid mot källans text.
 name: Kontroll
 
 on:
@@ -26,3 +27,17 @@ jobs:
       - name: Datakontrollerna
         run: |
           if [ -d data ]; then python -m kommunhandlingar.datakontroll data; fi
+      # Bygget fälls av en rad i en spårfil som inte står på källans sida, så
+      # felet syns före merge (K106, ADR-0129 i kungsbackakommuns serie).
+      # Nattkörningens PR hoppas över: den ändrar inga spårfiler, och ett fel
+      # i dess data ska som förut inte hålla tillbaka den. På main bygger
+      # webbplatsen ändå.
+      - name: Webbplatsen byggs, utan att publiceras
+        if: >
+          github.event_name == 'pull_request'
+          && !startsWith(github.head_ref, 'nattkorning/')
+        run: |
+          : > "$RUNNER_TEMP/avvikelser.jsonl"
+          python -m kommunhandlingar.webbplats "$RUNNER_TEMP/_site" \
+            "${{ github.server_url }}/${{ github.repository }}" \
+            "$RUNNER_TEMP/avvikelser.jsonl"
