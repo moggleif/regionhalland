@@ -11,8 +11,8 @@ Meetings Plus i [K57](https://github.com/moggleif/kungsbackakommun/blob/main/doc
 och hur plattformen läses i
 [ADR-0080](https://github.com/moggleif/kungsbackakommun/blob/main/docs/decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md).
 Det här repot har bara regionens inställningar, datat och arbetsflödet som
-kör koden. Saknas något i inställningsfilen görs koden där mer generell;
-här skrivs ingen egen kod.
+kör koden. Saknas något i inställningsfilen görs koden i kommunhandlingar
+mer generell; här skrivs ingen egen kod.
 
 ## Innehåll
 
@@ -23,12 +23,11 @@ här skrivs ingen egen kod.
 | `data/regionhalland/`               | Dokumenten, ett per fil i källan, skrivna av nattkörningen. |
 | `versioner/regionhalland.csv`       | Varje ny version av ett dokument, skriven av nattkörningen. |
 | `mal/`, `uppfoljningar/` och spåren | Sidorna över tid, skrivna för hand ur handlingarna (nedan). |
-| `TACKNING.md`                       | Vilka år och källor sidorna över tid har, nämnd för nämnd.  |
 | `kodversion.txt`                    | Versionen av kommunhandlingar som alla körningar använder.  |
 | `.github/workflows/nattkorning.yml` | Nattkörningen, varje natt 01:41 UTC och vid manuell start.  |
 | `.github/nattkorning/`              | Nattkörningens delar och incheckning, som skript.           |
 | `.github/workflows/kontroll.yml`    | Datakontrollerna på varje PR och på main, och på PR:en, utom nattkörningens, ett bygge av webbplatsen utan publicering. |
-| `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge, när en issue ändras och vid manuell start. |
+| `.github/workflows/webbplats.yml`   | Webbplatsen, byggd och publicerad efter varje merge, när en avvikelse ändras och vid manuell start. |
 | `.github/actions/installera/`       | Python och kodversionen, installerade för de tre flödena.   |
 | `.github/actions/levande/`          | Nattkörningens upptäckt och steg 2 för varje kommunfil.     |
 | `.github/ISSUE_TEMPLATE/`           | Mallen för avvikelser i källan, med etiketten `avvikelse`.  |
@@ -49,8 +48,7 @@ Uppmätt 2026-11-15:
   för varje möte som inte ger någon kandidat.
 - **`robots.txt`** stänger bara `/admin`.
 - **Omfånget.** Den första upptäckten gav 20 632 filer: 804 protokoll,
-  742 kallelser och 19 086 bilagor, 2013–2026. Med två sekunder mellan
-  anropen och konverteringen var poolen ikapp först den 24 november 2026.
+  742 kallelser och 19 086 bilagor, 2013–2026.
 
 ## Körningen
 
@@ -66,7 +64,8 @@ Varje del blir en commit med datum och klockslag. Grenen får en PR, som
 mergas när kontrollen gått igenom, också när körningen fallit efter en
 sparad del. Går det inte att fråga GitHub om grenen finns fälls jobbet, så
 att sparat data inte tyst blir utan PR. Det nyaste mötet hämtas först över
-alla organ.
+alla organ. Med två sekunder mellan anropen var poolen ikapp den 24 november
+2026.
 
 Skripten i `.github/nattkorning/` har samma kod som kungsbackakommuns utom
 pushen: där pushar ett eget jobb utan att läsa det hämtade, här pushar
@@ -85,7 +84,7 @@ Repot har inga egna tester. Att en ändring inte ändrar något visas så här:
 
 - **Kodversionen:** webbplatsen byggs lokalt på samma commit av datat, före
   och efter bytet i `kodversion.txt`, och de tre talen nedan ska vara samma.
-- **Arbetsflödena:** kontrollens bygge på PR:en publiceras inte. Den
+- **Arbetsflödena:** bygget i kontrollen visar att webbplatsen byggs; den
   publicerade webbplatsens artefakt `github-pages` ger samma tal med samma
   kommandon i den uppackade `artifact.tar`.
 - **Nattkörningen** omfattas inte. Den prövas med en manuell körning som
@@ -128,8 +127,9 @@ så att webbplatsen ryms under GitHub Pages gräns på 1 GB.
 
 Varje driftnämnd kan få samma sidor över tid som Kungsbackas nämnder, och
 tre till som regionen behöver. Filerna skrivs för hand ur handlingarna, och
-bygget prövar att varje text står på källans sida. Vilka år och källor
-varje nämnd har står i [TACKNING.md](TACKNING.md). Formatet står i
+bygget prövar att varje text står på källans sida, också i kontrollen på
+PR:en. Vilka år och källor varje nämnd har står i [TACKNING.md](TACKNING.md).
+Formatet står i
 [arkitekturen](https://github.com/moggleif/kungsbackakommun/blob/main/docs/03-ARKITEKTUR.md)
 och de nya slagen i
 [ADR-0085](https://github.com/moggleif/kungsbackakommun/blob/main/docs/decisions/0085-lokaler-remisser-och-overenskommelser-som-spar.md).

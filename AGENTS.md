@@ -28,7 +28,7 @@ där. Att en ändring inte ändrar något visas med
 
 ## Grönt före merge
 
-- Kontrollen **Datakontrollerna** på PR:en. Vad den kör och när står i
+- Kontrollen **Datakontrollerna** på PR:en. När den körs står i
   [README](README.md#innehåll).
 
 ## Agentfiler
