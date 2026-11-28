@@ -5,16 +5,16 @@ datum: 2026-09-23
 lopnr: null
 typ: bilaga
 namn: protokoll-samverkan-adh-2026-06-09
-kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-ambulans-diagnostik-och-halsa/mote-2026-09-23/agenda/protokoll-samverkan-adh-2026-06-09pdf
-tidigare_kallnycklar: []
+kallnyckel: meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-ambulans-diagnostik-och-halsa/mote-2026-09-23/agenda/protokoll-samverkan-adh-2026-06-09pdf-35756
+tidigare_kallnycklar: [meetingsplus:/welcome-sv/namnder-styrelser/driftnamnden-ambulans-diagnostik-och-halsa/mote-2026-09-23/agenda/protokoll-samverkan-adh-2026-06-09pdf]
 arenden: null
-kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-ambulans-diagnostik-och-halsa/mote-2026-09-23/agenda/protokoll-samverkan-adh-2026-06-09pdf?downloadMode=open
+kalla_url: https://politik.regionhalland.se/welcome-sv/namnder-styrelser/driftnamnden-ambulans-diagnostik-och-halsa/mote-2026-09-23/agenda/protokoll-samverkan-adh-2026-06-09pdf-35756?downloadMode=open
 sha256: f29c0a4fca016610fe17452472196bd5881206294bd1d82efe816f71f43a44d8
 bytes: 580497
 sidor: 5
-hamtad: 2026-11-17T17:28:37+00:00
-konverterad: 2026-11-17T17:28:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-28T10:45:56+00:00
+konverterad: 2026-11-28T10:45:59+00:00
+pipeline: kommunhandlingar 0.14.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
